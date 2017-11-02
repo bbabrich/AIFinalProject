@@ -29,12 +29,14 @@ for line in limerickF :
 					phonStr = lineL[k:len(lineL)]
 					# print(phonFind + ", phonemic: " + phonStr)
 			cmuDictF.close()
-			phonStr = phonStr[0:len(phonStr)-2
+			phonStr = phonStr[0:len(phonStr)-2]
 			outStr = outStr + phonStr + "_"
 			# print("phonStr: " + phonStr)
 			# print("word: " + word)
 			j = i+1;
 			str = str + " ";
-	print(outStr)
+	# print(outStr)
+	writeF.write(outStr)
+	writeF.write('\n')
 limerickF.close()
 writeF.close()
