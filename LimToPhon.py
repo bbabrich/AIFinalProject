@@ -29,7 +29,7 @@ for line in limerickF :
 					phonStr = lineL[k:len(lineL)]
 					# print(phonFind + ", phonemic: " + phonStr)
 			cmuDictF.close()
-			phonStr = phonStr[0:len(phonStr)-2]
+			phonStr = phonStr[0:len(phonStr)-1]
 			outStr = outStr + phonStr + "_"
 			# print("phonStr: " + phonStr)
 			# print("word: " + word)
