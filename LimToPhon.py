@@ -1,4 +1,5 @@
 #assumes there end of line characters
+#assumes there is a blank line at the very end of the limerick file
 
 limerickF = open("limerick.txt", "r")
 
@@ -20,7 +21,7 @@ for line in limerickF :
 			for lineL in cmuDictF :
 				phonFind = ""
 				for k in range(0, len(lineL)):
-					if lineL[k] != " " and lineL[k] != '\n':
+					if lineL[k] != " ":
 						# print(lineL[k])
 						phonFind = phonFind + lineL[k]
 					else :
