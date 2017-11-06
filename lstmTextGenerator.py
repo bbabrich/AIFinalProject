@@ -1,13 +1,5 @@
-'''Example script to generate text from INPUT TEXT.
-
-At least 20 epochs are required before the generated text
-starts sounding coherent.
-
-It is recommended to run this script on GPU, as recurrent
-networks are quite computationally intensive.
-
-If you try this script on new data, make sure your corpus
-has at least ~100k characters. ~1M is better.
+'''
+GOLD TEAM RULES
 '''
 
 from __future__ import print_function
@@ -19,9 +11,11 @@ import numpy as np
 import random
 import sys
 
-path = 'limericks.txt'
+path = 'phonLim.txt'
 text = open(path).read().lower()
-print('corpus length:', len(text)) #make class of phonemes and iterate through that list?
+print('corpus length:', len(text))
+#make class of phonemes and iterate through that list?
+#rather than just characters
 
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
@@ -29,7 +23,7 @@ char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
 # cut the text in semi-redundant sequences of maxlen characters
-maxlen = 40
+maxlen = 10
 step = 3
 sentences = []
 next_chars = []
@@ -68,7 +62,7 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 # train the model, output generated text after each iteration
-for iteration in range(1, 60):
+for iteration in range(1, 10):
     print()
     print('-' * 50)
     print('Iteration', iteration)
