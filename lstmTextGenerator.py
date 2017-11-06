@@ -1,4 +1,4 @@
-'''Example script to generate text from IPUT TEXT.
+'''Example script to generate text from INPUT TEXT.
 
 At least 20 epochs are required before the generated text
 starts sounding coherent.
@@ -15,14 +15,13 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.layers import LSTM
 from keras.optimizers import RMSprop
-from keras.utils.data_utils import get_file
 import numpy as np
 import random
 import sys
 
 path = 'limericks.txt'
 text = open(path).read().lower()
-print('corpus length:', len(text))
+print('corpus length:', len(text)) #make class of phonemes and iterate through that list?
 
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
