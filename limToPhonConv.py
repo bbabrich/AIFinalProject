@@ -51,45 +51,54 @@ phonCharDictF.close()
 #		there are end of line characters in input file
 # 		assumes there is a blank line at the very end of the input file
 
-limerickF = open("sixLimericks.txt", "r")
+limerickF = open("limerickCorpus.txt", "r")
 writeF = open("limToCharPhons.txt", "w")
+missingWordsF = open("missingWords.txt", "w")
 
-'''
 for line in limerickF :
-	outStr = ""
-	word = ""
-	str = ""
-	phonStr = ""
 	j = 0;
+	str=""
+	outLine = ""
 	for i in range(0, len(line)) :
-		if line[i] != " " and line[i] != '\n':
-			str = str + line[i:i+1]
+		outStr = ""
+		# split up lines into words based on spaces
+		# do not consider non-alphabetical characters
+		if (line[i] != " " and line[i] != "\n" and line[i] != "," and line[i] != "’"
+			and line[i] != "“" and line[i] != "”" and line[i] != "!" and line[i] != ";" 
+			and line[i] != "\"" and line[i] != "?" and line[i] != "." and line[i] != ":"): 
+			str = str + line[i]
 		else :
-			word = str[j:i]
-			# Search for word in cmuDict and return phenomic version
-			cmuDictF = open("cmuDict.txt", "r")
-			for lineL in cmuDictF :
-				phonFind = ""
-				for k in range(0, len(lineL)):
-					if lineL[k] != " ":
-						# print(lineL[k])
-						phonFind = phonFind + lineL[k]
-					else :
-						break
-				if word.upper() == phonFind :
-					phonStr = lineL[k:len(lineL)]
-					# print(phonFind + ", phonemic: " + phonStr)
-			cmuDictF.close()
-			phonStr = phonStr[0:len(phonStr)-1]
-			outStr = outStr + phonStr + "_"
-			# print("phonStr: " + phonStr)
-			# print("word: " + word)
+			# word within line is found
+			word = str[j:i].upper()
+			if word != "" : # take care of pesky end of line characters
+				# print(word)
+				# word's corresponding phoneme is retreived
+				if word in phonDict : # check if word is in dictionary
+					phoneme = phonDict[word]
+					# print(phoneme)
+					# phoneme is broken up into individual strings
+					phStr = ""
+					# print(phoneme)
+					for k in range(0,len(phoneme)) :
+						if phoneme[k] != " " :
+							phStr = phStr + phoneme[k]
+							if k == len(phoneme) - 1 : # - 1 due to indices starting at 0?
+								# print(phStr)
+								outStr = outStr + charDict[phStr]
+						else :
+							outStr = outStr + charDict[phStr]
+							phStr = ""
+							k = k + 1
+				else : # if word is not in dictionary write it to out file
+					outStr = word # do nothing with word (for the time being)
+					missingWordsF.write(word)
+					missingWordsF.write("\n")
 			j = i+1;
 			str = str + " ";
-	# print(outStr)
-	writeF.write(outStr)
-	writeF.write('\n')
-	print("line processed into : " + outStr)
-'''
+			outLine = outLine + outStr + " " 
+	# print(outLine)
+	writeF.write(outLine)
+	writeF.write("\n")
+missingWordsF.close()
 limerickF.close()
 writeF.close()
