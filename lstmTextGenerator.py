@@ -12,7 +12,7 @@ import random
 import sys
 
 path = 'limericks.txt'
-text = open(path).read().lower()
+text = open(path, encoding="utf8").read().lower()
 print('corpus length:', len(text))
 #map ascii characters to phonemes
 
