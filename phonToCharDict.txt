@@ -31,7 +31,7 @@ EH0-4
 EH1-5
 EH2-6
 ER-7
-ER0-7
+ER0-r
 ER1-8
 ER2-9
 EY-!
