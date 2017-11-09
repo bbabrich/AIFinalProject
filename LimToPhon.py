@@ -1,7 +1,7 @@
 #assumes there end of line characters
 #assumes there is a blank line at the very end of the limerick file
 
-limerickF = open("limerick.txt", "r")
+limerickF = open("scrapeOutput.txt", "r")
 
 writeF = open("phonLim.txt", "w")
 
@@ -39,5 +39,6 @@ for line in limerickF :
 	# print(outStr)
 	writeF.write(outStr)
 	writeF.write('\n')
+	print("line processed into : " + outStr)
 limerickF.close()
 writeF.close()

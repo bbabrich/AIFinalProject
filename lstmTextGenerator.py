@@ -11,7 +11,7 @@ import numpy as np
 import random
 import sys
 
-path = 'limericks.txt'
+path = 'limToCharPhons.txt'
 text = open(path, encoding="utf8").read().lower()
 print('corpus length:', len(text))
 #map ascii characters to phonemes
