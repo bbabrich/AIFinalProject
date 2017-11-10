@@ -12,7 +12,7 @@ import random
 import sys
 
 path = 'limToCharPhons.txt'
-text = open(path, encoding="utf8").read().lower()
+text = open(path, encoding="utf8").read()
 print('corpus length:', len(text))
 #map ascii characters to phonemes
 
