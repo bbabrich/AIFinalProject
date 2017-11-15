@@ -74,26 +74,28 @@ for line in limerickF :
 			if word != "" : # take care of pesky end of line characters
 				# print(word)
 				# word's corresponding phoneme is retreived
-				if word in phonDict : # check if word is in dictionary
-					phoneme = phonDict[word]
-					# print(phoneme)
-					# phoneme is broken up into individual strings
-					phStr = ""
-					# print(phoneme)
-					for k in range(0,len(phoneme)) :
-						if phoneme[k] != " " :
-							phStr = phStr + phoneme[k]
-							if k == len(phoneme) - 1 : # - 1 due to indices starting at 0?
-								# print(phStr)
-								outStr = outStr + charDict[phStr]
-						else :
+				#if word in phonDict : # check if word is in dictionary
+				# print(line) # this print helps to find obscure non-dictionary words
+				phoneme = phonDict[word]
+				# print(phoneme)
+				# phoneme is broken up into individual strings
+				phStr = ""
+				# print(phoneme)
+				for k in range(0,len(phoneme)) :
+					if phoneme[k] != " " :
+						phStr = phStr + phoneme[k]
+						if k == len(phoneme) - 1 : # - 1 due to indices starting at 0?
+							# print(phStr)
+							outStr = outStr + charDict[phStr]
+					else :
+						if phStr != "" :
 							outStr = outStr + charDict[phStr]
 							phStr = ""
 							k = k + 1
-				else : # if word is not in dictionary write it to out file
-					outStr = word # do nothing with word (for the time being)
-					missingWordsF.write(word)
-					missingWordsF.write("\n")
+				#else : # if word is not in dictionary write it to out file
+				#	outStr = word # do nothing with word (for the time being)
+				#	missingWordsF.write(word)
+				#	missingWordsF.write("\n")
 			j = i+1;
 			str = str + " ";
 			outLine = outLine + outStr + " " 
