@@ -71,7 +71,8 @@ for iteration in range(1, 4001):
 
     start_index = random.randint(0, len(text) - maxlen - 1)
     modelFileName = ("models/model_%04d"%iteration)
-    model.save(modelFileName)
+    if iteration%100==0:
+        model.save(modelFileName)
     for diversity in [0.2, 0.5, 0.7, 1.0, 1.2]:
         print()
         print('----- diversity:', diversity)
