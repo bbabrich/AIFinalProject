@@ -1,0 +1,106 @@
+Iteration 59
+Epoch 1/1
+31276/31276 [==============================] - 18s 576us/step - loss: 0.8964
+
+----- diversity: 0.2
+----- Generating with seed: "
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#]"
+
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#] lm 2k 1cc/+mkintiun +c [5c
+
+25/ nl|a ncp k ^8[ |#]1 ]k|k
+&k]5|1 %p/ &8 /g}
+a51    &+ nl| axp 1p ]p/
+
+25/ nl|a ncp k [p\ %/l] }k|m(b
+&k ncp k n5|c nxc  x &gm &:}
+&k nc|ca |cc &gm %l} &8 {lac [x} k op/
+
+25/ ncp k ol\ ]g| |#]1 }cc
+&k ncp k zl|- k |cc }nxc n)0
+25/ nl|a ncp k ^8[ |#]1 acgc
+&k ncp k zl|- k?[#1
+k|1 25| ?gc )c  %/l] /k1
+k|1 |t b+ )p ac/kc lm ab+?
+ncp 2k }[+?
+
+
+----- diversity: 0.5
+----- Generating with seed: "
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#]"
+
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#] lm 2k a?
+g% ok }nxc n)0 (| 2k ac/lc
+)p |cc }nxc beromes |c}c &8
+a: x c#]1 ck z+ ^/k|
+b+ }g1 2k /51
+n5| b+ nl|1 n)2 k }nxc ncp
+
+)ca} acl}c n)2 k n5|a
+b+ ncp }cc [g1k| (}ac/+]
+}(mald ck 2k }cc lm &8 z/g}
+k|1 |t &+ &g1 k z{c [5c
+
+k [)}c(mamr }[#[ bar
+k|1 c| &8 zg} lm &8 1/g|
+n5| x accc k /xc
+zlc )c  z)ck[ ncp zc1 k c)}
+
+25/ ncp k ol\ ]g| %/l] zc/c
+&k ncp 2# ?+|(\ lm %l|1
+k|1
+
+----- diversity: 1.0
+----- Generating with seed: "
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#]"
+
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#] %/l] a)[p {#\
+ )ca ck^/p
+k|1 25| m+[-ka }/#c n52r d)\ p[ 2k 1)[
+
+25/ ncp k ol\ [#1-p |#]1 c#
+&k ]5c k %l}(c /ka c# awgho&)1 &5/-
+
+k }/+p ol\ akp lm d/ck1
+zlc k 1g%  fz&)p z)^ ol\ %5[' |  ]x
+
+25/ nl|a ncp k ^8[ |#]1 |l]
+n8| (| 2k a}ck1[(\ }5c
+d)pk|1 ck zlc lm k cc/}
+k|1 or?/+p  nl| txkk| cga
+b+ ncp a#c c| +m-l}k|p |#]1 a+mk
+b+ a[g?
+n5| gp &cp\ |#]1 }[xc
+k|1 ?/51(1 %p/
+
+----- diversity: 1.2
+----- Generating with seed: "
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#]"
+
+%p/ 2k a#} lm 2k z[x|1
+ncp 2k a#] :[1 /+?
+k|1 b:1 &+ [lc )c
+25/ nl|a ncp k ^8[ 1/c|
+&k ncp k b)?k?c }cp (| &8 `|1tfok ancc
+b+ %t|1 2k z+|a
+b+ a51 n)2 k a
+}c1 %x|1
+2k 1/+}(\ &8 z/)} lm (^5/
+k b+ ^/#| 2gc btc 2k &c/c
+2gc &+ p[ &ma
+n5| b+ ]#c nl|p k?[c]ka
+25/ nl|a ncp k ^8|(} lm m8d
+&k n5|c (| 2k z/kck[ &8
+1x| }[)ac x 1g|1
+b+ a5} n)2 +}ak1 ])| }[g}r
+ )c p/ka }g| p[
+b+ a/cac 1(mxc
+}l] %tootsr nl| ck
+b+
