@@ -6,15 +6,16 @@ ch2phDict = {}
 ch2phDict['\n'] = '\n'
 ph2chDict[''] = ''
 for line in phon2char  :
-    data = line.rstrip()
-    data = data.split('-')
-    if not data[1]:
-        data[1] = '-'
-        data.pop()
-    else:
-        data[1] = data[1][0]
-    ph2chDict[data[0]] = data[1]
-    ch2phDict[data[1]] = data[0]
+    if '-' in line:
+        data = line.rstrip()
+        data = data.split('-')
+        if not data[1]:
+            data[1] = '-'
+            data.pop()
+        else:
+            data[1] = data[1][0]
+        ph2chDict[data[0]] = data[1]
+        ch2phDict[data[1]] = data[0]
 
 
 #create a dictionary for word to phoneme
@@ -44,12 +45,13 @@ for line in phon2word:
 #Attempting to attach probabilities to guess a word
 #Grab output from lstm
 output = open("snippet.txt","r")
+translation = open('translation.txt', 'w')
 for line in output:
     string = line.split(' ')
     string = [x for x in string if (x != '' and x != '\n')]
     for word in string:
         if word in ascii2wordDict:
-            print(ascii2wordDict[word],end = ' '),
+            translation.write(ascii2wordDict[word]+' '),
         else:
             wordCountDict ={}
             for d in word2phDict:
@@ -68,6 +70,7 @@ for line in output:
                 if wordCountDict[d]>m:
                     m=wordCountDict[d]
                     wordChoice = d
-            print(wordChoice, end =' ')
+            translation.write(wordChoice + ' ')
             ''''''
-    print()
+    translation.write('\n')
+translation.close()

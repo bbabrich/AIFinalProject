@@ -28,15 +28,16 @@ ch2phDict = {}
 ch2phDict['\n'] = '\n'
 ph2chDict[''] = ''
 for line in phon2char  :
-    data = line.rstrip()
-    data = data.split('-')
-    if not data[1]:
-        data[1] = '-'
-        data.pop()
-    else:
-        data[1] = data[1][0]
-    ph2chDict[data[0]] = data[1]
-    ch2phDict[data[1]] = data[0]
+    if '-' in line:
+        data = line.rstrip()
+        data = data.split('-')
+        if not data[1]:
+            data[1] = '-'
+            data.pop()
+        else:
+            data[1] = data[1][0]
+        ph2chDict[data[0]] = data[1]
+        ch2phDict[data[1]] = data[0]
 
 
 #create a dictionary for word to phoneme
@@ -82,13 +83,14 @@ for line in output:
 #ascii sequence to word
 #Grab output from lstm
 output = open("snippet.txt","r")
+t = open('2words.txt','w')
 for line in output:
     string = line.split(' ')
     string = [x for x in string if (x != '' and x != '\n')]
     for word in string:
         if word in ascii2wordDict:
-            print(ascii2wordDict[word],end = ' '),
+            t.write(ascii2wordDict[word]+' '),
         else:
-           print("WTF", end =' '),
-    print()
+            t.write("WTF"+' '),
+    t.write('\n')
 
