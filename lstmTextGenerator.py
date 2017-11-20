@@ -11,8 +11,8 @@ import numpy as np
 import random
 import sys
 
-path = 'limericks.txt'
-text = open(path).read().lower()
+path = 'limToCharPhons.txt'
+text = open(path, encoding="utf8").read()
 print('corpus length:', len(text))
 #map ascii characters to phonemes
 
@@ -43,7 +43,7 @@ for i, sentence in enumerate(sentences):
 # build the model: a single LSTM
 print('Build model...')
 model = Sequential()
-model.add(LSTM(128, input_shape=(maxlen, len(chars))))
+model.add(LSTM(85, input_shape=(maxlen, len(chars))))
 model.add(Dense(len(chars)))
 model.add(Activation('softmax'))
 

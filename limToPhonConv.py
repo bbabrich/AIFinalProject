@@ -63,7 +63,8 @@ for line in limerickF :
 		outStr = ""
 		# split up lines into words based on spaces
 		# do not consider non-alphabetical characters
-		if (line[i] != " " and line[i] != "\n" and line[i] != "," and line[i] != "’"
+		if (line[i] != " " 
+			and line[i] != "\n" and line[i] != "," and line[i] != "’"
 			and line[i] != "“" and line[i] != "”" and line[i] != "!" and line[i] != ";" 
 			and line[i] != "\"" and line[i] != "?" and line[i] != "." and line[i] != ":"): 
 			str = str + line[i]
