@@ -42,7 +42,7 @@ for i, sentence in enumerate(sentences):
 
 
 # load model
-model = load_model("models/model_00100")
+model = load_model("models/model_04000")
 
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
