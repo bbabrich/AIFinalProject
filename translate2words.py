@@ -83,7 +83,7 @@ for line in output:
 #ascii sequence to word
 #Grab output from lstm
 output = open("snippet.txt","r")
-t = open('2words.txt','w')
+t = open('2words29261.txt','w')
 for line in output:
     string = line.split(' ')
     string = [x for x in string if (x != '' and x != '\n')]
