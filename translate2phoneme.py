@@ -45,7 +45,7 @@ for line in phon2word:
 #ascii sequence to ph
 #Grab output from lstm
 output = open("snippet.txt","r")
-t = open('2phon.txt','w')
+t = open('2phon30346.txt','w')
 for line in output:
     string = line.split(' ')
     string = [x for x in string if (x != '' and x != '\n')]

@@ -82,15 +82,26 @@ for line in output:
 
 #ascii sequence to word
 #Grab output from lstm
-output = open("snippet.txt","r")
-t = open('2words29261.txt','w')
+numWords=0
+total = 0
+output = open("output9.txt","r")
+t = open('2wordsOutput9.txt','w')
 for line in output:
-    string = line.split(' ')
-    string = [x for x in string if (x != '' and x != '\n')]
-    for word in string:
-        if word in ascii2wordDict:
-            t.write(ascii2wordDict[word]+' '),
-        else:
-            t.write("WTF"+' '),
-    t.write('\n')
+    if ("Iteration" in line) or ("Epoch" in line) or ("-----" in line):
+        t.write(line)
+    elif "loss" not in line:
+        string = line.split(' ')
+        string = [x for x in string if (x != '' and x != '\n')]
+        for word in string:
+            total = total+1
+            if word in ascii2wordDict:
+                t.write(ascii2wordDict[word]+' '),
+                numWords = numWords+1
+            else:
+                t.write("wtf"+' '),
+        t.write('\n')
+
+t.write("STATS: ")
+percent = numWords/total
+t.write(str(percent))
 
