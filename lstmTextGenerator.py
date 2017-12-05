@@ -4,6 +4,7 @@ GOLD TEAM RULES
 
 from __future__ import print_function
 from keras.models import Sequential
+from keras.models import load_model
 from keras.layers import Dense, Activation
 from keras.layers import LSTM
 from keras.optimizers import RMSprop
@@ -11,7 +12,7 @@ import numpy as np
 import random
 import sys
 
-path = 'limToCharPhons.txt'
+path = 'lstmIn.txt'
 text = open(path, encoding="utf8").read()
 print('corpus length:', len(text))
 #map ascii characters to phonemes
@@ -49,7 +50,7 @@ model.add(Activation('softmax'))
 
 optimizer = RMSprop(lr=0.01)
 model.compile(loss='categorical_crossentropy', optimizer=optimizer)
-
+model = load_model("models/model_4000")
 
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
@@ -61,7 +62,7 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 # train the model, output generated text after each iteration
-for iteration in range(1, 4001):
+for iteration in range(4001,90001):
     print()
     print('-' * 50)
     print('Iteration', iteration)
@@ -70,7 +71,9 @@ for iteration in range(1, 4001):
               epochs=1)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
-
+    modelFileName = ("models/model_%05d"%iteration)
+    if iteration%100==0:
+        model.save(modelFileName)
     for diversity in [0.2, 0.5, 0.7, 1.0, 1.2]:
         print()
         print('----- diversity:', diversity)
