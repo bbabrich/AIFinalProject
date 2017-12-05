@@ -1,0 +1,5832 @@
+8:34:53 HomologyBot:~/Dropbox/School/Semester 7/CS476 Artificial Intelligence/github_clones/keras/examples > python3 limerickTest.py 
+Using TensorFlow backend.
+corpus length: 109332
+total chars: 59
+nb sequences: 36431
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+2017-11-03 08:35:17.652200: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 08:35:17.652250: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 08:35:17.652266: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 08:35:17.652278: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 08:35:17.652295: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+36431/36431 [==============================] - 61s - loss: 2.4178      
+
+----- diversity: 0.2
+----- Generating with seed: "owing i write distinctly,
+denouement, i "
+owing i write distinctly,
+denouement, i mant the man who she the she the chered the chere the chery who the the mand a the chered the cher the chered shere the dound a mand the chint a the chert a the man wath a mad a the chered the sthere the chered a man the che the chered a man the chers a the mad who she the sher a the cher curt a the chered a mad the chered and the chert who the mound the chered whe the the the ster and the the sth
+
+----- diversity: 0.5
+----- Generating with seed: "owing i write distinctly,
+denouement, i "
+owing i write distinctly,
+denouement, i berated in the der the benthe the che coun the stat the sted whe the reng the curt
+when has a pusting the dount the chle was a mant wore of the the bore the sterss lont she the chepround a puomon,
+
+
+he there was a madt the der oucted cout there cuut from jued counting ghe mourd poust a the whe the doung curteng fur the cherter a coung poull whe shered and counce whe the cheridt
+who the the the and
+
+----- diversity: 1.0
+----- Generating with seed: "owing i write distinctly,
+denouement, i "
+owing i write distinctly,
+denouement, i dho thark whind pwevlles. froy mon oun utun thand raant roming no nowh, anding lwed theme mavead rombein'p
+who the't namen enound fall on he ore whonang twouts shear, llad in billt henr nowtoasn. toelred fore nou lee
+the chung lounce the fr mett
+cut the cead s,herndartow rarithaje,
+there sand a  lourt'smend  ut ix the stouverthedd,,
+shet douge,
+whome whent wouncenrk
+and say coupundtco gho lound an
+
+----- diversity: 1.2
+----- Generating with seed: "owing i write distinctly,
+denouement, i "
+owing i write distinctly,
+denouement, i ancerghvon
+an, oncamth if and hiss fouc roply c2viiticrspofrathw'rlic theemser is thor rhe vtred madld no the cnondt i 'abndir wpo scan of thees fakw lanivirtmant
+therin exmbrereass, amasghis
+sje a watt vich whins t'o rufe,thigh butoer,
+tyel inger na ene.
+jhererut,
+whwus ascilgenthagtced the cucolltentt
+they 'nnid a  twundunded
+abmyblrov
+the t,  whan'd the prmaid
+there who saer nannl gor sua's cur
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+36431/36431 [==============================] - 62s - loss: 1.9475     
+
+----- diversity: 0.2
+----- Generating with seed: " right or be kicked
+null vectors have ze"
+ right or be kicked
+null vectors have zears the dight was the ding the dared the ding the stored the comed and a dour,
+and the stored the gat the started that a man a but and the don the dick
+that the don the called the start and the bite,
+the said the comed a barted and a man when the comed and the don a dore,
+and the streat a dored that would a gorly a man the sared that the ding the was that a dore,
+who was that the dor the ding the 
+
+----- diversity: 0.5
+----- Generating with seed: " right or be kicked
+null vectors have ze"
+ right or be kicked
+null vectors have zer and a thore,
+and no what in the a lars a pleab
+who when that for a pee of was dow,
+and the straces in a coned a challed she to but than the lingoo,
+they had got a mared the stringhat of that that a man,
+who he dous starllo the grapler, he shin the fert he madied and the carquifelled the comed anl his the that the dined the got of a grally but he coon how and as that her com tar 
+
+
+there once was
+
+----- diversity: 1.0
+----- Generating with seed: " right or be kicked
+null vectors have ze"
+ right or be kicked
+null vectors have zed,
+was roh i cood, and oh a mteall
+who wome to?minceof of on maran !ocer,
+the sidpullo a mad-to brake,
+he clean horll, ; it was romees our worger,
+and a thow
+she da smcomeps wise dandles to thatpoof
+feat jumpared is aodrecloedcs thvight,
+wnos i warss 'en the rothy in that she loy no.
+who hmmhour sheat rincediede with tway stot e,
+"i cabe lex
+wheross in a bear.
+aid him threenahd anan!
+this shat nou
+
+----- diversity: 1.2
+----- Generating with seed: " right or be kicked
+null vectors have ze"
+ right or be kicked
+null vectors have zeall qua smow
+gut her aid vell
+his wont hall got men gttfe
+whid ink atsy jurly lught,""s,
+wowennitry corle smovererorr, se read, 
+
+and the youn's in plrugjed hore, tn'y ncwwsrrheun,
+of the calls up cliinghrminh the goigh, he ow thome a gurn, 
+  keaut on thut sous farserd of ghat 2oy on ure
+anden,erefurmenver.
+i don thay 
+
+and houbeyyellesed tlay ot a plpve.
+whom uy sut da't biked.
+she eece's i meco
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+36431/36431 [==============================] - 62s - loss: 1.7776     
+
+----- diversity: 0.2
+----- Generating with seed: "ance a lot.  
+
+
+there was once a man fro"
+ance a lot.  
+
+
+there was once a man from the three the she sears,
+the sars the collan for the see,
+
+
+there was a man from no shound a barter
+the ser sure a the bert
+the sand her her streat
+the san the sers his bolly three the same,
+and the sand, 
+
+
+there was a man from bringh a man from the becker
+who was a man from penss a man from the had a man from the bert
+the sarsed her her the said,
+
+
+there was a man from nen chin
+who she sealle 
+
+----- diversity: 0.5
+----- Generating with seed: "ance a lot.  
+
+
+there was once a man fro"
+ance a lot.  
+
+
+there was once a man from the har had for that belle,
+who haver the dors would donght read
+the wass my she said, 
+
+
+there was a man from her were of her verss,
+and her reass cert her canned a muss,
+there was a man from pert 
+who her torls in the channed dick.
+
+
+there was a man for man named a the had had a bucken
+
+
+a man fuck a strean named longht rearing the dol.
+
+
+there was a man from beckers,
+whose her hooled a bubght
+
+----- diversity: 1.0
+----- Generating with seed: "ance a lot.  
+
+
+there was once a man fro"
+ance a lot.  
+
+
+there was once a man from hopring.
+who's negt how maling in hu matus,
+huar nement, i judkan sarreened "ale, the yotg clim ferte,
+"baisk i tonder thriess,
+he cunty.
+
+
+there walning fongorebort,
+whose thin's har un from kayt,
+rimnonfy soicher 
+thir sty if kessed bee oner in her han
+tho se'ssed wifl and one gar
+seanted dor be shrander,
+and fick,
+while bit conghul,                         s                      
+
+
+ ha girls 
+
+----- diversity: 1.2
+----- Generating with seed: "ance a lot.  
+
+
+there was once a man fro"
+ance a lot.  
+
+
+there was once a man from onz  
+there was a max feras
+nbbacred jave
+wad to her sot thio,
+he tutt sunch of uncong fifine dister.,
+ghot he rapleopoug thran subrer
+when mithing her node!whrer
+to, goills for in plonsotraver
+that "enettofud verrpe frint wofn qleapen all shaghs.
+lamstirvop'd waod his wonhhh of nos the vealanher. 
+there andintle mat higrbinc "bre"lmever
+!
+where once was a donos, !
+
+
+the wacrasts s,rallo,
+'tlit,
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+36431/36431 [==============================] - 62s - loss: 1.6686     
+
+----- diversity: 0.2
+----- Generating with seed: "ks
+after much negotiations
+for double pe"
+ks
+after much negotiations
+for double pearsed the said stree and the said the said the said the said the said 
+
+
+a collamed the prowning the said a stralled the said a danger.
+
+
+there once was an old farter
+who was the said the said the said the farter.
+
+
+there once was a man from the saw
+who was the said the said the said "ite he ding the said a the said the said ites,
+and the could so the said a perser the said the sour the said the p
+
+----- diversity: 0.5
+----- Generating with seed: "ks
+after much negotiations
+for double pe"
+ks
+after much negotiations
+for double pead named pingherr and the like a mate you were..
+
+
+there once was an ore frot say
+who cat the said a straden you a puring and 
+and the drong by off the fan
+she said a frot to to boy
+the soung was the head a piller and say the ball the bleke
+
+
+there once was an old frowny
+who bet as a strangel,
+and her would in the strate
+we was the said "of the could in the sturinght,
+the sare once once was andown
+
+----- diversity: 1.0
+----- Generating with seed: "ks
+after much negotiations
+for double pe"
+ks
+after much negotiations
+for double peess xxxxxxxx
+that as prangs onec was.  
+the illam her fondeled.
+ who smoon was so ase"
+the lalad they gork, with the had from porusang
+
+
+at oncer assalen a young panhin
+when she rucel sain to smees,
+that sty stwat's like aster,
+to wcen's spryme
+us lest there slod a bage,
+but there ofce was her enat
+ who pass frow cobgas dy while dif.
+you'd pean cude cole of ofer the feal
+he mule madaf
+and the yeve
+
+----- diversity: 1.2
+----- Generating with seed: "ks
+after much negotiations
+for double pe"
+ks
+after much negotiations
+for double penau,
+galke i the min sky it."
+then't to blean" aught ais poove
+i, i've reede,
+ 
+her liked a thine way!, 
+i'vg thin quaf, 
+as prathrop, his four,
+for t soweny thtercetoke with enarust ading one searf gart
+" tree us pranngatifucts,awaid villion's a sbruse,
+sands,
+b
+te'st tuanes woutd injeellel, blaebud was 
+a gur sthe snidpsie loed merky
+he felwioned a  onat treele
+theizws, ill inathy is carzon,
+aty
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.6462     
+
+----- diversity: 0.2
+----- Generating with seed: "d on the previous night. 
+
+
+an old man w"
+d on the previous night. 
+
+
+an old man was the find in the coubden the said a from the fay
+the sard off the fay to the say a man a barter a farte a farter the see,
+and the mind a drenter a sand a man she said,
+"ith a man off the say a man a mans,
+"ot the way she said "o a manter the said a fay
+the from the from the fack in the carter and she see,
+"o she she said "o a barter a farter the playe 
+and the from the find of the fay
+the from t
+
+----- diversity: 0.5
+----- Generating with seed: "d on the previous night. 
+
+
+an old man w"
+d on the previous night. 
+
+
+an old man was the played get all the dick a marus all the middor
+whose made was tantred be intore
+she's spelles grissormer off care
+the from she sune was her with see,
+when so tatter out and saide!
+
+
+there was a young man from reaning with a pleate tanger was the couldnis mentuck a surch a measter a to bat the tar.
+
+
+there was a young fame from bose,
+whose saids, her not a grode
+the dride this say to he seam
+
+----- diversity: 1.0
+----- Generating with seed: "d on the previous night. 
+
+
+an old man w"
+d on the previous night. 
+
+
+an old man was onfence so shets see, 
+
+
+she pimionly triate'd, 
+that lody yiles to who drie so fe. i fants in mine, 
+milleded has ha" say hooreim.
+
+
+there once was a yoon hearracing the a poke taod lewens on a cassouse.
+"ifevertaster taic swo leamine!
+
+
+there was a yown nater partoy in
+he flitee af said, by one with tousher, mover, the isg right to the 
+acpeons muchend surgen omerre
+while she saidsio"! 
+
+
+the
+
+----- diversity: 1.2
+----- Generating with seed: "d on the previous night. 
+
+
+an old man w"
+d on the previous night. 
+
+
+an old man was no. "                                         do feh aiarch lifely leer
+ham go gake was smorhin, mobrassher, uscursad 
+a man slater ysure, ,ftoon'se casect gele  
+a in a eury wasn't cale.
+he'f orts cwan ver 
+
+
+on the thint's lazficg fackectiow frave rinf, peckepemled own a dfon, '
+con't, they tw wher a lad fromipled!
+
+
+
+there was a young man of she arterrosem
+an anedkather sand a molled whiluni
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.4807     
+
+----- diversity: 0.2
+----- Generating with seed: ",
+who hopped on a bus in a trance.
+three"
+,
+who hopped on a bus in a trance.
+three sut of his contors,
+they could fons a strake,
+the said the could fone,
+and the could found the could he was he would he double
+the said the could for a still,
+the said the start of her the said a still,
+the said the could fon his confurn and he see,
+the said the start of her the said a strake,
+and she said the could had a strave
+the said the fear and she said, 
+the said the said a strake,
+the sur
+
+----- diversity: 0.5
+----- Generating with seed: ",
+who hopped on a bus in a trance.
+three"
+,
+who hopped on a bus in a trance.
+three know shis the say one long and for on his ponchout,
+she could to the cound he was the seak named cletter
+the say the plonate finstone made.
+the said the cool, one found fackid the frost of a stlust,
+and in a still from the slippars from the fenather doung and he conmurd the cone,
+and she the sarry soung had a plocuy on her both
+he could home all his conters,
+and he sulled his be hourd he moul
+and
+
+----- diversity: 1.0
+----- Generating with seed: ",
+who hopped on a bus in a trance.
+three"
+,
+who hopped on a bus in a trance.
+three uncelloamed his noth undan,
+with a mans in a surul
+they posper kndw fack
+and noval
+and his pission as connout
+he found young frop and be old his no hole.
+in as bllow named sgiet bet the pear
+and camplous his puck !n beal!.
+
+
+ouconalone and assher the caing rine.
+he lat of her vided in the tather caoss of of ohd flee
+thought som and sniter in in one feot. 
+
+
+one fay on hilly foun sthipphen.
+
+
+ther
+
+----- diversity: 1.2
+----- Generating with seed: ",
+who hopped on a bus in a trance.
+three"
+,
+who hopped on a bus in a trance.
+threexk and cuver nombly oe in the thinks who he
+plumper troe", he was the madcasher vast gow,
+isk he rearmain, kiding it'entisebcane,
+gutt list of a dan zeark.
+he anbuled, roecsion fromnes" 
+
+
+there once was a cochoung
+as all.
+whose seas" don't the laging hes criabcs milafge hit in the refdem... 
+
+'t hill throms shing or young grod
+he'p wave lake elf unco he remath
+the did of his sensy dirm.
+the so wo
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.3955     
+
+----- diversity: 0.2
+----- Generating with seed: "ips that protrude,
+she could pass for a "
+ips that protrude,
+she could pass for a to lange
+the dan of the lade,
+"ot's a pent of the pee
+the dect of a this of a thought,
+the lad to a striple the dint.
+
+
+there once was a man named ranke
+who was a man from perter, 
+who was a parting the cate,
+"oh out of the can that in the dame that he was pee
+she said "ot a bart,
+the dan of his balls
+and now she said, "o she said, "on the pee,
+the dan of the ladd in the caite 
+and the pay of the 
+
+----- diversity: 0.5
+----- Generating with seed: "ips that protrude,
+she could pass for a "
+ips that protrude,
+she could pass for a range,
+but she as was a punt
+the sep out a man named light
+the cat of the peab,
+and he was to bit gat a mary,
+but the gird some that say used to be dar
+
+
+there once was a man from the dind,
+who lamed it was morg that bot,
+but up to a time in the coand that in the dair
+there once was a man named jent 
+who was a made of her nitt
+and no with a crass,
+but the girls pee, 
+as he could pass got on his pe
+
+----- diversity: 1.0
+----- Generating with seed: "ips that protrude,
+she could pass for a "
+ips that protrude,
+she could pass for a rinthc.
+the paal that shood, "rege
+she lous of a coverface,
+but ove lands allow verosiin the feess
+
+
+chot blaighs dear
+who leve you're condissay!
+
+
+there once was a man once of lied in, thit niget cbick
+the gid nigmy i swort,
+the lad geris arting to a por't.
+the see,
+sounded the mupaug eary, newe,
+and he wishdy long .
+when she the could crowired a day'
+
+
+a clied eve my that who knight,
+all plint, 
+
+----- diversity: 1.2
+----- Generating with seed: "ips that protrude,
+she could pass for a "
+ips that protrude,
+she could pass for a she tipproght,
+trought he shoully cle
+
+
+ss propigit cause ase, 
+she "i't wat rovisen't mach
+hom fick hoired shit the gare
+
+
+there os hes young lagen from ok,
+awousious a when dold tromcenft cands
+
+
+from that is reave keated with real.
+there once was a mai
+who plyssy fenfe his 
+withine clat 
+
+
+quet waid with yme, thought that oncy soid,
+but wraid "roum or a tricd."
+
+
+in illun tainlerghangt, 
+a laei
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.3350     
+
+----- diversity: 0.2
+----- Generating with seed: " hurry.
+his beagle found land
+and he saw"
+ hurry.
+his beagle found land
+and he saw out of the creet,
+they a plunt the say
+the sag her could suck a man a collan's ply 
+and they see through they all of come treese,
+and the flod it to the sade,
+"it's a plumber her tits,
+but a man from netter,
+who was to the coubled her tits,
+for the biggher as he sure,
+and the mead of a reading a floth
+one dead a speen were a surple
+she said the say a surprace
+they a bugghan a man from the see,
+sh
+
+----- diversity: 0.5
+----- Generating with seed: " hurry.
+his beagle found land
+and he saw"
+ hurry.
+his beagle found land
+and he saw of the sadd to the coub
+
+
+a woncer decoters and scould from the pirtes,
+"its a clitter get him one times of my ahon,
+and they she sigh and runth from pirker
+who severed you sand the sake of be quite a manay.
+i chance the saged the sead thruse mone,
+and the do bock from bigghan
+a pulied to to be fact now cumbile.
+
+
+there once was a man from mabe snat din,
+and they she sead in the see,
+"i's thit sa
+
+----- diversity: 1.0
+----- Generating with seed: " hurry.
+his beagle found land
+and he saw"
+ hurry.
+his beagle found land
+and he sawy bibed hem sould leart, 
+there once was a hollers ffot a grew
+whose pentitg a flere samed lake
+and necorice,
+they gree ile lame for ,
+she cuntemed her out on ramed,
+
+
+amtaid over come canss,
+
+
+there once was a man from vagenk frot inthrolanynussow cauamint "reot, she bentued to hder,
+and inshastian undanceyec to sheedleix sceet
+with she ageay's cotlow-our trouble can bicks
+a your noth the feodina
+
+----- diversity: 1.2
+----- Generating with seed: " hurry.
+his beagle found land
+and he saw"
+ hurry.
+his beagle found land
+and he saw oh wife "sevenay,
+thep subis wall,
+tibe ased mlavee !mellierr,
+stee she wailons writtins,
+yo come ninth a mad bracks
+when catout, had                
+
+
+  wriurled e baduck. 
+therre somes accaps and and notch
+and thoug lims ulfabio,
+but sude mouthhatt get uld.
+
+
+mite a scrikely old mothem pannan wayx
+visty nome
+,
+there olce was a fellow nace fay
+arre  got urorright,
+freg ohul they say
+ry, 
+i mecli
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.2773     
+
+----- diversity: 0.2
+----- Generating with seed: " space that is most economical.
+but of t"
+ space that is most economical.
+but of the pees with a got from perp
+who was a pen of timpen the sead to meat he ween his port
+there was a young lady from perun,
+who was the pead of could for a ment
+
+
+there was a young lady from perung
+who was a pen of the sead of the pee.
+
+
+there was a young lady from perung
+who was a pen of time all of earse,
+then sex the meat of a still,
+and son the meght of a marring and suck he seade,
+there was a y
+
+----- diversity: 0.5
+----- Generating with seed: " space that is most economical.
+but of t"
+ space that is most economical.
+but of the cee was quite and have me the dester
+who see in the dree like and lick it like a peake burted to such it was the sweet,
+and now you penier a man with a plece to beaks of !
+
+
+there was a young lady from spean,
+who was sure find in the flemper,
+she could both up his dune and sweet,
+she said hear he dourge and said,
+"of the peeced to mive to such it was maring in breeth
+there was a young lady from
+
+----- diversity: 1.0
+----- Generating with seed: " space that is most economical.
+but of t"
+ space that is most economical.
+but of the repace,
+i can pon und car's droit
+
+
+aid name dous on a stristuc, buc me cat you're
+but of a really psige 
+like dae peealling a ruch for ith soz,
+"that it sumpess of by pee,
+sen, lono you fourver, a dostoon emyory
+they cun't nou bibles the feell, with to itsmack if let
+there was a girl from peruly
+whose cun tom thinks it alloeng ma alarat scoif,
+and out to a stadrior coushactam. 
+
+her couldn't d
+
+----- diversity: 1.2
+----- Generating with seed: " space that is most economical.
+but of t"
+ space that is most economical.
+but of timpen from myplics,
+it's gen tnat gal she deaked her tom  your or
+then x copleseal
+was thatiffrarnd now yenss.
+
+
+deyied on thinf's kyent
+lowen ball all thre's wen gries,
+buute as reals with a verywion
+in fall one, ning round is youthame,
+thin she s aopioped striglts
+she wand toll hi, hen piod's of herpeeus
+and aflaytirge of come oneer sonec
+break
+the leply on her, ale,
+so nome 
+she foupdessets be 
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.2308     
+
+----- diversity: 0.2
+----- Generating with seed: "
+there was a young girl in reno,
+
+
+here'"
+
+there was a young girl in reno,
+
+
+here's pent of the chee in a the see,
+she said, "it's a chinch from the pee. 
+
+
+there once was a man from manate,
+who lived a peen was so long
+that his hous and his fone way.
+"ore was and she stranges,
+and she striply poon from the cown
+there once was a man from brick,
+who was a man from the biss,
+who wouldnt out of the midden, and such the bissonces said,
+"its as she start down of as
+and in the ments 
+
+----- diversity: 0.5
+----- Generating with seed: "
+there was a young girl in reno,
+
+
+here'"
+
+there was a young girl in reno,
+
+
+here's pissow whom i fore a mangly
+but he made of the hace af selle
+she said, "bet up the hird.
+who was the chillows hought the mented aft with his sonfor.
+
+
+there once was a boy wrilly lim,
+who sead on his fuck it lear,
+and she sturt to strear
+'t was she chottone was a ming mine.
+the gares plan to fuck he lead in the leart 
+that she stripping and his mide.
+it was said, "reating it trie
+there once was 
+
+----- diversity: 1.0
+----- Generating with seed: "
+there was a young girl in reno,
+
+
+here'"
+
+there was a young girl in reno,
+
+
+here's peeai's behingy and and node,
+as the pringis ic.."
+
+
+there once was a lady of fram 'mable
+who had eve poost was so why he cononston's carian.
+i'll mass amimber
+that wrestly dy bagruse that be oncen.
+who lived thimey agdust ghen too!
+
+
+they, was an, he was not
+you wandine worn gi-lone,
+'t thrum he, 'se stripline,
+by y moof found the let eorinh of mait,
+they must get then light
+and explodever frem
+
+----- diversity: 1.2
+----- Generating with seed: "
+there was a young girl in reno,
+
+
+here'"
+
+there was a young girl in reno,
+
+
+here's went to thought midd on
+and poenty, "she vadina all,
+pennty!
+d nother couccufdes
+hid bont et, mufly was oney should ymuire. 
+
+
+cat peally gulls - that sgrymion
+once was an ghod,
+put um biriy!"
+
+
+the once wad on slan named when 
+
+
+there was ad aid of chis-a,
+and swick toucked comby him for then. 
+
+but's franted a pung of dasthey,
+"geve your tenibst to statrice was,
+chot named ostew
+kubd a man fro
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.1915     
+
+----- diversity: 0.2
+----- Generating with seed: "nd who had a peculiar fellin
+she laid on"
+nd who had a peculiar fellin
+she laid on the right me the dan fucking
+he could fould pass and sunceled her came in a still of as he could foot. 
+
+
+there once was a man from st. and was a sunke,
+"iffist she started to gow
+she said with a slicue,
+and i said the smill was the sawe
+and they and in a still darried 
+
+
+there once was a man from st. and was a sunke,
+"iffist she stouts with a grin,
+said the bly and to the bight leerse.
+
+
+there w
+
+----- diversity: 0.5
+----- Generating with seed: "nd who had a peculiar fellin
+she laid on"
+nd who had a peculiar fellin
+she laid on the price,
+and if a said a will from coppen,
+with a mold in the sming
+he replied three ass a sux
+
+
+a gorly fasting
+and a strewover thinks it bangue a mund in a suck
+there once was a man named rape,
+who was sain was she score,
+when when have more and the ding the reads,
+but my with a sketter
+and a reading the leppinate had be
+by a boons in his godd say sail "fece its long eant from the birds,
+said
+
+----- diversity: 1.0
+----- Generating with seed: "nd who had a peculiar fellin
+she laid on"
+nd who had a peculiar fellin
+she laid on the wexre
+
+
+was a like in night" 
+for the plumbed they to can't be grading timien!!"
+
+o it with glamps at sourry me the face
+it was really lands was mohsing
+a man and up flieed cansion. 
+
+
+there once was a man from stanay
+who had twu toot is roriterne,
+off i's more in a syal
+no olen could have a fluse,
+and eve lad in his liked cole,
+and eve you itried oh. she could he they  well,
+ende! 
+
+o kelica
+
+----- diversity: 1.2
+----- Generating with seed: "nd who had a peculiar fellin
+she laid on"
+nd who had a peculiar fellin
+she laid ontrimed his rade her fack
+ropint the alsaged girla,
+was breach reated with enermid any loud. 
+
+
+a drit morsy on lice named jad.
+
+
+ there was a young man ery lady from sunch,
+so euch was shaursed daucty,
+
+
+macripsed strasse, shorping jamply in her jeull. f.. 
+
+
+there was a young barickoun,
+who matly masits  wus a toon,
+plifter a myn burn their bult
+his go tous tol a kid of mayfor a rumbing
+
+
+y marin
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.1591     
+
+----- diversity: 0.2
+----- Generating with seed: "ere once was a tomcat named homer
+a love"
+ere once was a tomcat named homer
+a loved of coupped her foneles
+and in the coubbe than the chick,
+she could for a selde,
+and the men of a stroun
+the sear to the coubbe than the crovers. 
+
+
+there once was a man from sexcenasean
+who could be from the sake of the chick,
+it was a man from the coul
+sept of a stird and the coub
+the sead three straple through tree side,
+and now the men at the creet to the couth,
+said the men to the coots,
+she
+
+----- diversity: 0.5
+----- Generating with seed: "ere once was a tomcat named homer
+a love"
+ere once was a tomcat named homer
+a loved on his bird,
+was the mading in the drices up a bucken on a toots.
+it was a man from sexnayoun, "id so say with a surary once striple
+
+
+he said, "in the cree with clumb
+
+
+a man from boste,
+who was his list was he said, "its was a peniff a suz.
+
+
+when the man of coupped her fuck whit, and the cout,
+the called by hourd blut
+he said, "yess known have she start
+
+
+the sear on the hricks of greets, 
+
+
+
+
+----- diversity: 1.0
+----- Generating with seed: "ere once was a tomcat named homer
+a love"
+ere once was a tomcat named homer
+a lover us noght
+ap you gunaman for had tamd his toll, 
+as the laoked her intern
+who when you rened she alccot,
+if a slight off-man
+and in no whing,
+the ary with cullams,
+it smilla, boble
+
+
+was the front pripling a purtinan caal.
+itmadiys whill that the aggs felled a light?
+
+
+i had one to this limericker strapped oc rave
+shappee on the dunc bet, that he stayk
+
+
+i they played the girls you he went?
+
+
+the
+
+----- diversity: 1.2
+----- Generating with seed: "ere once was a tomcat named homer
+a love"
+ere once was a tomcat named homer
+a lover couldn't one,
+
+
+as been one the pspeingter,
+she triettit lear sex to the '
+when a plotdear rean poty,
+e
+i named hughtargh a buy so nuct. in the prichs.
+is madrateving etraving for alon, 
+and non the chude and pay,
+were a blonk as a mone
+now he'd in cluse,
+while the on helloublectet hourwhat lasib's
+pechaid don their bigingh
+she now had men a loot
+neyels the night's not thoobuiib mads
+so coal too
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.1219     
+
+----- diversity: 0.2
+----- Generating with seed: "ght be anywhere!
+
+
+there once was a youn"
+ght be anywhere!
+
+
+there once was a young girl from peru,
+who sead cumpled he was a place,
+and the carted to the could she said,
+"i'm all the men of the meat name
+
+
+that a greet of the pee
+if a toon the creese me
+that he played lake a marrie.
+"o a man of her fat
+and now the men of a chinchird hat a surp."
+
+
+there once was a man named habse,
+who see the same was her cluse,
+"iffied "oh a realing a surprick.
+where that same was hers,
+for t
+
+----- diversity: 0.5
+----- Generating with seed: "ght be anywhere!
+
+
+there once was a youn"
+ght be anywhere!
+
+
+there once was a young girl from peru,
+whose wald was donguen't a chiles
+there once was a man named clani
+whose dims on the head at her cat,
+for a sepveralamed his bent
+
+
+there once was a man from new caple,
+whose would same was a clus
+
+
+there once was a man named arreet
+whose would part and my could but care,
+then he came on the habic,
+was she sears a fors on the pee.
+and the lend that all the playe
+
+
+there once was 
+
+----- diversity: 1.0
+----- Generating with seed: "ght be anywhere!
+
+
+there once was a youn"
+ght be anywhere!
+
+
+there once was a young sal
+cam, alding
+an had theighthel bucked welly.
+bumby aging a stick it, i
+suckbicent willy now when italey-
+i cam'tine ag curde. "cectitoo fuck.i just lune robbophen." " 'oure,
+but sonch could same raakund!!
+
+
+
+th a loviciin name place, he  fore
+a bryme all clight,
+all luse she mot and slick it.
+there once was a purpooon named sean
+and everyoung her funds widole
+endoing callothe lat, keer mory,
+
+
+----- diversity: 1.2
+----- Generating with seed: "ght be anywhere!
+
+
+there once was a youn"
+ght be anywhere!
+
+
+there once was a young parging lide,
+
+
+there once was a fella wis, las from harsx,
+ he fuck, 
+
+a pug thy pricubilay rann ittouedd 
+said the gall in finey jund!
+
+
+ntfomextatse breas
+'ceupped myplilly deverse me
+by an itats we werns to 'tought.
+what if have hould have dood downy came asher. 
+he lived got aumy criling
+her pass af ile going i hat.
+
+
+wife fee-old mate fay
+said beted a gro
+thoulk mace
+he live d badred yow c
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.1094     
+
+----- diversity: 0.2
+----- Generating with seed: "carter the farter to start her
+
+
+there o"
+carter the farter to start her
+
+
+there once was a man from mand 
+and she said with a shore,
+and the lent we the sex
+a werter the see,
+who would her tiss, was dike,
+the damn from till finithe ming that it,
+but i she said with a shore,
+and the price for the drover from the lend
+there once was a man from speat
+
+
+who would have shot in the creese bet more.
+
+
+there was a young lady from swe ker,
+who was not is the farte grod till in keen
+for
+
+----- diversity: 0.5
+----- Generating with seed: "carter the farter to start her
+
+
+there o"
+carter the farter to start her
+
+
+there once was a man named clate,
+who was ratten the pire was
+he had exher for a weat,
+the daint the price from the price from the hade,
+that had bret it in the price,
+a man when he said, in a cons,
+"ot care and the haught sturt and panise
+a shoponistight" of the bishie the front
+
+
+a strodes was filling the cotter
+that his hes was hownt with thriste,
+"or the cried "rearnowing the breeding of the bliess a
+
+----- diversity: 1.0
+----- Generating with seed: "carter the farter to start her
+
+
+there o"
+carter the farter to start her
+
+
+there once was a se sho fong
+ he was noxt
+
+
+the just pinaw a y fine, and do
+wit is of pow,
+for the mover her criver to oux crodel,
+a shelled he was loarul stchought named
+found for thten a copponec when you sumbiongly ass to." 
+
+
+the sex too tress he will he dain.
+
+
+the man once tho tits blwe she 
+then she shorthroment ,
+the scould growing herkfend a kutsingh if a surpresian
+a boen you had eoule tristion
+
+----- diversity: 1.2
+----- Generating with seed: "carter the farter to start her
+
+
+there o"
+carter the farter to start her
+
+
+there once was a man named maze
+who reiling "it's mard,
+yow riedy to brong
+tif who was nanedic,
+but i hant megreryoo
+as hob. is yop 
+four bothle. s
+but regrot
+lide frew the saget her fathing. 
+
+
+what'in, onter confleater it would puy,
+when the collat somply for were pants toc.
+i wamp i "'t zerks slo whese wizple
+so arsed the ploterwed up wentle sty hazin.....
+
+blon the remated a algite mrance,
+as i dirt'
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.0822     
+
+----- diversity: 0.2
+----- Generating with seed: "seashore.
+
+
+the president's loud protest"
+seashore.
+
+
+the president's loud protestain, the sate foor.
+
+
+there once was a man named sweenin,
+whose dooss a could fact in the catter
+and the carter a man of a then 
+
+
+there once was a man named hagge,
+who was a parted a grees of shit
+and the carter a can in the saye
+
+
+there once was a man named sweenin,
+whose digges and strake and suck her can to be grod,
+they was a man was so horrs
+the decaing all in the say
+and now the men of a my
+
+----- diversity: 0.5
+----- Generating with seed: "seashore.
+
+
+the president's loud protest"
+seashore.
+
+
+the president's loud protestain, "it,
+
+
+there once was a man named mabe,
+who was hung was said a lay,
+but the bricks of the cracks of her tries
+and now they ale to scread
+and the balls of say
+there was a young lady from swyen
+h
+who was hang thriples peanged up the alss,
+and the places affilly stall to the coul
+the sead the mupped of a sex,
+the same said, "ress rore that so kest to beard.
+
+
+there was an old man from the cange
+
+----- diversity: 1.0
+----- Generating with seed: "seashore.
+
+
+the president's loud protest"
+seashore.
+
+
+the president's loud protestabie in sarmaries
+
+
+there once was a man named cne
+who had a mag fremtang and squeted hdisso 
+a capine.
+
+
+
+a boy acking was the caule.
+the subjece car-eng cummectent pe
+there was a young girl from bal real
+who got of once quitgal named cal 
+and a aing were a hord
+
+
+there once was an out paras, lizeicaw
+and now aby kelwates,
+
+
+on curver, who kicked her iss, 
+
+
+i know she doss im you one luston etco
+
+----- diversity: 1.2
+----- Generating with seed: "seashore.
+
+
+the president's loud protest"
+seashore.
+
+
+the president's loud protesthout
+tith a dusty lown of of itboon's dick i surerellse'
+
+
+the balks as a cunsyo wirn still framt
+
+
+lout
+he is a seicker mels ob with cluse,
+that i'll fucked and dind,
+was she sdears to coptay
+
+
+swever souctice it mynoar."
+
+nom no the  hear had tay.
+unded he wasn, coold.
+and it mesouss loob fuckeds to drave
+a sof aming his eay
+
+
+the cavergeng as shops's with a gree
+she said a tline,
+me went he rou
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.0581     
+
+----- diversity: 0.2
+----- Generating with seed: "asts, so well kept,
+were what i'd expect"
+asts, so well kept,
+were what i'd expectice was a man of a tarter,
+but she started the menturs and suice"
+
+
+there once was a man named hissing,
+whose pussy was sunce the men a mall,
+there once was a man named clan were tried that mint of har 
+
+
+there once was a man from seat 
+who was a penist all one strang he went
+he was not to the hiss we kessall starts ur with a such
+and the meghist of his starter the get to say a much conay
+were tim
+
+----- diversity: 0.5
+----- Generating with seed: "asts, so well kept,
+were what i'd expect"
+asts, so well kept,
+were what i'd expection
+af his got in ered of roming to a such
+"'e was a man of the reat 
+for the sake of the meght,
+whene thine this started the get to one a se.
+
+
+there was an old man from the drin,
+whose bollad in a tent the fenth
+
+
+there once was a man from man who litt
+who advered her his wife was a wenden
+and now noboute from quite and swiel.
+and then hus swalloor the edriston
+lovery was suired in a chinchir
+th
+
+----- diversity: 1.0
+----- Generating with seed: "asts, so well kept,
+were what i'd expect"
+asts, so well kept,
+were what i'd expectiply und cormarling
+the sents a tratis, greed los in of ine,
+id seenither an nattlf's, and if flielus
+he now eals, so out his a
+great it's mehthenget for my ravoon. "oore.
+what i
+just sme sose gorscredonce,
+scy sermpalatoning asskiunup fregetter san a mall, and his fine,
+and he was onates posonemord.,
+'tound thends he was nattute.
+coulwn, urde tried it distorm of daer 
+
+
+who vine a diam doer, ford
+
+----- diversity: 1.2
+----- Generating with seed: "asts, so well kept,
+were what i'd expect"
+asts, so well kept,
+were what i'd expector 'mer
+and cunter didsin't chise,
+ novan trauss loust new ara,
+'ely govinoamy varies
+cambiry for an nith a grod
+he went a well, 
+en's i sat were prain'. 'cke, 'oreis sping for a rave,
+from posoon like a eity he could not at that used to begure
+and now mon cad,
+a man his flor, godid dehif forl
+he ,ribed "ots out me uid eat "got.... 
+
+
+it vadis, "oh he cuants got 
+and youtwans thought ling
+he went 
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.0490     
+
+----- diversity: 0.2
+----- Generating with seed: "ant to lick,
+
+
+my pubic hair's perfectly"
+ant to lick,
+
+
+my pubic hair's perfectly was a holk
+
+
+there once was a man named gat
+who was a pission from perus,
+who was hurn was his got in a such.
+
+
+a man was a lan from peru,
+who was hang the replied the crew with a plumb did that in a such a shore,
+and the chicks as a man of myapir.
+
+
+
+
+a man was a pissollate who was a part, 
+
+
+there once was a girl named menes
+who was a pissing sturple was a lasting a such a werk named for dawe
+i
+
+----- diversity: 0.5
+----- Generating with seed: "ant to lick,
+
+
+my pubic hair's perfectly"
+ant to lick,
+
+
+my pubic hair's perfectly thinks and clither the cole.
+
+
+there once was a lady named lee,
+who's got of his got limer limericks and he?
+
+
+you care in bat were a sonkear
+he planisn walla planke. 
+
+
+there once was a man named laker
+who was a perpubol as he disto 
+of the day with a bick,
+and the cricks of a rook named mcket,
+was the ghoung the creet and he said,
+"if four a sune down of his the cover in a stick!"
+
+
+a man whose
+
+----- diversity: 1.0
+----- Generating with seed: "ant to lick,
+
+
+my pubic hair's perfectly"
+ant to lick,
+
+
+my pubic hair's perfectly 
+i'd i had bit its, as een you upse,
+that aid cunt miss him a berin
+
+
+a lasn named hroom,
+then out of in cure was timberters a ran'en't agter tutneve a yen
+her in the rung ee"y!
+
+
+a barte moncess done she'd bat your all
+whose ceplat ungric allays,
+so thatp in the raped who bisked,
+
+
+a dir, you came hum
+a possonn as a pink,
+and in you cara fay  fime had delbes sndne,
+wifuns elive mid in cullage he
+
+----- diversity: 1.2
+----- Generating with seed: "ant to lick,
+
+
+my pubic hair's perfectly"
+ant to lick,
+
+
+my pubic hair's perfectly,
+for 'mirf at you arey yon a stien of zelse
+but there's shelllow this saith 
+and cayout thery of the cright,
+they pasced thro- aokeve himsos,
+iu where! is yexpers terkue bulls
+cullots an her, this ganssing in youree
+sos dyadon ahhoor in out"
+said the taried he had gaused hy age it
+aod she stuck outk it noy pancess sel.
+he capped his garst,
+one twou thit wenth praster
+it was overcrusty when it buc
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.0289     
+
+----- diversity: 0.2
+----- Generating with seed: "ew her nose too late
+
+
+that's something "
+ew her nose too late
+
+
+that's something the chicks and the coppine,
+and now the garge and the fart on a suncringh
+
+
+there once was a man named gail,
+trowed with a shill paining it tit
+there once was a man named gail,
+handew not bikien and sheese,
+who was a pirpinal from nan china,
+who was a penist was not brank
+
+
+there once was a man named head,
+who was a pike whose he square and sum,
+and now the men and fine to the cow!
+
+
+there once wa
+
+----- diversity: 0.5
+----- Generating with seed: "ew her nose too late
+
+
+that's something "
+ew her nose too late
+
+
+that's something the mind,
+with a hole from nale,
+and the erided the trible
+she said the seake and chetter,
+there once was a man from nan chent
+who was a prie, and the birght and a werd her.
+he said with a mink,
+and the alsy, "head it so traght,
+it vided in his bread 
+there once was a man named gat
+who was a bit was a wert not with his langt limerirst like seake it with eise the conther,
+he was nottinghet as he da
+
+----- diversity: 1.0
+----- Generating with seed: "ew her nose too late
+
+
+that's something "
+ew her nose too late
+
+
+that's something it lon's fill ming
+there was a dird from nape,
+who was fared with a wirl, pet.
+i'd she lover quite a mana in his layex
+there once was a man named menusidenet
+
+
+fut a pean, men in the cheir
+she incal the renitt will laim, it, her could plints gowd his better
+there once was a man named comeallowher dair
+with the histime at moffther a drink ume yourpegrnem
+
+he pumets as to a all,
+if vickuecer the veg
+
+----- diversity: 1.2
+----- Generating with seed: "ew her nose too late
+
+
+that's something "
+ew her nose too late
+
+
+that's something tigid .....
+shere it starts scoassoned', 'til get thrilletof insted her crude,
+as i wear to her finders dregust lide.
+
+
+micks whose mudd it thearss,,
+she couldr-dirt wornt shigh , was the chempine the neille. 
+there once was a eys a genus lant
+rynameral was not loun'
+
+
+there pas anceare, provera,
+and the chicker she fore
+if pissed all dingred a mulf."
+there once was a couled a breet
+
+
+his could ha
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 1.0148     
+
+----- diversity: 0.2
+----- Generating with seed: "n,
+he got himself free and he ran. 
+
+
+th"
+n,
+he got himself free and he ran. 
+
+
+there once was a man from seass
+who had to bot of say pluse,
+a maring the sake of the critter,
+then strailled to the critter,
+they adlled to the critter,
+the met couldn't dong a strewed with greet poy
+then said "oh ind the sead,
+"if thitg't was mall was the seake at to bet 
+
+
+there once was a man from peru,
+who was nod in the midde,
+"it's a cunt was so he said,
+"ifs-on his moff a mink,
+and now she s
+
+----- diversity: 0.5
+----- Generating with seed: "n,
+he got himself free and he ran. 
+
+
+th"
+n,
+he got himself free and he ran. 
+
+
+there once was a man from kent,
+who was a pikeing a dan from quite and eat,
+but she started to gat me like and be bir,
+then she stout of the could took to four. 
+
+
+there once was a man from shruch,
+whose sem the mending the stripp with eese,
+but had ag ehin called gvee ...... ssurt to the ment
+so he said, "its, she starter quite a surprede.
+
+
+i a birgerl start on one roodd twem known it diss.
+
+
+ther
+
+----- diversity: 1.0
+----- Generating with seed: "n,
+he got himself free and he ran. 
+
+
+th"
+n,
+he got himself free and he ran. 
+
+
+there once was a man from braylin, 
+and echoute, and the chawe of her twe stollet, 'er. 
+
+
+ the mechard old onay was trexrent
+a young gyoing and and poy,
+he faught of the e."
+
+
+there once was a coubure,
+said, pearwone young virshole,
+and in the mendsy out,
+his unllys prages" go get,
+
+
+fun a covigh and sholled to to grodint,
+,
+then she intirntoon not poy!
+to lick in the come in a doer,
+whete tar by s
+
+----- diversity: 1.2
+----- Generating with seed: "n,
+he got himself free and he ran. 
+
+
+th"
+n,
+he got himself free and he ran. 
+
+
+there was a young daw
+hight thought 
+whoss tristen hur
+pown of peeper, that gat you thried comole.
+ure tampetal was tiget. 
+it preiterced her tood thw would lame
+a long dasto the coldier,
+a urcen of thing
+then said brook
+poes frettyoung mench of that in muchy stwa;
+is pissoleds ordeers,
+chot oce priwesed to deant,
+that at a oung peed the mare!s
+the squeted throke like u
+thatry pessquetere you 'ery d
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9917     
+
+----- diversity: 0.2
+----- Generating with seed: " would fold it in double.
+so instead of "
+ would fold it in double.
+so instead of a young lady from the priess fire a rocking just limerick.
+she said with a grin, 
+and the mended her a both so when you st.
+and the ments was smearle blicking.
+
+
+there once was a man from kin
+who was horn's a cride from porr,
+who was hor spore in the could from took tinde.
+
+
+there once was a man from kan
+who was horns was break to smiffut.
+she could be it get leass,
+"ohate much the men of this str
+
+----- diversity: 0.5
+----- Generating with seed: " would fold it in double.
+so instead of "
+ would fold it in double.
+so instead of a well paning rave to took that it,
+
+
+there once was a girl from brewmenth
+
+snd from the phopping with slick,
+she seved to be from the ass
+for the mended the cole.
+
+
+there once was a man from kin
+who's ropal was his vigal tright of gay
+he coold planive with a flynt weil,
+they aroung swort too can me
+the learted her a lodk was her radele,
+said he with her night was took,
+it's street of a hord,
+the 
+
+----- diversity: 1.0
+----- Generating with seed: " would fold it in double.
+so instead of "
+ would fold it in double.
+so instead of creeme he was feever,
+crover to peans not on his buytin
+
+
+there once was a fiston ma plastew
+who sais of pission for quite an yriple.
+who one too the histion calies and ale you ssout,
+shat caliced liked the meg
+t, to head,
+whileion his bigge fond lect trist?"
+e ! he fond her fuckide.
+
+
+o forla from perurse, said, bimerick,
+to he fay sogeans and jequered tigetion it'll his pee,
+"from theing worje. 
+
+----- diversity: 1.2
+----- Generating with seed: " would fold it in double.
+so instead of "
+ would fold it in double.
+so instead of "yong yenoa pies home tiflle
+that ocked to the gronitles as the termpurtly limeried.
+
+
+
+a pornowed a preimpisiorsk from pissk best, 
+
+
+there once raspeean ladyin lice way priblurrm!"
+
+
+there once was a girl from rappanas
+in the alsyot statted her wifino of ays
+
+
+there was a -ty blinks,
+who sear to wrashing wallermon was disson,
+all her him bell e  your eermins
+whose feed she partimed him clacks
+an
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9789     
+
+----- diversity: 0.2
+----- Generating with seed: " at the green meat,
+that hung in festoon"
+ at the green meat,
+that hung in festoons.
+he said "oh is down, he tried to smisting
+and the lame if a collass with a suncersed the lent on the coots.
+
+
+there once was a girl named gail
+and was darge said "ire a strepling
+
+
+a man what i such a mish like a collave in a tright,
+and its as hears, was the liger a more to the couth,
+said, "i've ur her crick
+as her con't plied it come,
+when he too breass, nomed collook it,
+when they could his
+
+----- diversity: 0.5
+----- Generating with seed: " at the green meat,
+that hung in festoon"
+ at the green meat,
+that hung in festoons.
+and she stuck touce her cumh ith a trist,
+when a balls her ass will blake as a farcoon
+the explide with een in the said,
+with a tood in a reple,
+was the price of his strewed the drick.
+she seed a boy and his contance to a strach
+and he spool was tome,
+while have sounded to bithone!a
+reptallied to reater the lide.
+
+
+her bostover pisse, gorl as he was
+
+
+it desirge that and the lent to sectson'ter
+
+----- diversity: 1.0
+----- Generating with seed: " at the green meat,
+that hung in festoon"
+ at the green meat,
+that hung in festoons.
+and wast riscals learn, he had 
+the dirter and the lance to sme.
+
+and they as one in pirsis,
+the gat for a fucking young whre named mcau
+hes lifed as lee sure,
+now hed bay to sprang
+and came off emy tools,
+fill bicked if a cobbickeus,
+and ohcuchy as a purke,
+as bath encrinatia was
+there was a young lady from rink,
+with a corwass, from a ctoon,
+'til don't her tisspoty wasing
+to mothes loud
+the c
+
+----- diversity: 1.2
+----- Generating with seed: " at the green meat,
+that hung in festoon"
+ at the green meat,
+that hung in festoonsmeasyouid heider
+they poons of s of intalionaly'
+the  aros fact a slisac
+and swacking to tries up has balls one and wentuing
+he don't the petsingly,
+was she said, he was a day
+then gasts osters,
+deadayve said dessonused
+ect led,
+'lied "ot-could bickick toome in first,
+i'm i to got in a sprave.
+ibouss threu to. he trood
+she sawget's myiffonter his mof your toosson
+said that collame sbill,
+no i my 
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9621     
+
+----- diversity: 0.2
+----- Generating with seed: "achine,
+on the 69th stroke,
+the bloody t"
+achine,
+on the 69th stroke,
+the bloody there can it,
+they was a man was a seprever,
+the said "oh chented a man came
+and they all on the cole.
+
+
+there once was a man from st. s
+but the partar girl and tate.
+
+
+i can the alwers to could pelled her 
+there once was a man from peru,
+who surell hor a word not panic to could fuck.
+
+
+there once was a man named hirdrew,
+who would be the leg get so he saw a get fore.
+
+
+love in the chembing his day
+
+----- diversity: 0.5
+----- Generating with seed: "achine,
+on the 69th stroke,
+the bloody t"
+achine,
+on the 69th stroke,
+the bloody tilled her pees a mulfon.
+
+
+wi'ce algew in name drong.
+there once was a man from st. now,
+who was horssaber man of ass,
+when i the legthing this care that some aang more.
+
+
+love in the same was a hors
+for the rang that in sare braills,
+and you streat of his stayoned on the copp bether
+he can the partoon her fucked her ass
+for the raught fore!"
+she 'me so when now her a pluse,
+"chooted a flunt he sa
+
+----- diversity: 1.0
+----- Generating with seed: "achine,
+on the 69th stroke,
+the bloody t"
+achine,
+on the 69th stroke,
+the bloody the feeding,
+but .....ond  is the abher, side not peess,
+
+
+s-ishion'ck that's balls to throubut so,
+but fourd bargoun,
+to then his coulders to be grode!"yy
+
+
+there was a young man from dalack,
+who plee was coplong stripled
+to spee packed horl name allase
+a busied "reap all in her a wime
+
+
+there once kend loous sprost clange of craver of face shewed a seplon, ? lome, should give so named phena
+they 
+
+----- diversity: 1.2
+----- Generating with seed: "achine,
+on the 69th stroke,
+the bloody t"
+achine,
+on the 69th stroke,
+the bloody tark poon. 
+
+
+lady man dread xno when 
+tif his funided a mone,
+
+
+of the shole mall purgen aallwich
+then wase buty to tray
+in so crodels heat!
+
+
+i had ball shound eash lengrame
+breass,alr sed , asone
+a gree scartiona conchie af"s fo 
+
+
+there once wan coraman frot roment
+who was and "isking young man
+and you stew allore triple poon',
+and his jobber prece mone,
+pious,  spere that atfairud sitcontecs,
+
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9482     
+
+----- diversity: 0.2
+----- Generating with seed: "ell, 
+thirty days is the time he will di"
+ell, 
+thirty days is the time he will dies""
+
+
+a man from nanguch
+for the men of the rates, 
+and she saw this was nattly
+she said, "ressiony as he swarked heat,
+for the bly and pass of a colly the proce.
+it was a man from nan coppan were slied.
+
+
+there once was a man from nentund
+whose diggts the sake of the crithes, 
+and their this great wenksed,
+that your this walls the sake 
+
+
+there once was a man from nanguch
+whose worls of his stal
+
+----- diversity: 0.5
+----- Generating with seed: "ell, 
+thirty days is the time he will di"
+ell, 
+thirty days is the time he will dies a slicked to the birgins
+for the pill of smissones,
+brew she saw, don't one where ille.
+there once was a lady from sex
+who came of thing's crance mishing the biggh
+
+
+a man from nangectiod callown of venss of seasing min,
+then she sot it it everyon his day
+then you'r plide in the sake in the sake realine,
+the hunceded the drink,
+and their the square shot, 
+it was all ots, he was his fat in
+the s
+
+----- diversity: 1.0
+----- Generating with seed: "ell, 
+thirty days is the time he will di"
+ell, 
+thirty days is the time he will dies.
+
+
+they cas limericks shilled,
+with a pan in! 
+
+
+it was a las fuck
+they price as he cone.
+whats a maging we hads, got youth eath sccoalso then . sawes,
+
+
+there once was a yow farss, 
+whose was your torm eyer, 'till the way
+he was a lised to shewe.
+
+
+there once was a man from nan
+twe seass possqur shep dartes, 
+so it clitton tyo asboon a roam ah
+
+
+a lady from missworl-wyse ,
+at a shoppd in the p
+
+----- diversity: 1.2
+----- Generating with seed: "ell, 
+thirty days is the time he will di"
+ell, 
+thirty days is the time he will dimbersdflit a shie
+
+a lady named guns to dearrint,
+once gas her a plintor was quial fram yorryens
+his midverse more,
+said, "ot, was the geaging hims's asne. 
+
+
+there was a young lady from sexu,
+who's bling is pizgistet thume and is treet,
+noobide if that lossi." 
+
+
+there once was a  a dirct from mlinaliow in malina, sucrowsin's dirborm.
+formny,
+goen the byhnoy,
+
+
+              if one swoft, bot you
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9395     
+
+----- diversity: 0.2
+----- Generating with seed: ",
+who had a funny feeling.
+she laid on h"
+,
+who had a funny feeling.
+she laid on his long her vadin from boster,
+who went too mal of the mende to the seas
+and the farted to took,
+and units a bother, she'd learting the coppored to crail
+he damned the sake of the reads
+
+
+
+there was an old man of gyess,
+who was a paked a man of the mender like a stree,
+"c of won't her triess,
+and i see thing is a surerass, 
+and the frotter to deed,
+he cato too boy of all of conce her that she stur
+
+----- diversity: 0.5
+----- Generating with seed: ",
+who had a funny feeling.
+she laid on h"
+,
+who had a funny feeling.
+she laid on his limericks with and suck thryes trude,
+up was peed in bed from poye
+for a pennite mering to fender,
+he clustic and should said, "reall, oh night
+this grew her tits, begins
+that had be got and shock,
+with a plien from named clasing
+
+
+there once was a man named class
+who was a hord you'll and thought,
+and the mende to the kiddes of myal too my mcalled the reat
+he was not to took,
+it was mall of hi
+
+----- diversity: 1.0
+----- Generating with seed: ",
+who had a funny feeling.
+she laid on h"
+,
+who had a funny feeling.
+she laid on his whenge.
+he was covered not dovin fortitn of gented,
+he was not callotsownticenides,
+and jeck i do whe was the phobs from one had
+and how she had time i flew her her and her,'s and duck!
+
+
+
+
+there was a lad on the tike 
+who's to such aumcon pack all clads
+and he spowny my for bicken fraw nod oram,
+and i out of if that by punt,
+its a wasy, who oce way not morid
+yor gun ningline doibly bet..
+
+
+the
+
+----- diversity: 1.2
+----- Generating with seed: ",
+who had a funny feeling.
+she laid on h"
+,
+who had a funny feeling.
+she laid on his pened and his bicker
+lamaris, that was nottes
+he fewter frimh is
+whete couldn't he all kid of rook ; 
+for 'treass, mothery saw. 
+
+ s tream plumpe hrimst bet 
+abdissin.
+
+
+to her vec, to, old just laman and triebate. po. b you farrer,
+kew out" to cook wo honghe
+sat a pubbigg a purped
+he 'milver startubul quete a surpride,
+my possyons was, over a gore
+she could hew boy did who bibed andar,
+"that t
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9331     
+
+----- diversity: 0.2
+----- Generating with seed: "layed with the cock of the bishop engage"
+layed with the cock of the bishop engaget, it was named cone,
+and now they as mean,
+and a wevery a bit of a rocking too by and hat 
+
+
+there once was a man from brapin,
+who was a cons a was a marter from the coing,
+and seved out her tits of my buy fine,
+and i scalled "get a get and he day
+there once was a man from brewmer
+who was a man from the prices from the coing,
+as he wifund said the come,
+with a more of the crovers,
+there once was 
+
+----- diversity: 0.5
+----- Generating with seed: "layed with the cock of the bishop engage"
+layed with the cock of the bishop engaget, 
+as van of the covered to get lews,
+she would playe was a margin,
+that less, found not a strodnin
+he could biving all him the conficral it,
+but this ally palled rapped,
+then stalls and and he straig
+
+
+there once was a man named rappe,
+the can the same all sube for a marro.
+than said "oh aid in her brick
+andec to bearn more,
+brew mudustow smy with a ballidess payer.
+
+
+there once was a man from b
+
+----- diversity: 1.0
+----- Generating with seed: "layed with the cock of the bishop engage"
+layed with the cock of the bishop engager2in', ade."
+ 
+
+
+the dectiom from the byanmal that theypin the dridet. 
+
+
+there once was a parey named flati
+who arod for the midust sollanite but and rub
+ard her fiesed a man from my marird
+
+thought was a proke, 
+for stull is gree she light,
+thoulst adleat oot and said, "fere,
+is a beat; is a term ace her hear,
+
+
+there once was a man from bredinaly,
+who played the lame rous her tabb distallaight,
+
+----- diversity: 1.2
+----- Generating with seed: "layed with the cock of the bishop engage"
+layed with the cock of the bishop engaget, 
+as he reap at love i large,
+all us a carohimed by thee,
+when he criptental maberices was not
+the said sit doon
+with a holde
+there once was a din man named pae,
+who excavine carmina blyn and whan.
+
+
+there once was a maire, a mantunker
+who went to a conts preams meeb,
+carist htremser, all to darges,
+bleat  feam,
+he conty his would named dilkser deartay,
+chase, whenoid her evoven drick,
+it out in
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9179     
+
+----- diversity: 0.2
+----- Generating with seed: " young lady from kent
+who found that she"
+ young lady from kent
+who found that she said, "oh a good from the birght first.
+when he the gal out his diess and the alss,
+was sheed all out of in the craims
+
+
+there once was a man named laver
+who was a punning with smill
+he fourd bigg in the price,
+and i said the drive" i said "if was name was
+
+
+there once was a man named lail
+
+
+there once was a man named lail
+
+
+who liverid in birzens a mand same a suncernd.
+he farter the sake of the
+
+----- diversity: 0.5
+----- Generating with seed: " young lady from kent
+who found that she"
+ young lady from kent
+who found that she said, "that it doubs in a suse,
+and so that a man who had a prick,
+and stade the cole,
+so it was smill cun brail
+plame through to doe
+bive the couble show hough it monger,
+but he roan was surplly dreek
+that had a part from twoce,
+said i puss and at a whink.
+
+
+the cauce her attertimple mean of the smill he'd good glass 
+on the cigger a surhor.
+
+
+there once was a man from rangen,
+who was readly to 
+
+----- diversity: 1.0
+----- Generating with seed: " young lady from kent
+who found that she"
+ young lady from kent
+who found that she couldnrillsph,
+than loubght without a bill his feeling
+he fontic, to thee snitte!
+
+
+o can the brick uff her alos,
+he couldns the dan
+the ress,es morsab, a greed doubles,
+as quiter of twoo
+"ailed, fon had ureveryous farther,
+they complex down doon
+af the find was to long heapohng eerhus berwens,
+he couldn, that his poss,
+said oh" chilled her goo 
+lads one they hube,
+the sald, -                   
+
+
+----- diversity: 1.2
+----- Generating with seed: " young lady from kent
+who found that she"
+ young lady from kent
+who found that she rodet she fellor ! 
+
+
+there once was a girl, flund
+
+
+coulmsbersinectiench broos
+sume to the ladded the tend,
+they poan "soke not poke up sand her runt.
+there once was a lady in young girls natinl fams.
+
+
+there once was a dass of girlle
+poand, one geniddust just withkey,
+he wouldng tight a gooss.
+"eew doe'd cummergec, it by down,
+so wind ship !n
+and the middn if chipher, so loed gramply tofresed
+m
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.9044     
+
+----- diversity: 0.2
+----- Generating with seed: "d,
+for his antics were crude,
+but the yo"
+d,
+for his antics were crude,
+but the young girls plynusing the covere!
+
+
+who would blusher had butk.
+he was so long her can'tingloos,
+getter they was a pessore,
+
+
+she coplas went out of his pennise
+a man whom inverter, she samed class
+
+
+there once was a man named clans
+who was a pirple sead a bit,
+
+
+there once was a man from peru
+who was a parate named hughe,
+who was a pisse as a shees,
+"oh they was a man named clapped,
+who would think
+
+----- diversity: 0.5
+----- Generating with seed: "d,
+for his antics were crude,
+but the yo"
+d,
+for his antics were crude,
+but the young lad, from the sidd
+whom i surder was a man named clais
+
+
+a chew man off eass, while the enden camming birter,
+then she start down one sto don't one quite a more.
+
+
+mile paring sous,
+who damned the men of eass where,
+
+
+las in the price and twat.
+
+
+there was a young lady from ranget
+cunce to do where in the sgrant
+
+
+there once was a man named laveroin,
+who seed to do whe in't laiges,
+it was the 
+
+----- diversity: 1.0
+----- Generating with seed: "d,
+for his antics were crude,
+but the yo"
+d,
+for his antics were crude,
+but the young phouble  when yo 
+efoning his chilly was the jod
+thoure thin light,
+i was small, 
+she could by just named jay,
+it waster sumbick,
+"eepted curpled head to timcs.
+
+
+it's plimering collarals to learro!
+
+
+
+there once was a plump start
+lumper timmerx.
+there once was a fellow named flemingh
+whom sutb intoloming in tirl,
+
+
+funce her xxpanom the sake in one the hweod
+
+
+las the asy on the cole.
+
+
+thro 
+
+----- diversity: 1.2
+----- Generating with seed: "d,
+for his antics were crude,
+but the yo"
+d,
+for his antics were crude,
+but the young girls, 'litterror dick in
+there once was a mobiccaling dilm,riok quite nlouts by off eat
+so illaid did cammaanusing were an'ttles
+that whinticclangve'red get me
+said" drinkercer old proding.
+
+
+there was dobby pallin in the loming young man
+his named timply longes bays,
+i se knows of "sdos say!thatisn cared urnverse
+pooms frot osels
+for threegle him would snenters got roun.
+
+
+theys matals hus l
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.8934     
+
+----- diversity: 0.2
+----- Generating with seed: "ent
+
+
+there once was a woman named dot
+w"
+ent
+
+
+there once was a woman named dot
+who had her funts we man grod
+said the ran the drive for a drink,
+there once was a man from peru,
+who dick i fucking with smilling eamss, but,
+but no when her van, 
+
+
+there once was a man from manden
+from the light of a hord
+and the chicks and the chick,
+
+
+there once was a man from st. no.
+who dissess and a man and sand,
+was the coleat in the runt too mock,
+
+
+there once was a man from postin,
+who's
+
+----- diversity: 0.5
+----- Generating with seed: "ent
+
+
+there once was a woman named dot
+w"
+ent
+
+
+there once was a woman named dot
+who dover the men of the dave a goodn,
+there once was a man from peru,
+who's could trickets like called hgjang
+and the leprise her could thrie and that it was her ticked a reall she say on the ceet of her tricks. 
+
+
+there once was a man from sp.bet,
+who's balld shind i chil, payquan the rack
+to a thround parted he cone,
+but replease ge time,
+pleate the men of the reading the chess to thrust.
+
+
+ther
+
+----- diversity: 1.0
+----- Generating with seed: "ent
+
+
+there once was a woman named dot
+w"
+ent
+
+
+there once was a woman named dot
+who wantted the chick at the alsid,
+for madxincered mc
+pinamided not lot. 
+there once was a sawher, from plunce,
+who's wife limericks apromopue the phain.
+
+
+was there once was a man from postin
+
+
+i kely to the cole that les-alles threely,
+insw a thought love when in a pric.
+said, "i's a vinal from your egnaswided,
+was the seaving got from tool
+
+
+there once was a fellow named swall
+and night were in
+
+----- diversity: 1.2
+----- Generating with seed: "ent
+
+
+there once was a woman named dot
+w"
+ent
+
+
+there once was a woman named dot
+who had a cregting the right loet.
+copared my liquocin,
+nool i what the file jerkin;
+collaominagive lave himeholo anyet from nige,
+who drmad from poly doubd than the kniw,
+said, "on then   i qui
+tlieth c."th."
+gefe i her vaciy. 
+
+
+there once was a fun cheen youn
+
+he who shooss she the feulst
+
+
+ther" was a yause the weelle
+so dan't she alsiuse.
+
+
+there lady from porea,
+who's guck it see, 
+so three h
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.8772     
+
+----- diversity: 0.2
+----- Generating with seed: "you careless limb chopper,
+"that's a mos"
+you careless limb chopper,
+"that's a moss, 
+it was a man frlimerickTest.py:66: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+om rappe,
+and i seved one now her cool
+and i sever her rool him on the chess,
+i said the mendin't part of mean graved to teck.
+i
+was a prine wastingh in the runt!!
+s
+ che don't hes a plate with class
+and they and the men of eat
+he was his downg in his where suck tords."
+
+
+there once was a man from kint
+whost had a pag in a chill fuck.
+
+
+there was a young lady from spaker
+to sexy
+
+----- diversity: 0.5
+----- Generating with seed: "you careless limb chopper,
+"that's a mos"
+you careless limb chopper,
+"that's a moshina greem,
+there was a young lad from manina who long
+she said old ming in his mirs
+and the lad that he sake one fort
+who lamed and such as one coots.
+the darrstow she saw his his got,
+so that all the birgs of one calod
+said it'll begt to day
+there once was a man named cleil
+whose would hooss and fuck
+in a thone of the mence.
+there once was a gal frew "you,
+nunuther his stall, ong man of gay
+nite
+
+----- diversity: 1.0
+----- Generating with seed: "you careless limb chopper,
+"that's a mos"
+you careless limb chopper,
+"that's a moshfle plias
+a deld, "it, all
+its less wilht was ,licked on a werdin!
+
+
+there was a woman renurman gat lown oun the knew. .
+and und slipline,
+andey!
+
+
+i passquet out a oune
+he wrint mills thright to suchlorsing.
+and fumn his fired noth named 
+aid the staboned him blick
+in the misse un the,
+ind he radly was laked nott
+with x louke mass, a place, but on the tree,
+they cat a moght, shat a pluse,
+it was
+
+----- diversity: 1.2
+----- Generating with seed: "you careless limb chopper,
+"that's a mos"
+you careless limb chopper,
+"that's a mostonatn,
+chy pucks wey in a chonbure.
+there was an old laddidy frew the kird
+
+
+there once was a maicuna in us
+a creet in the gave wearly... 
+
+
+with cuckers woy, 
+revady'lle in chan's the cean,
+whyse quit of the mcal
+was his daggy decbozed clacius
+he thicks reading herrulled delommosiid,
+"it to know she heplster
+he cunt one couldn's we mare
+
+
+it this opin, tratis with glaviz.
+
+
+there once was a gic 
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.8678     
+
+----- diversity: 0.2
+----- Generating with seed: "young priest name of cabot,
+whose libido"
+young priest name of cabot,
+whose libido was the poon from the front
+so he said with a shore,
+they was the fist,
+it was smell in bed 
+is suck it in his possingh.
+
+
+there once was a man from kent
+who withere was as hersking with eeplor to touck
+then stoolsing, it's named clati
+
+
+there once was a man from sext
+
+who was a pir, a wood in treet,
+who would shot shouthirn can't fore
+
+
+there once was a man from kent
+who was a partigith collame 
+
+----- diversity: 0.5
+----- Generating with seed: "young priest name of cabot,
+whose libido"
+young priest name of cabot,
+whose libido named his would be hirs,
+than stee some by dick,
+whene the playsid his cock,tifes a shoppure
+but this shouth on the flodde
+with a plumber the sex,
+and so wret out of inthing to sittudrirs.
+
+
+there once was a man from kent
+who was a man was dillver the fend
+with a clittick"
+
+
+there once was a man from kint
+who would some with one pieting called vet
+she said with a shore,
+but she still or down, 
+
+
+
+
+----- diversity: 1.0
+----- Generating with seed: "young priest name of cabot,
+whose libido"
+young priest name of cabot,
+whose libido striplers by tht look, 
+and inswian by all girl insiddy
+
+
+ what it it slied than firlling sos bant,
+'til becksing is a roght,
+that mude pains, as to bearred 
+there once was an and from maid,
+knong carty neat now,
+wit finus it tole.
+the prox she searse, oh in seess.
+there once was a girl
+panylet
+who was a pick in bed for tand!!
+
+
+there was a young lad man named pea
+who was a pirbacks by day
+
+
+a do
+
+----- diversity: 1.2
+----- Generating with seed: "young priest name of cabot,
+whose libido"
+young priest name of cabot,
+whose libido dinted her,ys eckets down the ferd,
+with a lashic f.eill, stays that gray,
+uffo thoueniygo? as cluttingh
+
+
+who gatce out her his foreq and ad bit, 
+then x fins with too 
+of the chick,
+
+
+uth out his cousted down,
+apchule show though that murit!!
+
+
+the vad, cunn a feanist lads
+for stull think, is
+poefly,
+whose scould through the me,
+th2t lumped her toos was "ued ,
+but he was rover lase with dew jok
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+36431/36431 [==============================] - 62s - loss: 0.8600     
+
+----- diversity: 0.2
+----- Generating with seed: " meaning of meaning of meaning".
+
+
+therr"
+ meaning of meaning of meaning".
+
+
+therre was a young lady from kewt,
+whose limed to wo kew he spraught.
+the sages and she lime
+but to he said of his genie.
+
+
+there once was an old man from the bick,
+his bither and swore, 
+she staits of the spucking or mosh doer,
+and the men of the meat on a see,
+who had a mag from the birghty,
+"ithat's not a man from the prices.
+
+
+a man of great in treet,
+while home from toocher and sheese,
+she couldn'
+
+----- diversity: 0.5
+----- Generating with seed: " meaning of meaning of meaning".
+
+
+therr"
+ meaning of meaning of meaning".
+
+
+therre was an old man of ches
+
+
+the suster was thin and shick,
+and he was digges, and shees,
+it was a man from quite and peein
+and she slopson their in said,
+and as a should be from tome.
+he wouldne triels the flott
+
+
+there once was an old man in man from crazerone,
+and the alstabicklin spranges,
+and he tigic, that stow!"y.... is real." blat's ncolon,
+said the remmonsied her fat a slounal in a pan
+she 
+
+----- diversity: 1.0
+----- Generating with seed: " meaning of meaning of meaning".
+
+
+therr"
+ meaning of meaning of meaning".
+
+
+therre was a young from bistinghtiked 'er,
+"ot one the sab,
+the rates all you he cromse
+she liked "douides taid,
+theighth urfoss,
+its he said "      is proaning umingriter,
+the cutpeg and assy limering of shord
+that timmer just named dring,
+with a mishing like than!!
+he fucking arrester
+he 'med bet care and he faulene
+her vadine, and atcans poyoored pee.s 
+
+
+there once was a man called "ftes
+buthious a
+
+----- diversity: 1.2
+----- Generating with seed: " meaning of meaning of meaning".
+
+
+therr"
+ meaning of meaning of meaning".
+
+
+therr or ere's poe foom uping
+who put her ass regtended a drink,
+
+cominefer that all punne.
+i "me, "roveryo unonen than frielsn,
+me weck it's glat gingue "conal ohis morick.
+it was not mo he was numb
+the vig in the garter can's flew her to hew
+at shoed it is bow,
+sighty leirit, oute
+he was rexxcrn'coinah
+a borly and his ban brawse
+she peocted old ure,
+and a wecavers "gajey in
+she see the mustes a see,
+
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+36431/36431 [==============================] - 63s - loss: 0.8522     
+
+----- diversity: 0.2
+----- Generating with seed: "e abhor us.
+
+
+there was a young lady fro"
+e abhor us.
+
+
+there was a young lady from alss,
+twould publing his down the fender.
+
+
+there once was a man from pranate,
+who was a prin of the tight,
+they comeverged her tits,
+they asked, as how the sake of a streck.
+he found the tighte
+good it with grave
+the square of a tho blue the coub
+there once was a man from nantust,
+with a got of four,
+who died in the alsy do birget,
+but has a polked that she stood it dint
+
+
+a man from name is a 
+
+----- diversity: 0.5
+----- Generating with seed: "e abhor us.
+
+
+there was a young lady fro"
+e abhor us.
+
+
+there was a young lady from at. 
+who could bread on a rock nome crang
+his biaking chilly for a strode
+
+
+there once was a man named reat
+and the men of eay to deerr".
+
+
+there once was a man named strewiticm's a pean, we tought him up for her her
+with the men of a hord and a mil
+there once was a man from wheellis,
+who see thought in outr the know
+said the proceter his dages peoing,
+and now she collegered her and down,
+but ha
+
+----- diversity: 1.0
+----- Generating with seed: "e abhor us.
+
+
+there was a young lady fro"
+e abhor us.
+
+
+there was a young lady from not
+who asshiol hao plog with his lay dudum
+
+
+from carroout sal,,
+who so trates rude as rought, ence that 
+for the coget of a wert,
+then thrie as shapced of a horr
+elamainan've small,
+the cen out in the gree,
+sold pelled vo-kal
+of spreading is all otcoors,
+straygeve, "'t who one tho poy ish your es
+they paint did clastel,
+and for new carocket logsterx the rocked to criget,
+get it had from roppe,
+
+----- diversity: 1.2
+----- Generating with seed: "e abhor us.
+
+
+there was a young lady fro"
+e abhor us.
+
+
+there was a young lady from named in dillor.
+but her a wef this up
+and his buttistionly treess,
+he counded  i chaber of the a beez
+
+
+there was a man from .boss,
+whi,ented a prin, point,
+sture adlayor bliasy
+
+
+of the daimed the gran my coz
+for her crit-mit care
+if iton the chabust welling the rught,
+"itsles, as how" adly contarns
+the much norty me.
+but where if with eesix quite a f muntul
+she heved ooq no prove her, throke 
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+36431/36431 [==============================] - 64s - loss: 0.8406     
+
+----- diversity: 0.2
+----- Generating with seed: "n
+they got caught on a thorn
+
+
+ashes to "
+n
+they got caught on a thorn
+
+
+ashes to write a both and song
+a women the cars to the could four,
+sight aff wiful in his more,
+then said the fended a minch a more of her tits is known of the come to day
+there once was a man from ranger,
+who was a party now head a stall hat a suprore
+the could said the cole.
+i said to "i a mistic,
+its ag to bu goodner's a more of a stick!"
+
+
+there once was a man from ran dactown
+who was a sead to was fin
+
+----- diversity: 0.5
+----- Generating with seed: "n
+they got caught on a thorn
+
+
+ashes to "
+n
+they got caught on a thorn
+
+
+ashes to writh a peniss we was hir con's rang a tard.
+
+
+there once was a man from ran with a skever.
+it a man from named clang
+in the tried the could four,
+sight all his a man from rang with eeple she said,
+"iffor the smill bed grodn to fat.
+
+
+there once was a man from ran dalluss,
+the dagg to bohqueate grovermed the cole.
+it was fell on the werse care all when he was hiss wifrles and pee,
+and he was cover
+
+----- diversity: 1.0
+----- Generating with seed: "n
+they got caught on a thorn
+
+
+ashes to "
+n
+they got caught on a thorn
+
+
+ashes to mirmcovered to could smill keyy we'll clai's fleei.
+
+
+hick feel i'm no the colone
+snded her a stagte, slit,
+tootresibly didd's named joyorid 
+when tolood a plus himsels who four,
+ib the ot" he quicked reading is regiling 
+his colgegs simeven.
+
+
+he tried it pleate toom one had greeliz
+you're four ne,
+breat "ot, smand dick to becan.
+
+
+you not ole tige tried to slett on
+one tabe a haqus pring,
+said, 
+
+----- diversity: 1.2
+----- Generating with seed: "n
+they got caught on a thorn
+
+
+ashes to "
+n
+they got caught on a thorn
+
+
+ashes to comarth, my his "on halds duer
+that get it regromxingh of bevil,
+sproced my peen in her their, is gouid and full hour,
+of the cound his bihtiensed and bitty he could 'er,
+"ot, did on ehe soght,
+ensured her much,
+but my badd him not one,
+said dive "ottert with ging
+too cimpied amcaving his f
+when he twite wouldnpers witn his will."
+sey knews with glained.
+the midded her vaging is bardon,
+if "ot'r n
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+36431/36431 [==============================] - 63s - loss: 0.8288     
+
+----- diversity: 0.2
+----- Generating with seed: "round my face and form an 
+
+
+ 
+there was"
+round my face and form an 
+
+
+ 
+there was a young lady from hers
+who laid the bly was a playe
+
+
+a when encer who was a plat by and her a but,
+there once was a man named bill who seens
+and the mendine compluse
+
+
+there once was a man from rents,
+whose died it was not prant
+and now he'd got leasing mine,
+said "ohe fainus the cumbed and so who like in a supre,
+"crocked with clans
+and with a missiaricks while." 
+
+
+there once was a man named b
+
+----- diversity: 0.5
+----- Generating with seed: "round my face and form an 
+
+
+ 
+there was"
+round my face and form an 
+
+
+ 
+there was a young lady from ranin
+she could blue a shappan't to but
+
+
+there once was a man named bill who seens
+and the men of the chicks and her funt.
+he was atter
+the muck to had brees
+now when grice was all skeyy into the seat
+
+
+a when he was really was,
+but she seg down from the prices of a myamin',
+
+
+there was a young lady from nantucker,
+who seved i pus good wish a chill a who whee.
+
+
+twen the played
+
+----- diversity: 1.0
+----- Generating with seed: "round my face and form an 
+
+
+ 
+there was"
+round my face and form an 
+
+
+ 
+there was a young lady from who own tim,
+with a youn cumkist, chat she went to oub esers,
+bit they an a miruling sturie,
+po if a shatlination,
+care she conffrthas akent the knew.
+
+
+there was aochunce droling as alloyx
+     if if go were uris, whe thought it with a stcamhory that so,
+poyons of the weee.
+to lent all cumbed her fat i bire. ge.
+there was a youn named by big, 
+she would be backed and cozlymie,
+
+
+----- diversity: 1.2
+----- Generating with seed: "round my face and form an 
+
+
+ 
+there was"
+round my face and form an 
+
+
+ 
+there was a plustic to skattran withwem
+oollie to crain
+as his cock on for a boiza in get.
+
+
+tweme awfily lat of peess revoryon the coppons
+
+
+a y flym too man whathi; hume!
+
+
+the hain in the chet and for a but
+
+
+fumme let her milled her is her 'ere tormiouar blee,
+and was fasthan the amone goodng your till give up delion
+ofe "senect'd by a ght
+
+
+there was a youn named a gallan flamir,
+and james on his geei
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.8201     
+
+----- diversity: 0.2
+----- Generating with seed: "it bent
+so to save himself trouble
+he fo"
+it bent
+so to save himself trouble
+he found his been 
+
+
+levent allat i dot's named clacks
+and said of a welle
+the learing at all,
+and a wonk the colong he said,
+"if of coule, in b cons say!
+
+
+there was a young girl from spokine,
+who would fermered his down on a sunder,
+the met it was much it,
+she stall was thropped to day
+there once was a girl named lew, who dass, and the ot"s
+the ead who would such cort,
+for the coppbing to the cotter,
+
+----- diversity: 0.5
+----- Generating with seed: "it bent
+so to save himself trouble
+he fo"
+it bent
+so to save himself trouble
+he for his soger
+that wouldn't would came if her crack
+to be good stole in a surchor
+he comlet of the chicks and thinks in of eat.
+
+
+there was a young fellow named hirse,
+whose plossed to a bohine"
+go a lons the meaning of say.
+he could ploned with one tleess heat. 
+
+
+there was a young girls, from bruys who factine.
+
+
+there was a young girls, from seage,
+who would qued a garter, to the greele
+but there
+
+----- diversity: 1.0
+----- Generating with seed: "it bent
+so to save himself trouble
+he fo"
+it bent
+so to save himself trouble
+he fourge "getters down time.
+the mal cumber, noke  yow 
+it's uncolonions
+the samcterfart misped him suthter,
+her found i thitbobuc, it!
+
+
+my mangle them himaroger grow the read,
+when the pooned her vagine 
+to be brock at weat... 
+
+
+a man from nan distocch she seprod
+fat a recles
+and thinkby greel for mhis of eeh,
+allotengly stutting ethe scollew me hang ming in her plice,
+econfics i beaule
+the ence th
+
+----- diversity: 1.2
+----- Generating with seed: "it bent
+so to save himself trouble
+he fo"
+it bent
+so to save himself trouble
+he for a bick,
+
+
+shey diveftate a time if a duck
+go domb it weartex cravequan of ryen in for verine.
+but mave youther a flingh
+why arouns toogsarr sof"a temmics eter incriplees,
+bad by excovered ere quith pleas
+he conferted her off wind in treelic,
+it her ate was her not os closbon'mid,
+
+
+fiftaid in exclape from girl fool
+ i kily was toession it!
+
+
+it't leed can's stet my burh
+now he'stways name, bleas
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+36431/36431 [==============================] - 63s - loss: 0.8106     
+
+----- diversity: 0.2
+----- Generating with seed: "
+she knows how to cope,
+with a jerk or a"
+
+she knows how to cope,
+with a jerk or as he wring
+the dined to bear, 
+
+
+there once was a man from nantunket
+who was a pirping should paniss,
+thit griens a washin't paning
+of the much for the seass learn, me comple.
+
+
+there once was a girl, man from brewman,
+said he, with a growe so who lad.
+
+
+there once was a girl, from tewswher,
+whose limerick was drinking over.
+he found her vagina with cleas
+
+
+there once was a man named rude, 
+who so
+
+----- diversity: 0.5
+----- Generating with seed: "
+she knows how to cope,
+with a jerk or a"
+
+she knows how to cope,
+with a jerk or as won cover from the his from theing
+whose don't the proced in the mude,
+"if they was a pring with eehuthem, with grays
+
+
+foom really dos here down on a sprank
+lemey of the mersole said, 
+she could preat on a dy price
+but now every inch a man named jeck
+
+
+and their barte was dived in the biets,
+and now theighty great 
+said, "i've un his peeis a dages.
+there once was a girl from nanticketinater.
+is
+
+----- diversity: 1.0
+----- Generating with seed: "
+she knows how to cope,
+with a jerk or a"
+
+she knows how to cope,
+with a jerk or as quite atser,
+who tuck cumbed to bucker
+who exbeys and he drong
+and tigite theight to dauco?
+
+
+there once was a fellow named swelle, 
+who cun ere into hand like sheecued,
+can't keen to cuck rever."
+dbirmmytyoung lightir wein,                        cherr,  fas now lews c vicing to the cole.
+
+
+in a vest old break off inigh froe boby 
+while cume if her suece off withes
+the cuplied on a rang limerin
+
+----- diversity: 1.2
+----- Generating with seed: "
+she knows how to cope,
+with a jerk or a"
+
+she knows how to cope,
+with a jerk or all of a partay.
+
+
+in the rude, quite a birpen colled gaid,
+
+
+when chrising it croot
+and twoul opdec and tofforsionbs trame rught of she shaye
+but's now he's pubight one coodrus.
+so had by a puppini's limerus
+when every se
+for ended oon the coppoter,
+is had peeite adrior,
+"af the dasn for the feck
+i foundeyes is seein, a fot
+and chaterted a nothty 
+as readulled his long pake.
+i'm ill a puy that i s
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+36431/36431 [==============================] - 63s - loss: 0.8121     
+
+----- diversity: 0.2
+----- Generating with seed: "ad one tied down,
+while she took off her"
+ad one tied down,
+while she took off her vagine,
+and the mendinaly greess,
+'til they licking ustick,
+and sheegrl as a shotter the day
+when the played the pill is a surprever that she las a dong
+with a tho give allet to class
+and the poss and sown of eat she starts on the chick,
+all they she samed the pill in a surchore!"
+
+
+there once was a girl named rule, 
+who seved i pissout in a copped he'll getk,
+she's a wormals the sake of the coot
+
+----- diversity: 0.5
+----- Generating with seed: "ad one tied down,
+while she took off her"
+ad one tied down,
+while she took off her four
+is speent and the frotth she limeration,
+but a lard from tookerys becks
+he could blugke and sheels for the combiss,
+he cause she starter ghtirs,
+that she say with one player with glass
+if the pill ty selfomed morn
+for like she like a largy bis
+that lible gren young girl,
+tick, ured theil igristingher
+'efly cashing strake,
+"of really pligertan's the coke to the birs, 
+it was cunt blug a mane,
+
+----- diversity: 1.0
+----- Generating with seed: "ad one tied down,
+while she took off her"
+ad one tied down,
+while she took off her for from exyteloked,
+and out i knowsus tree poons af so itc.
+
+
+ncy as the give she snides aro houst.
+as quite a hold by farher
+the'd nume was killy leg.
+was to cuck fort fucking lumbimch
+call me in chasial "deal,
+on her pinplieum too ,
+its he was bost puke of eder,
+"'t, now learnypires at the gettabmal named clappen,
+so that were all she such nomined yore. -
+there once a wald of gicus geer
+he pan
+
+----- diversity: 1.2
+----- Generating with seed: "ad one tied down,
+while she took off her"
+ad one tied down,
+while she took off her critcher, goon leeter,
+cloiver gioning croddruobrina,
+and chiller grox sught,
+who dobivej on in recrect was tike and squere and you seed,
+he found the cochy as job
+than yan't buty frot to a funnle
+
+
+if oul er, he  he plate, be fare
+knong it thes itle,
+foon the prees of therding toom,
+as a wo blien from cuz,
+you innlication,ipmicker jerk noun, feot,
+when she chock, to       
+
+  
+ith a colone onec 
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.8013     
+
+----- diversity: 0.2
+----- Generating with seed: " ape. 
+who gave up his skin for a cape. "
+ ape. 
+who gave up his skin for a cape. 
+
+
+there once was a man from spake
+who was a ladsine dos her fore
+i'd she found her vaging in a supre.
+when always was distion, that same all her for 
+for the menthed the sead when she starter from the coot
+
+
+there once was a man from spake
+who was a pirper from the pet
+there once was a man from spake
+who was a pissole was really doke
+she said with a grin,
+so they plang on his cock.
+there once was
+
+----- diversity: 0.5
+----- Generating with seed: " ape. 
+who gave up his skin for a cape. "
+ ape. 
+who gave up his skin for a cape. he said "ifor,
+then cumme all her tooler the read;
+it was really was, 
+
+
+                                                                                                                                                                                                                                                                                                                                       
+
+----- diversity: 1.0
+----- Generating with seed: " ape. 
+who gave up his skin for a cape. "
+ ape. 
+who gave up his skin for a cape. her
+tis has loover the ceger,
+shy fourn titlly she slipplin,
+that has goouer some likes a man colm. 
+
+
+there once was a man named by thin
+
+
+the lad of the seeath he said "ot, toll she said in biry hund thwish quite 
+and covered with a gly named phanse geein
+like to begin,
+a bitter gher
+
+
+on till her down on a sux
+
+
+who was took his reaptone the wrong.
+a wepon the besticks all toover ryowhey,
+but s
+
+----- diversity: 1.2
+----- Generating with seed: " ape. 
+who gave up his skin for a cape. "
+ ape. 
+who gave up his skin for a cape. ."
+
+
+jant out of i no eirshongs.
+if thinke of eirply co-
+
+
+there once was a man on trume,
+who's mofed a barre thing
+then wrinn plus of gai
+ter-fun it of a mone
+purite that got tood
+he wour s,lopso saulhowets
+and he hrie shy'll day i'm 
+love in clang
+he gave his as decroine
+she see sheavens a man of theses
+that's not bibled a turwher
+yo  a skere poostell gask.
+
+
+i'd gettere to roat of chec bat. 
+
+
+
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7961     
+
+----- diversity: 0.2
+----- Generating with seed: "en she got out of bed 
+she stood on her "
+en she got out of bed 
+she stood on her tits in filly.
+and now you she starter that got,
+
+
+from the bish and a grin,
+sture was a young ling......
+non't he was hear,
+when she dirt of the chitzored than light.
+byew she was a milf for the see,
+"frow man of his smittymi!!
+
+
+there was a young lady from wrunking
+and the grodn got mores that like a peras
+and they age got ming him as her
+and they was hung change. 
+
+
+there once was a man from ma
+
+----- diversity: 0.5
+----- Generating with seed: "en she got out of bed 
+she stood on her "
+en she got out of bed 
+she stood on her tits off his bay paak
+
+
+whose bleas of rooming mine,
+and not out too mang her butter
+he wad her a blow yought,
+she sturt of the ween 
+
+
+there was a young lady from many
+who with rende by prisheght me their tight of gair." 
+
+
+a prewan as a man named cleim,
+and we the granive frent
+
+
+there once was a man from peru
+who shoot off my bach and penise a se!
+and i his cock went i fines we throo.
+she strie
+
+----- diversity: 1.0
+----- Generating with seed: "en she got out of bed 
+she stood on her "
+en she got out of bed 
+she stood on her ate
+for a horrs,
+they west down find in barallus hg!e
+
+
+there once was a young lady named day
+who made a dymble said, -                                                                                                                                                                                                                                                                                         
+
+----- diversity: 1.2
+----- Generating with seed: "en she got out of bed 
+she stood on her "
+en she got out of bed 
+she stood on her her was a bight.
+he fetle kngevens
+and twat through they caniones,
+by rosted through a dag
+named cot of my come sollo boyford!!
+corethat give up and ne!!
+
+
+there is a man from ,y,
+
+
+there ouce slost like a gell wamed siss
+and x buth named all
+she said with a gran,
+flew geck it mone,
+con's prearted cown said.
+
+
+a forger the fide on the piori.
+but to the sa touce whing to taggers,
+a sure word of dy 
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7920     
+
+----- diversity: 0.2
+----- Generating with seed: "h open delight,
+
+
+the lands of the sioux"
+h open delight,
+
+
+the lands of the sioux as do boys bicks
+and she say with his friend named down of her crack
+and to bearge was he would suss
+and wes the thictonch and he sumer,
+and now he's a flumber getts,
+they was are possout in the bishop was hand in the fart
+
+
+a conter man whose both and suck-stle to the cotter
+thit with a grin, 
+there once was a man named clubie
+who woned the mendinatis parter that weile
+she said, "it's limering a
+
+----- diversity: 0.5
+----- Generating with seed: "h open delight,
+
+
+the lands of the sioux"
+h open delight,
+
+
+the lands of the sioux a buster, 
+there once was a man named buggs,
+whose nide was her spert go down on till fine jor."
+
+
+lose unon the player with her crawme a strece
+that he was don't the bishop was han
+the darrsight with one the sud
+and they adle be one,
+but she scort priends with her realling called bparres
+his balls he pun his from rock
+and spickine where this wrestire root to be janes
+
+
+there once was a man named
+
+----- diversity: 1.0
+----- Generating with seed: "h open delight,
+
+
+the lands of the sioux"
+h open delight,
+
+
+the lands of the sioux and passy, wasted a ,lies a plum,
+and i suck-a to the cut jer."
+
+
+there once was a man named all, flating sat mery who bell 
+there once was a man from brughty
+them tutk mach the dapst fight-his whereid a may in
+he coold be one, ase a screams, be inke their has a strepptn,
+when te your equine where endee,
+think use the day was muke and 
+as burnifes as twece 
+
+
+there once was a man from the boots,
+
+
+----- diversity: 1.2
+----- Generating with seed: "h open delight,
+
+
+the lands of the sioux"
+h open delight,
+
+
+the lands of the sioux did sfrometh, give he stollow,
+she can't he had 'lucken the recte,
+you're a bell ty the poylees
+in sed pablic, was his mada.
+that hus bitgrious to the equans on the cogeh
+thou said "thit blle 
+you cance say plummers lile
+and then splagels long bit. 
+and derken you gropion from beng
+who used all han 'ersin, fot
+there once was a zeew, mace in
+she plumber, she frent 'ld and laby ,
+there once was a g
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7793     
+
+----- diversity: 0.2
+----- Generating with seed: " sex used lubricating jelly,
+but in thei"
+ sex used lubricating jelly,
+but in their sissed to that 
+and in not i saymely
+a placed a wof much ficstoncered a to 
+
+
+there once was a man from from-
+who was a selvipad from to boy 
+she staden caroline. his boy 
+he said out in the cute
+if a bother call throught stucked to the coot
+lods in the chicks.
+and it getting the cool ring
+and the rander that her crack
+and mission the cute a minceras like me a collat.
+there once was a man from k
+
+----- diversity: 0.5
+----- Generating with seed: " sex used lubricating jelly,
+but in thei"
+ sex used lubricating jelly,
+but in theine weakued ".....eellust idears's a rock
+for the poon and dende wert from his bay 
+but the front the sea,
+who had enden on his be a sumb hus confurger,
+he wont ere quite was hang and pulled and he sad,
+whide the gal named his to 
+i cunt one to cuck in a tree,
+"chas its's went more up drink
+that a moght mothers,
+and i sucked to that more.
+but i sube that we hole in the ass went.
+he have sigether a 
+
+----- diversity: 1.0
+----- Generating with seed: " sex used lubricating jelly,
+but in thei"
+ sex used lubricating jelly,
+but in their fleess wenty like a s
+blus to such stuck touck... 
+
+new faini, whece seads one to cuck went!"
+i can she saw in the pesse
+that urely mate that was the could feelineq  to a s
+but lummer drenke tucking cuck if of ryne
+they admait warnd thrie her wiffoired her slatce
+and a bed from pilfralling edeird,
+grist the ares butquen't and proce and rumbers lud
+thoung maphos more,
+brew she call be from a youn
+
+----- diversity: 1.2
+----- Generating with seed: " sex used lubricating jelly,
+but in thei"
+ sex used lubricating jelly,
+but in theirmss,h
+the muchts as of "dehidal
+there was a zew named clach,
+when entermosteng iher sizled a shore,
+but, at out her crack
+letes throw suck
+itriets all young piss
+but one not in cunthry she stuck thay blick of shated!
+
+
+there was a young sar
+he fun a done,
+who drink the fided
+
+
+that yus toograprept flom to tit
+the drissed to tite x
+
+
+there once was a in named hull
+
+
+there once was a girl, maceray 
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7734     
+
+----- diversity: 0.2
+----- Generating with seed: "e scuttled those bitches
+with yards of e"
+e scuttled those bitches
+with yards of eseross to the brays
+for the bly there,
+"iffred a man in the chaid, 
+as he was her father her father he swarker to be groding,
+under the poon was nater with flam saak
+and the mellows sturted throke and snith in his moon a ming
+her fack is a but
+
+
+there once was a man named laverk
+but one concerny,
+and she stall that she starter the seage,
+"oh the lood that the square a streyt too mosh,
+there once w
+
+----- diversity: 0.5
+----- Generating with seed: "e scuttled those bitches
+with yards of e"
+e scuttled those bitches
+with yards of erevered the lepre
+the blood apply the mill pay reading the chif"
+and now a minch called her got learn't she could form,
+his bithone she saw he was fart
+who was a copped with plaver dy bicks and his too crain sand say 
+
+
+there once was a man named his from tere
+who asked her cunt of a copped,
+who sead to be from the hermating
+and cat of a thought mone,
+that was the legrtere realriorion,
+that same c
+
+----- diversity: 1.0
+----- Generating with seed: "e scuttled those bitches
+with yards of e"
+e scuttled those bitches
+with yards of emistion urn't cloins,
+and he fay he fant
+he on fide the knipst of chan exx
+the se samceg,
+the symcrunicsaw sheest the gots of a !                                    sull tate fow ferm aar.
+
+
+ty if the dams peeiried "oo robb
+
+
+a parinaman from notle
+who lost douth hugrine,
+and a youngegive jeck now his skeywning bay
+he farnied a man in her cunt
+but the toots in the not tool
+
+
+there was a yount reno
+
+----- diversity: 1.2
+----- Generating with seed: "e scuttled those bitches
+with yards of e"
+e scuttled those bitches
+with yards of erever for he spart,
+and ghere limericks for his scort,
+but his rostal nextarr.
+
+
+there once was a man in me
+usly we's his bally cand
+he  stut'tely fore
+
+
+was his liftenisan las a grunt
+with a plicking is cloim,
+"iffod to playered immrese
+and in chame ald hand like shage,
+he had nito was drike as bit of at rave.
+
+
+foom elorgar can't nome vore,
+please, as a tee gumbaous grammsed didks you sazed day
+
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+36431/36431 [==============================] - 64s - loss: 0.7616     
+
+----- diversity: 0.2
+----- Generating with seed: "s of bare thighs
+and felt his way throug"
+s of bare thighs
+and felt his way through to conter,
+
+
+there once was a man named girs,
+whose don't the lad to we mince a word his conferm.
+there once was a girl named rapbir
+who damned his a cott, so would punt,
+in she scare on his colleted the cotter,
+the sabquaring the cotter,
+there once was a pleeber while died with cunt.
+he wourded down,
+when she down of eides, 
+and the day
+whres his wweo with a grin, 
+she couldn't get the rood, 
+a
+
+----- diversity: 0.5
+----- Generating with seed: "s of bare thighs
+and felt his way throug"
+s of bare thighs
+and felt his way through to to."
+said he "owe "pessole of reemple graved that geein a tari.
+
+
+there once was a man named rudur
+whose diet one you ght in a colleger in a puck
+it's a yswno strange dropior in a tree,
+surcate was smang in a surcrevered
+thair the bly to drink
+in a coppen of the dined in the nat
+and poomblen at a slund
+and think, from the hubule dint' 
+bece once said, "you're and the ment and stuck it!!
+
+
+lit
+
+----- diversity: 1.0
+----- Generating with seed: "s of bare thighs
+and felt his way throug"
+s of bare thighs
+and felt his way throughter, that a muck
+to get to day
+peipuse who tries of strewchoons a grees,
+
+
+you care of a pluso and rover
+but yeint affor small
+a womlong as man of idessan.
+
+
+there once was a pennas yein,,
+who was roos, a was think, whileight, 
+and now raray, what i would four
+you have a coppine dows,
+said, "ots thicks as shore a while
+
+
+there once was a woman named fiss,
+who's now yount source of the moon and tw
+
+----- diversity: 1.2
+----- Generating with seed: "s of bare thighs
+and felt his way throug"
+s of bare thighs
+and felt his way through the went.
+i knighte
+the likeme, trought stububble.
+
+
+who tol'rt the punce in bed in esurce,
+to the feam allay well-dowing that lows she'dly made!
+
+
+   i kid couldn't so bucke.
+with yeins a young man nine!cor owf tale. 
+ nuther coystans been unding 
+he could cumbed her,,
+go bang stoucking is down,
+whece bit" ed, taipqead from quible
+
+
+but i knowed had 'more casling and clanke
+a womlent bet for
+th
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+36431/36431 [==============================] - 62s - loss: 0.7595     
+
+----- diversity: 0.2
+----- Generating with seed: "attractive young germ!
+come join me my s"
+attractive young germ!
+come join me my siffed a sle,
+who was a core in the alsid was the consiss.
+the same all her for a while.
+and she say with flaces
+and she stoots and song and swore and sonce a shore,
+the can the cole and she say
+the feel was nottingh confle.
+said the played with glass,
+and senter a shot of his whene.
+
+
+
+there once was a girl from kent,
+with a plied it with few her hande.
+and i seene is a score and so wo knew.
+
+
+a m
+
+----- diversity: 0.5
+----- Generating with seed: "attractive young germ!
+come join me my s"
+attractive young germ!
+come join me my so he could some all
+yew would sustarling of sase!"
+
+
+there once was a girl from manden,
+whose bittoouss and crance he said "got leas.,
+but was really lake so when a corm.
+he was a sead young fromm from the copro!
+
+
+there once was a man from manden, sawhilled c plus mile and swine,
+said vite was diss a sundres,
+when the was with a copped with flacesaid a skece
+a wombly long her he'd bay a flese
+and
+
+----- diversity: 1.0
+----- Generating with seed: "attractive young germ!
+come join me my s"
+attractive young germ!
+come join me my sew!"
+
+
+to the playgea weasn of a man from spore
+who gat to get in the tlee,
+
+
+with a plick if ran minus sozchis mhioul
+
+
+when she collows his lidard her cricks as dubb
+hhs wile in his air.
+
+
+there was a young wombon grewly fronghntoncerconoly mhith your s
+lodbuced her bicks
+and yeight her peen me house
+and ubsid the held a matc, he shatcess the seakink.
+i fucking a ban for ead
+you're a been, with 
+
+----- diversity: 1.2
+----- Generating with seed: "attractive young germ!
+come join me my s"
+attractive young germ!
+come join me my sevan't fissohore!
+
+
+there once like like deartomates rumher, stall in hir "itfly seld,
+he alw fistire confetson
+long out in his be lack in a ilux.......
+nngnow yomiscopped him unass
+and replied in hizin, ur really gay
+was the mirts "xtagct with graved iomerictum,
+they wrifrse adly like callo.
+snild spizing for it way."
+
+
+there once was a play ryllwor,
+who thinked the playe seens 
+
+
+laie come onte 
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7424     
+
+----- diversity: 0.2
+----- Generating with seed: "hore named jess 
+whose fucking made quit"
+hore named jess 
+whose fucking made quite and snat
+and they went took old move to the cot,
+they gree wondells we take up the ceins on till her
+but to to be bree lossally
+
+
+i know"in'y she sturre once snier, who woned her sploked the complexe
+said the sweetter, a reall,
+oh c too mother, said,
+"of the smillove that of smit
+there once was a man from st. as,
+whose don't the have haid grode
+there's a mother gogso to the fend.
+
+
+there once wa
+
+----- diversity: 0.5
+----- Generating with seed: "hore named jess 
+whose fucking made quit"
+hore named jess 
+whose fucking made quite and pulling in the ranke of the frot
+to desbelled her can's fore
+
+
+a lady lamed a man from kannamer
+who was too accinother motherm.
+
+
+there once was a man from spoke, 
+who would great wonmhorncy calling buch stucked her. 
+
+
+there once was a girl from coyth,
+who woned to his got one mood from the sodd
+to be grees done whene.
+
+
+there once was a man from st. sprick,
+with the hairs to he say,
+so i h
+
+----- diversity: 1.0
+----- Generating with seed: "hore named jess 
+whose fucking made quit"
+hore named jess 
+whose fucking made quite and at and a kiss and a place of clahit a crifform.
+
+
+there was a young man named sal
+y
+bouth like a kee,
+"oh yeil sof the haze,
+funcunts one poover the e... 
+
+
+a man whom beck by too
+to write "rever,
+
+
+und had bro down on her tyke.
+
+
+who havin the phing his houlthin the draner,
+that hands on the mobic, said, "peab,lle, so in a thoir 
+as renith right,
+the frottibly blaike a grong in,
+and the lam
+
+----- diversity: 1.2
+----- Generating with seed: "hore named jess 
+whose fucking made quit"
+hore named jess 
+whose fucking made quite and hunuchet.
+to don't forgers's and named unur small
+iffrear you straget,
+
+
+there once was an old man from kevee,
+who took effamsanix she cool's long,
+of the plume, as so fithang
+and , its woulan's lostarn, prodn't lise,
+but thought foun him don't get 
+mink it scalled like a younu ath pie.
+said the squeted her to biste!"
+we chiff a fistirnt sailun." 
+and they won the sight were sand the sake
+a 
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7394     
+
+----- diversity: 0.2
+----- Generating with seed: "te one thousand thirty
+not one of them d"
+te one thousand thirty
+not one of them dint,
+and now he's a cot got lews,
+said, "re's a milly the sex
+that much the sead to be from the seas
+
+
+there once was a girl from boston
+rabbured that fly spense got learn'd the brays
+
+
+there once was a girl from brink,
+she said with a grin, 
+
+
+there once was a man from the bey
+who seed all oh inten named down
+who steed she saw a man of ssizquare blun of the covered
+the sead to be grend
+tife as se
+
+----- diversity: 0.5
+----- Generating with seed: "te one thousand thirty
+not one of them d"
+te one thousand thirty
+not one of them down
+there once was a girl from grayan
+
+
+there once was a girl from the strewhr
+who so know"i sure drinkin't till trie blies.
+
+
+there once was a woman named swall
+who died to the miss,
+but the mull to this too moth of the chinch of a strece,
+"that's seens the men of this smill
+
+
+a lady from to braked whrey fat
+and i seene is a seak
+less that grew lesser,
+when she short was moving the nete 
+of the t
+
+----- diversity: 1.0
+----- Generating with seed: "te one thousand thirty
+not one of them d"
+te one thousand thirty
+not one of them day
+there once was inget lick in nabbr and ih really laghed.
+"it'skut if sut her tates sume,
+plepse seld eness, as the met came on no cuttet midical sit. 
+a possounded if sueter her marin
+
+
+there was an old say preeppbillipper,
+trast out and crofle and her
+blew the genas fleet craplide.
+in grew look clock with friebusf me was he aroker. diss!!
+
+
+  i got tat so pring,
+when stilled lost of ball,
+and 
+
+----- diversity: 1.2
+----- Generating with seed: "te one thousand thirty
+not one of them d"
+te one thousand thirty
+not one of them dinttistoce,
+'tife foof her fack it!
+
+
+was" not oof his smetle
+who mostapan und were his wish in pir.
+he's fillo"
+there once was a man named rubber,
+whoke dried grayed goous grits,
+accy lesser as herdzer,
+he conce falled with petis
+there once was a poyount min
+
+
+there once was a beging
+she straid and is tried lourf,
+that he had neg all the saw enoryonly to biste,
+"tas a put the pelive it mening,
+an
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7375     
+
+----- diversity: 0.2
+----- Generating with seed: "me of mcglough
+who like to do things tha"
+me of mcglough
+who like to do things that she sadsing to be from a sund!!!
+
+
+there once was a man from the kids,
+whose beght from the bugght,
+with a plus from too britt
+
+
+there once was a man from splyat
+who said with a gring
+and the mending miss of saasid
+he wants all her too known
+her clitter really planke.sno" 
+
+
+there once was a man from splyat
+
+
+whose bother shot off her hand from toot
+she ladded a plus her pine,
+she found the ment
+
+----- diversity: 0.5
+----- Generating with seed: "me of mcglough
+who like to do things tha"
+me of mcglough
+who like to do things that he planke. 
+
+
+there once was a man from nantucket
+who was squere was a land from arrust
+and now he's a colus
+there once was a girl named claim an
+who said on his collens an
+
+
+there once was a man from splynt
+whose nod he sald the cars
+
+
+there once was a man from rappe,
+who was squere and spough of his bith step pluse
+
+
+a man from the chippy and suind.
+
+
+there once was a man named his from tormoo
+
+----- diversity: 1.0
+----- Generating with seed: "me of mcglough
+who like to do things tha"
+me of mcglough
+who like to do things that his cunt,
+and sonce selass lummerrsing to traibble.
+
+
+there was a young girl from quee,
+trough to wresseled her vagingfurny
+bill he said, "revidued from poy,
+who had a big hdad wifd myaw mely jadred the rause tame.
+but hune couldn, queter, shat losingher cumis
+got its af a monat up the dard,
+cambies from their tive bhourd
+so have jumbor the light memb!"
+i shot his unlormed deed,
+sn hew a got fio
+
+----- diversity: 1.2
+----- Generating with seed: "me of mcglough
+who like to do things tha"
+me of mcglough
+who like to do things that it squert eo.
+'nur scavechy dondeoon,
+wasquin, when shprees poss,
+ceil is sutht sourked to the just
+he well in a paniust procking
+
+
+
+yom nod ear the not the saye
+roresfove male chicks and hand!"
+
+
+there once was a man named lees
+said a pill dissongtes it,
+
+
+from this no intermance head the cheesed,
+he scan't sair wormh thuch 
+so he could show and jam.
+
+
+but the fead likes as a horu,
+you woyghd g
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+36431/36431 [==============================] - 66s - loss: 0.7267     
+
+----- diversity: 0.2
+----- Generating with seed: "le she's never alone,
+cuz if it's for sa"
+le she's never alone,
+cuz if it's for samed and chachon the coloon
+as good of his biahurs.
+there once was a man from the kids
+who one body from the blass
+when he thig of espersoine with a groce
+she slitthang lookin', she saw lang me collaise say pully didrless,
+it was a bloke when less a man of mean a broke
+and that genve made all the cole she said in one till smill
+there once was a man from the kids
+who was a cocly pan to bir. 
+
+
+there
+
+----- diversity: 0.5
+----- Generating with seed: "le she's never alone,
+cuz if it's for sa"
+le she's never alone,
+cuz if it's for same what...
+
+
+there was once once was a man from brughte,
+who was no ladded regrotting in rewish his week.
+
+
+there once was a man named sal
+who withed her smill weat it dister,
+that it a cot of the drice of chastion
+ly from his balls her had greez
+we're ence old bloodd from the buytrobore!"
+
+
+there once was a man named stall
+whos a man named ruder?"
+she said, "i'll a golget,
+said her not got too co
+
+----- diversity: 1.0
+----- Generating with seed: "le she's never alone,
+cuz if it's for sa"
+le she's never alone,
+cuz if it's for samed like!"
+
+
+there once was a boy who beactown care,
+but so ixthing mangch to whee!!
+
+
+there once was a man from rangin
+who "oubllls she would four
+
+
+there once was a maid from rach,
+he would clitchibly than like. 
+thee cause that outs,
+now outsoous who litt ee, whilex a plecionanal ,
+itcy a mons first.
+
+
+juck harn,  who laved in the grover
+
+
+enos you're was renatchuplian on the couble. 
+
+
+there o
+
+----- diversity: 1.2
+----- Generating with seed: "le she's never alone,
+cuz if it's for sa"
+le she's never alone,
+cuz if it's for saae
+when such bud hold her, neveriese a gome
+she dordly clack by the seak
+he could found night.
+
+
+there once was a man from hrun-cers
+who dick was dripped limerine collipte. we ub-her mone
+as i cleass learn's all cool.
+sex seversieder start wille were and,
+they limericang limerive dicky
+i cuck 'vence lears give as cal.
+
+
+i known it's tought with a monoung mascive. thit satchiat.
+she sait was so big
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+36431/36431 [==============================] - 71s - loss: 0.7178     
+
+----- diversity: 0.2
+----- Generating with seed: " mule in the fight 
+first led with his r"
+ mule in the fight 
+first led with his right.
+there once was a man from the sprin,
+who was fonties like a man of langest like a lip
+to when he roster
+who would sploke shore on the creve
+there once was a man from ranger
+who sole in for verse, ge mcally fills with glais,
+
+
+there once was a man from boston
+who was a man with a shore,
+she came show who was his part, who would sut how tick it!
+
+
+she main of his mone to be groding coners.....
+
+----- diversity: 0.5
+----- Generating with seed: " mule in the fight 
+first led with his r"
+ mule in the fight 
+first led with his right.
+there once was a man from smaber
+is to knutt him all to bith sand.
+
+
+there was a young man from bostin
+
+
+there once was a man from nantinghed dristes,
+while compen embacke to straved the square realling his myens
+
+
+there once was a man from the sprin,
+who had a creved to her nitt on his mor
+but her a got in his mirts,
+but ment and sol on his bith
+
+
+who stort out a double pal on his bunt,
+str
+
+----- diversity: 1.0
+----- Generating with seed: " mule in the fight 
+first led with his r"
+ mule in the fight 
+first led with his right.
+the sknd sulf on hay veram, 
+it's out a dustted neat craplice on sirptive sermioner to the tive.
+i don't the eaguth spart of conmiles
+this would carfet out one,
+brew zer tight in 'ersion
+you mith was really by a grees,
+said i wive ontem's to scrover.
+
+
+there was om can named down
+who tone with a moghty seven, to be sid is her wreve
+she mother to such or my peted in bedrod.
+he real not by big
+
+----- diversity: 1.2
+----- Generating with seed: " mule in the fight 
+first led with his r"
+ mule in the fight 
+first led with his right
+so he realw she'd nesedrros a get my mos
+a don.
+th its at himsus we musth. 
+
+
+there was an out s. spew, 
+and a bit of last like that he dir.
+
+
+a doscerant brithent emhopaping to las
+.
+sa sheene on hish
+who bollox sthatgab, sage, 
+who entertic midring too!!su
+
+
+former in her clubbife live inat and hat at the pood
+'ly just who had him his to cooos,
+wrile ord tlet of chosepeas
+lovery that same a
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7148     
+
+----- diversity: 0.2
+----- Generating with seed: "the fear
+that, and the absence of light!"
+the fear
+that, and the absence of light!
+there once was a man from rangowinalow. in a terter
+that would be the seasive she storm and she stay!
+
+
+there once was a man from rappe,
+she said with a gal named dunkey.
+
+
+who tolled her had brew she land
+for the larger a sunder,
+there once was a man from rappe,
+who seed a man from name was name all colle.
+who had a cunoned his don't paning,
+and now he's got of much
+for the cone,
+
+
+a man whom no
+
+----- diversity: 0.5
+----- Generating with seed: "the fear
+that, and the absence of light!"
+the fear
+that, and the absence of light!
+there was a young man from bostin,
+whose don't the ride stroke, 
+but i fuck it cliess that like a covice a scort, 
+and i see, i know her can's named clans
+and she says to one her tits of smifuur
+a fullonat stucking the kicton
+loud that my had named all or mostet and thinks affully said, "this pissiod to the bir..
+
+
+ficker gedied collect, while for his mone called grow like.
+
+
+a lady from the side
+
+----- diversity: 1.0
+----- Generating with seed: "the fear
+that, and the absence of light!"
+the fear
+that, and the absence of light!
+there once was a man from peru
+who once was a man grams rent
+with the dine in ear tookermit
+and out beren off the said.
+
+
+there was a young lady from perurgir
+who's knowst bether named cunt
+found his rovery down on
+their huded the yous fuckine,
+mil vectume have hugras
+
+
+there was a poll plowban
+finnic wer.snrey is rogs
+there was a young lady from dela,
+whose now he was one straget.
+but a dusting 
+
+----- diversity: 1.2
+----- Generating with seed: "the fear
+that, and the absence of light!"
+the fear
+that, and the absence of light!
+
+
+there was a young fellow from 'mane,
+who swaitic lick nom a ple the,
+was you a named gook
+her cunt with fravs in till mplime. with a tarpioincer
+as his twill onf!!
+there was a young lady from applic
+who's awhes druncen
+
+
+there was a young strippy
+widfed to bisker,
+but i curiswor a chorebow concring sal-ine.
+yeo uncon's may ,
+goen fun out,
+streughe was all of a young
+"jam at her vavide in bir.
+b
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7015     
+
+----- diversity: 0.2
+----- Generating with seed: "ing a large bong
+he was reading a sonnet"
+ing a large bong
+he was reading a sonnet,
+and the pake we just named clanked the pent
+and thinks of like to peam,
+and the pake with eess, the birs, and atcans
+for not to be grodive hourd don't on the coot
+they greese did grew less sels,
+she said " sutcove sheee,
+but the prong sission his sex,
+a sparted to the his from toot,
+who wourd be from the pill to the stat,
+when she show of his swallowed her tries" 
+he lostaint and thinks a minch 
+
+----- diversity: 0.5
+----- Generating with seed: "ing a large bong
+he was reading a sonnet"
+ing a large bong
+he was reading a sonnet and score,
+said the pooked her crack
+and the plotow of his sexkenared with eech thrie boy 
+its a fund to his poose from toot,
+who was nod a pig in her fat a dinsters
+
+
+there was a young lady from the poots,
+who was his morth say down of her father too
+when i proked the bishop was nang to such of eat a tates,
+she could see was his dreve
+endered with place,
+and they ad's grew woon filled her
+"deess
+
+----- diversity: 1.0
+----- Generating with seed: "ing a large bong
+he was reading a sonnet"
+ing a large bong
+he was reading a sonnet and ok
+loure that it small,
+he please juse heire staboke,
+and a pursty and atcans with dippen care intol.
+
+
+there was a young lady from benu, her bat, when he hourts,
+and madrter the piblets long e une, mod her balls
+and the own is a dir from the more,
+breat was replie fucking
+and i said " with with nud carp pecaning once can's renter.
+sa the knowm dissie, thissons who banged her time.
+the droubl
+
+----- diversity: 1.2
+----- Generating with seed: "ing a large bong
+he was reading a sonnet"
+ing a large bong
+he was reading a sonnet,
+and thing east as by and deadin', scraweved love kall, who was die!
+
+
+jum's where in now he's scould that sand score, "feve it love lot finat. 
+
+
+there once was a bistid of god
+rays wrett beghe she but..hidh,
+and sad ohan of his lace hat.
+till she way not one long eens,
+
+
+there once was a sty or dold from rento,
+who last foots not outs"be,
+"de more is pay rearill playe
+with a cre",  i feet her p
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.7027     
+
+----- diversity: 0.2
+----- Generating with seed: "g of thighs,
+just that wonderful hot fem"
+g of thighs,
+just that wonderful hot femmyonon't the cotter,
+but i suizins while he scovered with men fuind cumbe
+there once was a girl named rapbin
+who one balls and pennt.
+in so who sucking the men of eat 
+and he swat of his bill in his balls hear
+who was so louth young man
+if chiff of this inton't butter,
+thit blue a blund ery minal buing
+he could she say in a thoce,
+a but to the chince that said,
+"if this onecr, as he sware, 
+there 
+
+----- diversity: 0.5
+----- Generating with seed: "g of thighs,
+just that wonderful hot fem"
+g of thighs,
+just that wonderful hot femme
+she said with a grin,
+as he was not got                                                                                                                                                                                                                                                                                                                                                                      
+
+----- diversity: 1.0
+----- Generating with seed: "g of thighs,
+just that wonderful hot fem"
+g of thighs,
+just that wonderful hot femmyonolon.
+
+it, she thicks renatess would race
+the muster was ming of his bell
+and she ferm a young girlso don't midsal blue a flece.
+
+
+there was a youn can who with a greet
+whose know that grenkinet frot and diske
+in a but toot only be prods
+
+
+it's give way too my 'erk.
+
+
+fouled her vagina "i foor frent
+
+
+there was a way whin one ceen and came. 
+replow on her one score,
+said he could sed her snot
+
+
+----- diversity: 1.2
+----- Generating with seed: "g of thighs,
+just that wonderful hot fem"
+g of thighs,
+just that wonderful hot femmrae
+the scoulg butgrious,
+nepricell was hudrine,
+that all he arking the blanke.
+poot is said, "desinom shew
+who adsifed her vagine,
+comer down bigg, a wonkuery way plice,
+
+
+the reswayer with a shoosen prieng.
+
+
+the dover out off vaping or
+by a cumbed with flace,
+foul i four
+it's thine beli called with !plasover,
+he woned the ploys who fondele
+she poonus made, lumsion from expoke,
+he wentued veruc
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6904     
+
+----- diversity: 0.2
+----- Generating with seed: "ith a bloody rip
+now she has syphal-lis "
+ith a bloody rip
+now she has syphal-lis se!
+a perse fool of the cotter,
+but i cunt with flacis wining just like a coppen a mem.
+
+
+the sur becuned the pett me
+that we he was cocked to receut fiese fase
+she said with a shore,
+said he was hune whese the fendered the coots.
+i known had breass on a strare braim and she sed,
+when she strake and so wo lan,
+that he was coppen a more,
+but she says with a skeor.
+
+when she show of a strays on the 
+
+----- diversity: 0.5
+----- Generating with seed: "ith a bloody rip
+now she has syphal-lis "
+ith a bloody rip
+now she has syphal-lis i pai.
+there once was a man from the bey
+the knows went of puss.
+ind saide the rumeed the coppore!"
+
+
+a man from peater with with eeping keer.
+but i cunt was her father.
+
+
+the do
+the farnded lost as he was dense,
+who won the his from the coppent
+
+
+whose pans, onter with a grin,
+
+
+the known frotting in of a strew,
+who tongher, as she suredrarnd flee more
+
+
+the do
+the known of copinameramed to cock.
+
+----- diversity: 1.0
+----- Generating with seed: "ith a bloody rip
+now she has syphal-lis "
+ith a bloody rip
+now she has syphal-lis his malling.
+sight was too scretted that me"mile,
+
+
+throbe was a man from coppan
+with a toot souther
+tike as cumker the done,
+so conflemer disseld himse
+she said old decrave se".
+
+
+we losthote she sexwally 
+
+
+throm night dimb threse on a s
+and brittonch and art mins and him inan.
+
+
+with a chinchick of this lamed hyme alot
+he really farse fat
+and he readin, illaber to a shiffed
+and fectoricoon, ofn
+
+----- diversity: 1.2
+----- Generating with seed: "ith a bloody rip
+now she has syphal-lis "
+ith a bloody rip
+now she has syphal-lis ear.
+
+
+there once was a man from spanal
+and thrungh, aron' abprise
+and peambent with and space succetion,
+but a streary drismal,
+
+
+there once was a man from bentells wewe hand.
+
+
+a nidopinno it off her surt
+was no how the flotine,
+to he's rapescapbe, named to back,
+i feet on rende offer inducked that her.
+onen the inch leaslin,
+cell ead masing him a. yo jerk.
+he'ck she sayer "den't fuck
+i'm affarm
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6856     
+
+----- diversity: 0.2
+----- Generating with seed: " would fuck it
+did ye hear of the scotsm"
+ would fuck it
+did ye hear of the scotsme and suck it dropped that like a surer,
+who was so hould be grew lens and he fat.
+he mate the men of his twool
+but was really do bicker
+he was his balls hear
+he was a gord on a rocker,
+he was could some flom with bistesding
+a booting a minundermyoonce
+
+
+there once was a man from brewvers
+who tolong her bangsing of my but
+he was so from the hat so her wiff
+he lostay on the chis no contern't like a
+
+----- diversity: 0.5
+----- Generating with seed: " would fuck it
+did ye hear of the scotsm"
+ would fuck it
+did ye hear of the scotsmet
+
+
+minflew she strangction
+was the habs from quell was his tow cack to day
+there once was a man from the poy,
+who was swort wert with not much itsai
+all i said own his boy of eat 
+
+
+there was a young lady from whooperd
+who said with a grin, for a moring should fact.
+it was good cuntintum,
+with a plassing we the same him as her
+but the get me on her backfar. 
+
+
+there was a young girl from histon
+
+
+----- diversity: 1.0
+----- Generating with seed: " would fuck it
+did ye hear of the scotsm"
+ would fuck it
+did ye hear of the scotsme she selfor,
+saw he's pettiat with a do?
+it was goo whing rist like sifced her and cutn sewapa blount.
+once was a pelly lassible 'uine, 
+while strapted the old didows mocking
+und she would triely be any cat.
+he wants were the now yore asqueborlq.
+in four ning a were inton
+he was her to but fart me
+when a horiso when begile.
+there was a young lady from hus,
+who liked thing's said dissies to do bic
+
+----- diversity: 1.2
+----- Generating with seed: " would fuck it
+did ye hear of the scotsm"
+ would fuck it
+did ye hear of the scotsmell werk,
+brew she tho wart smile,
+in no?"
+
+
+ she'd be it go damiop with join
+she came of scaugh, sa mainafnce, getten of his hownt.
+there was a woz anridin, named beew in!s
+
+
+there once was a woman from the hyple,
+who was pore hund on eadapates for here,
+pust is po wormers, that mence dirtens witny.
+when the whore on her titn four,
+and i'veng at lashied gioning tal. 
+
+
+there was a young lady name
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6795     
+
+----- diversity: 0.2
+----- Generating with seed: "bottom is always kept bared;
+when asked "
+bottom is always kept bared;
+when asked to be grean a man of a man,
+for made and spack ubuched her to dance the coots.
+there once was a man named hills,
+who thought it to the chinghthere once s
+stett of the ments on the coots.
+they gree beght geein,
+for she startes and thought,
+they was a man from named cooldber,
+
+
+there once was a man from nantucket
+
+who thought she say to thrust prock
+the engher got less and sof you 
+the sured of eser
+
+----- diversity: 0.5
+----- Generating with seed: "bottom is always kept bared;
+when asked "
+bottom is always kept bared;
+when asked to blust limeriffess
+
+
+there once was a man named hilly.
+who seads we throke in a colong 
+
+
+an erat was to he could so wreht.
+"it was poss and the eaked to be kicks
+
+
+and spetted to his got of a man, "that's musher, stoots and had from such confle.
+i cunt was the cume of god
+who this and such as her crowmy face
+a fashine to cooker-it drughter,
+but she stould pass and the same a good grewm.
+nine to
+
+----- diversity: 1.0
+----- Generating with seed: "bottom is always kept bared;
+when asked "
+bottom is always kept bared;
+when asked to wrenoeripes a lick
+if had brewmen good in treer. 
+
+
+there once was a sex from brightes
+who inver time me                                          priends the fell yead one til
+foil in got of say pissong
+and they as one "of chones came claim aboce
+to the merittes coable
+whose bught sorms poss and a birp on sidun. 
+
+
+there inly's a file, sex,
+who sed de more poons ess reading is,
+came tried to do
+
+----- diversity: 1.2
+----- Generating with seed: "bottom is always kept bared;
+when asked "
+bottom is always kept bared;
+when asked to keliint it so melle.
+
+
+there once was an old sdow, oncow!
+with a fendsing thes.
+he pusige stucking with succoon
+bur willmasf girl of not kasis,
+and she sucks down of emply times  c uane,
+"of card it blick in the brain got and sands xymidon
+it a syparan girl ur
+as brushere as to a got a juck shere's hadevend,
+as sf roolti, gelmmyess "'gel tat her tome a lakiouinal mination,
+but at learn,mous wai
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6795     
+
+----- diversity: 0.2
+----- Generating with seed: "!" 
+
+
+there once was an old man of esser"
+!" 
+
+
+there once was an old man of esser,
+who when pone to the huse she starter from toot,
+who was squren and snin chinghtory 
+and they adlled her cracker the cooth she start,
+who would subrided "got leet a tar.
+
+
+there was a young lady from splynt
+who was a lidter was his will becks decrowed is suck-stere,
+the drotted a man who would suectine.
+but this content like all her sinded and cumhor
+that with a grees bot,
+for a man from twentin
+
+----- diversity: 0.5
+----- Generating with seed: "!" 
+
+
+there once was an old man of esser"
+!" 
+
+
+there once was an old man of esser,
+who was a pubpin were a was a strape 
+
+
+there once was a man from braply bee,
+who fonnd i beat's was gal braige
+so i kick to deed,
+while compricing his such and suck her statted
+that was got of mosten gaide,
+"iffotyoubly mother to that some had
+a con't and how the leghes,
+when thin like that got at all,
+and said " the wersing had galk, 
+and they was dong as su her from arroot
+
+
+there was a young
+
+----- diversity: 1.0
+----- Generating with seed: "!" 
+
+
+there once was an old man of esser"
+!" 
+
+
+there once was an old man of esser,
+who when pone to to got leal,
+he ,lad suncones he was ate
+your in out screamin't came 
+
+
+there was a young womben from perty,
+who found din't milly pant
+in mech called grevt
+
+
+there was a young lady from peru,
+whre can litt cormericang just meth shotre,
+saw so lars to the streat
+that will in his brishie ecke and zeven,
+they pass got of alls wo lead in a mone,
+the use biging ued i veeting.
+
+
+ther
+
+----- diversity: 1.2
+----- Generating with seed: "!" 
+
+
+there once was an old man of esser"
+!" 
+
+
+there once was an old man of esser,
+who fould bitfuan snixt sucl in the boe,
+there lime foring's sax
+we poosing his sprace sait. 
+
+
+the chuckid her caufe got melly were. 
+
+
+there was a bolloverfrewed from reverace named beghe
+don, it is sleess and in the fect kill!y
+h
+s funnors the lipped onely 
+then calledr biggy a ter
+there once was a spown from kent,
+who thoughts and so tritchianded undengs, but in nightter
+thit blue the lood l
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6659     
+
+----- diversity: 0.2
+----- Generating with seed: "third stroke
+the goddam thing broke
+and "
+third stroke
+the goddam thing broke
+and now she and scrown on a suncey
+as he say plotom of eas
+but his rogets a mone caing sirch.
+there once was a man from spokickwh
+ncont wert mong a man on the covere
+when as the met from the price,
+when it was grays would pus and suck confer,
+
+
+a man whom no with cany
+and the men of the much sead in collow. she come breas
+now ohing the died that all out of my but
+then studk was as got and sninghter,
+h
+
+----- diversity: 0.5
+----- Generating with seed: "third stroke
+the goddam thing broke
+and "
+third stroke
+the goddam thing broke
+and smelled lost priably flund,
+who wond bluat of empaning the dricks down that was he lasown
+
+
+there once was a man from histown on a sunce named beard,
+who lamed to his not rexxhathing the drive she starter to the greee
+
+
+who i suck to dristont only mith named jeck,
+and wesens we was a min nanght on till in a baris,
+and they stord care in the childa'll, foul in smell young lands from penust me and p
+
+----- diversity: 1.0
+----- Generating with seed: "third stroke
+the goddam thing broke
+and "
+third stroke
+the goddam thing broke
+and think is tried his get meaue,
+"or throw year on sy slid
+than laict juse any lad ero,
+that was he wouldng stuttick!"
+
+
+there once was a man named hangy
+whose longe thicks a gree botyon. 
+
+
+a dound be man your tooz?"
+listick, as by kidnt,
+what illed her tood of is meause she aconed by punt
+he'd brarg was the peel
+who ence a man who would skeet with bikishipsain' 
+
+
+a man whose proably this actick.
+t
+
+----- diversity: 1.2
+----- Generating with seed: "third stroke
+the goddam thing broke
+and "
+third stroke
+the goddam thing broke
+and smelled lossiad his jol eing to shanked
+the onet ticking mely,
+she got arounsher,
+to my diffred a tato,
+he was rearnifver the dings of may cave
+he "onfee, all his poon
+afffver the sburg of a roodd lake, peusteg"to fooss got on theite.
+
+
+she frogitilfian with a dan from noot
+who gransed ool one limer quite can!
+
+
+there once was a fag named mabgay
+who taid tabole ngmade and scorf sply ind 
+
+
+there o
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6603     
+
+----- diversity: 0.2
+----- Generating with seed: "e.
+said she, "does it itch?"
+"it does, y"
+e.
+said she, "does it itch?"
+"it does, you can look in keyyon. 
+
+
+there once was a man from nantucket
+
+who was a bit of a lard b. 
+
+
+there once was a man from nantuctip
+who was a see, when pissy tooss too kids
+
+
+an eron called her subbode
+is he was two leted to have.
+
+
+she could she says to cock to her crick
+i cure intang me cat. 
+she said with a gring
+and twoughter the met at to craille."
+
+
+there once was a man from nantuctip
+who was a
+
+----- diversity: 0.5
+----- Generating with seed: "e.
+said she, "does it itch?"
+"it does, y"
+e.
+said she, "does it itch?"
+"it does, you cunt, sonking stuck it!
+
+
+there once was a man named swe inghr
+who was a pirped of a my covered the cole. i said with begil,
+if a boyf as meater the come to who better
+that it stoots of his scoth 
+
+
+there once was a man from nantuctinatil
+who was smarted to wrong he cooldnger said,
+"iffed off her critics
+
+
+there was an old man whond night
+who would me and thrie morine with eech couldn't se
+as b
+
+----- diversity: 1.0
+----- Generating with seed: "e.
+said she, "does it itch?"
+"it does, y"
+e.
+said she, "does it itch?"
+"it does, you can like meinat and blie.
+that all the ad's luntume
+this all to morged the reading trie
+so wo kent, and now he's by wart 'e can't.
+as he was the spurger,
+he was feneter, then stragen, 
+and i having one mach, as hear.
+snde you there said veample,
+and blead old cooldride.
+but he had a wonk
+he was sofrudring the smile
+
+
+as cuntlonem clease she he like a pert my iget's get mear.
+
+
+i did blave i all
+
+----- diversity: 1.2
+----- Generating with seed: "e.
+said she, "does it itch?"
+"it does, y"
+e.
+said she, "does it itch?"
+"it does, you carnic. 
+
+
+there once was a gal named cleme!
+
+
+with her good is tre pird called,
+you may with fuck
+it up tubus shoppess and chan off her cunt lunt
+the kistter mobic and pani.
+ 
+he think in craped trenoch.
+the snothing stuby fast and surcere undentingly moride.
+
+
+! thied "phould pustice who was replied i
+
+
+           ild,
+in blarms lenter get igic's ohung
+he mutct was notter,
+so i'lly this pring
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+36431/36431 [==============================] - 61s - loss: 0.6546     
+
+----- diversity: 0.2
+----- Generating with seed: "ady from france,
+who went to a birthcont"
+ady from france,
+who went to a birthcont with eession a man of langes was his bith'sess did.
+there once was a man named ruder,
+whose don't the midded her a vipp from the trite,
+said his bitting a flamme
+a from the boyt bian,
+i dimb at a loth still tattame all he sunced 
+the diresis the sake of the coots.
+the must dreveced her can covered that lews,
+the squere was a man of sseess
+
+
+a man whose so big in his pissed that
+and the men of the
+
+----- diversity: 0.5
+----- Generating with seed: "ady from france,
+who went to a birthcont"
+ady from france,
+who went to a birthcont with eessiod in his balls went
+
+
+there once was a man named swanke
+who limeried a wordes, a wear, book, and he wife,
+the midring the drabes was mear,
+but if a cunthind than flyate.
+
+
+there once was a maid from slaugth,
+whose i viquile was a penised
+the sy, i such for named hymen
+not out of es
+i cunt would bith.
+
+
+there once was a man who deldown was farter winn a straker.
+
+
+a man whom in the mude
+
+----- diversity: 1.0
+----- Generating with seed: "ady from france,
+who went to a birthcont"
+ady from france,
+who went to a birthconthe was a boag
+nic balls started the fead
+a famitick care intelled,
+a grovericum, shruby in sirth quite meal
+quite raversed him all covere,
+a boy one sy,
+eigron to keet,
+they went, she couldn't was he wilks her a word
+you why couldnve chuke like a, livery that leard,
+plans he fooling oof yunn,
+i decreal was smarry lide.
+
+
+in a polor named hymengs dick
+i slottled, and a sporn
+braid it was a while my
+
+----- diversity: 1.2
+----- Generating with seed: "ady from france,
+who went to a birthcont"
+ady from france,
+who went to a birthcont care,
+but had lumped blight from didk
+
+
+a man called her more hoo.
+go to got in the fendinst god
+night and one yee,
+she nogsing cagge, that 
+and gotkusing a man who would with in'tille.
+there once was a man from puye
+who had greve to                               sirmyle she said, "real,
+it was sveep blie, 
+they grew and sofe, go bent in of is
+she stayered her lime, 'till it did is her can'st,
+th
+python3 limerickTest.py  12207.83s user 1181.88s system 336% cpu 1:06:19.61 total
+
