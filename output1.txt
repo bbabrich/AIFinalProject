@@ -1,0 +1,3575 @@
+----- diversity: 0.2
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t"
+h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t_  ah0 n d_  ah1 v_  ah1 n_  ah1 n_  ah1 n_  ah1 n d_  ah1 v_  ah1 n_  ah1 n_  ah1 n_  ah1 n_  ah1 n_  ah1 v_  ah1 n_  ah1 v_  ah1 v_  ah1 n_  ah1 v_  ah1 n_  ah1 v_  ah1 n_  ah0 n d_  ah1 v_  ah0 n d_  ah1 v_  ah1 n_  ah1 n_  ah1 n_  ah0_  ah_
+  dh ah0_  dh ah0_  ah1 n_  ah1 n_  ah0_  m ah1 ng_  ah0_  ah_
+  ah0_  ah_
+  ah0_  m ah1 ng_  ah1 n_  ah1 n_  ah1 n_  ah0_  ah_
+  ah0_  ah_
+  ah0 n d_  ah1
+
+----- diversity: 0.5
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t"
+h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t_  ah0 n d_  s ah1 sh_  ah0 n d_  ah1 n s_  dh ah0_  s eh1 l iy2 d_  ah1 n_  ah0_  m ah1 n_
+  ah1 n_  s ah1 s t_  w aa1 z_  sh iy1_  dh ah0_  s ay1 m_  dh ah0_  dh ah0_  dh ah0_  l ey1 n_  t uw1_  dh ah0_  dh ah0_  s ah1 s ah0 ng_  ih1 t_  ah1 v_  ah1 v_  ah1 v_  ah1 t_  t uw1_  sh ih1 n_  f r ah1 n t_  f r ah1 n_  s ae1 n s_  w aa1 z_  sh ah1 n_  sh ah1 n_  s ah1 n_  ah1 _
+  sh iy1_  ah1 _  ah0 n
+
+----- diversity: 1.0
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t"
+h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t_
+_
+_
+  dh eh1 r_  w ah1 n s_  n aw1 t_  aa1 k z_  ah2 n d_  s eh1 _  ah1 p f d_
+  t uw1_  ih1 n s_  aa1 _
+  ah1 n_  ah0 n ah1 l_  s ae1 n_  ah0_  _
+  n ey1 t_  w aa1 l_  w aa1 z_  ah0_  b ih1 l s_  f a11 l_  ng ao1 _
+  w eh1 r_  g r uh1 l d_  iy1 n sh er0_  ah0_  y uw1 m s ah2 t_  w ih1 m ah0 n_
+  b ah1 k_  sh ah1 dh_  n ay1 t_
+  dh eh1 r_  ow1 s ay1 n_  l ay1 n d_
+  ah1 _
+  dh ah0_  sh ay1_  dh 
+
+----- diversity: 1.2
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t"
+h1 v ah0 n_  ah0 n d_  ah0 n _
+  b ah1 t _
+  ah1 n sd_  p uh1 m ih0 ih2 _
+_
+  dhh n d_  k oh1 n ih0_
+_
+  sh ih1 z_  ah1 n_  dh ih0 d er1 s t ah0 zg_
+ 
+hh iy11_  w aa1 
+_
+  sh iw1_  d ow1 d_  aw1 n ih0 z_  f r ah1 n_  hh ih1 z_  dh ah0_  ah1 l_  n aa1 l_
+  dh eh1 n_  b ae1 ns_
+_
+ ah0 n ae1 z__  saa1 r_  ah0_  s ah1 k ih0 mg s p hh l_  f ao1 r t_
+  hh ey1_  ah0 n iy_
+  th r dh ah0_
+  sh ih1 g_
+  f aa1 r dh aaow2 m d ahh iy2 ah0 b_
+  hh ah
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+74294/74294 [==============================] - 126s - loss: 0.8163     
+
+----- diversity: 0.2
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n _
+  ah0 n d_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  ah1 v_  hh iy1_  hh iy
+
+----- diversity: 0.5
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  ah0 n d_  ah0 n _  ah0 n d_  aa1 n_  ih0 n_  ah0_  l aa1 n_  dh ah0_  s ae1 t_  ah1 v_  w aa1 z_  w ih1 dh_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  w aa1 z_  ah0_  ah_  ah_  ah_  ay1 n t_  ae1 t_  ah1 v_  ah1 v_  ah1 v_  k ao1 r_  aa1 n_  ah0_  n aa1 t_  w aa1 z_  w aa1 z_  w aa1 z_  s ae1 s t iy0 ah0 _  aa1 n_  hh iy1_  s ah1 m_  ay1_  ao1 l z_  ah1 v_  y aa1 z_  ah0_  m a
+
+----- diversity: 1.0
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  ah1 v_  w aa1 z_  w eh1 n z_  m ay1 _  hh ir1_  ih2 _  hh iy1 d_  s ow1_  r ow1 s_
+_  ao1 l t_  ah1 t_  dh ey1_  d ih1 n s ae2 z_  hh iy1_  t uw1_  eh2 t aa1 t_  ah1 v_  w ah1 n ah0 d_  f ao1 r _
+_  w aa1 z_  w ih1 dh_  hh ih1 m_  ay1 t_  aw1_  k ih1 v ah2 d_  g l ae1 hh ah0 l_  y ah1 n_  dh ah0_  f r ah1 m d_  ah1 v_ _
+_  y uw1 p_  dh ah0_  ah_
+_  r ih1 _
+_
+_
+_
+_
+  dh eh1 r_  w aa1 z_  aa1 r_  w
+
+----- diversity: 1.2
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  w ih1 nhh er0_  m eh1 ah0 h_  aa1 r eh2 t s_  ah1 t_  sh iy1_  hh er_  k ow1 v ih0 d_  r ay1 l_  daih0 s l eh1 d s_  ih0 ow1 aah0_  n t r ae1 s t_  s ay1 dh er_  ao1 l z_  ao1 1_  b ah1 ch_  b l ay1 d_  ch uw1_  t ao1 _  aa1 n_  p aa1_e th ae1 v ah_ _
+  s eh1 t_  g iy1_  g ih0 n m ay1_  f ey1 t_  aa1 n_  ih1 t_  b ow1 g l ay0_
+  l ay1 _
+  dh eh1 s_  hh iy1 d_  m aa1 z_  hh uw2 d d iy_
+  hh ih1 _ 
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+74294/74294 [==============================] - 125s - loss: 0.7526     
+
+----- diversity: 0.2
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+ f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n _  ah1 v_  ah1 v_  ah1 v_  ah1 v_  hh er1 l iy0_  ah1 v_  ah1 _
+  ah0 n d_  sh iy1_  hh er_  hh er_  hh er_
+  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n _  ah0 n _
+  ah0 n d_  ah0 n d_  ah0 n _  ah1 v_  ah1 v_  ah1 v_  ah1 v_  hh er1 l iy0 ah0 t_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n d_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n d_  ah0 n d_ 
+
+----- diversity: 0.5
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+ f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n d_  ah0 n _
+  ah0 n d_  t uw1 t_  ah0_  m ae1 s_  t uw1 d_  ah1 v_  t uw1 l iy0_  s ao1 r_  g er1 s iy0 iy0_  n ey1 m d_  ah0 n _
+  ah0 n d_  ah0_  p ae1 s t_  g aa1 t_  ah0_  ah_
+  ah0 n d_  sh iy1_  hh iy_  hh i_
+  dh ae1 t_  ah0 n d_  sh iy1 s ah0 t ah0 ah0 l ah0 l iy0_  l ay1 l iy0_  s ah1 m er0_  ah1 v_  hh ae1 d_  ah1 v_  hh er_
+  hh uw1_  s eh
+
+----- diversity: 1.0
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+ f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_  s eh1 l_  s k ah1 f ih0 d_  ih0 n_  dh eh1 r_  p ae1 s _
+  _
+  t ay1 d_  m ae1 l ah0_  b ah1 _  g er1 l iy0 z_
+  m ah1 t_  ay1 l_  ih0 n_  ih0  ae1 n ih0 ih0 t_  ah1 v_  w uh1 d_  ih1 t sh_a g er1 iy1 s_  m ay1_
+_
+_
+  dh eh1 r_  w ah1 i_  ay1_  ah0_  eh1 s iy0 aw1 p iy0_  ih0 n s ah1 g ah0  _
+  r ah1 r z_  dh ah0_  w ih1 d_  ae1 n_  g eh1 r_  ih0 n_  ah0_  dh ah_  w ah1 s_  s ow1 ar0 ah0 n s l i
+
+----- diversity: 1.2
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+ f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_  s uw1 z ih0 k s_
+  ah0 n d_  ow1 v er0 ih0 v_  hh iy1_  l iy1 s_  ah0 s eh1 s_  t uw1_
+  ao2 v er_  ay1 r_  ih0 s 1 ih1 k ah0 t iy0_  uh1 v_  m ae1 s t er0_
+  dh ae1 z_  ah0 n _  dh ae1 t_  g eh1 _
+ _
+_
+_
+  dh ah0_  v ay1 g iy0 d_  b aa1 l g ah0_
+_
+_
+  ae1 t_  b eh1 r_  dh ow0_  n ey1 r iy0 ah0_  er0 z ah1 m_  ey1 d_
+_
+_  dh eh1 r_ _
+  ay1 z_  ah0_  b oh1 r_  dh ah0_  ah0_  l ah1 t ih0 _
+  ah0 n
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+74294/74294 [==============================] - 127s - loss: 0.7107     
+
+----- diversity: 0.2
+----- Generating with seed: " e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k"
+ e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k s_  ah1 v_  hh er1_  hh er_  hh er1_  hh er_  hh er_  hh er_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n d_  ah0 n d_  ah0 n _
+  hh iy1_  s eh1 d_  ah0_  m ae1 n d ih0 d_  ah1 v_  hh er1_  hh er_  hh er_
+  hh iy1_  s eh1 d_  ah0_  m ae1 n_  f r ah1 _
+  hh uw1 z_  hh ih1 _  hh iy1_  s eh1 d_  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh ih1 _  hh iy1_  hh e
+
+----- diversity: 0.5
+----- Generating with seed: " e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k"
+ e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k s_  ih0 k s eh1 s t ah0 d_  ih1 t_  ih1 _  hh ih1 _  hh er1_  hh er_  hh e_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _  f r ah1 _  s t aa1 _  t uw1 l d_  y ao1 _  ah0_  m ae1 n_  f r ah1 _  f ao1 _  f ao1 _  f ao1 r m ah0 n_  f r ih1 t_  f ao1 r_  ah0_  n eh1 k s_  ah1 v_  hh er1_  hh er_  hh e_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 _
+  a
+
+----- diversity: 1.0
+----- Generating with seed: " e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k"
+ e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k_  d ih0 ch ow1 s t uw1 d_  hh er1_  l eh1 k s_  ah0 n _
+  hh iy1_  ow1 k l iy0_  ah0_  s ow1 f w eh2 n t ih0 ng ah0 k_
+_  d ih  b ih0 v ah1 ch d_  ah0_  ow1 t ih0 g ih0 n_
+_
+_
+_
+_
+  w eh1 n s_  ao1 l dh er0_  f ao1 r m ah0 p l ah0 b l eh1 r ah0 l_  ih0 n ih1 t ae2 n d_  dh ah0_  r ow1 z z_  ih1 t sh ah0 r t_  ah1 _  w ah1 t_  z ow1 l ah0 _  ah0_  p ih1 l d_  hh ih1 _  hh er1_  hh ih1 _  k ae1 z_ 
+
+----- diversity: 1.2
+----- Generating with seed: " e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k"
+ e_  aw1 _
+_
+_
+  ah0_  l ih1 m er0 ih0 k s_  f eh1 l er0_  n ey1 m d_  n eh1 s t ah0 n_  k w ay1 t_  s t eh1 _
+  ih1 t_  y er1_  hh ow1 z_  m ay1 n z ih0 d_  f r ah1 m_  t ah1 jh eh0 g l ih0 z ah0 _
+  f ao1 r_  dh ah0_  g aa1 n t eh0 g_  ah1 v er0_  ih0 n   ey1 n d er0_  w ih1 dh__
+  hh ae1  _  hh ih1 l_  b ow1 t_  v eh1 d_  v eh1 p s _  n ey1 m d_  s iy1 k_  d ih1 l_
+  s ow1 v er0 ah0 _
+  hh ih1 z_  t uw1_  hh ih1 _  w aa1 z_  jh eh1 l
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+74294/74294 [==============================] - 124s - loss: 0.6854     
+
+----- diversity: 0.2
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  ah0_  ah_
+  b ah1 t_  hh ih1 m_  aa1 n_  aa1 _  ao1 _  ao1 _
+  ah0 n d_  ah0 n _  ah0 n t ay1 n t_  ah0 n d_  ah0 n _
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  ah0_  ah_  ah_  a_
+  hh uw1_  hh iy_  w ih1 d_  ae1 _  ao1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  n ey1 m d_  n ey1 m _
+  hh ih1 z_  hh ih1 _  hh ih1 m_  hh ih
+
+----- diversity: 0.5
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  t uw_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  n ey1 m d_  l uw1 n t_  ah1 v_  ah1 _
+  hh uw1_  w uh1 d_  t uw1_  d uw_
+  ah0 n d_  f eh1 l_  n aa1 t_  w ih1 d_
+  ah0 n d_  n uw1_  dh ah0_  dh ah_  dh a_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_  a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  v eh1 l t_  k ao1 l _
+  hh iy1_  l ih1 l d_  w ih1 dh_  ah0_  ah_
+  h
+
+----- diversity: 1.0
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  b eh1 k_  ah0 n d_  m iy1 v_
+  dh ae1 t_  p r iy1 t ih0 dh_  f r ah1 m_  y  w  k ae1 n_  ay1_  t uw_
+  ih0 n_  b ih1 k ah0 l z_  ah1 d_  aw1 t_  ih0 n_  eh1 o y 0_  y uw1 n er0_  d ay1_
+  ah0 n d_  dh ah0_  b aa1 r t_  y uw1_  s ih1 l r ah0 k t_  aa1 n_  b eh1 l ih0 ng_  w ih1 d_  p l ah1 b ah0 l_  d aw1 k_  ah0 e 1_
+  ah0 n d_  dh ah0 n d_  s ow1_  ay1_  f eh1 l _
+  hh uw1_  ey1 m t_  b ih1 t_  a
+
+----- diversity: 1.2
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  k uh1 d er0 l ah0 p r ih0 t_  k ah1 m_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 t_
+_  hh iy1 _
+  f aw1 d_  b r uw1 d_  dh ae1 t_  d ih0 m ow1 r t ah0 d_  ah0_
+  sh iy1_  ih0 v eh1 s t_  dh ae1 t_  ae1 t_  k aa1 _
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  n eh1 r i_
+  ih1 t_  dh ah0_  g r ae1 f l ah0 g t_  hh ih1 m_  k uh1 d_  n uw1_  b ow1_  k uh1 d_  g ow1_  t u_
+  d ih0 ih1 f_  ah1 v_  ah0_  ah_  w 
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6641     
+
+----- diversity: 0.2
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 "
+ ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 z_  hh ih1 _  hh ih1 m_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  ah0_  ah_  ah0_  ah_
+  ay1_  w aa1 z_  w aa1 _
+  ah0 n d_  ah0 n _  ah0 n_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  dh ah0_  m ah1 s t ah0 n_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  a
+
+----- diversity: 0.5
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 "
+ ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 z_  w aa1 z_  ah0_  ah_  ch ae1 s t ih0 ng_  ah1 v_  ah1 _
+  ah0 n d_  hh iy1_  w aa1 z_  s eh1 d_  t uw1_  b iy_
+  ah0_  dh ah0_  dh ah0_  w eh1 ng_  w ih1 dh_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 k ay1 d_  ah0_  ah_
+  ah0 n d_  w ih1limerickTest.py:66: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+ dh_  ah0_  d eh1 d_  ah1 v_  ah1 _  ah1 _
+  ah0 n d_  t uw1_  n uw_  b ay1_  hh ae1 z_  hh ih1 z_  hh ih1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  f eh1 l ah0 n_  n 
+
+----- diversity: 1.0
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 "
+ ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 d_  ae1 n_  d ih0 v ey1 n_  d r ih1 n_
+  hh iy1_  aey1 s t_  r uh1 k ih0 s_  dh eh1 r_  dh en_  hh iy1_  hh er_
+  hh iy1_  hh iy_  hh iy_  k w uh1 d ah0 d_  b eh1 y ah0 l_  k ih1 k ah0 _  ey1 s_  aa1 r_  aw1 _  aw1 _  ay1_  l ao1 r iy0 z_  r ih1 g iy2_  d ih0 p ay1 p r ah0 d_
+  sh ih1 v z_  w er0 m ow0 n ey1 m d_  t ao1 dg _
+  ah0 n d_  b ih1 s_  aw1 _  ae1 ch_  ah0_  m ae1 d_  b ih0_
+_
+_
+  dh eh1
+
+----- diversity: 1.2
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 "
+ ih1 s_  l ae1 s t_  l ae1 s _
+  hh iy1 _  s n ay1 k s_  d ay1_  t eh1 l d er0_  s ow y aa1 l_  ow1 l ey0_  f r ah1 m_  f r ah1 ag_  w ay1 f uw1 z_  ae1 p_  f ao1 rg_  n ey1 m d_  n ey1 m _
+  f ao1 r_  iy1 z ow0 h_  l ao1 r k_  p ay1 z_
+  y uw1_  w ao1 f t_  ih0 m ae1 z_  ah0_  f ah1 m_  ey1 m ah0 t_  z ay1 k z_  eh1 v r er0_  _
+  ay1_  l ow1 n_  z eh1 cd_  ah0 n d_  dh ow1_
+  ih1 f_  th ih1 s_  ah1 _  ah0_  w ae1 f ih_
+  ah0_  ah_  d_ 
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6473     
+
+----- diversity: 0.2
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh i"
+ ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh iy1_  sh iy1 n d_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n_  dh ah0_  s ey1 k_  ah1 v_  ah1 _
+  hh iy1_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  ah0 n d_  ah0 n _  ah0 n _  ah0 n_
+  b ah1 t_  t uw1_  d uw1 d ah0 n t_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n_  dh
+
+----- diversity: 0.5
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh i"
+ ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh iy1_  hh iy_  hh i_  d ih0 s ah1 m_  ih0 n_  dh ah0_  b ay1 n_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n_  dh ah0_  d ey1_  n aa1 t_  ih1 t_  ih1 _
+  s ow1_  s eh1 d_  ah1 v_  ah1 _  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  b ay1_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _ 
+
+----- diversity: 1.0
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh i"
+ ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh ih1 z_  w uh1 d ah0 n t_  k k r iy1 s t_
+  n aa1 t_  g aa1 n ih0 k_  hh uw1 z d_  t oy1 n iy0_
+  ah0 n d_  ah0 n _
+  my1 _
+  ih1 t_  ah0 n d_  uw1_  r eh1 l iy0_  t uw1 l_
+  f ay1 l_  k ae1 t_  g eh1 t ih1 k ah0 l ah0 n l ah0 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  b ae1 sh_  t uw1 s_
+  hh iy1_  s t uw1 n d l ih0 d_  d ih0 s r_  d ay1 d_  g aa1 n t_  ih0 n_  ah0 t ih0 s
+
+----- diversity: 1.2
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh i"
+ ey1 m_  t uw1_  dh ah0_  dh ah_
+_  hh iy1_  r ah1 m l iy0_  hh ae1 v_  f ay1 n d_
+  ah0 n d_  ch ow1 k_  t uw1_  b r uw1 m p k y2_  ah0_  m ey1 d r ih0 z_
+  dh ah0_  s ae1 d t iy0 w ah0 l z_  r aw1 t k_  n ey1 m d_  l ey1 r d_  y ao1 r_  g r ey1 l p er0_  t er1 n_  n ay1 _
+  ah0   h ih1 _  f_  p uw1 t_  w eh1 n_ _
+  ih1 t_  s ah1 l_  ah1 v_  m iy_  a_
+  b ih1 n_  ih1 n_  hh er1_  ah0_  ah m ah0 l aa1 r n ah0_  s m aw1 _  f uh1 d_  f ao
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6324     
+
+----- diversity: 0.2
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w"
+1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w aa1 z_  s ey1 n d_  w ah1 n_  w aa1 z_  w aa1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  hh ih1 _  hh ih1 z_  hh ih1 _
+  ah0 n d_  dh ah0_  s ah1 s t_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  g er1 l f r er0_  f ao1 r_  f ao1 _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa
+
+----- diversity: 0.5
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w"
+1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w aa1 z_  s t eh1 n t ih0 d_  hh er1_  hh er_
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+_
+_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  k ah1 m_  dh ah0_  s t ao1 r t er0_
+  hh uw1_  hh iy_  hh i_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+_
+_
+  dh eh1 r_  w ah1 d  hh ey1 d_  s ah0 k f ao1 l d
+
+----- diversity: 1.0
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w"
+1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w ah1 n d_  dh ah0_  m a_  dh ah0_  y ah1 ng_  g er1 l p ow0 l ey0 z ah0 _
+  ah0 n ah1 d_  w ah1 n_  p eh1 k s t_  aa1 n_  aa1 _  s _
+  sh iy1_  s ah1 k_  ah0 n d_  p eh1 t_  ah0 n d_  d ih0 b l uw1 d_  p er1 n z_
+  b ah1_
+_
+_
+  r eh1 v iy0 d_  m ow1 ng d_  g uh1 d_  t uw1_  ih1 z_  aw1 t_  ah0 n d_  eh1 n d_  w ah1 n _
+_  ah0 n d_  dh ah0_  f eh1 t_  w ah1 _  s t ae1 d ah0 s t ah0 _
+  dh ah0_  k r
+
+----- diversity: 1.2
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w"
+1 r_  n ey1 m d_  jh eh1 s_
+  hh uw1_  w ae1 l d_  p l ae1 n ah0 ae2 n n iy_
+  ah0 n d_  w eh1 n_  t uw1_  aa1 n_  w aa1 _
+  w eh1 z_  sh ih0 s th ah1 jh ow0 uh0 d_  ih0 n_  ah0_  ah_
+_
+_
+  ah0_   h ae1 f er0_  y ao1 r_  d r ih1 ng m iy0_  ow1 b ay _
+  sh iy1_  w ao1 z ah0 n t_  t uw1_  dh ah0_  dh ah_
+  sh iy1_  hh iy_  w ah1 n_  s ey1_  k w ay1 t_  k ae1 n_  ah0_  ah_
+_
+_
+  f r ah1 m_  f r ah1 _  ih0 n_  n ow1 d_  ae1 
+ g y uw1_  f ah
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6220     
+
+----- diversity: 0.2
+----- Generating with seed: "t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l "
+t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l t_  hh ih1 z_  hh ih1 _
+  dh ah0_  dh ah_  dh a_
+  ah0_  ah_  a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh uw1_  hh ae1 d_  hh ae1 d_  hh ae1 d_  hh ae1 d_  hh ae1 d_  hh ae1 d_  hh ae1 _
+  w eh1 n_  dh ey1_  hh er_  hh e_  w aa1 z_  w aa1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  ah0_  ah_  a_  w aa1 z_  w aa1 _
+  ah0_  m ae1 n_  f r ah1
+
+----- diversity: 0.5
+----- Generating with seed: "t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l "
+t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l t_  dh eh1 r ih0 ng_  hh aa1 r n ah0_
+  dh ah0_  dh ah_  dh a_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  g er1 l_  f r ah1 m_  b r uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  t uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh uw1_  w uh1 d_  k ao1 r_  dh ah0_  s ey1_  s ow1_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1
+
+----- diversity: 1.0
+----- Generating with seed: "t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l "
+t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l ah0_  ah1 v_  dh ah1_  w eh1 _
+  ah0 n d_  dh ah0_  g r uw1_  d uw1_  g uh1 _
+_
+_
+  s w aa1 n s_  f r ah1 m_  t uw1_  g oy_
+  w iy1_  hh er1 m ih0 ng_  m ao1 r_  hh ow1_
+  ih1 t_  ah0_  m ey1_  p r ah1 f r ah0 g l ow_
+_
+_
+  ah0_  g ah1 d_  ih0 n_  dh ah0_  dh ah_
+  w ah1 n_  m ah1 p_  dh eh1 r_  b aa1 l ih0 _
+  dh ae1 t_  hh aa1 r_  m ao1 ng_  d ih0 s ay1_
+  hh n 1 ih0 s_  n ey1 n_  ah0_  k r ao1 
+
+----- diversity: 1.2
+----- Generating with seed: "t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l "
+t_
+  t uw1_  s ey1 v_  hh ih0 m s eh1 l iy0 ow2 _  d ae1 t_
+  w eh1 r_  dh ey1_  sh iy1_  k ae1 d_  w ah1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  dh ae1_
+  sh iy1_  ihh n s ey1 n_  ih1 t_  n ey1 m d_  er hh ao1 r_  s n er1 s t_  ah0_  n ey1 m d_  f r a1 l _
+  w eh1 n_  ay1_  ae1 k s_  l ey1 s ah0 z_  dh ah1_
+  ah0_  s ey1 n t_  k w ay1 t_  t uw1_  d uw_
+  w eh1 v_  ih1 z_  ah0_  m ih1 sh ah0 t_
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6117     
+
+----- diversity: 0.2
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m e"
+0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m er0_  f r ah1 m_  f r ah1 _
+  hh uw1_  w uh1 d_  w aa1 z_  w aa1 _
+  dh ae1 n_  ah0_  ah_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh a_
+  dh ae1 t_  hh ae1 d_  hh ae1 d_  hh ae1 _
+  hh uw1_  w aa1 z_  s aa1 r t_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh a_
+  dh ae1 t_  hh ae1 d_  hh ae1 d_  hh ae1 _
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh a_
+  dh ae1 t_  sh iy1_  s eh1 t_  ah1 v_  ah1
+
+----- diversity: 0.5
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m e"
+0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m er0 ih0 k s_  w uh1 d_  s er1 l z_  hh iy1_  hh ae1 d_  hh ae1 v_  hh ae1 v_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w uh1 d_  hh ae1 z_  b ae1 n_  t uw1_  m ay1_  m ay_
+  sh iy1 s t_  dh ae1 t_  sh iy1_  d ow1 n t_  ah0 n d_  ah0 n _
+  ah0 n d_  dh ae1 t_  f ao1 r_  ah0_  b aa1 t_  ah0_  ah_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0
+
+----- diversity: 1.0
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m e"
+0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m er0 t_  hh ih1 z_  sh ih1 l_
+_
+_
+  dh eh1 r z_  s eh1 m p iy0 ah0_  b ae1 n d z_
+  f ao1 r_  ah0_  m aw1 n_  s k uw1 l_  s iy1_
+  sh uw1_  ah0 n d_  dh ah0_  dh ah_  sh ih0 f ae1 s t ay2 z_  b ih1 k_
+  g aa1 r t ah0 d_  k uh1 d_  n aa1 t_  ah0 n d_  ah0 n _  ah0 n_
+  b ah1 t_  ah0 n d_  sh iy1 k s t_  aa1 n_  ah0 n d_  ah0_  m iy1 s t_  f ay1 l_  ae0 n s ih1 t iy0_  s ae1 p r ah0 n_
+  b ay1_  d ih1
+
+----- diversity: 1.2
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m e"
+0_  ah_  ah0_  ah_  a_
+  ah0_  f iy1 m eh1 ng k_  sh uw1 t_  ah1 d_  iy2 aw1 t ih0 s t_  t aw1 ch_  b ao1 r t_
+  hh iy1_  hh iy_  dh ah_  l aa1 d_  r ay1 t_  ah0 n d_  ah0 n _
+  b ah1 t_  w ah0 n_  dh ah0_  dh ah_  th ih1 k s_  sh iy1_  ih2 n v ay1 s t ah0_  ah0 n d_  s k r eh1 
+  ae1 z_  ch ae1 s iy0 iy2 t_
+  dh ey1_  dh ae1 d iy_
+  n aa1 _  sh iy1_  m ow1 l iy0_  m aa1 d ah0_
+  n aa1 th ih0 ng_  b iy1_  f r ay1 n_  b iy1_  ch er0 uw1_
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.6029     
+
+----- diversity: 0.2
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+ f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_  ah_  a_
+  hh uw1_  hh ae1 d_  hh ae1 d_  hh ae1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 d_  ah0_  b ah1 s t_  hh ae1 d_  hh ae1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  n ey1 m d_  n ey1 m _
+  hh uw1_  hh ae1 d_  ah0_  b ah1 s t_  ah1 v_  ah1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f 
+
+----- diversity: 0.5
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+ f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_  m ih1 d ih0 v er0_  t uw1_  k uw1_  hh iy1_  hh iy_
+__  hh iy1_  hh iy_
+__  w ah1 n_  w aa1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  n ey1 m d_  d ay1 l iy0_
+  hh uw1_  hh iy_  hh i_  ae1 n_  ah0_  ah_  a_
+_  w ih1 dh_  ah0_  ah_  a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  r uw1 n ih0 s_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+
+----- diversity: 1.0
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+ f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_  ah_  m ay1 s t_
+  m ay1_  l _
+  y uw1_  w er1_  ah0_  k r uw1 _  n ey1 m d_  b ow1 t ih0_
+  hh uw1_  hh ae1 d_  t uw1_  hh iy1 z_  l ay1 k_
+_
+_
+  dh eh1 r_  w ah1 n s_  hh iy1_  ih1 z_  l ay1 n d_  d uw1 z_  dh ah0_  dh ah_
+_  w ah1 n_  aa1 n_  hh er1_  hh er_
+  b ah1 t_  k r ao1 ih0 ng_  b ay1_  hh iy1_  hh iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ah1 n er0 aw2 t_  m ay1_  b iy_
+_
+_
+_ 
+
+----- diversity: 1.2
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+ f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_  ah_  a_
+  dh  y1_  k ae1 v d_  ah1 v_  th r iy1_  f iy1 d iy0_  ow1 l d_  ey1 k g r iy0 d_  f eh1 l uw0 d_  ah1 v_  l eh1 k t er0_
+  t ao1 _  s ay1_  d ow1 n v er0_ ehh er1_  t r ah1 k s t_  s ey1 l d_  iy1_
+  ay1_  w aa1 n_  b r ah1 k_  hh ih1 z_  hh ih1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  w aa1 _
+_
+_
+  w ah1 n_  w aa1 z_  s k ae1 n d z_  w eh1 r_  hh iy1_  hh ey_
+  d ih1 d_  dh
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5935     
+
+----- diversity: 0.2
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh "
+1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh eh1 r_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s ah1 m_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n t ah1 n_  ah1 v_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n_  ah1 v_  ah1 _
+  ah0 n t ay1 n d_  ah1 v_  ah1 _  ah1 v_  ah1 _
+  ah0 n d_  ah0 n t ah1 n iy0_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n_  ah1 v_  ah1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  ah_  m ae
+
+----- diversity: 0.5
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh "
+1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh ah0_  dh ah_  dh _  ih1 z_  ah0 n t_  ah0 n _
+  w eh1 n_  sh iy1_  s iy1 z er0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n d_  s iy1 n t_  t uw1_  b iy1_  p ae1 n t s_  w ih1 dh_  ih0 k ah1 m er0 d_
+  hh iy1_  p aa1 t_  ae1 n_  iy1 v er0 d_  ah1 v_  ah1 _
+  hh iy1_  w aa1 z_  s k aa1 r iy0_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n t ay1 m er0_  s ih1 m er0 ih0 _
+  hh iy1_  hh iy_  hh i_  p aa1 r t_  w aa1 z_  h
+
+----- diversity: 1.0
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh "
+1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh eh1 r_  w ah1 n s_  w ah1 n s_  w aa1 z_  w aa1 _  s aao1 n_  l ao1 k s_  aw1 t_  ae1 n_  iy1 k_  aw1 z_  dh ah0_  r ao1 ng_  w aa1 z_  s eh1 l_  m ae1 n_
+  dh eh1 r_  w aa1 z_  ae1 t_  eh1 n t ah0 n_  f ao1 _
+  hh uw1_  s t aa1 p t ah0 d_  n ey1 m d_  n ey1 m _
+ ahh uw1 z_  k r ih1 m b ah2 t_  sh iy1_  sh iy_
+_
+_
+  ih1 t_  ay1_  ay_  a_  m ay1 l_  _  d ih0 v ay1 d_  dh ae1 th_  m ay1_  m ay1_  w 
+
+----- diversity: 1.2
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh "
+1 n_  t w eh1 n t iy0_  b ah1 k s_
+  dh eh1 r_  w aa1 z_  ah0_  m ae1 n_  ah1 v_   h ow1_  iy_  n aa1 n_  w ih1 dh_  p t eh1 b iy0 ih0 s_h d ah1 n_
+  ih1 f_  ay1_  w ay1 f_  r z ih1 k_  hh aa2 p ao1 r z_  d_  dh eh1 r z_  t s_
+  ah0 n d_ es ae1 n t ih0 ng_  aa1 t_  d n_  aa1 n_  aa1 _  m ah1 n_  hh ow1 z_  ay1_  g r ow1 t_  ao1 m_  ow1 _
+  n ey1 m d_  p ae1 sh ah0 m er0 ih0 k ah0 t_  m iy1 m_  m ay1_  b ay_  ih0 i_  ih1 z_  ah1 v_  ah1 
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5872     
+
+----- diversity: 0.2
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+ w aa1 z_  ah0_  g er1 l_  f r ah1 m_  dh eh1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  s eh1 l f_  ah0_  f r ih1 l _
+  hh iy1_  w aa1 z_  s eh1 l f_  dh eh1 r_  dh ah0_  dh ah_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s eh1 l iy0_  ah0_  m ae1 n_  dh ae1 t_  ae1 _
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh _
+_
+_
+  dh eh1 r_  w ah1 n s
+
+----- diversity: 0.5
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+ w aa1 z_  ah0_  g er1 l_  f r ah1 m_  dh ey1_  dh ae1 t_  sh iy1_  k ah1 t_  ah0_  f r ih1 l d_  hh iy1_  hh ae1 d_  t uw1_  t uw_
+  w ay1 l_  b ay1_  t uw1_  t uw_  t uw1_  t uw_
+  w ih1 dh_  hh er1_  hh er_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ow1 l _
+  ah0 n d_  s ae1 d_  w ih1 dh_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  dh ah0_  dh ah_  dh a_  s ow1_  m ay1_  ah0 n d_  dh ah0_  dh ah_
+  w eh1 n_  w
+
+----- diversity: 1.0
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+ w aa1 z_  ah0_  g er1 l_  f r ah1 m_  dh ey1_  hh ay1_  ae0 k s ay1 s t ah0 z_  b ae1 n d_
+  w ih1 dh_  dh ae1 t_  dh ah0_  hh ih1 z_  ih0 n_  dh ah0_  k ah1 s_  ih0 n_  hh ih1 z_  hh er1_  k ah1 l_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  _  hh ae1 v_  s n ey1 m d_  m ae1 p_
+  g ow1_  hh iy1_  s eh1 t_  k aa1 ch_  b iy1_  k aa2 m ow1g_
+  ah0 n d_  ah0 n _  ae1 z_  m ey1_  w uh1 d_  d uh1 r_  ah0_  ah_
+_
+_
+  ah0_  s ih1 l iy0_  m ah1 t
+
+----- diversity: 1.2
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+ w aa1 z_  ah0_  g er1 l_  f r ah1 m_  dh eh1 _
+_  w ih1 l t_  w aa1 z_  w aa1 z_  n ay1 t_  aa0 r ao1 z_  jh eh1 t_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ae1 t_  n ay1 t_  hh iy1_  d ih1 d_  d uw1_  k uh1 d_  p r ih1 l _
+  ih1 ihg _  l ay1 z ih0 n_
+_  dh eh1 r_  dh er1 d_  b l uw1_h k l eh1 t er0_  b iy1_  b i_
+_
+_
+  dh eh1 r_  ih2 n t uw1_  p uw1_  b ay1_  m ay1_
+  ih1 z_  s k ae1 s t_  w ih1 l_  s ah1 _  ay1_  hh i_  k uh1 d_  w ah1
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5787     
+
+----- diversity: 0.2
+----- Generating with seed: "iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l"
+iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l_  aa1 n_  dh ah0_  dh ah_
+  dh ae1 t_  hh ae1 v_  b aa1 r t ah0 d_  ah1 v_  ah0_  th ae1 n_  w ih1 dh_  ah0_  ah_
+  ah0_  f l ah1 s_  ah1 v_  ah1 _
+  dh ae1 t_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  hh uw1_  w aa1 z_  w aa1 _  w aa1 _  w aa1 z_  w aa1 _
+  s w aa1 th er0_  ah0_  s eh1 l d_  ah1 _  ah1 _  ah1 _  s eh1_  ah0_  th ae1 z_  ah0_  ah_
+  hh uw1_  hh ae1 d_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  dh a
+
+----- diversity: 0.5
+----- Generating with seed: "iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l"
+iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l_  ah1 v_  b oy1_  b ih1 t ih0 ng_  t uw1_  t uw_
+  ah0 n d_  s k aa1 d ah0 l d_  ah1 v_  m ay1_  m ay_
+  ah0 n d_  t uw1_  ah0_  m aw1 s t ah0 l_
+  dh ae1 t_  w aa1 z_  w aa1 _
+  dh ah0_  s ey1 m_  hh ih1 z_  n ey1 m d_  n ey1 m _
+  hh uw1_  hh ae1 d_  ah0_  f iy1 t s_  w eh1 n_  ih1 t_  ih1 t_  ih1 _
+  ah0_  m aw1 sh ah0 t_  b iy1_  b ih1 t_  dh ae1 _  ah0_  ah_  a_
+_
+_
+  dh eh1 r_  w aa1 z_  ah
+
+----- diversity: 1.0
+----- Generating with seed: "iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l"
+iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l_  aa1 n_  l eh1 n t w ah0 l_  ow1 l d_  m ay1 l_  p ow1 ey0_
+_  l ah1 v d_  w ih1 dh_  w er1_  hh ih1 z_  hh er1 m_  b aa1 t_  aw1 _  ah1 v_  ah1 _  ah1 _
+  hh uw1_  w aa1 z_  ih0 k s p r ay1 ah0 z_  ah1 v_  hh ih1 z_  hh ih1 _  w ih1 sh _
+  n aw1_  ay1 k_  ih1 t_  b ae1 n t_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 ng_  s b ey1 s_  g er1 _
+_
+_
+  ah0_  ow1 n l_  ah1 p_  w uh1 d_  d ow1_
+
+
+----- diversity: 1.2
+----- Generating with seed: "iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l"
+iy1_  sh iy_
+  w iy1_  iy1 ch_  hh eh1 l_  hh ih1 z_  g aa1 r iy0_  g ey1 _  s ow1_
+  b ah1 t_  ah0 n d_  ah0_  d ih1 d_  ah0 n d_  ah0 n _
+_  s ah1 k_  hh iy1_  k aa1 t_  ah0_  k r ih1 nh ih0 ng_  ih1 t_  b ae1 n_
+  ah0 n d_  th ih1 s_  d ae2 z ah0 z ah0 n t er0 iy0_ _
+  hh iy1_   hh iy1_  p aa1 s t_  hh ih1 z_  hh ih1 _  iy1_  n ey1 m d_  l ey1 z_
+  sh r ay1 d_  dh eh1 z_  s k w eh1 r_  ow1 l d_  ae1 t ah0 y d_  dh ah0_  p r ih1 s iy_
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5728     
+
+----- diversity: 0.2
+----- Generating with seed: "_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_"
+_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_  ah_  a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  p ae1 s t_  hh ow1 _
+  ah0 n d_  ah0_  k ae1 t_  ah0_  ah_  a_
+  ay1_  k ae1 n t_  hh ow1 z_  hh ih1 _
+  dh ah0_  p r iy1 s t_  ah1 v_  ah0_  k ae1 t_  ah1 v_  ah0_  ah_
+  ah0 n d_  ah0_  k ae1 t_  ah1 v_  ah0_  ah_
+  ah0 n d_  ah0_  k ae1 n d er0 d_  ah0_  ah_
+  hh iy1_  w aa1 z_  ah0_  ah_
+
+----- diversity: 0.5
+----- Generating with seed: "_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_"
+_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_  ah_
+  dh ey1_  ih2 n v ay1 s t_  t uw1_  s ah1 t_  ah0 n d_  ah0 n _
+  ah0 n d_  s aaih l ah1 k sh ah0 n d_  ah0_  ah_  a_
+  dh eh1 r_  w aa1 z_  ae1 n_  ah0_  m ae1 n_  n ey1 m_  ah0_  ah_  a_
+  ah0 n d_  w aa1 z_  ao1 l_  k ae1 z_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_
+  ah0 n d_  w aa1 z_  dh ah0_  dh ah_
+  ah0 n d_  ay1_  k ah1 n t_  hh er1_  f ah1 k t_  t uw1_  t uw_
+  
+
+----- diversity: 1.0
+----- Generating with seed: "_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_"
+_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_  dh ah_
+  ih1 z_  w aa1 z_  y ah1 ng_  n ey1 m d_  n ey1 m _
+  hh uw1 m_  d ih1 m z_  w ih1 dh_  ao1 l_  hh er1_  hh er_ 0_  v a_  s t aa1 g_g aa0 r ay1 m l iy0_  w ih1 dh_  ah0_  m aeg n t iy0_  d ih0 v ay1 v er0_
+ _  n ih1 dh er0_  d uw1 t_  aa1 r w ah0 z_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh en1 s_  m iy1 n ih0 r iy0_  ih1 z_  ah0_  hh iy1_  s eh1 n t_
+_  w ah1 n_  k ah0 n k eh1 n d ih0 d_  w ih1 
+
+----- diversity: 1.2
+----- Generating with seed: "_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_"
+_  g eh1 _
+  hh iy1_  hh ae1 ch t_  ah0_  hh ah1 p_  ey1 _
+_  ah0 n d_  w ih1 dh_  ah0_  k w iy1 t l iy0_  y uw1 f ah0 l_  jh eh1 n t_  s ih1 k sh ah0 s_  r ih1 l  hh aa0 t jh_  d n ae1 l_  n aa1 _
+_
+_
+  hh uw1_  t ah1 k s_  b ay1_  b ih1_  ah0 n d_  g er1 t_  dh ae1 t_  hh er1_  hh er_  w eh1 n_  n u ah1 p_  w uh1 d_  d eh1 d_  b l ay1_  sh iy_
+  dh ae1 t_  w uh1 d ah0 n_  ow1 v er0_  n ey1 m d_  n ey1 m _
+  hh aa1 n_  w er1_  m uw1_  
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5681     
+
+----- diversity: 0.2
+----- Generating with seed: " uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 "
+ uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 r_  w aa1 _
+  dh ah0_  dh ah_  dh a_  dh a_  dh _  ah_  ah0_  ah_
+  dh ae1 t_  dh ah0_  dh ah_  dh a_  dh _
+_
+_
+  ah0_  l ih1 m er0 ih0 k s_  w ah1 n_  ih1 t_  ih1 _
+  dh ah0_  dh ah_  dh a_  dh _  ah0 n _  ah0 n_
+  dh ey1_  w aa1 z_  dh ah0_  dh ah_  dh a_
+  dh ah0_  dh ah_  dh a_  dh a_  dh _  ah_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh _  iy1_
+  ah0_  b ah1 k_  ah0 n d_  dh ah0_  dh a
+
+----- diversity: 0.5
+----- Generating with seed: " uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 "
+ uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 r d_  hh ae1 v_  f r ah1 m_  k ah0 n k ae1 n ah0 s t_  w aa1 z_  w aa1 _
+  dh ah0_  dh ah_  ah0_  k ah0 n n eh1 r iy0_
+  s eh1 d_  s eh1 _  sh iy1_  w aa1 z_  s t uw1 l_
+  f ih1 r ih0 ng_  hh er1_  hh er_
+  dh ah0_  ah0_  w ih1 dh_  ah0_  m ae1 s ih0 ng_  t uw1_  g eh1 t_  sh ih1 _
+  sh iy1_  s eh1 d_  w ah1 t_  w ih1 dh_  ah0_  ah_  a_
+  dh ah0_  s iy1 z ah0 n_  ah0 n d_  ah0 n _
+  ah0_  l ae1 s_
+
+----- diversity: 1.0
+----- Generating with seed: " uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 "
+ uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 r_  dh ah0_  m ae1 n_  f r ah1 m_  p ae0 n ah1 p_  ah1 v_  ah1 _  ih1 f_  s w ay1 t_  ah0_  l ay1 k_  z ey1 m_  ih2 n t r iy1 _
+  hh iy1_  w aa1 z_  w aap r t r_  n ey1 m_  ih0 n_  s ae1 s_  s t ao1 r_  eh0  er0_  ah0_  f ae1 n ah0 t iy0 l iy_
+  ah0_  b ow1_  m eh1 b l ih0 k_  m ae1 n ah0 f ah0 k l ey1 n er0 y ah0 l iy_
+  ih0 n_  ah0_  ah_  w ih1 dh_  ah0_  b uw1  w eh1 r z_
+  ah0 n d_  v eh1 ih0 
+
+----- diversity: 1.2
+----- Generating with seed: " uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 "
+ uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 r_  w uh1 d_  n ih1 g ah0 l_  d aa2 r m ay1_  k ah0 n f er1 l_  ao1 r_  ow1 n dh iy0_  n uw1_  s ae1 d_  ah0_  k ow1_
+  dh eh1 z_  l ey1 t iy0_  ah0_  p ay1 s_  k ow1 n_
+  hh iy1 z_  k eh1 p_  aa1 n_  hh er1_  ih0 n g ah1 _
+  ah0_  ah_
+__  dh ah0_  m ae1 n_  w aa1 z_  dh ey1_  hh ey_  ih2 n ch ae1 t_
+_
+_
+  s r eh1 n t_  w uw1 d_  g aa1 t_  f ao1 r_  t r ah1 b ah0 _
+  dh ah0_  r er1 p t_  e iy_  aa
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5616     
+
+----- diversity: 0.2
+----- Generating with seed: "h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0"
+h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0 l_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  jh ah1 s t_  hh ae1 d_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  ah0_  g er1 l_  w aa1 z_  w aa1 _
+  dh ah0_  dh ah_  dh a_  dh _  ay_  d i_
+  ah0 n d_  hh iy1_  w aa1 z_  b ih1 n_  w ah1 n_  w ah1 _
+  sh iy1_  s eh1 d_  w ah1 n_  w ah1 n_  s t r aa1 t_  aw1 er0_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  
+
+----- diversity: 0.5
+----- Generating with seed: "h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0"
+h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0 l_  k ae1 n t_  ah1 v_  ah1 p_  ah1 p_  ah1 v_  dh ah0_  dh ah_
+  dh ae1 n_  dh ae1 t_  k ae1 n_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  ah1 v_  hh er0_  s eh1 k t_  ao1 f_  w aa1 z_  w aa1 _
+  ih1 t_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  b iy1 t_  f ao1 r_  ah0_  g er1 l_
+  w eh1 n_  sh iy1_  s eh1 d_  a
+
+----- diversity: 1.0
+----- Generating with seed: "h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0"
+h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0 l ay2 t_  f r ah1 m_  t uw_
+  a 1 n s_  dh eh1 r_  k l ey1 m_  k ah1 v_  w ah1 n_  ae1 t_  ih1 n t s_  ih1 z_  s eh1 _
+  dh ae1 n_  k ah1 k_  sh iy1_  m iy1 t i 0 _
+  hh uw1 z_  hh ih1 _  n eh1 v er0_  dh ah0_  dh a_
+_
+_
+  k ah0 n k l eh1 n t_  s er1 p t_  d ih1 l_
+  sh iy0_  s eh1 d_  ih1 n t r eh1 n t_  aa1 n_  ih1 z_  dh eh1 _
+  sh iy1_  s w aa1 r_  hh ow1 l d_  dh ae1 t_  ah0_  m ao1 r_
+  s a
+
+----- diversity: 1.2
+----- Generating with seed: "h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0"
+h0 n d_  ah0 n _
+  ih1 t s_  m ao1 r ah0 l_  f r ah1 m_  ih1 t_  ih0 n_  ah0_  ih1 z_
+  t uw1_  t uw_  k ah1 __  r ey1 k_  p l eh1 r_
+  a t ih1 m_  g er1 l_  d eh1 k_  ah1 v_  ah0_
+  sh iy1_  k w ay1 t_  l ah1 v_
+  m uw1 n_  y ay1_  ay1 k ah0 m_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  ah0_  f eh1 r_  ih0 n_  l ih1 g er0 ih0 _
+  hh uw1 z_  jh ah1 s t_  d ao1 k t_  m ao1 r _  ah0_  m ae1 n_  ah1 n_  aa1 n_  ae1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5575     
+
+----- diversity: 0.2
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  ah0 n d_  ah0 n _
+  dh ae1 t_  hh ae1 d_  ah0_  ah_  a_
+  ah0 n d_  b ih1 t_  ah0 n d_  ah0 n _  ah0 n_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  b ay_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  b ay_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  w ey1 
+
+----- diversity: 0.5
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  b ih0 n f r iy1_  ah0_  t ay1 t_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  s iy1_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  jh ah1 s t_  dh ae1 t_  hh iy1_  hh ae1 d_  w ah1 n d_  y ao1 r_  y ao1 _  n aa1 t_  w ih1 dh_  ah0_  ah_  a_
+  ay1_  k ae1 t_  ae1 n t iy0_  ah0 n d_  ah0 n _
+  ih1 f_  w ih1 dh_  y i
+
+----- diversity: 1.0
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  b iy1_  w ih1 dh_  d ih0 s t ah1 k t_  ah1 v_  dh ah0_  dh ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  t ay1 ey0 ah0 _
+  w eh1 n_  r iy0 ae1 n d_  ih0 n_  ih0 _
+  w eh1 n_  dh ah0_  t r ay1 t_  f ae1 s_
+  ao1 r_  ah0_  f iy1 m iy0_  eh1 v er0 ah0 v_  w eh1 n_  hh iy1_  s p aa1 t_  ah1 v_  ah0_  ah_
+  b ah1 t er0_  b ih0 g n iy1 k r ih0 d_  iy1 t s_
+  s ay1 n s_  m ay1 t_  s ah1 z_  s t ay1_  
+
+----- diversity: 1.2
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  w ah1 t_  ay1_  w uh1 d_  f ao1 r_  hh ae1 _  g ey1_  d uw1_  m ay_
+  s p r iy1 d_  k w iy1 z d_  w ah1 n d er0 f_  w ay1 t_  ah0_  sh uh1 r_  m ow1 n_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  ow1 r ah0 n_  y ah1 ng_  y ah1 ng_  m ae1 n_  n ey1 m d_  v ey1 t r ah2  ey2 t_  w ey1 m ah0 n_  m ae1 n_  w ay1 l l iy0_
+  ay1_  d ih0 z iy1 t ih0 ng_  dh ah0_  dh ah_
+  r ih0 z ay1 n_  t eh1 n ah0 l_
+  
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5515     
+
+----- diversity: 0.2
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+ ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  dh ah0_  dh ah_  dh a_  dh a_
+  sh iy1_  s eh1 t ah0 m_  w eh1 n_  d ih0 v ay1 d_  ah1 v_  ah0 n d_  ah0 n_  ih1 t_  ih1 _  ih1_
+  w ih1 dh_  ah0_  ah_  ah0 n d_  dh ah0_  dh ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _  y ao1_  y ah1 ng_  y  e1 l iy1_
+  hh uw1_  w aa1 z_  w aa1 _  y ao1_  y ah1 ng_  y ah1 n_
+  s eh1 d_  s eh1 _  s e
+
+----- diversity: 0.5
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+ ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  ih1 _  ao1 l_  t ey1 v_  hh ih1 z_  hh ih1 _  hh ih1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  hh iy1 z_  ah0_  b ih1 t_  ih1 t_  s t ih1 l_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  dh ah0_  dh ah_
+  dh ae1 t_  sh iy1_  sh iy1 t_  w ah1 n_  sh iy1_  w er_
+  s eh1 d_  ah0 n t ey1 m_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w a
+
+----- diversity: 1.0
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+ ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  d ih0 s t r ih1 f ah0 s t_
+  w ih1 dh_  w ih1 d_
+_  d iy1 k s_  r ay1 d_  jh ah1 s t_  l ao1 s t_  ah1 p_  w eh1 r_  dh ae1 t_  aa1 n_  ae1 _
+  dh ae1 n_  b ih1 s _  sh iy1_  s eh1 t_  ao1 f_  ih1 z_  ih1 _  ih1 _
+_
+_
+_
+_
+  dh eh1 r_z er jh ey1 d_  d ah1 b ay_  dh ah0_  d uw1 k_  ih0 n_  s ih1 
+  ah0 n d_  dh ah0_  d ao1 r_  ah0 n t ay1 n_
+  t r ih1 l d_  hh ae1 d_  d ih0 s ey1 d_  ao
+  w ih1 dh_ 
+
+----- diversity: 1.2
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+ ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  hh uw1_  s t r iy1 t_  p l iy1 _
+  k ao1 r d_  dh ah0_  jh ih1 l_  w aa1 n t ih0 sh_  hh eh1 r_  r uw1 t_  hh eh1 r_  ih0 g s t_  p er1 l f_  ah1 p_  hh er1_  r ae1 dh er_
+  t uw1_  t uw1_  s t aa1 t ae1 p_  ih0 n_  dh ah0_  d ey1_
+  ih1 z_  ih1 z_  ah0 n s eh1 k s_  k l eh1 b er0 _
+  ah0 n d_  ae1 z_  ah0 n a_  b t ah1 d ah0 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ae1 n_  hh er1_  b eh1 n ah0 t  ah0
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5471     
+
+----- diversity: 0.2
+----- Generating with seed: "0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh"
+0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  g ay1 t_  ah1 v_  hh er1_  hh er_
+  dh ey1_  sh iy_  hh ih1 z_  hh ih1 _  hh ih1_
+  hh er1 z ah0 n d_  hh er1_  hh eh1 r z_  hh uw1 _
+  sh iy1_  sh iy_  w aa1 z_  w aa1 _
+  ih1 t_  w aa1 z_  dh ah0_  l eh1 k l iy0 ah0 l ey2 t iy_
+  s ow1_  hh iy1_  hh ae1 d_  hh ae1 d_  hh ae1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh iy1_  
+
+----- diversity: 0.5
+----- Generating with seed: "0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh"
+0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh ah0_  s ow1_  m aa1 r d_  ah1 v_  ah1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _  f r ah1_
+  hh uw1_  s eh1 n d_  s eh1 t_  dh ae1 _  p l iy1_
+  sh iy1_  s eh1 d_  w ih1 dh_  w ih1 d_
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  m ay_
+  ah0 n d_  t uw1_  w eh1 n_  ae1 z_  hh ih1 z_  hh ih1 _  hh ih1_
+  w aa1 z_  dh ah0_  dh ah_  dh a_  dh _ _  w eh1 n_  hh iy1_  w u
+
+----- diversity: 1.0
+----- Generating with seed: "0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh"
+0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh ah0_  eh1 n iy0_  s f w ih1 v z_  b ih1 _
+  sh iy1 d_  sh iy1 z_  k w ay1 n_  w eh1 r_  w ah1 t_  m l  ae1 s t_  m ae1 n_  f r ah1 m_  n ah1 t_  b ah1 _
+  w eh1 n_  dh iy1_  s eh1 d_  hh ih0 m s eh1 l p er0 ih0 t_  k ao1 l d_  m ay1_  ih1 t_  ih1 _
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  m ae1 n_  t uw1_  m ah1 _
+  w eh1 n_  dh ah0_  k l ih1 ng k iy0_  ow1 l d_  m ah1 n iy0_  f r ah1 m_  f r ah1
+
+----- diversity: 1.2
+----- Generating with seed: "0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh"
+0_  ah_
+  ay1 d_  s w ih1 m_  t uw1_  dh ah0_  p ow1 ih0 ng_  r ay1 _  hh iy1_  f uh1 d_  f ao1 r_  f a_
+ hh er1 l_  b ih0 jh ih1 ih0 g iy0 g ey1 v_  hh ih1 m_  w ow1 n d er0 d_  dh ae1 t_  r ae1 dh_  l aa1 g_  t ae1 k_
+  t ay1 m_  kae1 t_  dh ae1 t_  b ah1 _
+  ih1 z_  t uw1_  s eh1 _  hh ih1 z_  p ey1 v_  b ah1 t_  hh iy1_  d ih0 l ay1   jh t ah0 _
+  ow1 z ay2 n ah1 l er0 ih0 d_  dh ae1 t_  b ay1_  b iy_
+_
+_
+  w eh1 r_  dh ih1 s_  hh e
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5415     
+
+----- diversity: 0.2
+----- Generating with seed: " ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1"
+ ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1 _  s eh1_
+_
+_
+  dh ah0_  dh ah_  dh a_  dh a_  dh a_  dh ah_
+  w ay1 l_  dh ah0_  dh ah_  dh a_  dh a_
+_
+_
+  dh ah0_  dh ah_  dh a_  dh _  ah0 n d_  ah0 n _  ah0 n_  ah0_  ah_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n _  ah0 n_  ah0_  ah_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n d_  ah0 n _  ah0 n_
+  dh ah0_  dh ah_  dh a_  dh _  ah0 n d_  ah0 n _
+  ah
+
+----- diversity: 0.5
+----- Generating with seed: " ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1"
+ ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1 _  s eh1_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n _  ah0 n d_  ah0 n _  ah0 n_  ah0_  ah_
+_
+_
+  dh ah0_  dh ah_  y ay1 s_  s eh1 k s_  ah0 n d_  ah0 n _
+  ih0 n_  dh ah0_  dh ah_  dh a_  dh _  ih1 t_  ih1 _
+  sh iy1_  s eh1 d_  s eh1 d_  w ih1 s_  ah0 n d_  ah0 n _
+  dh ah0_  dh ah_  dh a_  dh a_  dh a_  dh ah_
+  w ih1 dh_  ah0_  ah_  a_
+  dh ah0_  dh ah
+
+----- diversity: 1.0
+----- Generating with seed: " ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1"
+ ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1_  ah1 p_  w ih1 dh_  ah0_  ah_  m ay1_
+_
+_
+  ah0_  ch l ah1 m ih0 ng_  m ay2 t ah0 k ah0 f ao1 r ah0 n_
+_
+_
+  dh ah0_  b er1 d_  ah0_  g uh1 d_  aa1 n_  hh er1_  hh er_
+  ah0_  f r ih1 t_  ah1 p_  hh iy1_  d_  ih0 n_
+  sh iy1_  g aa1 t_  p l ey1 t iy0_  m ah1 ch_  d r ay1 t_
+_  ae1 z_  hh ih1 z_  iy1 t s_  t uw1_  t uw_
+  g aa1 t_  t uw1_  t uw_
+  sh uh1 r_  m ay1_  s ay1 d_  ah0 n d_  hh ih1 z_ 
+
+----- diversity: 1.2
+----- Generating with seed: " ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1"
+ ah_
+  hh iy1_  s eh1 d_  s eh1 _  s eh1_  ay_
+  s eh1 d_  w ow1 d ah0 l_  w aa1 _
+  ah0 n d_  jh aa1 r d_  hh ih1 z_  g r ae1 n t ah0 p l l ah0 t_  m ae1 dh ay2 z_
+  n aw1_  hh_  ow1 v er0_  aa1 n l _  ay1_  k y uw_
+  ah0 n d_  sh iy1_  dh ae1 t_  hh hh eh1 t_  ar1 
+_
+_
+_
+__  t uw1_  aw1 er0_  g aa1 t_  dh ae1 t_
+  dh ah0_  ih1 z_  r ey1 m_  dh ah0_  m ah1 l iy0_  ih0 n_  ih0 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  k ao1 r t_  o
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5391     
+
+----- diversity: 0.2
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+ d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw1_  t uw_  t uw_  t uw_
+  s ow1_  hh iy1_  w uh1 d_  w aa1 z_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  w ih1 dh_  ah0_  ah_
+  ah0 n d_  hh ih1 z_  hh ih1 _  sh iy1_  sh iy_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _  w aa1 _
+  s eh1 d_  s eh1_
+_  ah0 n d_  a
+
+----- diversity: 0.5
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+ d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw1_  t uw_  t uw_  t uw_
+__  k ah0 n f eh1 n t_  ah1 v_  ah1 b er0_2 ah0_  ah_
+  f l eh1 d_  ow1 n l iy0_  d ow1 n t_  ah0_  f eh1 l ow0_  ah0_  ah_
+  w eh1 n_  hh iy1_  s eh1 d_  w ih1 dh_  ah0_  t eh1 g r ah0 l d_  w ih1 dh_  w ih1 d_
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _
+  ah0 n d_  n ow1_  ih1 z_  w aa1 _
+  w aa1 z_  w aa1 _
+  ih1 t s_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_ 
+
+----- diversity: 1.0
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+ d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw1_  m ih1 t ah0 n_  hh ih1 _  hh er_
+_
+_
+  s eh1 d_  dh ah0_  dh ah_  dh a_  dh _  w eh1 r_  aa1 n_  ah0_  w uh1 m ah0_  k w ay1 t_  ah0 n d_  t uw1_  t uw_  t u_  n _
+_
+_
+  hh ih1 z_  n eh1 l ah0 z_  er0 ih1 d_  n ey1 _  w ah1 _  ao1 l_  hh ih1 m_  s ah1 m_  n ah0 n f eh1 n t ih0 g_
+  sh iy1_  f aw1 n d_  sh ah1 k ah0 n iy_
+  f ao1 r_  f r ah1 m_  f r ah1 _  k ah0 n k aa1 n ih0 k s_  s ah1 m th e
+
+----- diversity: 1.2
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+ d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw1_  s l er1 t_  r aw1 _
+  w eh1 n_ _  t  hh iy1_  b ay1_  b ah1 p iy_  f r ah1 m_  f r ah1 _
+  hh uw1_  l ah1 ih0 t_  ao1 l_  k aa1 z_  aa1 n_  b ao1 l r iy0_  l iy1 d ih0 ng er0_  f r ah1 m_  v ah0 f ao1 r s_  ow1 n v_  ah0_  k ae1 n_  y ah1 v uw0_  w aa1 z_  w aa1 _
+  hh aa1 d_  hh iy1_  r ah1 k t_  w aa1 z_  t uw1_  dh  eh1 _
+  ah0_  ah_  f r ah1 m_  f r ah1 _
+  hh ih1 z_  jh eh1 n t_  ah1 v_  
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5306     
+
+----- diversity: 0.2
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w"
+1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w ay1 l_  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  s t eh1 d_  ah1 v_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh ah_  dh ah_
+  dh ae1 t_  w aa1 z_  w aa1 _
+  ih1 t_  ah0_  ah_  a_
+  ay1_  hh ay1 d_  sh iy1_  s eh1 t_  ao1 l_  y ao1 _  n aa1 t_  ah1 v_  ah0_  ah_
+  dh ah0_  s iy1 m er0_  ah1 v_  ah0_  ah_
+  s eh1 d_  s eh1 _  s eh1_  ay1_  n ow1_
+  ah0 n d_  dh ah0_  d
+
+----- diversity: 0.5
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w"
+1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w eh1 n_  dh ah0_  dh ah_  dh ah_  dh ah_
+_  g r iy1 n d_  ah1 v_  dh ah0_  dh ah_
+  dh ae1 t_  w ah1 n s_  k aa1 t_  ah0_  ah_
+  ah0 n d_  hh iy1_  w aa1 z_  aa1 n t ah0 n_  ae1 n_  ih0 n_  dh ah0_  dh ah_
+  dh ae1 t_  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  s iy1_
+  dh ae1 t_  sh iy1_  sh iy_  s i_
+  w eh1 n_  dh ey1_  ih1 z_  ih1 _  dh ah0_  dh ah_
+  dh ae1 t_  ih1 t_  ih1 t_  k aa1 r m z_
+  w eh1 n
+
+----- diversity: 1.0
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w"
+1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w eh1 n_  g r ey1 n t_  dh ah0_  dh ah_
+  f r ah1 m_  w ah1 t_  r ih0 v iy1 n iy0_  n ow1_  dh ah0_  l uw1 l_
+_  ah1 s_  t ey1 m_  t uw1_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n_  hh ih1 z_  hh ao1 n_  l y uw1 s t_  m ih1 l_
+_  w aa1 z_  k ey1 m_  f r ah1 m_  l eh1 d_  d ih1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  v eh1 r jh_
+  hh iy1_  s eh1 s_  w eh1 n_  ch uw1 l_
+_
+_
+  dh
+
+----- diversity: 1.2
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w"
+1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+  w iy1_  l ow1 w s_  hh er0 s k eh1 k d_  ah0 n d_  ah0_  ah_
+  b ih1 t_  b ih1 _  s k eh1 t_  dh ah0_  l ay1 k_  b r ih1 _  l uw1 b ah0 m ay2_
+  hh iy1_  s hh aa1 t_  sh uh1 _
+  ih1 t_  w ah1 _  dh ah0_  dh ah_  dh ah_
+  m eh1 r d_  dh ah0_  hh k b eh1 d_  ah1 v_  ah0_  s _
+_
+_
+  ih1 z_  ih1 z_  ah0_  l ah1 m_
+  ih1 l_  ae1 z_  ah1 v_  g r iy1 n_
+_
+_
+  r ae1 d_  s aw1 ng_  hh ih1 m_  th w  k ae1 l 
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5256     
+
+----- diversity: 0.2
+----- Generating with seed: "
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  a"
+
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  ah0 n d_  ah0 n _
+  ah0 n d_  dh eh1 r_  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 d_  ah0_  ah_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh iy1_  hh iy_  hh i_  hh ih1 z_  hh ih1 _
+  sh iy1_  s eh1 t f ih0 n_  ah0_  ah_  a_
+  ah0 n d_  w ay1 l_  dh eh1 r_  w aa1 z_  w aa1 _
+  ah0 n
+
+----- diversity: 0.5
+----- Generating with seed: "
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  a"
+
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  ah0 n d_  ah0 n _
+  ah0 n d_  dh eh1 n_  dh ah0_  dh ah_  dh a_
+  sh iy1_  r t eh1 d_  ah0_  ah_
+  hh ih1 z_  hh ih1 _  hh ih1 z_  hh ih1 _  b ih1 _  ay1_  ow1 l d_  ow1 l d_  m ae1 s ah0 n t_  f ao1 r_  hh er1_  hh er_  hh er1_  hh er_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  w uh1 m ah0 n_  ih0 n_  ih0 _
+  f ao1 r_  hh ih1 z_  aeh ih1 k_  ah1 v_  sh ey1_
+  ah0 n d_  hh aa1 r_  ah0 n d_  ah0 n _
+  
+
+----- diversity: 1.0
+----- Generating with seed: "
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  a"
+
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  ah0 n t r aa1 g r iy_
+  f ao1 r_  dh ah0_  g er1 l_  hh aa1 r m ih0 k s_  p r ey1 n d ih0 d_
+  hh iy1_  hh ae1 d_  ah0_  ah_  d ih0 p r ih1 d_  d ih0 r ae1 n t ah0 jh_
+  p ih2 d ah0 k ae1 s t_  ih1 z_  w ah1 n s_  m r ih1 t r ae0 n_  w ah1 n_  p iy1_  eh1 v er0 d er0 s iy0_  f ah1 s t_  ih0 n_  eh1 n_  ow1 v er0_  ah0_  ah_  eh1 m p ah0 _
+  hh ih1 z_  hh ih1 _  t r ah1 n t_  hh ih1 z_  w ah1 dh_  h
+
+----- diversity: 1.2
+----- Generating with seed: "
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  a"
+
+  w aa1 z_  n ow1 n_  t uw1_  b iy1_  ay_  ow1 c _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  g er1 l_  n ah1 m ah0 m_  n ey1 m d_  p ih0 s ih1 ng k_
+  t uw1_  ih21 k s t_  t uw1_  p l ao1 r ah0 t_  ah1 v_  s eh1 d_  ah1 d_  l ae1 m er0_  r ae1 m m ih0 f t_
+  dh iy1 z_  sh ih1 t_  w ah1 n _  f ao1 s k_  dh ae1 p_  w aa1 _
+  sh iy1_  s p ey1 d_  r eh1 k s_  l ow1 r_  d ao1 _
+  f ih1 l d
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+74294/74294 [==============================] - 123s - loss: 0.5213     
+
+----- diversity: 0.2
+----- Generating with seed: " n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  "
+ n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  hh ih1 z_  hh ih1 _
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  dh ey1_  dh ey_  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 v d_  ah0_  b ih1 n_  b ah1 _  b ah1 _  b ih1 _
+  ah0 n d_  w eh1 n t_  ao1 l_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  ah_  ah0_  ah_  ah0_  ah_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  dh ey1_  dh ey_  dh eh1 r_  w ah1 n s_ 
+
+----- diversity: 0.5
+----- Generating with seed: " n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  "
+ n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  aa1 n_  dh ah0_  dh ah_
+  hh iy1_  hh ae1 d_  ih1 t_  w aa1 z_  dh ah0_  dh ah_
+  w eh1 n_  dh ey1_  d ow1 n t_  dh eh1 r_  dh eh1_
+  w ah1 n s_  w aa1 z_  ah0_  w er1 m ah0 t_  f r ah1 m_  f r ah1 _
+  hh uw1_  s n aa1 t_  ae1 n_  ah0 l dh ah1 _  ae1 t_  ae1 _
+  sh iy1_  w uw_  dh ah0_  s ah1 p er0_  ah0 n d_  t uw1_  t uw_
+  sh iy1_  k uh1 d_  t uw1_  t uw_  t uw_
+  sh iy1_  w uh1 d_  g eh1 d_  h
+
+----- diversity: 1.0
+----- Generating with seed: " n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  "
+ n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  t uw1_  g aa1 t_  n ey1 m d_  jh ah1 s_
+  aa1 n_  dh ah0_  r ow1 s t ih0 k_  hh iy1_  hh iy_
+  l ao1 r d z_  d ih0 v ay1 d ih0 d_  ah1 v_  ah1 _  ah1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  s iy1 k s_  m ih1 _  th ih1 _  b ah1 _  b ih0 k t ih1 l uw_
+  dh ah0_  r ao1 r ih0 t_  ah1 v_  ah1 _
+  ih1 f_  aa1 n_  dh ah0_  g er1 l_  ih0 n_  ah0_  s eh1 k s iy0_  f r ah1 m_  dh ah0_  b ih1 l f r ih
+
+----- diversity: 1.2
+----- Generating with seed: " n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  "
+ n t_  b ae1 ng_
+  hh ih1 z_  b ao1 l_  t uw1_  w  n uw1 b ih0 k_  l ah1 bg er_
+  ih1 t_  ah0 l ih1 k ah0 s_  k l iy1 n t_  ih2 n v ey1 r jh_  k ah0 n k l uw1 t l iy0_  w er1_  s t r iy1 t_  b l  ah1 _
+  hh er1_  k uh1 d ah0 n t_  p iy1 d ah0 n t_  l uw1 _  k ao1 r t_  ah1 v_  th_  m ae1 n_  hh ih1 _
+  w ah1 n s_  r uw1 m eh0 d_  hh eh1 r  r_  ah0 n d_  b oy1 t iy0_  w aa1 z_  p r ao1 t_
+  hh iy1_  k w ah1 m_  k w ay1 t_  ih1 t_  ay1 _
+
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5218     
+
+----- diversity: 0.2
+----- Generating with seed: "g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 "
+g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 n_  ih1 n t uw0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ih1 t_  ih1 z_  p r iy1 ch_  p ah1 ng_
+  ah0 n d_  s ah1 m_  ah0 n d_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0_  ah_  ah0_  ah_
+_
+_
+  ah0_  m ae1 n_  f r ah1 m_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ih1 t_  w ah1 n_  w ah1 n_  w ah1 _  ah0 n d_  ah0 n _
+  ah0 n d_  ah0_  m ae1 n_  f r ah
+
+----- diversity: 0.5
+----- Generating with seed: "g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 "
+g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 n_  ao1 l_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  hh ih1 z_  hh ih1 _
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  m ae1 n_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  ah_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 k s ae1 m p t_  ah1 v_  ah1 _
+_
+_
+  ah0_  ah_  m ae0 n t ah1 dh er0_  hh ae1 _
+_
+_
+  t r ah1 t_  aw1 t_  hh ih1 z_  hh ih1 _
+  sh iy1_  k eh1 p t_  aa1 n_  dh ah0_  dh ah_
+  dh eh1 r_  w aa1 z_
+
+----- diversity: 1.0
+----- Generating with seed: "g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 "
+g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 n_  dh ah0_  g r ey1 t_  hh1 er1_  ih0 n_  dh ah0_  dh ah_
+_
+_
+  w ah1 r_  l iy1 k t_  aa1 n_  hh ih1 z_  aa1 n_  ih0 n_  ih0 _  dh ae1 n_  dh ey1_  sh iy_  b ay1_  dh ah0_  l ah1 k_
+  w ih1 dh_  w ih1 d_  ih1 t_  ih1 n t r_
+  t uw1_  b r ay1 _  t uw1_  w eh1 z_  b iy1_  iy1 t r ah0 n z_  ih1 z_  ih1 _
+  ah0 n d_  sh iy1_  f aa1 p ah0 n t_  b ih0 l ow1 l ow0_  d ow1 n t_  k eh1 n_  m ih1 k_  ih1 t
+
+----- diversity: 1.2
+----- Generating with seed: "g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 "
+g_
+  s uw1 n_  dh eh1 l_  b iy1_  w eh1 ng_  th ih1 k_  n ae1 k t er0_
+  v eh1 r t w  l ow1_  ih1 z ah0 n z_  n uw1_  hh iy_
+  ao1 l l ow2 iy0_
+_
+_
+  y uh1 r_  y aa1 d_  n aa1 _  p iy1 d ih0 ng hh ae2 _  ah0_  v ah0 j eh1 n t iy0_  f r ah1 m_  f ae0 n d ah0 k eh1 n t uh0 s t_  l ay1 k_  iy1 n s s eh1 v_  dh ah0_  g ay1_  s ow1_  w ih1 dh_  y  ow1 n z_  hh uw1_  t uw1_  t uw_
+  t uw1_  f ay1 v_  ah0_  p uh1 k w ay2 z_  w ih1 dh_  dh ah0_
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5150     
+
+----- diversity: 0.2
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh"
+t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh iy1_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s ah1 m_  ah0_  ah_
+  ah0_  ah_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  ah_
+  ay1_  s eh1 d_  ah0_  ah_  a_
+  ay1_  w aa1 z_  s eh1 t_  t uw1_  b iy1_  b iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_
+  a
+
+----- diversity: 0.5
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh"
+t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh ae1 d_  hh ae1 d_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_
+  w ih1 dh_  ah0_  ah_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _ ih1 t_  ah0_  p r eh1 s t_
+  hh ae1 d_  ah0_  m ae1 n_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  t er1 n d_  ah0_  w ih1 dh_  ah0_  f eh1 l_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  p ey1 m_
+  ah0 n d_  ah0_  ah_  
+
+----- diversity: 1.0
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh"
+t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh ae1 d_  ah0_  d ay1 n_  w ah1 n_  k ey1 m_  f r ah1 m_  n uw0_  dh ah0_  r ay1 t_  aw1 t_  m ah1 ch_  ah0_  m ay1_  p r ah0 m f eh1 r_  ih0 n_  dh ah0_  l eh1 n t_a  ae1 z_  s aa1 ch er0_  d ih0 v ay1 s t_  f ao1 r_  m ay1_  p ae1 d r ah0 k ah0 n_
+  w ih1 ch_  hh er1_  t ih1 l_  sh iy1_  g r ow_
+_
+_
+  w eh1 n_  hh iy1_  hh ae1 d_  ah0_  ah_
+  b eh1 n_  t uw1_  l eh1 s ah0 n_  g eh1 t_  ae1 p ah0 
+
+----- diversity: 1.2
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh"
+t_  hh er1_  p l ae1 n z_
+  s eh1 d_  hh iy1_   t ih1 t w_  t uw1_  s m er1_  f uw1_  b ae1 dh e_
+  dh ey1_  ih1 z_  s ah1 m th_  ah0_  w ah1 n_  sh ow1_  v ah1 ng_  ah_
+  b eh1 n_  f eh1 l f r ih0 m iy0_  g eh1 n t_  ao1 f_
+_
+_
+  w eh1 n_  ih2 n p ah1 k iy0_  aa1 n_  ehh ow2 l m ah1 m_
+  ah0 n d_  ah0_  ah_  aw1 t s k er0_  w ay1 z_  s ae1 n t s_  ah0_  sh iy1_
+_
+_
+  dh eh1_
+g _  w eh1 n_  sh iy1_  d ow1 d_  ah0_  l a_  r ih1 k_  s g r
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5119     
+
+----- diversity: 0.2
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0"
+g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0_  ah0 n d_  ah0 n _  ah0 n_  r ey_  ih0 n_  dh ah0_  dh ah_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  w aa1 _  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  b er1 t_  ah1 v_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  r ey1 n d_  sh iy1_  s t r ah1 m ah0 n t p er0_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n _  ah0 n_  hh er_  hh er_
+  ah0 n d_  w ay1 d_  ah0_  a
+
+----- diversity: 0.5
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0"
+g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0_  ah0 n d_  ah0 n_  s e_  p uw1 t_  ae1 t_  ah1 v_  dh ah0_  dh ah_
+  sh iy1 d_  ah0 n d_  ah0 n _  ah0 n_  r ey_  iy_
+_
+_
+  ah0_  ah_  ah0_  ah_  ah1 v_  ah1 _
+  b ah1 t_  w ah1 n_  s eh1 m ah0 s_  ah1 v_  ah1 _
+  w ay1_  dh eh1 r_  w ah1 n d_  w aa1 z_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  r ey1 k_  aa1 n_  dh ah0_  dh ah_
+  w er1_  w er1 d z_  hh er1_  s t aa
+
+----- diversity: 1.0
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0"
+g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0_  s m er1 t s_  g aa1 t er0_  l ao1 ng_
+  n ow1_  n ow1_  w aa1 z_  b l uw1_  d uw1_  n ow1_  b l ey1 _  ah0 n d_  n aa1 t_  my1 s t_  s t aa1 p t _
+  f ih1 l d_  w ih1 s _  dh ey1_  sh iy1_  jh ae1 s t_  ah1 s_  ah1 v_  n ey1 m d_  k ao1 l ih0 k_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  w aa1 z_  ah0 n _
+  l uh1 s t_  y ao1 r_  y ao1 _  t ay1 _
+  dh ah0_  b ae1 m b er0_
+
+----- diversity: 1.2
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0"
+g y uw0 d_  ao1 l_  n ay1 t_
+  ow1 v er0_  ih0 n_  k g ih1 n s t ih1 _
+  dh ah0_  m ih1 s_  s t aw1 t_  th ih1 ng z_
+  hh uw1 z_  w aa1 z_  y ao1 l d er0 p _  w ao1 l er0_  g ey1 v_  hh ih1 z_  hh ih1 _
+_  ay1_  ay_  ah_
+  ah0_  ah_  s ih1 n t ih0 ng_  hh er1_  s uw1_  ah1 p_  aa1 r_  p iy1 l ih0 s_
+  ih0 n_  ow1 k t ah0 d_
+  y er1_  m ay1 t_  ah1 v_  dh ah0_  ah0 l d_  ah0 n d_  ahh er_  ah0_  g uh1 d ah0 n t iy0_  d r eh1 s t_  t ey1 
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5101     
+
+----- diversity: 0.2
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah1 _
+  ah0 n d_  dh ah0_  dh ah_  dh _  ah_  a_
+  ah0 n d_  sh iy1_  sh iy1_  sh iy_  dh e_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  p r ah1 b ah0 l_
+  hh uw1 z_  p uh1 s iy0_  w aa1 z_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh _  ah_  a_
+  hh iy1_  s eh1 d_  dh ah0_  dh ah_  dh _  ih1 t_  ih1 t_  ih1 _
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  m ao1 r
+
+----- diversity: 0.5
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah1 _
+  hh uw1_  hh ae1 d_  hh ae1 v_  s aa1 r t_  ah0_  ah_
+  ah0_  p ow1 s t_  ao1 l_  dh ah0_  dh ah_
+  dh ae1 t_  ah0_  f eh1 l ow_  dh ah0_  dh ah_
+  dh ae1 t_  m ay1_  b ay1_  dh ah0_  dh ah_
+  dh ah0_  dh ah_  dh _  ih1 t_  ah0_  b ao1 r m ih0 k_  b ao1 r n_
+  w eh1 n_  ah0_  ah_  ah_  ah_  m p ay1 l_
+  hh uw1_  s eh1 d_  dh ah0_  dh ah_  dh _  ih1 t_  s t ao1 r t ih0 ng_  ah1 v_  ah1 _
+  sh 
+
+----- diversity: 1.0
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah0_  ah_
+  sh iy1_  s eh1 d_  dh eh1 r_  dh ah0_  dh ah_
+  hh ih1 z_  ah0_  y uw1 n_  hh ih1 m_  k ae1 s_
+  sh iy1_  d uw1 d_  b l uw1_  hh ih1 z_  hh eh1 _
+  g aa1 d_  l ay1 k_  s ah1 k_  ah1 v_  hh er1_  s ah1 k ih0 ng_  ih1 n t uw0_  ah0 l ow1 r_
+  sh ow1 z_  hh er1_  k aa1 p_  dh ah0_  m ah1 ng g er0 _
+  f r ah1 m_  dh ah0_  g er1 l_  b ah1 m_  b iy1_  dh ah0_  dh ah_
+  sh aw1_  dh ah0_  sh ey1
+
+----- diversity: 1.2
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah1 _
+  w eh1 r_  hh iy1_  n uw1_  dh ah0_  b ae1 k_  m ah1 ch_  g er1 l_
+_
+_
+  ao1 l_  l aop r m ah1 s t s_  p ae1 n d er0 d_  hh aa1 b ah0 s_
+  dh ah0_  th_  ah0_  f r ah1 mah0 ah0_  ih0 n_  dh ah0_  r ih1 m er0 ih0 _
+  w ih1 ph er0 ah0 l_  d ih1 s_  b r  ey1 m_
+  _  f ah1 k _  s ah0 k g iy1 k_  ih1 t_  ih1 _
+  ih1 l d_  d iy1 ng_  k r uw1 s ah0 l ow_
+  g eh1 t_  aa1 n_  dh ah0_  dh ah_  s ae1_
+  
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5067     
+
+----- diversity: 0.2
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1 k ah0 m ey2 z_  ah1 v_  ah1 _
+  sh iy1_  s eh1 d_  s eh1 _  s eh1_  s eh_
+  dh ey1_  s ay1 t_  ah0 n d_  ah0 n _  ah0 n_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 n_
+_
+_
+_  dh ey1_  s eh1 t er0 d_  ah0_  ah_
+  ah0 n d_  ah0 n _ w ay1 n d_  ih1 z_  ah0_  ah_
+  w iy1_  d ow1 n t_  w aa1 n t er0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ah0_  ah_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1
+
+----- diversity: 0.5
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1 k ah0 n_
+  w aa1 z_  w aa1 _
+  dh ah0_  s ey1 m_  t uw1_  r eh1 t iy0_
+  dh ey1_  ih1 z_  ah0_  ah_  a_
+  ah0 n d_  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  s ay1 t_  ay1_  ay_  a_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 n ah0 l_  ae1 m_  n ey1 m d_  b aa1 t_  aa1 
+n d y ah0 _
+  ah0 n d_  ah0 n _ w iy1_  n ow1_  aa1 n_  w uw1 _  aa1 _  aa1_
+  s eh1 d_  dh ah0_  dh ah_  s eh1 d_  dh ae1 t_  h
+
+----- diversity: 1.0
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1 p ih0 d_  d ih1 k_
+  ah0 n d_  ah0 n _ w ey1 v_  dh ae1 t_  w uw1 d_  ah0_  l ae1 n_  ah0 n d_  w eh0 n ao1 l b ih0 d_  n ey1 m_  y uw1 uw2 t er0_  f ao1 r v er0_  k ae1 z_  t uw1_  t uw_
+_
+_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 n w e_
+_
+_
+  dh eh1 r_  w aa1 z_  ae1 n_  f r ah1 m_  f r ah1_
+  hh uw1_  g aa1 t_  th aa1 r d er0_  t uw1_  t uw_
+_
+_
+  sh uh1 l_  dh eh1 r_  t uw1_  t uw1_
+
+----- diversity: 1.2
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1 k ah0 ah0 m_  w aa1 z_
+  aa1 n s er0 d_  hh er1_  r ah1 n z_  k uh1 d ah0 n t_  aa1 r_  aa1 _
+  f r ah1 m_  w aa1 z_  k w ay1 t_  ae1 _
+_  sh iy1_  ih1 z_  f ao1 r_  hh ih1 z_  w aa1 z_  w aa1 _
+  dh ah0_  n eh1 v er0_  r ih1 t_  dh ae1 t_
+  sh iy1_  l ow1 k t_  g l ae1 p_  ae1 aah0_  n uw1_  t uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  s ah0 b ay1_
+  p eh0 m uh1 fr_  s ay1 d z_  hh ih1 z_ 
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.5000     
+
+----- diversity: 0.2
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+ ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b ih1 t_  ah1 v_  ah1 _
+  hh iy1_  w aa1 z_  w aa1 _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  dh ah0_  dh ah_
+  w eh1 n_  hh iy1_  w ay1 k_  ah0_  ah_
+  ah0 n d_  w ay1 k_  ah0 n d_  ah0 n _
+  dh ae1 t_  w aa1 z_  w aa1 _
+  ah0_  l ey1 d iy0_  ih0 k s ih1 l iy0_  f ao1 r_  dh ah0_  dh ah_
+  ah0 n d_  hh iy1 z_  ae1 t_  ah0_  ah_
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  dh ah0_  dh ah_
+  sh iy1 v er_  ah0_  a
+
+----- diversity: 0.5
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+ ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b ih1 _  hh iy1_  hh iy_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 n_  ih0 n_  dh ah0_  p aa1 r_
+  ah0 n d_  y uw1_  m ay1_  ih0 n_  dh ah0_  dh ah_
+  sh iy1_  k ae1 t_  ae1 n t er0 ah0 _  y ah1 ng_  m ae1 n_  ih0 n_  dh ah0_  k aa1 r ih0 jh_  ah0 n d_  ah0 n _
+  b ah1 t_  hh ih1 z_  hh ih1 _  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  dh ah0_  dh ah_
+  hh iy1_  s eh1 d_  s eh1 _ 
+
+----- diversity: 1.0
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+ ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b ih1 g_  l ih1 n t er0_  t ay1 p ah0 n_  ae1 s t ae1 n s_
+  w uh1 d_  ih0 n_  n ay1_  z iy1 k_  ey1 m_  n ey1 m d_  b er1 t_  ih1 z_  ih1 _
+  ih1 t s_  ah0_  th r_  t ay1 n_  ah0 n d_  ah0 n _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  w ah1 n ih0 v er0_  ah0_  s iy1 t_
+  sh iy1_  l ih1 v d_  ao1 l_
+  t uw1_  t uw1_  dh ah0_  k r ih1 k s_  ah1 v_  ah1 v_  hh er1_  hh er_
+  hh ae1 d_  t uw1_  k ah1 
+
+----- diversity: 1.2
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+ ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b ih1 t_  s v ah1 k l ah0_  k ah0 n m eh1 n t ih0 g_
+  w ih1 dh_  ah0_  d ay1 z ih0 ng_  b r ey1 t_  k ah1 t_  w aa1 z_  w aa1 _
+  sh iy1_  l ih1 aw0 y _  sh iy1_  sh iy_
+  ih1 t_  w aa1 z_  k ae1_  s eh1 n th_  ah0 n d_  ah0 n _
+  hh iy1_  k w ih1 k_
+  dh hh ih1 s_  m ih0 n ah1 t s_  l ey1  ih0 ng_  d ih0 v ay1 t_  hh ih1 z_  hh ih1 _
+_  ao1 l_  s ay1 z_  f iy1 ch _  l ay1 s b ay2 t_  ih1 t_  ah0 s 
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4955     
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  "
+h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  ah0 n d_  p iy1 n z_
+  sh iy1_  s eh1 d_  ah0_  ah_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s ah0 f t ao1 s t_  ah1 v_  ah1 _
+  w iy1_  p iy1 n z_  s ah1 m_  ah0_  ah_
+  hh iy1_  w aa1 z_  s ah0 f t ao1 s t_  ah1 v_  hh er1_  hh er_
+  ah0 n d_  b ao1 r n_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _
+  dh eh1 r_  w aa1 z_
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  "
+h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  ah0 n d_  dh ah0_  dh ah_
+  dh ae1 t_  sh iy1_  s eh1 d_  s eh1 _  s eh1_
+  ah0 n d_  p iy1 ah0 s t_  hh ae1 d_  ah0_  p ae1 n d er0 s_  w ay1 k t_  d ih0 s t eh1 n d_
+  dh ah0_  k ae1 s t_  ah1 v_  ah0_  g er1 l z_  f ay1 n d_  p ey1 n_  ow1 l d_  eh1 n t_  ah1 n_  ih0 n_  ah0_  f ae1 n d er0 _
+  b ah1 t_  dh ah0_  k w eh1 n t_  ah1 v_  ah1 _
+  sh iy1_  w aa1 z_  s eh1 n t_  s ey1_  s eh1 d_  s e
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  "
+h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  ah0_  k aa1 l ah0 ow_  ae1 n_  ih0 s eh1 n t_  w uh1 d_  d uw1_  d uw_
+_
+_
+  ah0_  s t uw1 d_  n ey1 m d_  jh ah1 s t_
+  ah0 n d_  t uw1_  ah0_  hh ih1 l_  l aw1 n z_
+  sh iy1_  f l ey1 d_  sh aa1 r _
+  ah0 n d_  ah0_  ah_
+  s eh1 d_  ih1 t s_  n aw0_  f uw1 n t_
+_
+_
+  hh eh1 r_  aa1 n_  hh er0_  l ay1 n d_  d ae1 m_
+  b ah1 t_  dh ah0_  dh ah_
+  dh eh1 n_  jh ah1 s t_  r ay1 _  y ih1 _  g eh1 _
+_
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  "
+h0_  ah_
+  w eh1 n_  w ih1 dh_  ae1 b_  ah0 n d_  dh ae1 t_  sh iy_  r ae1 ng_  ah0 ch ae1 n_  g er1 p_  l uw1 _
+_
+_
+  p l ah1 k iy0_  ih0 n_  ah0_  k aa1 l ih0 jh_  ah0 n d_  s ae1 k_
+  hh ae1 v_  l ah1 n_  k ah1 m_  eh1 v hh aw2 t_  n eh1 v_  w iy0_  p ao1 r_
+  s t r aw1 th hh er0_  dh ah0_  p aw1 n th_
+  p ah1 n_  ih0 n_  b eh1 t ah0 l_  y ah1 ng_  s t aa1 d_  t aw1 kh ah0 n_
+  w uh1 d_  sh aw1_  s t ao1 r ah0 ow2 n v er0_  n ey1 m d
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4928     
+
+----- diversity: 0.2
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l ao1 ng_  l ey1 d iy0_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _  hh ae1 z_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n d_  ah0 n _  ah0 n_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s k r ae1 n t l d_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n d_  ah0 n _  ah0 n_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh u
+
+----- diversity: 0.5
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l ao1 ng_  l ey1 d ah0 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  m ay1_  ih0 n_  ah0_  p r ey1 s t_  ah0 n d_  ah0 n _
+  ah0 n d_  f aw1 n d_  hh er1_  hh er_
+  ah0_  b oy1_  ah0_  d ay1 n d z_  w aa1 z_  hh ae1 _
+  hh uw1_  l ih1 ng_  ah0_  hh ao1 r_  d ow1 n t_  hh ih1 z_  hh ih1 _
+_  sh ow1_  w ih1 dh_  ah0_  g r ae1 k_  ah1 v_  dh ah0_  dh ah_
+  sh iy1_  sh iy_  sh i_  hh ae1 d_  f r ah1 m_ 
+
+----- diversity: 1.0
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l ay1 n_  t uw1_  s t r eh1 d_  d ah0 n ah1 v_  hh ih1 z_  k aa1 d_  t uw1_  p l ih1 s_  ao1 _
+  ih1 z_  sh ih1 l_  ih0 n_  w ih1 dh_  ah0 n d_  ah0 g er1 m ah0 s_  n aa1 t_  w ih1 dh_  g er1 l_  l ey1 t_  aw1 t_  ae1 n_  ih0 n_  n aa1 t ih0 _
+  hh uw1_  l eh1 t_  hh ih1_  ay1 k_  hh iy1 _
+  eh1 n t_  w aa1 z_  ah0 n d_  ah0 n _  ae1 t_  ae1 _
+_
+_
+  l aa1 ih0 t p l iy0_  w ah1 n_  ih0 n_  hh ih1 z_  
+
+----- diversity: 1.2
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l ao1 ng_  k ao1 l d_  s v ae1 f_  w uh1 d_  ah0 n d_  ah0 n _
+  w eh1 n_  dh ah0_  s t ih1 l_  m ay1_  k ow_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ae1 n_  ih0_
+  dh ae1 t s_  g ao2 l s eh1 t f ih1 m z_
+  hh ih1 z_  v ah1 g_  g er1 t_  hh er1_  m ow1 th_  dh eh1 k_  ae1 n d er0_
+  ao1 s ah0 n_  w ah1 n_  w eh1 n_  y ey1 v_  hh ih1 _
+  dh ey1 m_  sh aw1 d_  ae1 s t _  n aw1_
+  hh er1_  ow1 v er0_  ih
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+74294/74294 [==============================] - 122s - loss: 0.4900     
+
+----- diversity: 0.2
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  "
+h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  dh ah0_  dh ah_  dh a_  _  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n_  ih0 _  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  w aa1 _  hh iy1_  w aa1 z_  s ah1 m w ah1 t_  w aa1 z_  w aa1 _
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh _  ih1 t_  ih1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_
+
+----- diversity: 0.5
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  "
+h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  ah0_  ah_
+  w eh1 n_  dh ey1_  sh iy_
+  f ao1 r_  hh ih1 z_  b l p ey1 sh ah0 n_  ae1 _
+  dh ey1_  w ao1 l w er2 z_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  d aw1 n_  dh ae1 t_  hh iy1_  ay1 m_  ah0_  ah_
+  ah0 n d_  s k ow1 d_  s eh1 _  s eh1_  dh a_
+  dh ae1 t_  dh ae1 t_  hh ae1 d_  hh ae1 v_  p iy1 n ah0 b l iy0_  hh iy1_  hh iy_
+  s ow1_  ah0_  y uw1 _  w ih1 sh a
+
+----- diversity: 1.0
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  "
+h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  ah0_  t aa1 jh _  hh ih1 z_  hh uw1 _  sh iy1_  n aa1 t_  th ih1 n_  th ih1 _
+  hh iy1_  ao1 f_  ih0 n_  p r eh1 d_  w ah1 t_  w uh1 _  g eh1_
+_
+_
+  ah0_  ah_  ah0_  ah_  ah0 n d_  ih1 n k er0 ah0 s t l iy_  hh ae1 v_  f r ah1 m_  ah0 n d_  dh ah0_  l ao1 s t hh ae2 m_  d aw1 n_  ey1 v_  ah1 s_  ow1 v er0_f r ah1 m_  k ey1 _
+  ah0 n d_  sh aa1 t_  w ih1 dh_  th ih1 n_  ih0 n_ _
+  sh iy1_  l d_  f 
+
+----- diversity: 1.2
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  "
+h1 l f_  hh ih0 m s eh1 l _
+  f ao1 r_  ah0_  th r ih1 l ih0 k_  s m er1 
+ hh ow1 z_  b er1 _  ih0 n_  r aw1 t_  hh er1_  hh er_  hh e_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  ih1 t_  ih0 n_  s t ih1 r_  b er1_
+  hh uw1_  r ey1 d_  dh eh1 r z_  t uw1_  ah0_  ow1  ah2 ch_  y ah1 ng_  ow1 _  iy1 k w ah0 k t_  eh1 r iy0 _  f r ah1 m_  p iy1_
+  hh iy1_  m ae1 d ah0 n d_  hh er1_  hh er_
+  p uw2 ah1 p ah0 l_  ah0_  ah_
+_
+_
+  s aa1 z_  ah
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4860     
+
+----- diversity: 0.2
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_  ah1 v_  ah1 _  aa1_
+  dh ah0_  dh ah_  dh a_  dh _  ih1 t_  ih1 _
+  dh eh1 ih_  ih1 z_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  s eh1 d_  dh ah0_  dh ah_  dh a_  dh a_
+  dh ah0_  dh ah_  dh a_  dh _  ih1 t_  ih1 _
+  dh eh1 ih_  ih1 z_  s ae1 d ah0 m z_  hh ih1 m_  hh ih1 _
+  sh iy1_  s eh1 d_  dh eh1 _  g e
+
+----- diversity: 0.5
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_  hh ae1 d_  hh ae1 _
+  ah0 n d_  ah0 n _  ah0 n_  ah0_  d uh1 l t_  v eh1 r iy0_
+  ah0 n d_  dh eh1 r_  dh eh1 r_  w ah1 n_  m ay1_  hh iy1_  w uh1 d_  w uh1 _  l eh1 k t_  d ih1 k_  k ah1 m_  ah0 n d_  dh ah0_  dh ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 t iy0 ah0 l_  k ae1 n t_  ah1 v_  ah0_  ah_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_ 
+
+----- diversity: 1.0
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_  t uw1_  s n ah1 k_  ih1 t_  ih1 _
+  dh eh1 r_  w hh n eh1 r_  s ey1 v_  ih1 z_  ah0_  ah_
+  b ah0_  dh ah0_  s ey1 m d_  ah1 m_  hh ae1 d_  hh ae1 _  hh ae1 _
+  dh ah0_  dh ah_  dh a_  dh _  d ow1 n t_  f ow1_  eh2 n eh0 b aa1 t ih0 d_  ah0 n d_  k ae1 n t_  l eh1 g ah0 l z_  s eh1 k g ih1 n_  w eh1 n_  b iy1_  k ae1 d_  s f r iy1 n_  t uw1_  b iy1_  dh ah0_  dh ah_
+  w eh1 n_  hh iy1_  g aa1 t_ 
+
+----- diversity: 1.2
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_  g eh1 t_  f ao1 r_  ah0_  ah_
+  dh eh1 l_  hh ow1 d_  w eh1 n_  dh ah0_  sh ay1 n z_  aw1 t_  dh ae1 t_  hh iy1_  d ow1 n t r eh2  v eh2 n t_  n eh1 s t eh0 l_  t eh1 n t_  v ah1 g er0 hh er_
+  dh eh1 r_  eh1 z_  aw1 t_  f ao1 r_  t uw1_  ah0_  l ae1 d_
+  b ah1 t_  b ah1 _  ah1 p_  t ae1 k th_  ih0 n_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  eh1 r_  t u_
+_
+  r ih1 l iy0_  w ah1 n s_  w aa1 z_  dh eh1 _
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4840     
+
+----- diversity: 0.2
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l"
+ f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l d_  ah1 p_  ah1 v_  ah1 _
+  w ih1 dh_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  y _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  w ih1 dh_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  a_  a_
+_
+_
+  ah0_  ah_  a_  a_
+  ah0 n d_  ah0 n _  ah0 n_  y _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  w ih1 dh_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  
+
+----- diversity: 0.5
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l"
+ f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l d_  aw1 t_  ah1 p_  aa1 n_  hh ih1 z_  hh ih1 _
+  ah0 n d_  s n aa1 t_  ah0_  m ae1 n_  ow1 l d_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  t ey1 l_  sh iy1 v z_  dh ah0_  dh ah_
+  ah0_  ah_  a_
+  ah0 n d_  ah0_  ah_  a_
+  ah0 n d_  p r ah1 n t ih0 ng_  ah1 p_  w eh1 n t_  t uw1_  s l eh1 d_  s er1_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  ah1 p_  w aa1 z_  y aa1 ng_
+
+----- diversity: 1.0
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l"
+ f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l ih0 sh_  hh ae1 z_  w aa1 z_  w ow1 n ih0 ng_  w ow1 l s iy0_  w aa1 z_  sh iy1_  y ao1 n ah0_  er0 iy1 d_  g eh1 t ih0 _
+  ah0_  l ey1 d iy0_  f r ah1 m_  l eh1 g ah0 l ah0 t_
+_
+_
+_
+_
+  dh eh1 r_  w ah1 n _  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  k w ah1 n iy0_
+  ah0 n d_  f ao1 r_  ih0 n_  dh ah0_  dh ah_
+  w ay1 _  n ay1 n_  s th  l ae1 k s_  ae1 t_  dh ah0_  dh ah_
+  ah0_  m ah1 n_  hh er1_  h
+
+----- diversity: 1.2
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l"
+ f r ah1 m_  f r ah1 _
+  f uh0 l f ih1 l d_  dh ey1_  hh ah1 s t_  hh ow1 l_
+  b ah1 t_  g ih1 v ih0 ng_  dh ow1_  s er1 t ah0 n_
+  ah0 n t ih1 l iy0_  ow1 n y aa2 _  n ay1 n ah_
+  ah0 n t_  dh ae1 t_  m ah1 ch_  m iy1_  m ay_
+  jh ah1 s t_  b ih1 n_  b ow1 th aa0 l_
+  n ey1 d ih0 k_  w ih1 dh_  t _
+  ah0 n d_  t uw1_  w er1 p_  w ah1 n s_  ah0_  w ih1 dh_  ah0 n p k ah1 s t_
+  ay1 n ih0 s_  hh ih1 m_  f eh1 l i_  m iy1_  s k ow2  k eh1
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4733     
+
+----- diversity: 0.2
+----- Generating with seed: "
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n u"
+
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n uw_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  w ih1 dh_  ah0_  d ay1 n ah0 m er0_  n ey1 m d_  n ey1 m _
+  hh iy1_  w aa1 z_  s ae1 n t s_  dh eh1 r_  dh eh1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w ao1 n t ih0 d_  ah0_  d ay1 n ah0 t_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1
+
+----- diversity: 0.5
+----- Generating with seed: "
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n u"
+
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n uw_
+  s ih1 n_  w aa1 z_  dh ah0_  dh ah_  g aa1 t_  w ih1 dh_  w ih1 dh_  w iy0 s p ay1 s t_  f r ah1 m_  k ae1 n d_
+  sh iy1_  w eh1 n_  sh iy1_  w er_  y uw1_  y uw_
+  dh ae1 t_  w eh1 n_  w uh1 d_  f ao1 r_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  m ae1 n_  ah0 n d_  dh ah0_  dh ah_
+  w ay1 f_  hh ih1 z_  w ao1 f t ah0 _  hh iy1_  hh iy_
+_  ao1 f_  hh ih1 z_  s ah0 b er1 n d_  ah0 n d_  ah0 n _
+  w 
+
+----- diversity: 1.0
+----- Generating with seed: "
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n u"
+
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n uw_
+  w ah1 t_  t uw1_  b iy1_  f l ey1 n_  g ao1 r_  s iy1_
+_
+_
+  ah0_  ah_  ah0_  ah_  w eh1 n_  hh iy1_  hh ae2 ng_  s eh1 k sh uw0_
+  sh iy1_  k uh1 d ah0 n t_  d ih0 s p ay1 s_  t r aa1 f r _  p k ao1 r_  w iy1 n_
+  ih1 f_  s ow1_  b l ae1 k_  l eh1 k er0_
+  hh iy1_  hh iy_  v aa1 dh er_  w ih1 dh_  t s ay1 p_  ih1 t_  w ao1 _
+  s eh1 d_  ch ah1 s t_  g ow1 th_  ah0_  ah_
+_
+_
+  dh eh1 r_  w aa
+
+----- diversity: 1.2
+----- Generating with seed: "
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n u"
+
+  s ow1_  n ow1_  w ah1 n_  n uw1_  n uw_  t uw_  ao1 l_  s eh1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ae1 n_  y ao1 r_  m ao1 _  w ah1 t_  m ay1_  s ch_
+  ih1 t_  f iy1 b ay0 z_  ah0_  g ao1 r_
+  s ow1_  w iy1 m ah0 n_  w _
+  d ih0 s p ay1 t_  p l ey1_  dh eh1 r_  dh eh1 _
+  s eh1 d_  p r ah1 b er0_  b ow1 th iy0_
+  s p ao1 r_  ao1 l_  r ih0 s ir1 s s t ah0 t ih0 k_  g ow1_  t uw_
+___  hh iy1_  hh uw_
+_
+_
+  jh eh1 2 d ah0 d_  ih0 n_
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4761     
+
+----- diversity: 0.2
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z"
+ ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z_  w aa1 _
+  s eh1 d_  ah0_  b r ah1 m ih0 s t_  hh ih1r1_  hh er_
+  w ih1 dh_  ah0_  ah_  ah_  a_
+  ah1 v_  ah0_  ah_  ah_
+  ih0 n_  ah0_  m ae0 n n ah1 t_  ah1 p_  ih1 t_  ih1 _
+  ah0_  m ah1 n_  ah0_  ah_  ae1 t_  ah0_  ah_
+  ah0 n d_  p er1 p ah0 n_  ih1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  p r ae1 p t ah0 n_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ih0_
+_
+_
+  d
+
+----- diversity: 0.5
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z"
+ ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z_  s ae1 d_  d ih0 s t r iy1 m l iy0_  jh ah1 s t_  l ae1 sh ah0_  hh ae1 v_  hh ae1 v_  hh ae1 _  hh ae1 v_  b ao1 l z_
+  ah0 n d_  p er1 d_  ah1 d_  ih1 t_  k aa1 n iy0 r iy0 d_
+  sh ih1 t_  ah1 p_  d ih0 v ay1 n t ih0 s_  ow1_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  k ih1 l ey_  m ae1 n_  f r ah1 m_  f r ah1 _  f r ah1_
+  hh uw1 z_  hh uw1 _  t uw1_  t uw1_  f iy1 ch_  p l ey1 k_
+  p l ey1
+
+----- diversity: 1.0
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z"
+ ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z_  g n ow1_  hh ao1 n_  s t ay1 n d_  ih0 n_  ah0_  b er1 l iy0_  b ih0 f r eh1 s t ih0 ng_  ih0 n_  r ae1 t ih0 k_
+_
+_
+  jh aa1 s_
+  w eh1 n_  ih1 t_  p er1 v ih0 ng_  hh ah1 n iy0_
+_
+_
+  p ih1 l d_  ah1 d_  p aa1 r d z_  dh ae1 t_  hh ow1 l z_  p r ih0 k ae1 n d er0 d_  aa1 n_  hh ih1 z_  hh ih1 _  ao1 f t er0_  l eh1 ng_
+  k w ay1 t_  th ih1 ng k_  p iy1 n_  m aa1 r t ah0 n_  ih1 z_  ah0_  hh a
+
+----- diversity: 1.2
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z"
+ ay1 n d_  b l ay1 n _
+  ih1 t_  w aa1 z_  dh eh1 t_  hh ih1 z_  hh ih1 _
+  y uw1_  p uh1 l_  ah0_  l p ah1 ch t_  t uw1_  m ay1_  k ay_  hh i_
+  m iy1 t_  w er1 d_  dh ah0_  dh ah_  dh a_
+  ah0_  b iy1 k_  sh iy1 n t_  w ah1 n_  w ah1 n _
+  sh iy1_  sh iy_  k ah1 p t_  f ao1 r_  ow1 n l iy0_  w aa1 n _
+  g aa1 t_  b ao1 l d ah0 ng_  dh ae1 t s_  ae1 _
+_
+_
+  sh iy1_  k ow1 d_  ah0_  sh ay1 z g ah0 l ey0 _
+  hh ih1 z_  l ih1 m er0 ih0 k_
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4772     
+
+----- diversity: 0.2
+----- Generating with seed: "
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 "
+
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  dh ey1_  w ao1 r t_  dh ah0_  dh ah_  dh a_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  sh iy1_  s eh1 d_  s eh1 _  s eh1_  s eh_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  s eh1 _  s eh1_  s eh_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 
+
+----- diversity: 0.5
+----- Generating with seed: "
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 "
+
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 ng_  m eh1 r iy0 ah0 n_  n ey1 m d_  n ey1 m _  n ey1_
+  hh uw1 z_  aa1 n_  g eh1 t_  ae1 n_  ah1 v_  ah0_  m ay1 n_  ih1 z_  ih1 _
+  ih1 z_  ah0_  m ae1 s t er0 d_  ah0 n d_  ah0 n _
+  dh ae1 t_  dh ah0_  dh ah_  dh a_  dh a_
+  dh eh1 n_  dh ah0_  b ow1 s t_  dh ae1 t_  dh ae1 _  dh ae1_
+  ah0 n d_  ah0 n _  ah0 n_  hh e_  hh ao1 s_
+  dh ae1 t_  ah0_  f eh1 l ah0 s_  n ey1 m d_  b r ao
+
+----- diversity: 1.0
+----- Generating with seed: "
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 "
+
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  w uh1 m ah0 n_
+  t uw1_  hh ih1 z_  hh ih1 _  b l ah1 t_  g eh1 t_  d iy1 _
+_  dh eh1 r_  l aw1 n d_  d ih0 v ay1 n d_  d ih1 d_  iy1 _
+_
+_
+  k ae1 v ih0 ng_  iy1_  w er1 d_  k aa1 t_  hh iy1_  s ae1 d iy0_  y uw1 _
+_
+_
+  b ah1 t_  w iy1_  ah0 n _  sh aw1 t_  k aa1 t_  p ae1 sh ah0_  v ah1 ng b l ah0 k_  w aa1 z_  k w aa1 v ih0 ng_  f r ih d_  dh eh1 r_  dh ah0_  g r ey1 t_  g ow1_  f aw1 n d
+
+----- diversity: 1.2
+----- Generating with seed: "
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 "
+
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  ih0 ig _  b eh1 s t ih0 s_
+  ah0_  l ey1 d iy0_  f r ah1 m_  f r ah1 _  f r ah1_
+  hh iy1_  eh1 r_  o1 r h iy_  hh ey1 s m ah0 n_
+_
+_
+  dh ae1 t_  b eh1 n t ih0 k_  ah1 s_  w ih1 _
+  k uw1 d_  f ao1 _  aa1 n_  n eh1 n t er0 d_  w ay1 z_  ih0 n_  dh ah0_  hh ih1 l_  dh ae1 _  dh ae1_
+  sh iy1_  g y uw1_  y uw_  y ah1 ng_  y ah1 ng_  y ah1 ng_  ih0 k s ah1 v er0_
+  p eh1 n t er0 d
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4716     
+
+----- diversity: 0.2
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r"
+ d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r ah1 m_  dh ah0_  dh ah_
+  dh ae1 t_  hh ih1 z_  s t aa1 r t ah0 n_  t ey1 _
+  sh iy1_  s t aa1 r t ah0 n t_  ae1 t_  ae1 _
+  ah0 n d_  dh ah0_  dh ah_  dh a_
+  sh iy1_  s eh1 d_  w ih1 dh_  ah0_  ah_
+  ah0 n d_  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  w aa1 z_  ah0_  g er1 l_  ah1 v_  ah1 _
+  w ih1 ch_  ah0_  ah_  a_
+  ah0 n d_  ah0
+
+----- diversity: 0.5
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r"
+ d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r ah1 m_  dh ah0 l ah1 ng k iy0_  ah0 n d_  p er1 p ah0 _
+  w er1_  ao1 f t er0_  ah0 n d_  s ih1 ng l iy0_  m ah1 s t er0_
+  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  hh iy1_  w aa1 z_  s k r ae1 n t ih0 t_  d ih1 k ah0 n_
+  dh ey1_  sh iy_  m ay1 n_  m ah1 s_
+  hh uw1_  hh ae1 d_  ae1 t_  ae1 _  s t r iy1 th_  ah0 w ey1 ih2 ng_  ae1 t_s  s eh1 d_  w ah1 t_  k ae1 n_  s ah1 m_  ch iy1 n ah0 l z_  hh ae1
+
+----- diversity: 1.0
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r"
+ d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r ah1 m_  ah0_  l ih1 m er0 ih0 k_  w aa1 l ih0 s k ah0 _
+  ah1 v_  jh eh1 s t ah0 n_  m ey1 k ah0 n_  ah1 v_  g ow1 w ah0 m ah0 m z_  ah1 v_  ah1 _
+  sh iy1_  s eh1 d_  w ih1 dh_  t uw1 ch_  f ey1 s t_  f ah1 k th_  ah1 v_  hh er1_  hh er_
+  sh iy1_  r ow1 d_
+  dh ey1 l_  dh eh1 ih_  ae1 t_  n ow1_  d r iy1 n ih0 s_  ih1 z_  ih1 _
+  dh ow1_  w er1 _  g ow1_  b l ah1 sh_  ah0_  sh ah1 t_
+_
+_
+  dh e
+
+----- diversity: 1.2
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r"
+ d_  ah0_  s ah0 l eh1 k sh ah0 n_
+  f r ah1 hh _  ah0 n d_  t ae1 ng k_  dh ah0_  k aa1 b uw1 z ah0 l ih0 ng_  dh ah0_  dh ah_
+  dh ae1 t_  s t aa1 t_  r ah1 m_  hh ih1 z_  l ow1 _
+  ae1 n_  aa1 r_  y uw1_  w uw1 s ah0 s_
+  ah0 n d_  y ao1 r_  y ao1 n_  s p ay1 ih0 ng_
+  w ah1 t_  hh iy1_  ah1 m_  ae1 n_  dh ah0_  ah0 g r ey1 n s_  ae0 l k ae1 t_  l aw1 _
+  dh ow1_  w ao1 z_  w aa1 _
+  m ay1_  ih1 t s_  ow1 b ah0 l d_  g r iy1 m_
+_
+_
+ 
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4676     
+
+----- diversity: 0.2
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+ d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy1_  sh iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s eh1 k s_  s eh1 v_  s eh1 _  ae1_
+  w eh1 n_  dh ey1_  sh iy_  ay1 m_  g eh1 t_  g eh1 t_  ae1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  s ow1_  w ay1 l_  b iy1_  b iy_
+  b ah1 t_  dh ah0_  dh ah_  dh a_  dh a_
+_
+_
+  dh eh1 r_  w aa
+
+----- diversity: 0.5
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+ d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy1_  ao1 f_  ah1 v_  ah0_  ah_
+  w eh1 n_  hh iy1_  w uh1 d_  d ih0 s t_  ah0_  b ae1 n iy0_  ah0 n d_  ah0 n _
+  ih1 t_  w aa1 z_  w aa1 _
+  sh iy1_  w aa1 z_  s eh1 k_  w ah1 n_  s ah0 s eh1 n t_
+  ah0 n d_  s ah1 m_  ih1 t_  ae1 n_  ah0 w ey1_
+  w eh1 n_  dh ah0_  dh eh1 r_  ao1 l_  w eh1 n t_  w eh1 n t__  t uw1_  dh ah0_  dh ah_
+  ah0 n d_  s eh1 d_  ae1 n_  ow1 v er0_  hh eh1 r_  hh ae1 d_  w
+
+----- diversity: 1.0
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+ d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy1_  w uh1 k_  s eh1 d_  ae1 _
+  sh iy1_  hh ae1 d_  t uw1_  w eh1 r_  aa1 n_  dh ah0_  f er1 s ow0_  n ey1 m d_  jh ey1 n ah0_
+  t uh1 k_  s uw1_  m ah1 ch_  y a1 f_  y aa1_
+  y uh1 r_  w ah1 n s_  l ay1 f_  r ay1 _  p aaah aw1 n_
+  p aa1 uw2 t ah0 l_  ae1 n_  s t ih1 k w ah0 s t_  hh ae1 v_  b aa1 t_  b iy1_  f ao1 n _
+_
+_
+  ih1 f_  ih1 z_  hh er1_  s r ey1 f t_  p r ow1 k ah0 t iy0_  w aa1 z_  w
+
+----- diversity: 1.2
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+ d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy1_  sh u_
+  ah0 n d_  p ow1 l _  ih1 n t uw0_  w ay1 m_  w aa1 z_  m ih1 sh ah0 n ah0 n_  ih0 n_  p aa1 t_  th r iw1 t_  b aa1_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  g er1 l_  n ey1 m d_  ah1 f_  ae1 s_
+  w ay1 l_  sh ey1_  iy1 l iy0_  n uw1_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1 z_  n ey1 _
+_  hh iy1_  hh iy_  hh iy_  yr ih1 ch_  b iy1 n_  m iy1 k_  dh ae1 t_  ah0 l d_  hh uw1_  h
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4675     
+
+----- diversity: 0.2
+----- Generating with seed: " ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh"
+ ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh ih1 z_  hh ih1 _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ae1 t_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ae1 s_  ae1 _
+  ah0 n d_  p er1 d ih0 ng_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ae1 t_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ae1 t_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ae1 t_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ae1 t_  ah0 n d_  ah0 n _
+  ah0 n d
+
+----- diversity: 0.5
+----- Generating with seed: " ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh"
+ ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh er1_  hh er_
+  ah0 n d_  ih0 k s p ao1 r v er0 d_  hh ae1 v_  w ah1 n d er0 f ah0 l_  k ch ay1 t_
+  w eh1 n_  sh iy1_  sh aa1 v ah0 l z_  w ah1 n_  m ay1_  m ay_
+  hh iy1_  k ae1 n ih0 d_  ah0_  ah_  ah_
+  hh iy1_  k eh1 m p t_  aa1 n_  aa1 n_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih1 z_  ah0 n _
+  w eh1 n_  hh iy1_  k uh1 d ah0 n t_  ah0 n d_  ah0 n _
+  ah0_  m ae1 n_  f r ah1 m_  dh a
+
+----- diversity: 1.0
+----- Generating with seed: " ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh"
+ ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh ih1 z_  d ih0 s t eh1 s t_  l ow1 b ah0 l_  k ao1 l d_  k ao1 l _
+  hh uw1_  k uh1 d_  b ay1_  t r ah_  s ah1 m_  n aa1 t_  l aw1 _
+  hh uw1 z_  l ey1 d ih0 d_  ah0_  ah_  a_  hh iy1_  k ey1 d_  p ae1 m p _
+  ih2 n t ay1 n d_  hh er1_  hh er_
+  dh eh1 r z_  ah0_  r ao1 r z_
+  b ah1 _  r ay_  hh ih1 z_  hh ah1 b ah0 l_  k l eh1 n t_
+  w eh1 n_  ay1 m_  d ih0 z ay1 n d_  hh er1_  hh er_
+  w eh1 n_ 
+
+----- diversity: 1.2
+----- Generating with seed: " ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh"
+ ih1 _
+  b ah1 t_  sh iy1_  m eh1 t_  hh er1_  r ay1 p t ah0 n t_
+_
+_
+  w aa1 z_  r n aw1 ng k_  mr ah1 n t r ah0 s_  v ey1 m p iy0_  f r ah1 m_  ch ah1 n ah0 t_
+  y uw1 _  y ah1 ng_  m ae1 r_  w aa1 z_  n ey1 m d_  n ey1 m _
+  w eh1 n_  t ae0 l t eh1 s t ih0 ng_  r ay1 t_  ao1 l_  m ay1_  k l ao1 l z_
+  ah0 n d_  y uw1 ah0 n_  y ah1 ng_  f eh1 l ow0_  ow1 v er_
+_
+_
+  ah0_  hh ao1 r s_  r ay1 _  sh ay1 d_  s t uw1_
+  hh iy1_  s m eh1 l 
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4636     
+
+----- diversity: 0.2
+----- Generating with seed: "_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_ "
+_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_  s ae1 d ah0 n_  b ah1 t ih0 ng_  ah0_  ah_  a_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  sh iy1_  s eh1 t_  ah1 p_  ih1 z_  ih1 _
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  dh ah0_  l ey1 d_  ih1 z_  ih1 _
+  ih1 t_  ih1 z_  s ah1 m_  ah0 n d_  ah0 n _
+  ih1 t_  ih1 z_  s ae1 d ih0 k t_  dh ae1 t_  hh iy1_  w aa1 z_  w aa1 _
+  ah0_  l ey1 
+
+----- diversity: 0.5
+----- Generating with seed: "_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_ "
+_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_  w aa1 z_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_  a_
+  ah0_  ah0_  d uh1 k s_  t uw1_  w eh1 _
+  dh ey1_  hh iy_  dh eh1 r_  s eh1 d_  s ae1_
+  dh ah0_  g r ao1 l z_  g er1 l d_  hh er1_  hh er_
+  hh ae1 d_  hh ae1 d_  b ah1 t ih0 ng_  dh ah0_  s ey1 s_  ah1 v_  hh aa1 r_  l ae1 s_  b iy1_  b iy_  b a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m
+
+----- diversity: 1.0
+----- Generating with seed: "_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_ "
+_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_  w uh1 d_  f ao1 r_  f ao1 l d_  ay1 l_  k ah0 n f er1 m l iy0_  l iy1  ow0 n _
+  s er1 k s_  b eh1 t_  aa1 ing_  ao1 l_  l ao1 ng_  l ey1 l ah0 n_  g er1 l d_  f eh1 l er0_  l ey1 _
+  hh ae1 z_  hh aa1 r d_  hh aa1 r z_  t ao1 t_  aa1 r_  k aa10_  f aa1 n_
+  n aw1_  hh iy1_  ah0 n d_  d ih0 v ay1 d ih0 d_
+  ah0_  l ey1 d ah0 n_  f r ah1 m_  jh ah1 s t_  ah1 v_  hh aa1 r_  k aa1 _  ih0 n_
+  s l ae
+
+----- diversity: 1.2
+----- Generating with seed: "_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_ "
+_
+_  r ih1 l iy0_  d uw1_  d uw_
+  ay1_  ah0_  r ae1 l_  f r ah1 _
+  hh uw1_  s d aae_  iy_
+  f ih1 r iy0_  t uw1_  dh ah0_  sh aa1 p_  ah0 w ao1 l_  hh ae1 _
+  v eh1 r d ih0 d_  ah1 v_  m ah1 ch_  f ay1 l_  l ay1 k_  ah0_  ah_
+  f ae0 l s ah0 v ey1 z d_  dh ah0_  d uh1 t er_
+_
+_
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 p er_  r ih1 l iy0_
+  r ae1 m_  f ae1 n ih0 k_  dh ah0_  p iy1 t iy0_  l iy1 k l iy0_  f r ih d_  b ay1 v_  aa1 n_  dh ah0_ 
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4628     
+
+----- diversity: 0.2
+----- Generating with seed: " ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 "
+ ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 d_  dh ae1 t_  hh iy1_  w aa1 z_  w aa1 _
+  dh ah0_  dh ah0_  dh ah_  dh a_  dh _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  s ah1 k t_  ah1 p_  hh er1_  hh er_
+  dh ah0_  dh ah_  dh a_  dh a_  dh _  ah1 v_  ah1 _  ah1 _
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah
+
+----- diversity: 0.5
+----- Generating with seed: " ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 "
+ ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 d_  dh ae1 t_  w eh1 _
+  dh ey1_  hh ae1 d_  ah0_  p eh1 s ah0 n_  f ao1 r_  dh ah0_  dh ah_
+  s ow1_  hh eh1 t_  ah0 n d_  ih2 n ih1 z ah0 n _
+  ah0 n d_  hh iy1_  k uh1 d_  b oy1 z d_  m ah1 ch_  f ao1 r_  f r ah1 m_  k w 1 t_  ah0_  ah_
+  w eh1 n_  w aa1 z_  aa1 r_  hh aa1 r d_  ah1 v_  ah1 _  dh ae1 _  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh ae1_  dh
+
+----- diversity: 1.0
+----- Generating with seed: " ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 "
+ ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 n_  ih0 n_  s ao1 r iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  f ow1 l f r eh2 n t_  n eh1 k s_  ae1 n_  ow1 v ah0 m_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  m ay1 p_  dh ae1 t_  hh uw1_  l ao1 s t_  ih1 n t iy0_  w aa1 z_  ah1 k s_  ah0 n d_  hh iy1_  w aa1 z_  w aa1 _
+  w aa1 z_  ah0_  w uh1 m ah0 n_  f r ah1 m_  r a 2 y uw0 z uw1_
+  f r ah1 m_  f r ah1 d ah0 n t_  t uw1_  dh ah0_  dh 
+
+----- diversity: 1.2
+----- Generating with seed: " ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 "
+ ah1 v_  ah1 _
+  hh uw1 z_  l ah0 b ay1 d_  ah0_  ah_  eh1 k th_
+  hh iy1_  g r ow1 n_  hh uw1 z_  m ah1 v z_  f er1 b ah0 l_  t eh1 s_  t er1_  ah1 v_  ah1 _  ah1 _
+  w eh1 n_  ah0_  th r r ae1 k t er0 p l_
+  f r ah1 m_  w ah1 n _  hh ih1 z_  t r ah0 s t eh1 l t er0 d_  ah1 s_  ah1 v_  b r ey1 s_  f aa1 s ah0 l ah0 n _
+  dh ih1 s_  t r iy1_  b iy1 t_  l iy1 d _  f r ah1 m_  l ae0 n z_  k iy1_  w er1_  d ow1_
+_
+_
+  ah0_  k aa1 k_  dh eh
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4620     
+
+----- diversity: 0.2
+----- Generating with seed: "r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 "
+r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 z_  ah0_  ah_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  sh iy1_  s t uh1 d_  t uw1_  b iy1_  b iy_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  n ey1 m d_  n ey1 m _
+  hh uw1_  hh ae1 d_  ah0_  m ah1 sh ah0 n t_  ah1 v_  ah1 _
+  ah1 v_  dh ah0_  dh ah_  dh a_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 d_  ah0_  m ah1 sh a
+
+----- diversity: 0.5
+----- Generating with seed: "r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 "
+r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 z_  s t r ae1 n t r  ih0 s_  dh ae1 t_  dh ah0_  dh ah_
+  y aa1 f_  aa1 n_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  l eh1 t_  aw1 t_  th ih1 ng k_  ah1 v_  dh ah0_  dh ah_
+  dh ey1_  dh ey_  dh eh1 n_  dh ey1_  ih1 z_  ih1 _  y uw1_  t uw_
+  ay1 l_  dh ah0_  b ae1 k_  ah0 n d_  hh ih1 z_  hh ih1 _
+  dh ih1 _  s t r ae1 n d_  hh
+
+----- diversity: 1.0
+----- Generating with seed: "r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 "
+r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 z_  dh ih1 s_
+  s ay1 m z_  ah0_  y ah1 ng_  s ey1 k_  ao1 f_  hh er1_  hh er_
+  sh iy1_  r ae1 dh er0_  ah0_  y ah1 ng_  hh ao1 r m_  t ey1 _
+  ae1 z_  hh iy1 d_  n aa1 t_  r ay1 d_  k ah1 n t r iy0_  r iy1 l_
+  hh uw1_  hh ae1 d_  ah0_  l ah1 m_  sh uh1_
+_  l ay1 k_  k aa1 z_  l ay1 k_  b ah1 t_  r ah1 jh ah0 s_  t ey1 _
+  w ay1 l_  dh ah0_  m ay0 ah1 dh er0_  n eh1 v er0_
+  w aa1 z_  ao1 f_  f 
+
+----- diversity: 1.2
+----- Generating with seed: "r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 "
+r ay1 t_
+  hh uw1 z_  s p iy1 d_  w aa1 z_  ih1 z_  ah0_  r ae1 n iy0_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  n ey1 m d_  n ay1 d_
+_
+_
+  p l eh1 d_  hh uw1_  hh ae1 d_  ah0_  f l ay1 ah0 t_  ih1 t s_  ih1 l z_
+  b ah1 t_  hh er1_  ow1 l d_  eh1 r f r iy_  f l eh1 r z_  d ih0 v ay1 t ih0 s_  v eh1 f ah0 m er0 ah0 n_  n ey1 m d_  n ey1 m d_  n ey1 m _
+  t oy1 l iy0_  jh ah1 s_  ih1 t_  ow1 l d_  d ey1 m_  s ae1 ch er0_ 
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4552     
+
+----- diversity: 0.2
+----- Generating with seed: " m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah"
+ m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah0_  ah_
+  b ah1 t_  ah0_  ah_  ah0_  ah_
+  hh iy1_  w aa1 z_  d ih0 s t ih1 l t_  b ah1 t_  t uw1_  t uw_
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ah0_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 d_  ah0_  m ae2 th ah0 n_
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ah0_
+  ah0_  m ae1 n_  ah1 v_  dh ah0_  dh ah_
+  dh ae1 t_  dh ae1 t_  hh ae1 d_  p l eh1 s ah0 
+
+----- diversity: 0.5
+----- Generating with seed: " m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah"
+ m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah0_  g uh1 d_  f eh1 l_  t uw1_  t uw_
+  dh ey1_  ih1 z_  ih1 _  ih1 _  ih1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  d ih0 s t ih1 l t_  f ao1 r_  ah0_  ah_
+  ay1 n_  ih1 n t ah0 l_  ih1 t_  ih1 _  ih1_
+  ah0 n d_  dh ey1_  ih1 z_  ih1 _  dh ah0_  dh ah_
+  dh ae1 t_  ah0_  ah_  a_
+  ah0 n d_  w aa1 z_  s aa1 k ih0 ng_  dh ah0_  dh ah_
+  
+
+----- diversity: 1.0
+----- Generating with seed: " m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah"
+ m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah0_  hh ow1 l dh er0_  d uw1 k_  p er1 l p er0_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  l aa1 s ah0 n_  t eh1 r ah0 l d_  n ey1 m d_  b ow1 d ih0 n_
+_
+_
+  w eh1 r_  ih1 z_  s t ih1 g_  ah1 v_  m ay1_  t oy1 n_  sh aa1 d_
+  ah0 n d_  ow1 s t ah0 n_  ay1 d_  t ay1 d z_  t uw1_  s m ay1_
+  n ih1 v s iy0_  f aw1 n d_  ah0 n d_  th ih1 z_  hh ih1 _
+  ah0 n d_  ih1 ch_  ah0_  g uh1 d ah0 n_  w uh1 d ah0 n_  
+
+----- diversity: 1.2
+----- Generating with seed: " m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah"
+ m_  f r ah1 _
+  hh uw1_  y uw1 z d_  ah0_  g uh1 d ah0 n_  y ay1 t_  w ih1 dh_  t uw1 k_
+  w ih1 ch_  s t r ih1 k r ih0 k _  f ae1 ch_  p uh1 r z_  f ao1 r_  dh ah0_  d eh1 d_  ah1 v_  ih1 z_  ih1 _
+_
+_
+  dh eh1 r_  w ah1 _  g eh1 t_  r ae1 d er_
+  f ay1 n d_  hh ih1 z_  l ih1 l iy0_  l ih1 m er0 ih0 k ah0  hh er1 n z uh0 l_  ih0 n_  ih0 _
+_  f ao1 r_  dh ah0_  f er1 s t_  g aa1 n z_
+  ih1 f_  f ih1 l d_  ah0_  l ih1 m eh0 k ah0 l_  k 
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4541     
+
+----- diversity: 0.2
+----- Generating with seed: "
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r"
+
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r_  w aa1 z_  s eh1 d_  s eh1 _  ao1 f_  hh ih1 z_  hh ih1 _
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d iy0_  hh uw1_  s eh1 d_  s eh1_  ao1 f_  hh iy1_  hh iy_
+  hh ih1 z_  hh ih1 _  sh iy1_  sh iy_  sh i_  w iy_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ey1 d ah0 n_  ah1 v_  ah1 _
+  hh uw1_  w uh1 d_  s eh1 d_  ah0_  ah_
+  hh iy1_  w aa1 z_  s ah1 m w eh2 n_  sh iy1_  sh iy_
+_
+_
+  dh
+
+----- diversity: 0.5
+----- Generating with seed: "
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r"
+
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r_  w ih1 dh_  ah0_  g uh1 d_  eh1 l er0 _  d ey1_  ay_  d i_  ah0_  ah_
+  ih0 n_  b eh1 d_  dh ah0_  b r ay1 n d_  ah1 v_  dh ah0_  dh ah_
+  sh iy1_  hh ae1 d_  ah0_  ah_  g aa1 t_  aa1 n_  dh ah0_  k ih1 k w ah0 l d_  b iy1_  b iy_  b ah1_  b ay_
+  ah0_  y ah1 ng_  m ae1 n_  ah1 v_  ah1 _
+_
+_
+  dh ah0_  s ih1 k ah0 n_  w aa1 z_  w aa1 _
+  sh iy1_  w eh1 n_  g eh1 t_  aw1 t_  t uw1_  s n r iy1_
+  
+
+----- diversity: 1.0
+----- Generating with seed: "
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r"
+
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r_  aw1 _  aw1 t_  ah1 v_  ah1 _
+  w ih1 f_  w aa1 z_  aa1 n_  hh er1_  ah0_  s t r ow1_  ow_
+_
+_
+  dh ae1 t_  g ow1_  ay1_  ae1 s t ay2 n_
+  b ah1 t_  m ay1_  f ah1 n ah0 v_  s v eh1 k sh ah0 n_  g ey1 v_  t ay1 m_  w ih1 t_
+___
+_
+_
+  ih1 t_  s er1 k s t_  w ao1 n_  hh ae1 v_  hh aa1 r_  k aa1 _
+  s ih1 n_  sh iy1_  ih0 n_  ah0_  p iy1_
+_
+_
+  w ah1 t_  ao1 l_  t ao1 r_  dh ah0_  k ih1 ng_
+  hh iy1
+
+----- diversity: 1.2
+----- Generating with seed: "
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r"
+
+  ae1 z_  sh iy1_  r ah1 b d_  dh eh1 r d_  dh ah0_  hh uw1_  t uw_  aa1 n_  hh er1_  s eh1 v i_
+  sh iy1_  hh uw b ah0 l d_  th ao1 t_  hh ae1 d_  s ah1 m w ah2 n_  s eh1 v er_
+  hh uw1_  er1 k sh ah0 l_  k ae1 n t_  l eh1 g ah0 l v er_
+_
+_
+  ah0_  d ay1 n ah0 m _  y ah1 ng_  m ae1 n_  n ey1 m d_  p l eh1 n_ _  d ih0 s t ih1 ng sh ae2 n ah0_  ah1 v_  dh ah0_  ih1 t ih0 ng_
+  r ay1 n_  m ay1_  w eh1 n_  t ae2 t eh1 n d_  p uh1 d_  ow1_
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4507     
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+  ah0 n d_  dh a"
+h0_  s t r eh1 ng k th_
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh a_
+  dh ah0_  dh ah_  dh ah_  dh a_  dh a_  ih1 _  ih1_  ih1 _  ih1 _
+  ah1 v_  ah0_  ah_  ah0 n d_  ah0 n _
+  ih1 t_  ih1 z_  ih1 _  ih1 _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n _  ah0 n _  ah0 n _
+  dh ey1_  w aa1 z_  n ow1_  n ow_
+  d aw1 n t_  ao1 l_  dh ah0_  dh ah_
+  dh ae1 t_  hh iy1_  s
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+  ah0 n d_  dh a"
+h0_  s t r eh1 ng k th_
+  ah0 n d_  dh ah0_  d uh1 k t ih0 ng_  ah0_  ah_
+  ah0 n d_  ah0 n _  ah0 n _  y ey1 v_  t ey1 m_
+  hh uw1_  s eh1 d_  ao1 f_  hh ih1 z_  ae1 r d_  ah0_  th er0 m eh1 n t er0 d_  d ey1_  aa1 _  aa1 _  w aa1 _
+  sh iy1_  w aa1 z_  k aa1 t_  ao1 l w ey2 z_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  ah1 p_  ah1 _
+  w eh1 n_  hh iy1_  hh iy_  hh i_  ih2 n t eh1 _  ah0_  l ao1 ng_  ah0 n d_  w aa1 z_  w 
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+  ah0 n d_  dh a"
+h0_  s t r eh1 ng k th_
+  ah0 n d_  dh ae1 t_  m ay1_  n ay1 t_  ah0 n d_  s p r iy1 m d_  s ah1 m_  d uw1 d z_  ah0_  d ao1 ng_
+  dh eh1 n_  s l iy1 n t_  ao1 l_  s l ah1 k k_
+  hh iy1_  ao1 f_  n ey1 m d_  b ow1 th iy_
+  ay1_  g ey1 v_  hh er1_  hh er_  s aa1 d_  dh ae1 _  w ah1 _  y uw1_  d uw1_
+  ah0 n d_  s p aa1 t_  aa1 ih0 t ay_
+  hh uw1 z_  th aw1 d ah0 n t_  sh iy1_  ay_
+  dh eh1 r_  w aa1 z_  s k ae1 v er0_  ow1 v er0_  dh ah0
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+  ah0 n d_  dh a"
+h0_  s t r eh1 ng k th_
+  ah0 n d_  dh ah0_  dh ah_  d r ay1 v_  sh iy1_  sh iy_  g ey1 v_  hh er1_  hh er_  t uw1_  t uw1_  ah0 n d_  hh iy1_  ow1 v er0_  w ah1 n_  m iy1 n_  aa0 n eh1 v ah0 _
+  s eh1 d_  s eh1 _  ah0_  r ae1 p aw2 t ah0_  hh er1_  b l iy1_  k ow_
+  dh ae1 t_  ah0_  y ah1 ng_  y ah1 n_  l eh1 g ae2 t er_
+_
+_
+  dh eh1 r z_  w iy1_  s aa1 n_  n aa1 t_  w ih1 dh_  iy1 ch_
+  hh iy1_  s g aa1 t ah0 n_  t eh1 r_  d uw1 eh0 n
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4482     
+
+----- diversity: 0.2
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_"
+y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_  hh iy1_  w aa1 z_  s ae1 d er_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  ow1 n l iy0_  ih0 _
+  ah0 n d_  ah0 n _  ah0 n_  ow1 n l iy0_  ih0 _
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  ah1 v_  ah1 _  aa1 n_  dh ae1 _  ah1 v_  m ay1_  hh ow1 l d_  k aa1 t_  t uw1_  t uw_
+  ih1 t_  ih1 z_  s ae1 d e_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  ae1 n_ 
+
+----- diversity: 0.5
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_"
+y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_  hh iy1_  s ae1 t_  ah0 n d_  ah0 n _
+  s ow1_  ah0 n _
+  dh ae1 t_  m ay1_  ah0 n d_  ah0 n _  ah0 n_  eh1 n t er0 d_  ah0 n _  ah0 n_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1_  l uh1 t s_  ah0_  hh ow1_  ay1 m_  aa1 n_  hh er1_  hh er_
+  s eh1 d_  s eh1 _  s eh1_
+  ah0 n d_  ah0 n _  ah0 n_  ih0 _  s ae1 ng k_  ae1 n_  r eh1 t er0_  aa1 n_  ow1 v er0_
+
+----- diversity: 1.0
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_"
+y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_  y uw1_  w uh1 d_  s k y uh1 d_  s eh1 _  s ow1_  ow_ _  a_  a_  n ey1  g ih1 v_  t uw1_  t uw_
+  sh iy1_  n iy0 uw1_  ae1 t_  aw1 _  s iy1_
+_
+_
+  w ah1 n_  m ey1_  aw1 n_  hh er1_  hh er_
+  dh ae1 t_  hh ae1 d_  n ow1_  l uh1 k t_  ow1 n l iy0_  ih0 _
+  ih1 t s_  dh ah0_  g er1 l_  ae1 z_  m ay1_  s ao1_
+  dh ih1 s_  b ih1 n_  sh iy1_  hh uw_
+  s ae1 t_  m ay1_  s ao1_
+  dh eh1 r z_  hh iy1_  y 
+
+----- diversity: 1.2
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1_"
+y_  hh er1_  p eh1 t_
+  ah0 n d_  n aw1__  y1 m eh2 n s_  aa0 m ao1_
+  hh uw1_  p ow1 ah0 n s_  g aa1 r_  hh er1_  k ih1 t_  n aa1 _
+  hh iy1_  er iy1 d_  p ae1 s t r_  hh ih1 z_  g r ey1 k_  v eh1 r iy0_  t eh1 l_
+  hh uw1_  t ay1 n d_  hh er1_  s ae1 t_
+  sh iy1_  sh iy_  sh i_  m ay1_  ah0_
+  sh iy1 r ah0 t s_  m ay1_  m iy_  s n u ey1 d_  ae1 n_  ae1 _
+  ih1 t_  t uw1_  jh uw1 l_  ir0 aaa2 z eh1 n d_
+  w aa1 z_  n ay1 n z_  ih0 n_  
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4497     
+
+----- diversity: 0.2
+----- Generating with seed: " hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 "
+ hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 ng_  y ah1 ng_  y ah1 ng_  m ae1 n_  f r ah1 m_  p er0 uw1_
+  hh uw1_  s eh1 d_  aw1 n _  l ay1 n t_  ao1 l_  dh ae1 _
+  dh ae1 t_  s ah1 k ih0 ng_  ao1 l_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  hh eh1 l_
+  hh uw1_  w ih1 s t_  hh er1_  hh er_  hh e_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_ 
+
+----- diversity: 0.5
+----- Generating with seed: " hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 "
+ hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  y ah1 ng_  y ah1 n_
+  w ay1 l_  ah0_  s t r iy1 t_  ah1 v_  hh er1_  hh er_
+  ah0 n d_  ah0 n _  y ah1 ng_  w aa1 n iy0_
+  ay1_  w eh1 n_  sh iy1_  hh iy_  hh i_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  p r eh1 s t_
+  hh uw1_  w ih1 l d_  hh er1_  hh er_  hh e_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_  m ay1_  m ao1 r_
+  hh ah1 ng_  m ow1 s t_
+
+----- diversity: 1.0
+----- Generating with seed: " hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 "
+ hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  ah_  m ao1 r_  m ao1 _
+  hh iy1 z_  r ae1 dh er_  sh iy1 z_  p er1 s t ih0 ng_  g er1 l_  p iy1 d_
+  ah0 n d_  ow0_  dh eh1 r_  ih0 n_  dh ah0_  dh ah_
+  hh ih1 z_  hh ih1 _  k aa1 z_  n ow1_  ey_  ih0 n_  ah0_  ah_
+_  ah0_  d ao1 r m ih0 k s_  p uw1 s t_  ih0 n_  dh ah0_  ow1 s t er0_
+  w ih1 ch_  w ih0 th aw1 s t_  l ao1 s t ah0 _  hh ae1 d_  k ae1 n_  k ae1 k_  ah0_  ah_
+  hh er1_  m 
+
+----- diversity: 1.2
+----- Generating with seed: " hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 "
+ hh er1_  hh er_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  l ae1 s_  n ey1 m d_  n ey1 m _
+  dh ae1 t_  dh ae1 t_  y uw1_  ih1 t s_  n aa1 t_  t uw1_  t uw_  t u_
+  ah0 n d_  t ih1 p ih0 s_  g r iy1 n sh ey0 ah0 _  p er0 k ah1 n tta iy1_  r ih0 s t ih1 l er0_
+  t uw1_  b ih1 t_  ah0_  b r ah1 th ih0 ng_  ae1 n_  eh0 f eh1 l m iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  aa1 m_  dh eh1 r_  ch ay1 n ah0_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  w
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4449     
+
+----- diversity: 0.2
+----- Generating with seed: "1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0"
+1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0 er0_  ah0_  ah_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n_  dh ah_
+  dh ae1 t_  w aa1 z_  dh ah0_  s ay1 d z_  ah1 v_  ah1 _
+  dh ae1 t_  w aa1 z_  s ae1 d iy0_  aw1 t_  ah1 v_  ah1 _
+  w ih1 dh_  ah0_  l aa1 g_  aa1 n_  dh ah0_  dh ah_
+  dh ey1_  s ae1 d_  d aw1 n_  dh ah0_  dh ah_
+  dh ey1_  s ae1 d_  d aw1 n_  hh iy1_  hh iy_
+  hh ih1 z_  b l ah1 dh er0_  ah0 n d_  ah0 n _  ah0 n_
+  dh ey1_  s ah0 
+
+----- diversity: 0.5
+----- Generating with seed: "1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0"
+1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0 er0_  ah0_  l eh1 p ah0 _
+  dh ey1_  aw1 t _  th ih1 ng z_  ah1 v_  ah1 _
+  dh ae1 t_  t uw1_  b iy1_  b iy1 t s_  l aw1 n z_  f ao1 r_  hh er1_  k ey1 _
+  hh uw1_  w aa1 z_  dh ah0_  dh ah_  dh a_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  s eh1 d_  s eh1 _  s eh1_  ah_  d ae1 m b ah0 _
+  dh ah0_  s ay1 d z_  ah1 v_  hh ih1 z_  b ih0 k ah1 m_  ah0 n d_  a
+
+----- diversity: 1.0
+----- Generating with seed: "1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0"
+1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0 er0_  w aa1 z_  w aa1 _
+  w aa1 z_  ah0_  r ay1 z ih0 s_  ih0 n_  ih0 _
+  dh eh1 r_  w aa1 z_  ah0_  w uw1 m ah0_  r ih1 t iy0_
+_
+_
+  w ih1 dh_  ah0_  d ae1 n t iy0_  s l ah1 k_
+  ih1 t_  ih1 z_  dh ah0_  dh ah_  dh a_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  l ah1 v_
+  ah0 n d_  w ao1 r_  w ah1 t_  f r ah1 m_  dh ah0_  f r ah1 m_  b r eh1 n d_
+  hh iy1_  s eh1 l ah0 jh_
+
+----- diversity: 1.2
+----- Generating with seed: "1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0"
+1 m_  f r ah1 _
+  hh uw1 z_  m aa1 t ow0 sh_  hh ae1 d_  hh ah1 n d_  w eh1 n_  sh iy1_  w aa1 z_  w aa1 _
+  ah0 n d_  eh1 n d er0 d_  v eh1 dh ah0 m t er0_  f ao1 r_  ow1 l d_  d ey1 n iy0_  b iy1 t er0_
+  dh ah0_  r er1 s t_  r ay1 d_  f aa1 r n_
+  w ah1 n_  uw1 f er0_  b y uw1 g l uw1 t ah0_
+_
+_
+  ah0_  d ao1 g_  ih1 t_  t ay1 m er0_  ah1 v_  ah1 _
+  hh uw1_  s eh1 d_  s eh1 _  s uw_  dh eh1_
+_
+_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4432     
+
+----- diversity: 0.2
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh uw1_  k aa1 z d_  dh eh1 r_  s t ah1 m_  dh ah0_  dh ah_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ah1 v_  ah1 _  ah1_
+  hh uw1_  s eh1 d_  s eh1 _  s eh1_  ae1 t_  ah0 n d_  ah0 n _
+  ih1 t_  ih1 z_  ih1 _  ih1 _
+  ah0 n d_  ah0 n _  ah0 n_  dh ah0_  dh ah_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ow1 l d_  ow1 uw0_  n ey1 m d_  n ey1 m _
+  hh uw1_  k ae1 n t_  a
+
+----- diversity: 0.5
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh uw1_  k ae1 n iy0 ah0 n ey2 t_  ah0_  ah_
+  ih0 n_  dh ah0_  dh ah_  dh a_  dh a_  dh a_
+_
+
+ h0 n t eh1 r iy0_  ah0 n d_  ah0 n _  ah0 n_
+  dh eh1 r_  w ah1 n s_  w ah1 n d er0 k w ah0 l_  k w ay1 t_  l ah1 v_  hh ih0 m s eh1 l f_  ah1 t_  ay1_  ao1 f_  hh er1_  f aa1 dh er0_
+  ah0 n d_  y ao1 r m iy_  y uw1 s t er0_  hh uw1_  ao1 f_  aa1 n_  dh ah0_  hh eh1 r p l ah0 s_  k ah0 n f 
+
+----- diversity: 1.0
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  hh ih1 z_  m ih0 s ae1 d_  k ah0 n d_  hh ih1 z_  p ow1 ih0 ah0 s k ah0 d er0_
+  hh ae1 v_  t uw1_  w aa1 n t_  dh ah0_  n eh1 s t ih0 r ow2_  ah0 ih1 z_  hh ih1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ah_  w eh1 n_  hh ae1 _
+_
+_
+  ah0_  ah_  l aa1 t_  b ih1 t_  m ae1 t_  b ay1_  k w ay1 _
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m eh1 n t_  ah1 v_  hh ih1 z_  m aa1 l ah0 ih
+
+----- diversity: 1.2
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  n ey1 m _
+  w ih1 f_  hh ih1 z_  ah0 j eh1 b z_  ah0 n d_  eh1 n t uw0_  f ae1 l iy_  p iy1 ch er0 f_  hh ih1 m_  aa1 r_  aa1 _  ay iy1_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  ow1 l d_  k r ih1 p l ah0_  ah0 n d_  hh er1_  t ih1 k er0_
+  s w uw1 _  p r eh1 d_  s t ah1 _  f iy1_  g r e_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  ow1 l d_  p aa1 r t_  w eh1 n t_  t uw1_  k n ao1 r w ah0
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4398     
+
+----- diversity: 0.2
+----- Generating with seed: "
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_"
+
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  n aa1 t_  b ah1 _  b ih1 _
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  v ih1 l t_
+  ao1 r_  ao1 l_  ah1 v_  ah0_  ah_  ah0 n d_  ah0 n _
+  ih1 t_  ih1 _  ae1 z_  ah0 n d_  ah0 n _
+  ah0 n d_  dh eh1 r_  ih0 n_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  hh e_  hh uw1 z_  hh uw1 _
+  s eh1 d_  s eh1 _  s eh1_  s eh1_  s eh_
+
+
+----- diversity: 0.5
+----- Generating with seed: "
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_"
+
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  a_
+  ah0 n d_  s ow1_  ay1 d_  m ah1 ch_  ah0 n d_  hh ih1 z_  hh ih1 _  sh iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  m ey1 d ah0 n t_  ae1 n_  ih0 n_  d ih0 z ah1 m_
+  ay1 m_  b ay1_  dh ah0_  k r uw1 s t ah0 n ah0 t_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  k ah0 n d_  ah0 n _  ah0 n _
+  p uw1 s iy0 ah0 n_  ih0 n_  dh ah0_  dh ah_
+  w ih1 ch_  w ih1
+
+----- diversity: 1.0
+----- Generating with seed: "
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_"
+
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  ih0 n_  hh aa1 p_  y aa1 ng g er0 d_  m ih1 s t_  p l iy1 v_  ah1 v_  b ow1 th_  k ah0 n aa1 t_  m ih1  hh iy1 z_  w ah1 n_  sh uh1 t_  g aa1 t_  g aa1 t_  t uw1_  s k r uw1_
+  ah0 n d_  er0 aw1 z d_
+ hh ih1 z_  b l ih1 n_  f ih1 m f ah0 m z_  w ay1 _  f ao1_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  ah0 hh ih1 n_  f ao1 r_  ah0_  p l ah1 s_  l ay1 
+
+----- diversity: 1.2
+----- Generating with seed: "
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_"
+
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  v ih1 l t_
+  ao1 l_  ae1 z_  hh iy1_  hh iy_  d ow1_  aw1 t_  ah0_  l ay1 n t_  t uw1_  s eh1 t s_  ow1 n l l_  w uh1 d_  k r ao1 t_  t uw1_  k ih1 m f ah0 l_  ae0 f ey1 v_  w aa1 z_  w aa1 _
+  f ey1 z z_  ih0 n_  y z_  hh ih1 z_  ah0 n d_  k ae1 n t_  t uw1_  f r ah1 _
+  hh uw1_  s ih1 t s_  ao1 l_  d ih0 z_  ih0 n_  ih0 _  n ow1_  aa1 ig_  s p er1 _
+  b ah1 t_  dh ae1 t_ 
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+74294/74294 [==============================] - 123s - loss: 0.4409     
+
+----- diversity: 0.2
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+ s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh1 t_  hh ih1 m_  ih0 ng er1 l iy_  t uw1_  t uw_
+  sh iy1_  s eh1 d_  w ih1 dh_  ah0_  ah_
+  ah0_  ah_  ah0_  m ae1 n_  ah1 v_  ah1 _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  ih0 _
+  ah0_  ah_  ah0_  ah_  a_
+  ah0_  m ae1 n_  ah0_  ah_  a_  ae1 t_  ah0 n d_  ah0 n _
+  ah0_  ah_  ah0_  ah_  a_
+  ah0_  m ae1 n_  ah0_  ah_  a_  ae1 z_  ah0_  ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey
+
+----- diversity: 0.5
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+ s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh1 t_  t uw1_  t uw_
+  ah0 n d_  dh ah0_  g r ay1 t_  w ah1 n_  m iy1_  m iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  p r eh1 _
+  hh uw1_  k ae1 n t_  w ah1 n_  m ao1 r m z_  ah1 v_  ah1 _
+  ah1 p_  ih1 t_  t uw1_  s k er1 t_  w ih1 dh_  ah0_  ah_
+  ah0 n d_  dh ih1 s_  ah0_  ah_  t ae1 k_  b ih1 _  b ah1_
+_  hh iy1_  hh iy_  hh i_  w ay1 t_  m iy1_  m ay_
+  dh ae1 t_  ih
+
+----- diversity: 1.0
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+ s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh1 l_  dh ae1 _
+  ah1 v er0 s_  s eh1 k s_  ch ih1 t_  m ah1 k_  v ay1 f_  p ae1 t_
+  a v eh1 r iy0_  ih0 n_  b eh1 d_  f aw1 n _
+  ah0 n d_  d ih0 m eh1 p t ah0 l er0_  hh ow1 l z_  y uw1 m_  g ey1_  t uw1_  t uw_
+  sh iy1_  sh iy r ow1 s g r ah0 l d_  l ay1 _
+  d ae1 ng z_  y ao1 _  f ao1 r_  w ah1 _  b iy1 t_  ih0 n_  hh er1_  hh er_
+  hh ae1 d_  ah0_  y ah1 dh s_  p r ah1 m_  k eh1 g_  k ae1 r 
+
+----- diversity: 1.2
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+ s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh1 t_  ae1 t_  ah0 n d_  th r uw1_
+  ah0 n d_  ay1_  k ah1 k t_  t uw1_  hh ih1 z_  hh ih1 _  ah0_  m ae1 n d z_  ow1 l d_  k ao1 r_  n ey1 m d_  n ey1 m _  n r ay1 t_  t uw1_  ih1 n_  aa1 _  p aa1 r t ih0 _
+  f ao1 r_  dh ah0_  w ay1 r_  _  l ay1 t_  m iy1  ah0_  d ae1 g jh ah0 n_  l er1 ah0 l_  t eh1 r iy0_
+  hh uw1_  hh ae1 d_  hh ah1 ng_  dh ah0_  hh ih0 l ae1 n d r iy0 ih0 ng_  ih0 k s p l eh1
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4392     
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_"
+h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_  hh i_  hh iy1_  hh iy_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  hh ae1 d_  ah0_  m ae1 n_  ah0 n d_  ah0 n _
+  hh uw1_  hh aa1 r ah0 n d_  ah0_  s eh1 d_  ah0_  ah_  ah0 n d_  ah0 n d_  ah0 n _
+  ih1 t s_  b ih1 n t s_  m ah1 t _
+  b ah1 t_  dh ah0_  dh ah_  dh a_  dh a_  dh a_  dh ah0_  k w ih1 s t ih0 ng_  hh ih1 z_  hh ih1 _
+  sh iy1 z_  g er1 l_
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_"
+h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_  hh i_  p uh1 l_
+  hh ih1 z_  s t ih1 k ih0 ng_  ah0_  ah_  a_
+  ah0 n d_  ah0 n d_  ah0 n _  ah0 n _  ah0 n l ah1 k_  ih1 t s_  ih1 t _
+_
+_
+  ah0_  m aw1 s_  f r ah1 m_  dh ah0_  dh ah_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  ch ay1 n ah0_
+  hh uw1_  hh aa1 r iy0_  ae1 s_  ae1 _  ae1_
+  ah0 n d_  dh ah0_  k r ih1 ng_  l ay1 k_  m ah1 ch_  ah0 n d_  ah0 n d_  dh ah0_  k
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_"
+h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_  hh ih1 z_  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  f r ah1 m_  eh1 k sh ah0 w iy1 s iy1_  ow1 n l iy0_  ih0 t ay2 n n ah1 n t s_  ao1 l eh0 s_
+  hh ih1 z_  hh aa1 m_  dh ah0_  dh ah_
+  ae1 z_  ah0_  m ae1 n_  ah0_  k uh1 b ah0 l_
+  hh ae1 d_  hh ae1 n d_  hh er1_  hh ay2 jh iy1_  hh ih1 z_  f ih1 l iy ng_  w eh1 n t r eh2 _
+  dh ae1 t_  ih1 t s_  ao1 l r iy_  sh iy1_  ow1 v er0_ 0 r ow1 d z_  t uw
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_"
+h0_  dh ah_  ay1_  ay_
+  sh iy1_  sh iy_  y eh1 l_  l ih1 p iy0_  l ih1 k er n iy0_
+_
+_
+  m ah1 dg  ah0 n_  dh ah0_  b ow1 b aa2 r z_  t uw1_  d eh1 d_  b eh1 t ih0 k_
+  dh ah0_  l ih1 m er0_  p uh1 l_  a ay1_  l ay1 k_  dh  jh ah1 ng_  k ae1 ch t_  w aa1 z_  n ow1_  ay1 m_  r uw1 t_  w ih1 dh_  w ih1 d_  sh iy1_  jh eh1 n t s_  f r ah1 m_  l eh1 p ah0 n_
+  hh iy1_  hh iy_  hh ae1 d_  p uh1  s l ey1_  dh ah0_  b er1 er0_
+  ih1 t_  t eh1
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4377     
+
+----- diversity: 0.2
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n aa1 t_  p l iy1 n z_
+  ih1 z_  s t iy1 n ih0 ng_  dh ah0_  k w ih1 jh ah0 l_  ah1 v_  hh er1_  hh er_
+  w ah1 n s_  w aa1 z_  ah0_  m ae1 n_  n ey1 m d_  n ey1 m _
+  hh uw1 z_  k r ae1 k_  ah0 n d_  p l ay1 _
+  s ow1_  ah0 n d_  ah0 n _  ah0 n_  ih0 _
+_  sh iy1_  sh iy_  sh i_  hh ae1 d_  p iy1 n ah0 n_  w aa1 z_  w aa1 _
+  s ow1_  hh iy1 z_  hh ih1 _  l ih1 m ey0 ah0 l_  hh ae1 _
+_  w aa1 z_  w a
+
+----- diversity: 0.5
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n aa1 t_  s m ae1 n d_  w ih1 dh_  ah0_  k ae1 p ih0 k_  l uh1 k_  p l eh1 n t r iy0 er0_
+  ay1 d_  ah0 n d_  ah0 n _  ah0 n_  ih0 _
+_  ah0_  l ah1 k_  ah0 n d_  ah0 n _
+  ah0 n d_  dh ae1 t_  w eh1 n t_  hh er1_  hh er_
+  w ah1 n s_  w aa1 z_  w ank y ah1 n t_  y uw1 l_  w aa1 z_  w aa1 z_  w aa1 z_  w ank g eh1 r iy0 ah0 _
+  ah0 n d_  w eh1 z_  hh iy1_  w uh1 d_  p iy1 v ih0 _  ah0 n d_  ah0 n _
+_
+
+----- diversity: 1.0
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n aa1 t_  w ih1 m w iy1_  k ao1 n _
+_
+_
+_
+_
+_  dh ae1 t_  hh ow1 l_  d ih0 f ay1 d_  dh ae1 t_  w uw1 _
+  dh ay1_  hh er1 z aao0 b z_  n aa1 l ah0 s_  l ae1 s t_
+  s ey1 k_  jh ah1 s_  ah1 v_  dh ah0_  k ah1 w ah0 l d_  m ay1_  t _
+  b ah1 t_  ih1 z_  s l ay1 n t_  sh iy1_  w uw1 d_  b iy1_  p r ay1 d_  d uw1 _
+__  w ah1 n d er0 f ah0 _
+  f eh1 l_  ah1 v_  k ey1_  hh ae1 d_  p iy1 n ah0 th_  b r eh1
+
+----- diversity: 1.2
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n aa1 t_  s p aa1 r d er_
+  ao1 l_  ao1 l_  b eh1 g_  ah1 p er0_  w eh1 m_  ah0 n d_  ah0 n _
+  ah0 n t_  b ih1 t_  ih1 t_  eh1 n t r er0_  ah1 s_  ae1 _
+_  hh iy1_  hh iy_  f aw1 n_  ih1 n d l er0_  hh uw1_  hh ae1 k_  dh ah0_  l uw1 n_
+  sh iy1_  k  jh eh1 n _  d ey1 m_  l ih1 k er0_
+  ih1 f_  ah0_  m uw1 n_  hh iy1 _
+  w ah1 n_  w ah1 n_  w ah1 n_  y uw1 l_  hh uw1 k m_  p ay1 n_  nh w eh1 m_  w 
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4336     
+
+----- diversity: 0.2
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g"
+  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g aa1 t_  ah0_  f r eh1 n d iy0_  ah0 n d_  ah0 n _
+  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  ih0 _
+  dh ey1_  sh iy1 d_  ah0_  ah_  a_  n ey1 m d_  n ey1 m _
+  hh uw1_  w aa1 z_  s k r ae1 ng k iy0 ah0 t iy_
+  hh uw1_  w aa1 z_  d ih0 s k ay1 t iy0_
+_  ah0_  s t ao1 r ah0 s_  k aa1 n t ih0 s t_  l ay1 k_  ah0_  ah_
+  hh iy1_  hh iy_
+  t ih1 t s_  ah0 n d_  ah0 n _  ah0 n_  ih0 n_  ih0 _
+  dh ey1_  hh i
+
+----- diversity: 0.5
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g"
+  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g ow1_  ah0_  m ae1 n_  ah1 v_  ah1 _  ah1 _  dh ah0_  s ey1_  k aa1 n t ih0 ng_  ah1 v_  ah1 _
+  sh iy1_  s eh1 d_  s eh1 _  s eh1 _  s eh1_
+  sh iy1_  s eh1 d_  aw1 t_  ah1 v_  ah1 _
+  sh iy1_  s eh1 d_  w ih1 dh_  ah0_  ah_
+  ah0_  y ah1 ng_  m ae1 n_  hh uw1_  s eh1 d_  s eh1 _  s eh1 _  s eh1 _  ih0 n_  ih0_
+  dh eh1 r_  w aa1 z_  ah0_  y ah1 ng_  m ae1 n_  dh ah0_  s eh1 l f_  ah1 v_  hh er1_
+
+----- diversity: 1.0
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g"
+  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g aa1 t_  d ih0 s t r eh1 s t ih0 d_  hh er1_  hh er_
+  dh ah0_  l ih1 k_  p l ey1 s_  dh ey1_  dh ey1_  w ow1 v_  ih0 n_  k ae0 n y uw1 d_  k aa1 z_  k l iy1 n ih0 n_
+_____  t uw1_  l ih1 m er0 ih0 k_  b ah1 k w ah0 n t_  r ae1 n_
+  s ow1_  hh iy1_  d t y uw1_  ah0 n d_  ch ao1 r b er0_
+  ow1_  ih0 n_  ih0 _  ih0_  w aa1 uw_  ah0_  ah_
+_  w ah1 n_  m ao1 r d z_  ow1 l d_  s eh1 m f r ah0 s t ah0 n
+
+----- diversity: 1.2
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g"
+  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+  g uh1 d_  th ih1 ng z_  l ay1 er0_  l ih1 d ah0 n_  ey1 z_  f eh1 l f r er0 d_  d ih0 s t r iy1 s_  dh ae1 t_  hh iy1_  k uh1 d_  t uw1_  p l eh1 r d_
+  ah0 n d_  y uw1_  k ae1 t_  hh ih1 z_ _
+  b ay1_  ah0_  ow1y2  w ih0 z iy1 k ih0 ng_  m ah1 ch_  s ah1 m_  s l eh1 _
+  dh eh1 r_  w aa1 z_  ah0_  m ae1 n_  ih0 n_  ih0_
+  ah0_  iy1 k w ah0 l_  t uw1_  n eh1 d_  w ih1 dh_  f eh1 n iy0_
+  sh iy1_  s 
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+74294/74294 [==============================] - 121s - loss: 0.4352     
+
+----- diversity: 0.2
+----- Generating with seed: "ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r "
+ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r iy0 k s_  s ah1 m ih0 ng_  hh ih1 z_  hh ih1 _
+  ae1 z_  hh iy1_  w aa1 z_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n_  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  dh ah0_  dh ah_  dh a_
+  dh ae1 t_  ah0_  ah_  a_  ae1 t_  ae1 _
+  ae1 z_  hh iy1_  w aa1 z_  s k eh1 t_  ao1 l_  ow1 v er0_  dh ah0_  dh ah_
+  ah0 n d_  ah0 n _  ah0 n_  w eh1 n_  dh ae1_
+  sh iy1_  s eh1 d_  ah1 v_  ah0_  ah_  a_
+_
+_
+  hh ih1 z_  b a
+
+----- diversity: 0.5
+----- Generating with seed: "ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r "
+ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r iy0 z_  s t ah1 m ih0 ng_  dh ah0_  dh ah_
+  sh iy1_  w aa1 z_  sh aa1 p t_  t uw1_  t uw_
+  w eh1 r_  sh iy1_  w uh1 d_  d ih0 s p ay1 t ih0 ng_  dh ah0_  dh ah_
+  hh iy1_  k uh1 d_  f ey1 t_  ah1 p_  hh er1_  hh er_
+  w eh1 n_  ay1_  w iy1 d_  ah0 n d_  dh ah0_  dh ah_
+  w eh1 n_  sh iy1_  s ae1 t_  ae1 n_  y eh1 r iy0_  f ao1 r_  dh ah0_  dh ah_
+  ah0 n d_  t uw1_  s t aa1 r t aa0 r ey2 t_  v e
+
+----- diversity: 1.0
+----- Generating with seed: "ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r "
+ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r iy0 k_  f r ah1 m_  ch ih1 l ow0_  hh iy1_  l aa1 y ey_
+_
+_
+  dh eh1 r_  w ah1 n s_  w aa1 z_  ah0_  f eh1 l e_  n ey1 m d_  n ey1 m_
+_
+_
+  dh ae1 t_  ah0_  d aa1 r ah0 t iy0_  y ao1 n_  y ah1 ng_  y a
+1 v ih0 k_  p uh1 s t_  t uw1_  t uw_
+  m ay1_  ih1 t_  aa1 _  dh ae1 n s_  s ah0 l eh1 s t ih0 ng_  dh ah0_  dh ah_
+  ah0_  t ah1 p ih0 ng_  ah1 v_  y ao1 r_  ay1 _
+  hh uw1_  l ah1 v er0_  d ih1 d
+
+----- diversity: 1.2
+----- Generating with seed: "ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r "
+ah1 v_  ah1 _
+_
+_
+  ah0_  g ey1_  ay1 r d l iy0_  dh ah0_  r ih0 r w eh1 d_
+  dh ey1_  w uh1 d ah0 n t_  m iy1 n_  hh ih1 _  hh i_
+  w eh1 n_  sh iy1_  m ih1 t_  f ih1 p t_  hh ih1 z_  hh ih1 _
+  ae1 z_  hh iy1_  d uw1 m_  d hh ih1 s_  sh ow1_
+  dh eh1 r_  w aa1 z_  w aa1 _
+  hh uw1_  s t uw1 d_  dh ah0_  eh1 m ah0 n d_  dh ae1 t_  hh iy1_  t uw1 s_  ao1 f_  ah0_  d ay1 m_
+  ah0 n d_  p l ah1 s t r ay2 d ah0 d_  hh er1 r iy0_  g r uw1_
+
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+74294/74294 [==============================] - 120s - loss: 0.4305     
+
+----- diversity: 0.2
+----- Generating with seed: "1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t"
+1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t uw1_  s uw1 _  l iy1_  m ay_  m a_
+_
+_
+  dh ah0_  l ae1 s t_  l aw1 k t_  ah1 v_  hh iy1_  hh iy_
+  t uw1_  t uw_  ah0_  ah_  ah0_  ah_  a_
+_
+_
+  hh uw1_  w uh1 d_  w uh1 d_  f ao1 r_  ah0_  ah_
+  hh iy1_  hh iy_  hh ih1 z_  hh iy1_  hh iy_
+__  r ay1 t_  ae1 t_  ae1 _
+  ah0 n d_  dh ah0_  dh ah_  dh a_  dh _  ih1 t_  ih1 _
+  ah0 n d_  ah0_  f l eh1 s ih0 n_  ah0 n d_  ah0 n _
+  dh ae1 t_  dh ae1 
+
+----- diversity: 0.5
+----- Generating with seed: "1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t"
+1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t uw1_  f ih1 sh ah0 n_  ih0 n_  dh ah0_  dh ah_
+  w ih1 dh_  ah0_  r ih1 t s_  w ih1 dh_  l ao1 ng_  ih1 n_  ow1 l d_  m ae1 n_  f r ah1 m_  f r ah1 _
+  hh uw1_  w aa1 z_  w aa1 _
+  ah0_  m ae1 n_  ow1 l d_  m ae1 n d er0 n s_  m ah1 ch_  f ay1 m_  f r ah1 m_  k eh1 k s iy0 ah0 _
+  ay1_  k aa1 t_  ao1 l_  dh ah0_  m ae1 n_  ah1 v_  ah1 _
+  hh uw1 z_  k ih1 sh ah0 n_  ah0_  m ae1 n_  hh uw1 z_  hh 
+
+----- diversity: 1.0
+----- Generating with seed: "1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t"
+1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t ih1 t_  f ao1 r_  ah0_  ah_
+  hh iy1_  ay1 t_  ae1 n_  r ah1 n_  ae1 z_  aa1 n_  n aa1 t _  d ih0 z ah1 s t ih0 ng hh ae2 m b iy0_  w aa1 z_  s ah1 m_  d ih0 v ay1 s t er0_  dh ey1_
+  sh iy1_  k ae1 n iy0 s_  dh ey1_  eh1 k s_  ae1 n_  hh iy1 z_  hh ih1 _
+  w ih1 z_  dh ah0_  r ih1 k ah0 n ih0 ng hh ae2  k ah0 _
+  b ah1 t_  w ih1 dh_  ah0_  ah_  a_  n aa1 t_  eh0 n d_  ah0 n _
+  ah0_  l ey1 d iy0
+
+----- diversity: 1.2
+----- Generating with seed: "1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t"
+1 t_  ae1 _
+_
+_
+  ah0 n d_  hh ae1 d_  t uw1_  y uw1_  dh ah0_  b ae1 d_  ah0 n d_  ao1 r_
+  ah0 n d_  dh ah0_  k l eh1 n s_  p l iy1 d_
+  ah0 n t s ih1 d er0 d_  th ih1 ng z_  r ay1 t ih0 ng_  s ao1 b ah0 l er0_  ih1 z_  ah0_  f eh1 l ow0_  n ey1 m d_  b er1 m ow2_
+  b ah1 t_  l ah1 k_  ae1 dh z_  ah0_  m ae2 g aw2 s t ih0 ng_  ao2 l p eh1 r_
+  w ih1 dh_  dh ah0_  dh ah_  w ih1 dh_  ah0 n m ah1 k th_  hh ih1 z_  hh ih1 _  ih0 n_  dh ah

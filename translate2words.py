@@ -84,8 +84,8 @@ for line in output:
 #Grab output from lstm
 numWords=0
 total = 0
-output = open("output9.txt","r")
-t = open('2wordsOutput9.txt','w')
+output = open("output1.txt","r")
+t = open('2wordsOutput1.txt','w')
 for line in output:
     if ("Iteration" in line) or ("Epoch" in line) or ("-----" in line):
         t.write(line)

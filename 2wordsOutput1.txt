@@ -1,0 +1,3518 @@
+----- diversity: 0.2
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h1 v ah0 n_  ah0 n d_  ah0 n _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf OU wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf 
+wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "  dh eh1 r_  w aa1 z_  ae1 n_  ow1 l d_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " f ay1 n d ih0 ng_  f er1 iy0_  ah0 n d_"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " e_  aw1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " e_  aw1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " e_  aw1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " e_  aw1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "  ah0 d ih1 k sh ah0 n_  t uw1_  t uw_  "
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ih1 s_  l ae1 s t_  l ae1 s _
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OU OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ey1 m_  t uw1_  dh ah0_  dh ah_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf 
+wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1 r_  n ey1 m d_  jh eh1 s_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "0_  ah_  ah0_  ah_  a_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " f uw1 d_  ih0 n ah1 f_  f ao1 r_  ah0_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1 n_  t w eh1 n t iy0_  b ah1 k s_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " w aa1 z_  ah0_  g er1 l_  f r ah1 m_  d"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "iy1_  sh iy_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "iy1_  sh iy_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "iy1_  sh iy_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+
+----- diversity: 1.2
+----- Generating with seed: "iy1_  sh iy_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "_  g eh1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "_  g eh1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+
+
+----- diversity: 1.0
+----- Generating with seed: "_  g eh1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "_  g eh1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " uw_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " uw_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " uw_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " uw_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "h0 n d_  ah0 n _
+wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h0 n d_  ah0 n _
+wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h0 n d_  ah0 n _
+wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h0 n d_  ah0 n _
+wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "d_  hh ih1 z_  ay1 k y uw1_  hh ae1 d_  "
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ey1 d iy0_  w ay1 l_  d ay1 n ih0 ng_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+OU wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf 
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf OU wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " d_  ah0 n d_  hh iy1_  t r ay1 d_  t uw"
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1 n z_  ah0_  m ay1 n ah0 s_  b iy1_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+
+----- diversity: 1.0
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " n t_  b ae1 ng_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " n t_  b ae1 ng_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " n t_  b ae1 ng_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf OR(1) wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " n t_  b ae1 ng_
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "g_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "g_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "g_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "g_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "t_  hh er1_  p l ae1 n z_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "g y uw0 d_  ao1 l_  n ay1 t_
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "a1 z_  ah0_  b ih1 sh ah0 p_  ah1 v_  ah"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "_  ah0_  t uw1 l_  ah1 v_  p r ah0 d ih1"
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ao1 r t ih0 d_  ah0_  m ay1 t iy0_  b i"
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  ah_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf OU wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1_  g r iy1 s t_  ih1 t_  w ih1 dh_  l a"
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h1 l f_  hh ih0 m s eh1 l _
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "s ae1 l ah0 d_  ih1 z_  n iy1 d ih0 ng_ "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " f r ah1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OU wtf 
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ay1 n d_  b l ay1 n _
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+OU wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " d_  ah0_  s ah0 l eh1 k sh ah0 n_
+wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " d_  w iy1_  hh ow1 p_  dh ae1 t_  sh iy"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ih1 _
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ih1 _
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ih1 _
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf OR(1) wtf OR(1) wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ih1 _
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf OR(1) wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "_
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "_
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "_
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "_
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf 
+wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " ah1 v_  ah1 _
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " ah1 v_  ah1 _
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " ah1 v_  ah1 _
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " ah1 v_  ah1 _
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) OR(1) wtf OU wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf OU wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "r ay1 t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "r ay1 t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "r ay1 t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf OR(1) wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "r ay1 t_
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+
+
+----- diversity: 1.0
+----- Generating with seed: " m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf OU OR(1) wtf OU wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf OU 
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+
+----- diversity: 1.0
+----- Generating with seed: "
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  s t r eh1 ng k th_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "y_  hh er1_  p eh1 t_
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " hh er1_  hh er_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " hh er1_  hh er_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " hh er1_  hh er_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: " hh er1_  hh er_
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1 m_  f r ah1 _
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OU wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "  w aa1 z_  ah0_  g er1 l_  n ey1 m d_  "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf OR(1) wtf wtf 
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+
+----- diversity: 0.5
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf OU wtf OR(1) 
+
+----- diversity: 1.2
+----- Generating with seed: " s_  w eh1 n_  hh ih1 z_  w ay1 f_  b eh"
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf OU wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf OU wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "h0_  dh ah_  ay1_  ay_
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf 
+wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "aa1 z_  ae1 n_  ow1 l d_  s k aa1 t_  n "
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OU OR(1) wtf wtf OU wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf OU wtf wtf OU wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "  l eh1 t_  aw1 t_  ah0_  b aa1 r k_
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf 
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "ah1 v_  ah1 _
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "ah1 v_  ah1 _
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "ah1 v_  ah1 _
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "ah1 v_  ah1 _
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf OR(1) wtf OR(1) wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OR(1) wtf 
+
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+
+----- diversity: 0.2
+----- Generating with seed: "1 t_  ae1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf OR(1) wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 0.5
+----- Generating with seed: "1 t_  ae1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf OR(1) wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf OU wtf OU wtf wtf wtf wtf 
+wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+
+----- diversity: 1.0
+----- Generating with seed: "1 t_  ae1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf OU wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OR(1) wtf OU wtf wtf wtf wtf wtf wtf OU wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf 
+
+----- diversity: 1.2
+----- Generating with seed: "1 t_  ae1 _
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf 
+wtf 
+wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OR(1) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf OU wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf 
+STATS: 0.036574632460801254
