@@ -84,8 +84,9 @@ for line in output:
 #Grab output from lstm
 numWords=0
 total = 0
-output = open("output1.txt","r")
-t = open('2wordsOutput1.txt','w')
+output = open("snippet.txt","r")
+t = open('30673Words.txt','w')
+unknownWords = open('missing30673.txt', 'w')
 for line in output:
     if ("Iteration" in line) or ("Epoch" in line) or ("-----" in line):
         t.write(line)
@@ -99,6 +100,7 @@ for line in output:
                 numWords = numWords+1
             else:
                 t.write("wtf"+' '),
+                unknownWords.write(word+'\n')
         t.write('\n')
 
 t.write("STATS: ")

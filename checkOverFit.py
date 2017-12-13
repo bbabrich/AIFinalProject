@@ -100,7 +100,7 @@ total = 0
 seed = 0
 
 corpus = open('limToCharPhons.txt', 'r')
-output = open("output5.txt","r")
+output = open("30346.txt","r")
 for line in output:
     #per is the percent of words in line that match the words in one line of the limerick corpus
     per = 0
@@ -124,9 +124,9 @@ for line in output:
                     words = line.split()
                     limWords = limLine.split()
                     #print(words,limWords)
-                    if (len(words)>=6) and (len(limWords)>=6):
+                    if (len(words)>=3) and (len(limWords)>=3):
                         stem = True
-                        for x in range(0,5):
+                        for x in range(0,2):
                             if words[x] != limWords[x]:
                                 stem = False
                         if stem:

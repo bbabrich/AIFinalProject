@@ -45,7 +45,7 @@ for line in phon2word:
 #Attempting to attach probabilities to guess a word
 #Grab output from lstm
 output = open("snippet.txt","r")
-translation = open('translation30346.txt', 'w')
+translation = open('output5PR.txt', 'w')
 for line in output:
     string = line.split(' ')
     string = [x for x in string if (x != '' and x != '\n')]
