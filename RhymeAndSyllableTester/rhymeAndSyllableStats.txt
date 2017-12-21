@@ -1,0 +1,42 @@
+lstm_output_3.txt
+percentage of weak rhymes: 5.552685950413223
+percentage of strong rhymes: 1.962809917355372
+percentage of matching syllable counts: 14.307851239669422
+percentage of slant rhymes: 11.15702479338843
+
+lstm_output_4.txt
+percentage of weak rhymes: 4.915514592933948
+percentage of strong rhymes: 1.9201228878648235
+percentage of matching syllable counts: 15.156169994879672
+percentage of slant rhymes: 8.269329237071172
+
+lstm_output_5.txt
+percentage of weak rhymes: 5.485232067510549
+percentage of strong rhymes: 1.1075949367088607
+percentage of matching syllable counts: 13.475738396624473
+percentage of slant rhymes: 7.14662447257384
+
+lstm_output_6.txt
+percentage of weak rhymes: 6.1461355842785546
+percentage of strong rhymes: 2.374043787918755
+percentage of matching syllable counts: 15.22025850699024
+percentage of slant rhymes: 8.889475072540227
+
+lstm_output_7.txt
+percentage of weak rhymes: 5.997172504254751
+percentage of strong rhymes: 1.4689770888800175
+percentage of matching syllable counts: 14.993531578204871
+percentage of slant rhymes: 7.633938353388943
+
+lstm_output_8.txt
+percentage of weak rhymes: 5.889238198542705
+percentage of strong rhymes: 1.5253188216621012
+percentage of matching syllable counts: 14.130494732778114
+percentage of slant rhymes: 7.531606395430784
+
+lstm_output_9.txt
+percentage of weak rhymes: 5.892281724719963
+percentage of strong rhymes: 1.8106490716587387
+percentage of matching syllable counts: 14.162958416449287
+percentage of slant rhymes: 8.10188737148995
+
