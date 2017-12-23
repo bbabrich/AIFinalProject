@@ -1,5 +1,6 @@
 #run stats on lstm output 3-10 (the ones with char output)
-for j in range(3,10) :
+for j in range(3,11) :
+	print(j)
 	fileName = "lstm_output_"+str(j)+".txt"
 	# open up our file
 	readF = open(fileName, "r")
