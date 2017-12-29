@@ -1,0 +1,26 @@
+LSTM OUTPUT:
+YOUR CHANCE TWO BEE TRULY FURST KLAE1S (line 292 in '2wordsOutput5Ph.txt')
+MANUALLY SEARCHING FOR WORDS IN CORPUS:
+"Here's your chance to be truly first class. (line 578 in 'limerickCorpus.txt')
+
+LSTM OUTPUT:
+THEY'RE ONCE WAS A MANNE NAMED DAVE (line 7 in '2words.txt')
+MANUALLY SEARCHING FOR WORDS IN CORPUS:
+There once was a man named Dave (line 1495 in 'limerickCorpus.txt')
+
+LSTM OUTPUT:
+TWO GROWE UPP TWO BEE A MANNE (line 3683 in '2words30346.txt')
+MANUALLY SEARCHING FOR WORDS IN CORPUS:
+he didn't want to grow up to be a man (line 2414 in '2words30346.txt')
+
+LSTM OUTPUT:
+LYKES OF HUR WTF WTF ILL (line 3774 in '2words30346.txt')
+MANUALLY SEARCHING FOR WORDS IN CORPUS:
+- searched for "likes of her"
+- notably does not have a matching sequence of strings!
+
+LSTM OUTPUT:
+WII WOULD THINK I. WTF IN A WTF (line 10411 in '2words30346.txt')
+MANUALLY SEARCHING FOR WORDS IN CORPUS:
+- searched for "we would think"
+- no matching strings here either
