@@ -35,7 +35,7 @@ for j in range(3,11) :
 			#if we hit a "generating with seed line" we want to skip the next few lines
 			#i.e., we do not want to consider whether seeded lines rhyme
 			if line[0:7] == "----- G" : 
-				skipLines = 3;
+				skipLines = 3
 
 			if skipLines <= 0 : #we hit a line we want to check for rhyming with
 				validLines = validLines + 1

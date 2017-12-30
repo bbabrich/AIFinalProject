@@ -61,7 +61,7 @@ for line in originalLinesF :
 		if elem in ch2wrdsDict :
 			print(ch2wrdsDict[elem]+" ", end="")
 		else :
-			print("DNF ", end="")
+			print("DNF ", end="") #seq2seq output would go here
 	print("")
 	
 originalLinesF.close()

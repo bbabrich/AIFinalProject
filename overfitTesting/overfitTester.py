@@ -1,3 +1,9 @@
+#B Chase Babrich
+#This file checks LSMT output for overfitting
+#if a line is not "overfitted", it is converted to words and written to a file
+
+#//////////////////////ASCII TO WORD CONVERSION TOOLS//////////////////////////////////
+
 #create a dictionary for ascii to phoneme
 phon2charF = open("phonToCharDict.txt","r")
 ch2phDict = {}
@@ -32,6 +38,8 @@ for key in phnms2wrdsDict :
 		val = val +  ch2phDict[elem].strip()
 	ch2wrdsDict[val] = key
 
+#//////////////////////OVERFIT TESTING STARTS HERE//////////////////////////////////
+
 lstmFile = open("lstm_output_6.txt", "r")
 overfittedLines = open("overfittedLines.txt","w")
 originalLines = open("originalLines.txt", "w")
@@ -42,6 +50,9 @@ numLines = 0
 numMatches = 0
 skipLines = 1
 
+#takes in a line in ASCII format
+#returns a line in human words
+#write 'DNF' for words which are not in the CMU dictionary
 def convertCharLineToWords(line):
 	convertedLine = ""
 	words = line.split()
@@ -52,7 +63,7 @@ def convertCharLineToWords(line):
 			convertedLine = convertedLine + "DNF " #seq2seq output would go here
 	return convertedLine
 
-
+#check each line from output for overfitting
 for lineX in lstmFile :
 	# LSTM OUTPUT LINE PROCESSING
 	lineX = lineX.strip() # get rid of trailing spaces and newline character
