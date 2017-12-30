@@ -1,3 +1,37 @@
+#create a dictionary for ascii to phoneme
+phon2charF = open("phonToCharDict.txt","r")
+ch2phDict = {}
+
+for line in phon2charF :
+	line = line.strip()
+	if line != "" and line[0:2] != "IY0":
+		keyAndValue = line.split("-")
+		ch2phDict[keyAndValue[0]] = keyAndValue[1]
+	ch2phDict["IY0"] = "-" #it was silly to use "-" as one of our chars...
+
+#create a dictionary for phonemes to words
+chars2phonsF = open("cmuDict.txt","r")
+
+phnms2wrdsDict = {}
+
+for line in chars2phonsF :
+	line = line.strip()
+	keyAndValue = line.split(" ")
+	key = keyAndValue[0]
+	phnms2wrdsDict[key] = keyAndValue[1:]
+
+#merge those two dictionaries into an ascii to words dictionary
+ch2wrdsDict = {}
+
+for key in phnms2wrdsDict :
+	#print(" ".join(phnms2wrdsDict[key])[1:])
+	del phnms2wrdsDict[key][0] #get rid of empty "" spot at the beginning (?)
+	val = ""
+	for elem in phnms2wrdsDict[key] :
+		#print(ch2phDict[elem].strip())
+		val = val +  ch2phDict[elem].strip()
+	ch2wrdsDict[val] = key
+
 lstmFile = open("lstm_output_6.txt", "r")
 overfittedLines = open("overfittedLines.txt","w")
 originalLines = open("originalLines.txt", "w")
@@ -7,6 +41,17 @@ alreadyMatched = []
 numLines = 0
 numMatches = 0
 skipLines = 1
+
+def convertCharLineToWords(line):
+	convertedLine = ""
+	words = line.split()
+	for elem in words :
+		if elem in ch2wrdsDict :
+			convertedLine = convertedLine + ch2wrdsDict[elem]+" "
+		else :
+			convertedLine = convertedLine + "DNF " #seq2seq output would go here
+	return convertedLine
+
 
 for lineX in lstmFile :
 	# LSTM OUTPUT LINE PROCESSING
@@ -28,6 +73,7 @@ for lineX in lstmFile :
 		   ): # we hit a line we want to check for overfitting on
 			numLines += 1
 			foundBool = False
+			consecutiveOGLinesChecker = 0
 			
 			corpusFile = open("lstmIn.txt", "r")
 			for lineY in corpusFile :
@@ -63,6 +109,7 @@ for lineX in lstmFile :
 							if streak == n and "25/ nL|a nCp" not in " ".join(matchingWords) :
 								numMatches += 1
 								alreadyMatched.append(lineX)
+								consecutiveOGLinesChecker = 0
 								#write overfitted line to file
 								overfittedLines.write("match found")
 								overfittedLines.write("\n")
@@ -79,8 +126,11 @@ for lineX in lstmFile :
 				if foundBool : break
 			corpusFile.close()
 			if not foundBool :
-				originalLines.write(lineX)
+				consecutiveOGLinesChecker += 1
+				originalLines.write(convertCharLineToWords(lineX))
 				originalLines.write("\n")
+				if consecutiveOGLinesChecker == 2 :
+					print("consecutive original lines found")
 originalLines.close()			
 overfittedLines.close()
 lstmFile.close()
