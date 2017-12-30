@@ -50,6 +50,13 @@ numLines = 0
 numMatches = 0
 skipLines = 1
 
+strongRhymes = 0
+weakRhymes = 0
+
+numOfOriginalLines = 0
+
+checkLine = "xx"
+
 #takes in a line in ASCII format
 #returns a line in human words
 #write 'DNF' for words which are not in the CMU dictionary
@@ -62,6 +69,14 @@ def convertCharLineToWords(line):
 		else :
 			convertedLine = convertedLine + "DNF " #seq2seq output would go here
 	return convertedLine
+
+def linesRhyme(lineX, lineY) :
+	if lineX[-2:] == lineY[-2:] : #check for last two phonemes matching
+		#print("HEEEEEEEEEEEERE")
+		return 1
+	elif lineX[-1:] == lineY[-1:] : #check for last phonememe matching
+		#print("HEEEEEEEEEEEERE")
+		return 0
 
 #check each line from output for overfitting
 for lineX in lstmFile :
@@ -84,7 +99,6 @@ for lineX in lstmFile :
 		   ): # we hit a line we want to check for overfitting on
 			numLines += 1
 			foundBool = False
-			consecutiveOGLinesChecker = 0
 			
 			corpusFile = open("lstmIn.txt", "r")
 			for lineY in corpusFile :
@@ -98,14 +112,12 @@ for lineX in lstmFile :
 					#round up for odd numbers 
 					if int(len(xWords)) % 2 != 0 : n += 1
 					
-					streak = 0
-
-					matchingWords = []
-					
 					#here is where the actual overfit checking happens
 					#for 50% of the output line, we see if we can find
 					#a matching sequence of strings in the input
 					#if we do, we stop looking (foundBool)
+					streak = 0
+					matchingWords = []
 					for i in range(0,n) :
 						k = i
 						for j in range(0,len(yWords)):
@@ -121,6 +133,7 @@ for lineX in lstmFile :
 								numMatches += 1
 								alreadyMatched.append(lineX)
 								consecutiveOGLinesChecker = 0
+								checkLine = "xx"
 								#write overfitted line to file
 								overfittedLines.write("match found")
 								overfittedLines.write("\n")
@@ -136,12 +149,29 @@ for lineX in lstmFile :
 							if foundBool : break	
 				if foundBool : break
 			corpusFile.close()
-			if not foundBool :
+			if not foundBool : #we've found an originally written line
+				numOfOriginalLines += 1
 				consecutiveOGLinesChecker += 1
+				if consecutiveOGLinesChecker == 1 : checkLine = lineX
 				originalLines.write(convertCharLineToWords(lineX))
 				originalLines.write("\n")
-				if consecutiveOGLinesChecker == 2 :
-					print("consecutive original lines found")
+				#print(consecutiveOGLinesChecker)
+				if consecutiveOGLinesChecker == 2 : #we've found two consecutively written original lines
+					#print("consecutive original lines found")
+					#print(checkLine)
+					#print(lineX)
+					if linesRhyme(checkLine, lineX) == 1:
+						print(convertCharLineToWords(checkLine))
+						print(convertCharLineToWords(lineX))
+						print("strong original rhyme found^")
+						strongRhymes = strongRhymes + 1
+					if linesRhyme(checkLine, lineX) == 0:
+						print(convertCharLineToWords(checkLine))
+						print(convertCharLineToWords(lineX))
+						print("weak original rhyme found^")
+						weakRhymes = weakRhymes + 1
+					checkLine = lineX
+					consecutiveOGLinesChecker = 0
 originalLines.close()			
 overfittedLines.close()
 lstmFile.close()
