@@ -69,7 +69,10 @@ input_characters = set()
 target_characters = set()
 lines = open(data_path).read().split('\n')
 for line in lines[: min(num_samples, len(lines) - 1)]:
-    input_text, target_text = line.split('\t')
+    if len(line.split('\t')) == 2 :
+        input_text, target_text = line.split('\t')
+    else :
+        print(line.split('\t'))
     # We use "tab" as the "start sequence" character
     # for the targets, and "\n" as "end sequence" character.
     target_text = '\t' + target_text + '\n'
