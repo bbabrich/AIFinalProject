@@ -1,3 +1,21 @@
+┌─(niko@nixbot)───(...emester 7/CS476 Artificial Intelligence/AIFinalProject)─┐
+└─(14:29:%)── python3 lstmTextGenerator.py                      ──(Wed,Nov15)─┘
+Using TensorFlow backend.
+corpus length: 91077
+total chars: 67
+nb sequences: 30346
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+30346/30346 [==============================] - 11s 359us/step - loss: 2.4772
+
+----- diversity: 0.2
+----- Generating with seed: "okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]"
 okZ /kc Lm +   
  
 25/ nL|a nCp K ]G| |#]1 &)p &)p K 1)\ K 1)\ K ]G| %/L\ ?)\ K 1)\ K 1)\ K ck a51 K %/L\ K %/L\ &)p 2K ]L\ a5/ 2Gc 2Gc nL| 2Gc 25/ nL|a nCp K ^5/ K }5| K 1)\ K 1)\ K %/L\ 2K ]G| 2K [)\ K 1)\ K 1)\ K a51 K ]#1 K ?5|c 

@@ -1,0 +1,6164 @@
+┌─(niko@nixbot)───(...emester 7/CS476 Artificial Intelligence/AIFinalProject)─┐
+└─(14:29:%)── python3 lstmTextGenerator.py                      ──(Wed,Nov15)─┘
+Using TensorFlow backend.
+corpus length: 91077
+total chars: 67
+nb sequences: 30346
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+30346/30346 [==============================] - 11s 359us/step - loss: 2.4772
+
+----- diversity: 0.2
+----- Generating with seed: "okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]"
+okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]1 &)p &)p K 1)\ K 1)\ K ]G| %/L\ ?)\ K 1)\ K 1)\ K ck a51 K %/L\ K %/L\ &)p 2K ]L\ a5/ 2Gc 2Gc nL| 2Gc 25/ nL|a nCp K ^5/ K }5| K 1)\ K 1)\ K %/L\ 2K ]G| 2K [)\ K 1)\ K 1)\ K a51 K ]#1 K ?5|c 
+K|1 25/ nL|a nCp K ?)\ K 1)\ K 1)\ K 1)\ K 1)\ K 1)\ K ]G| &)p 2Gc &)p 2Gc 2Gc 25/ nL|a nCp K 1)\ K 1)\ K 1)\ K 1)\ K ]5| 
+K|1 2K ]G| 25/ nL|a nL|a nCp K ?)\ K 1)\ K 1)\ K 1)\ K ]5| 
+K|1 25/ nL|a nCp K ?)\ K
+
+----- diversity: 0.5
+----- Generating with seed: "okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]"
+okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]1 ^5/ K 1)\ &G| ^)2 K ]G| 25/ nL|a nCp K ?)\ ck a51 Z)2 K 1G\ K ])\ K ]G| 25/ nL|a nCp K Z)\ 2K 1)\ K ^5/ nL| ?)\ &)p 
+K|1 %5/ &)p K ^5|c 
+Xc |# }# ])2K|a |)c ?L\ ?:  
+)c &)p 2Gc K 25/ nCp K Z)c ZCc K ]: ?)\ }X  
+
+ 
+25/ nL|a nCp K a5[ |#1 nCp K aL] 2K ?g1 25/ nL|a n)2 K ]5| &)| 25/ nL|a nCp K ])\ 2K /L\ 2K /)]  
+K 1)2K|1 a: ?)\ K %/L\ ck ck 25/ &)p K 1)c nL|c n5| K %g1 %5/ nL| K %5/ 2G/ 2K /:  
+
+K
+
+----- diversity: 1.0
+----- Generating with seed: "okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]"
+okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]1k okp c)[ 
+ 
+)2K ]n)2 K ZTc 
+P/ 2G2 a)+ &51 a51 2K :}L] ok   
+2X [G| 2LT ok ]5/ 2)c ]Xc m:/1 5/ nCp 
+K|a )d P/ }#1 |G| K|1 c)a ?)/ K %CLc ?8c 2Gc Z5^Z+ 
++ }nC2 c: 1:p ck K|1 ^)Pc Zg1 2K n)c K 1/Kc 
+)c 2G% ?L\ 2G/ &G\ ^Gp }g1 Cc a)c %P/ K :[1 ck }5/ 2K 5? 
+L| %g/ ]X ?/P[ |5|  G\ &+pp  
+K 1 25/  
+nCp &k?^/k ^#1]Lc)a  
+
+^)2K]1 ?G| G1 &k%  
+&+1 |C/ 25/ - ?G\ %k[ 
+1k  
+Cm nCd Tc n5\ T[ %5/ &T51+p  
+&)
+
+----- diversity: 1.2
+----- Generating with seed: "okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]"
+okZ /kc Lm +   
+ 
+25/ nL|a nCp K ]G| |#]1 ?)\ }K|1KZ+|%)p Ca ^K|%b/L| &k ]P| ]G|cK 1k)\ %/Lc 2G? &8 ^c- n)\ &P/ +LTcP[1 )c}2K &)| 
+ok1 nL{1 nL| ^C\ ^Gc ck\ L? aGc 
+?#1  
+Tp o51 2n)p 
+n:{ C/c(^1+c &)#  )2 2K 1k Lm n)p K %GbX ]#c ^)[ 
+Pa ^k2n:   
+ 
+25/)aK|1 ?X& 
+G2p]- G1 K /X Kcmn/k nL]K[X[ X|?)\cK|K?#] Lc K nLm [)c-(|5[: n/2r[YPc %P/ Zk a+ ?Gp &k 1)1  K|a %g/$]8? ^k n51 a5/ncnK|a 5| )c P] ^)p 
+a)25/ ?g1 2Km^)pK|c -g/ nCp K o#\ |G] K|1 ?5
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 2.0101
+
+----- diversity: 0.2
+----- Generating with seed: " 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 "
+ 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 }C[  
+&)p %/L|   
+ 
+25/ nCp K ]G| |#]1 1#  
+ 
+25/ nCp K oL\ ]G| |#]1  
+ 
+25/ nL|a nCp K ]G| |#]1 1#  
+ 
+25/ nCp K oL\ ]#   
+ 
+25/ nL|a nCp K ]G| |#]1   
+ 
+25/ nL|a nCp K ]G| |#]1 |#]1  
+&)p nCp K Z)[  
+&)p nCp K ]G| |#]1  
+&)p nCp K ]G| |#]1  
+ 
+25/ nCp K ]G| |#]1 1#  
+ 
+25/ nL|a nCp K ]G| |#]1  
+ 
+25/ nL|a nCp K ]G| |#]1 1#  
+ 
+25/ nCp K ]G| |#]1 1#  
+ 
+2K %/[G| K ]G| |#]1   
+ 
+2K }[)[  
+ 
+2K a5[
+
+----- diversity: 0.5
+----- Generating with seed: " 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 "
+ 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 ^/#  
+K|1 &)p 2K a#[  
+K Z/+   
+ 
+2K a)[   
+ 
+2G| )c K  
+a5[  P[ 2K a5[    
+ 
+%/L] a#[r  
+K|1 Z/P/   
+ 
+2K }[#] 
+K|1 ?[k a[#  
+nL| )c   
+n)2 K Z/#  
+n)2 }C|  
+a?[#1 K ]#| 
+K|1 &)p ?#[  
+%/L| |#]1 
+ck &8 &)p  
+n)2 K a5[  
+ 
+2K a5[  2G  
+ 
+K ^[#| 
+&)p n8[ Z5[  
+ 
+2G| &)p [#1 [#  
+ 
+2# }#?   
+ 
+2# }#| a51  %/L} nCp  Z)}  
+&)p Z)a G| K ]#  
+ 
+25/ nCp K ]G| |#]1 ]#  
+ 
+|#1   
+|X &G1  
+ 
+25/ nL|a nCp K 
+
+----- diversity: 1.0
+----- Generating with seed: " 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 "
+ 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 |#]%     |#1  
+ 
+%5[ a5}a (| &)2 K ]8] nG| K }oGa 
+}Ca : Z#]    }Cc(} Z8  
+a5/1 |X K ]Ga  
+ 
+%P[ 
+ZLc C] 2K &8 K|c 1(}(| d/5}  &)| 
+ 
+ 
+K a}/)}a c/K1K1 ]G|  
+ 
+25/ nCp K 2G|K|[#}  bC?  
+kp %P[   
+)p &+ oX+  
+ac/+p ?[(1 ]|}(m 
+K|1 }(} |#]1 F? 
+K Z/kc  
+a51 a5} }}Gac-  
+ 
+|kp |Cc P/ &/#[ 
+  X a5|p 
+:[1 2K a[Ga  a}+Kc ck1    
+a51 nL| %/L| 
+]K : n)['   
+Z+ 2K b: [G^ \?  
+ 
+n5| +5aK| ZP[p   
+2K a5[  1/
+
+----- diversity: 1.2
+----- Generating with seed: " 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 "
+ 
+2K [X| nCp ck [P\ ]G| 
+n5|c TcaX1 K|1 ^)a ng1 [C} n5]      
+ 
+0Xm5dr ^5c ac/Pa   
+og]1 a[' ]#? }/X 1(?L|aK| }mr1  
+Z)]p nC]  ^Lc a#{ a5} 
+&Pp 1)|a nL[ X]  
+ZP[ 1n|&K  
+ZL]K1 2# a5|} (} ])[  GaK| &8 
+ 
+/L]p %|[#1   
+)p %r[)}c }KZT ]:|    
+ZLp ^5[ }/K|  
+K|Zm/Z1 }#[  ^/#a 1k (a K [G[Y \  
+25/ nL|a nCp1K  n)% +  )a }/+} 
+^: (1 
+[k}  
+X a[kpX[  ck[Ka }?  
+G\ [    
+X [X} K ?[K% [(\  
+b)2 %g1K[(| K cX}  
+&+ nC/ 1acP}% {{a?+1 
+n)2 n)[G% 
+(| 
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.8678
+
+----- diversity: 0.2
+----- Generating with seed: "1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a"
+1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a51 nCp n)2 K Z)c nCp   
+ 
+25/ nL|a nCp K ]G| %/L] |#]1 1)}  
+ 
+25/ nL|a nCp K ]G| %/L] }#]  
+&k nCp a51 nCp nCp a51 nCp a51  
+ 
+25/ nL|a nCp K ]G| |#]1 1)| 
+&k nCp nCp nCp nCp a51  
+nL| nCp a51 nCp K Z)c nCp a51  
+ 
+25/ nL|a nCp K ]G| |#]1 1)} 
+&k nCp a51 nCp nCp a51  
+25/ nL|a nCp K ]G| %/L] |#]1 1)}  
+&k nCp n)2 K ]G| %/L] a51  
+nL| n)2 K Z)c nCp nCp nCp a51  
+ 
+25/ nL|a nCp K ]G| %/L] |#]1 1)} 
+
+----- diversity: 0.5
+----- Generating with seed: "1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a"
+1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a51 nL|a nCp K ]G| %/L] ]G| 
+ 
+25/ nL|a nCp K oL\ ?G|  
+&k nCp n)2 K [)a nCp 2K ?/)a  
+nCp K ck ?#1 &8 n)2 K 1Lm &)p Gc  
+25/ nL|a nCp K /)[ |#]1 1G| 
+ 
+25/ nL|a nCp K ]G| %/L] %/L] ck ]G| 
+ 
+25/ nL|a nCp K ZL] %/L] }/+c 
+X  
+nCp K Z: n5[ &)p [)c Lm }[#1   
+n5| 2K cG1     
+K|1 a51  nCp nL| nCp 2K }n)c nCp K n5[  
+ 
+25/ nL|a nCp K Z)| %/L] ?/)a 
+&k ck ck %/51 d)\   
+ 
+25/ nL|a nCp K oL\ ]#1 |#]1 ?G|
+
+----- diversity: 1.0
+----- Generating with seed: "1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a"
+1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a51 Lm &)p })p /)% Tc nCp ?)[ 
+25/ nCp K )[:1 %T|1 |: ^)c &X   
+nL1 +[ /+ 
+251 n5| an+[ nCp nCp 1kp ^8[ 
+ 
+25/ nCp K ]G| [G|  
+&k &G1  
+%/L] &)p ?#a [5Z- &5ac %/L] /)}   
+ 
+?)[ K d)\} )c |Cc )c a5a 
+Lm 15| 25/ nX   
+b+ Pm K %X/ a511 &+ n)2 
+K|1 K %)bK- ng1 ck %/L] C| }X} 
+ 
+25/ nL|a nCp K ?Lr %/L]rmK1)c ^: 1:m  
+ 
+25/ nL|a nCp K ?[C| |# ]/X1 ?[: ac/+1 ]5a 
+b+ ck m51 K c/G1 nCp ?: 
+K|1 1X| %)[ K 15a
+
+----- diversity: 1.2
+----- Generating with seed: "1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a"
+1 &)p akc  
+25| &+ 1X1 %/L] ^D|r+K  
+K a5[- nCp ^8[ nCC|Y 1(0C[ )c |# 
+)c n)1a nP| 2K )m Tc [X[ /[)[' 
+aK K n)2 %CKc(] P[ 425/ 
+%P/ 8}K[X[ K|%PK1]K|1p c5[ (}a n)[   
+n5p n+% c5a &+ 1#?c |:} c   
+25/ nL|a nCp K ]+[ |5/ %/Lc ook a)|K
+K 1)\  
+K /5a )c 1:p n)2 ])/   
+P% a}n# }5d |#p1 Gm 5c ]L0 |: 1(1]5| )c K|1   
+ng1 L? aK1   +Ga   
+a51 ?+({(1p %[kp 25/ rLac X %P/ }KZ#]  
+&kp ZCc(1 (| Gp ok 25/ n| Z8 nLa &G] Lm ]C/   
+ 
+n+ ?)a G% 8Tc %/L] 
+
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.7692
+
+----- diversity: 0.2
+----- Generating with seed: " oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1"
+ oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1 a: &)p ac/Lac &8 ac/Lc &8 Z+  
+&+ a51  K ]C/cr &8 Z/Lac  
+&+ a51  K a}/#1 &)p ac/L](\ &8 ac/L]p  
+&+ a51  K a}/#1 &)p ac/L](\ &8 ac/Lc &8 Z/kc  
+ 
+25/ nL|a nCp K ]G| %/L] &8 Z/ka  
+&k a51  K a5[ &8 &G1 K ac/L]p  
+&k nCp 2K [#1 &)p }Lc &G1 &8 ZLc  
+&+ nCp 2K ac/Lac &8 ac/L]p K ac/Lc &)p ac/L](\  
+25/ nCp K oL\ [#1 (| 2K ac/Lc 
+&k a51  K ac/#1 &)p ac/L](\ K ac/Lc  
+&+ nCp 2K ac/Lac &8 }K|c/Lc  
+&k 
+
+----- diversity: 0.5
+----- Generating with seed: " oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1"
+ oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1 2K ac/)?cK| &8 ]Gacr 
+&k nCp ac/L1(\ 2K ac/L|c &G1 
+K|1 &+ &+ ac)|c &+ ZLc n)bKp   
+&+ a51  K }Lacr &8 }K|c5/Ka  
+&k nL|a nCp 2K ac/Lac &+ ac)[ K|1 1)c  
+ 
+25/ nCp K oL\ [#1 Lm oL\ a5|c 
+&k &G1 K ZLc &8 K [X  
+&k ^Cc K a?g1 &+ &G1 &)p }Cc  
+&+ nCp 2K 15ac &8 ac/L}cr &5/ aL0  
+ 
+25/ nL|a nCp K ]G| %/L] a5c &+  
+&k nCp Z/)|1 K|1 &8 &Gc 
+&k &G1 K ?C/ac 2K ac/L1r  
+&k a51  K nCp }K?cr1 &8 1(aL}ac  
+&
+
+----- diversity: 1.0
+----- Generating with seed: " oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1"
+ oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1 Z)c &)p &C/c K|1 ZK/(}&+ 
+K|1 rp Z)ac(\ ^5c ^Cc &8 ^/: 
+&kp }#?K[- &k 2Gc [X  X1  
+ 
+ZLc /T^Kc L[ )ca oP[ #1 0+ ?G|c  
+b+1 (| &: &)p K|1K\ C/ K }ojac[Lc(c  
+ 
+b+ [gm(|K|K|?ra (| &k 1(}aX|c(1  
+K|1 &+ {-1(\ (| ?[kp  
+)ca nCp {L}(} K |Cc }5ac &ra 
+&+ acP/(\ K aKX[ &G1 K &Cp a}Lc bK
+&8 ]#1 
+&Lp }/5|1  Gc ZLcrr  
+a51 ac/5?[+ %P[c/- K a
+bKcc(ap  
+ck &8  ZLc nX[1a   
+&+ ?{5}cKaK|1 (| &8 ]LZK[-  
+b+? aK
+
+----- diversity: 1.2
+----- Generating with seed: " oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1"
+ oL\ m5|1r 
+&k ]G1 &)] K Z)^ a?5|1r 
+K|1 2K ^8d Z52r 
+&k &+ oL\ ZCc(} %/L|  
+|T 1# c/G1 TLac &)] C| &: 1{dL}(} 
+&+ nCp &(p ]K^/Pc /(c}Lar (| /+pr  
+&+p ]8|K|1 2: a}%k| )ca P?cK[$[  
+{Lac &d 1Cp oL\ 5}-r? a?Tc  
+&+ acC?GaK  a8cr &5/ ZG%r(Zp K|a  
+Gp G(}a K ^:1  K|1 }K|}kKZKc ZT|[-   |X ZX aXp Gc 1K 
+ 
+&+ n+|c 2K ?+0(? K|ZKpj%(}Kc )ca /#k dnL0 K ]>P|  
+^)m K [:b(\ n5| K %Lc Zn+ 
+K [P\1 ck &8 bKca:p %/L|p 
+ZLc &+ nX|1  T|-= 0T|1^/Ka ogP/]G
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+30346/30346 [==============================] - 11s 354us/step - loss: 1.6843
+
+----- diversity: 0.2
+----- Generating with seed: "] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 "
+] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 &)p ac/+}  
+ 
+25/ nL|a nCp K ?[#] |#]1 a?5/  
+&kp ac/)} K [)p (| 2K %/L] &)p ac/+p  
+ 
+25/ nL|a nCp K ?[#]  %/L] ac/+|  
+&kp Z)} K [G1 Lm 2K }/+p  
+ nCp aL} nCp &)p ac/L}(\ &8 1 }n)aKp  
+ 
+25/ nL|a nCp K ?[#]  %/L] }[#]  
+&kp ZC} nCp a}/#m (| K Z/+p  
+ 
+25/ nL|a nCp K ?[#] |#]1 a?#| 
+&kp [)} (| 2K a5} K ac)[  
+ nCp ]P/ nCp nCp K [#1  
+ZLc n)2 K }/)} (| 2K a)}  
+ 
+25/ nL|a nCp K ?[#]  /k]  
+&kp ZL}
+
+----- diversity: 0.5
+----- Generating with seed: "] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 "
+] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 nCp a)|c ck aP[p   
+ 
+25/ nCp K oL\ }5/ |#]1 a?#| 
+&kp ZL} ck 2K ac/P/1 K a}/5ac  
+b+ acL}c K|1 n)2 &)p &)p K ZXp  
+ nCp K nCp K %/P/1 K ZL} 
+&)p ng1 ac/)} K a5[  &G\     
+ {Lac K /)[  2Gp a[)} C/ ZLc Z[#a nCp a}n5/ 
+nCp Ga} nCp &)p p+? n)2 K %[k  
+ 2Ga }Cc K ]G| X nCp %P/ K a)[ 
+K|1 2# nCp aP/ 2K ac)[ nCp aa51 K [)]r(}a [#]  
+ 
+nCp }Lmr1 n)2 K [Ga Lm 2K ?[+a  
+ZLc a5}c K [)] K [5} ck 2K %)}  
+ 
+n
+
+----- diversity: 1.0
+----- Generating with seed: "] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 "
+] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 %P/ 2K a+| 
+&kp {)|K[- #)p nCp ?+]p K|] ^C| C2 
+2Gc })?c 2K n5|c C/ ZokaK{(} 5}a  
+25/ nnp 2K ]ka  K|1 18]r Lm 2K %[k}  
+ X nL| P[ b)?c |:  
+Z5[ }#mo  ]5|1 ^#m &+ Tc &+ }G|p 
+c/LbK] )p ]L0 %:[1 :mr &)p ^8ac )c 1-  
+n)2 ])ar n+ }/+1 |Cc &)p Zk  
+b+ /T|%/(\ nXc K b)? 
+nCp 5}aK| 5[K}a ck &)p pGZK}  
+nX[ ]LmKZ d/\ Z?K{rp 1k 
+b+ nL| kp 25/ )p K [#1 oL\ /+ 
+b+ p:1 X ]G| &+[r ^Cc |k /)\p 
+%P/ K %/X] }L\ 
+
+----- diversity: 1.2
+----- Generating with seed: "] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 "
+] L|1r &8 a?5[  
+ZLc )c %+[p a: 1G] ^g1 ]L|  #m K Z5|(\p16 K C[ 
+ck +[(} 2Gc m>p kmKar 5/c(1 a#1/+]  
+a+ /XcacP/- [{|o+c K /LmK[ ac)?pK^K|[K[-Kcr  
+ZLd &P/ac (\ 1 ok b+  
+c/L ca[XpK|K[- /X]p n5| aL?Cc [pK/[K]rKaK[-   
+ %/Lc r1)\}cK1 (|pX1 ^8k a#a 2)b 
+ XmK}obKpK|anX[p 
+acL\/T|1)}ac)|p aX P/pa }L]P% 
+%X] 2nX1p nCp /PGa K| ^/:| &C[-1 )panC| }Lrc nCp akaK|p  
+amGacr XL] p)2r +1 ]+a 
+n#|1 /ka$- )b %/L21 ^:  
+/X]X1 nCp Ga}}j[KpG} 
+ck |Xcr1 ]
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+30346/30346 [==============================] - 11s 354us/step - loss: 1.6081
+
+----- diversity: 0.2
+----- Generating with seed: " &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/"
+ &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/  
+2K ?[5a ck 2K a5}a  
+2K a+  K|1 2K a5[   
+25/ nL|a nCp K ]G| |#]1 |#]  
+&k nCp a: ck 2K 1#1 )c n)2  
+2K aL] nCp   
+25/ nL|a nCp K ]G| |#]1 }G|  
+&k nCp   n)2 K }L|c 
+2K aL] nL|   
+25/ nL|a nCp K ]G| |#]1 1G|  
+&k nCp   n)2 K ^8[  
+&k nCp   
+25/ nL|a nCp K ]G| %/L] |#]  
+&k nCp   n)2 &)p a:  
+2K ?/+a(\ 2K ck %P/   
+ 
+25/ nL|a nCp K ]G| |#]1 aG|  
+&k nCp   n)2 K ^8[  
+&k nCp a: nCp   
+K|1 2K Z+ n
+
+----- diversity: 0.5
+----- Generating with seed: " &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/"
+ &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/  
+ 
+K ]G| &)p a: 2K a+| 2K ck %P/   
+ 
+25/ nL|a nCp K n8[K| |#]1 |#|1  
+&k a51   
+X |1 |: ck  
+b+ a+1 Tc K|1 a)|  
+ 
+K|1 2K 1)1K| K|1 &8 ZLc  
+K|1 a51   
+25/ nL|a nCp K ]G| %/L] |Cc 
+&k a51   
+K|1 a)] %P/ 2K b+ 1Lp  
+25/ nL|a nCp K ]G| |#]1 1G|  
+&k a51   
+25/ nL|a nCp K ^8[ |#]1 ]K|  
+&k nCp a: nC/ 1(m/P/(}a  
+K|1 2K ?+[(\   
+nCp  Gp a+ ]X %5[ 
+ 
+K |Cc 2K aL] oP/ K|1 a5/  
+1(a?[)a ck K cX]  
+2K 
+
+----- diversity: 1.0
+----- Generating with seed: " &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/"
+ &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/ 
+|5c (| aX}   1(Z[:} 
+K|1 2T 2K ?5^K| (|aK[ c5/ K|p 2K }:| 
+&+ nCp  ?[# |Cc1  
+b+ /+?d nL2  5|1   
+25/ nL|a nCp K ^#m ]#1 r|X 1/X|1  
+&k ?Lm?[[(\ a[1 n)2  
+2# nCp 25/ ^#mK1ra n)[Kca  
+ |(]X|{p c)]Kp-K| c/(] cP/p  
+ 
+25/ nL| )n[p {#]  aG1 ?/#  
+&k |G1r a51K|  &G1  ZL| d/+  )ca    
+ 
+K %8[ |G|ca a ^[#   
+2K %)|1 Pp oL\ ac/Xc Lm {|Z/  
+ 
+25/ nL|a nCp K 1G| |#]1 \}&|1 ^Cc  
+&k K|1 Tc )c ([ &)p 2G|  
+
+
+----- diversity: 1.2
+----- Generating with seed: " &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/"
+ &51 
+K|1 K ack1K|c G|ar1  o5a og/ K 1P/ 
+ 
+K ZG^ K &Gp }a|+|Kp 2K 1:|- Z+ K &)[  |:  
+ 
+2G| |5[Tc- o+   
+Lm Z(?[k p }Gc(\ ZLcKb(c a:  
+F| K|1 2K ?8|lc Lm }oka |#c  
+&+ nG|}c }X] Z>p  
+2: aX15/ 2K o5/ 
+ 
+25/ nCp K oL\ m#{K| Z/K|#]- 
+&k  )a b+ aK[:ac ok /k ? a+   
+ 
+2Gp Kc%+?(?p %8|- nCp  k^a K[?LZKbK[  
+nCp{(m Z)^K|a
+%6|1 [(mrXr  |Cc   >1p `|a5a[+pp  
+ og/ nX|[ %K|G|a- ck]} ^G| 
+c/km Pa aP aG|a?rp  (| {L}cK|%/-p0p  
+Gp 0#] G1 &G[1 Tc 
+K
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.5410
+
+----- diversity: 0.2
+----- Generating with seed: "Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 "
+Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 2K /51  
+K|1 b+ a51   ok a51  K aX[    
+25/ nL|a nCp K ]G| %/L] ?[k  
+&k a51   ok a51  K aX[ 2K /X1 Lm 2K ZL|  
+ 
+25/ nL|a nCp K ]G| %/L] ?[#  
+&k nCp K %5[' %/L] }/+]p   
+ 
+25/ nL|a nCp K ]G| %/L] }[#  
+&k nCp K }C[ &G1 &)p }L|c  
+K|1 2K }P[1 &G1 K ZCc  
+K|1 2K }P[1 &Gm K Z[G|  
+K|1 2K }P[1 &G1 K Z[G|  
+K|1 2K }L|c nCp K }[G|- 
+&k nCp K }L|c nCp 2K /X1  
+K|1 2K }L|c nCp K ]#1 &G1 K 1/X|K  
+&k a51
+
+----- diversity: 0.5
+----- Generating with seed: "Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 "
+Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 2K a)[1 (| 2K Z[X1 
+K|1 ok ]Lc 2K ^/#  
+ &+ a51   P[ ^Cc 2K 1T| (| 2K 1G|  
+K|1 |T b+ a51 n)2 K ^/#| a5/   
+25/ nL|a nCp K ]G| %/L] }[G\ 
+&k %P/ 2K /G1K| 2K ?g1K| Z5[ 
+K|1 n)2 &)p }L|c Lm 2K ^X  
+&k }5c ck 2K [)]r(}a &)p %/L] 2K %#}  
+K|1 aX} &+ 1T| &G% nCp K 1G| )c  
+K|1 2K ?X[K1 &)p acG[K|1 &8 ZLc 1/Xc  
+K %/G|1 2K /P\ K|1 [P\ 2Gc %/L] ^[k  
+K|1 2K ^/#c &)p }P[1 &8 }Cc 
+b+ a51   25/ G| &+ }g1 ZL
+
+----- diversity: 1.0
+----- Generating with seed: "Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 "
+Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 2+ aLb X[1 a[51 /+b(|  
+1)m?[-1  (| ]: Z+ 2K ^Cc &5/?-  
+K|[ a}g1K1 &G1 )c K Z> 
+&G1 n)2 K ]#1(\ %P/ 2K ng1K 
+&k aGpZKaa Gp (| 2K %5[' &G1 p o+p  
+25/ nL|a nCp 2K ]G| /)|c &P/](\ 
+ 
+25/ nL|a nCp G| L] |#]1 |#|1 oL\ 0C/   
+ 
+K }Kp )c 2K aC} K }&|1 &+ [P/1 
+&k a5}c b)c )c nL|a nCp K ::} bGb 
+n8 P[ %T|1 ck {p|X|c &8 ck}  
+}Cp1 +? (| 2K 1P/{K| K ng1 [# aL2K Z)[-   
+b+ nPcc K &L\ ^/#|1 &)] {Lac ck a: }
+
+----- diversity: 1.2
+----- Generating with seed: "Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 "
+Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 nLc X1 )p (| 2K ??+|pr 
+&kp 1(pL|1 25c cL}[- ]Ta1    
+2Gc (| P[ d)\p /g1 1ac/ka C| 2K /L1C/{r  
+%/Lm ok %5['? [P\ (| |#]1 ^X C| ZLc okd K /[G|Ka d)\}  ok c)^a nCp 2K &5/ZK[ %P/ 2K a)|18   
+ 
+2Gca K|1 `| /)}c &Gm 2K 5}%)ac &(}nC// 
+b+ cg1 Kc:| (| |X (| 2K d/T|  nL| K??[# X }Lm K 0#|K]1\   
+K|1 |T aT+1K{ ZG1 %/
+a]P/^ &G1 `|a5ar }K|c ^8 &G1 }T|G|  
+&+ /5ac K 1X] nCp a#[(\ ^/k [X} 
+|#]1 |T 2GZa nCp }G|c %^/'
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.4779
+
+----- diversity: 0.2
+----- Generating with seed: "+|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X"
++|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X   
+ 
+25/ nCp K oL\ ]G| %/L] /Xc  
+&k nCp ac/Pc Lm 2K }L|c Lm &)p ZXp   
+ 
+25/ nL|a nCp K ]G| |#]1 Z/ka 
+&k nCp a}/k1 C| 2K 1LZK[  
+ 
+25/ nL|a nCp K ]G| %/L] /Xc  
+&k a51   ok [5ar   
+ 
+25/ nL|a nCp K ]G| %/L] a#|  
+&k a51   ac)} 2K a?/5ZK[  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| %/L] 2K a}n5/ 
+&kp aL]?[(a nCp a]P/ 
+K|1 |T 25] ok ?[#a nCp K a}/+p  
+ 2K /51   nX |Xc    
+ 
+25/ nL|a nCp K ]G| %/L] /5|-  
+&k 
+
+----- diversity: 0.5
+----- Generating with seed: "+|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X"
++|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X    
+ 
+25/ nL|a nCp K ]G| %/L] ]KZXr   
+&k cg} (| 2K ?CcK| 
+C| &+ }g1 ck 2K a#a  
+25/ nL|a nCp K ?[#|1 %/L] ]G| 
+&k a51   nX |#]1 %)ac    
+ 
+25/ nCp K oL\ [#1- &8 }n)c }n)/ 
+ng1 }L] P[ |#]1  
+25| b+ )ca &)p /:Z[(\ K [5a  
+25/ nCp K ZLc ]G| %/L] K ]G|a 
+25| &+ }g1 ck n)2 K a?/5mK|  
+ 
+25/ nL|a nCp K ]G| |#]1 aX?   
+&kp a?/X1 nCp K ^C/Ka  
+K|1 b+ %5[' %P/ K [Xc   
+25/ nL|a nCp K ]G| %/L] ?/-KZ5|c 
+&
+
+----- diversity: 1.0
+----- Generating with seed: "+|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X"
++|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X Z5[-  k| a}GcK} d })c nCp ?X? K|1 1C| n:[p 
+ck n+ 2K [#^K[ &5[ %Lmr1 ^g1a 
+{CacK1 nX| /P\ 1La}nK[p  
+ZLc &+ }Gac {ka  ?# (}a]p K| 
+ ZLc |C]?p^[\^K ck |#]1 ^)\ 
+^5c b+ 15|c 12r [k #\ 
+ 
+25/ nL|a nCp K ]G| |#]1 ]5[- 
+2# %5[ ok /P\ %TaZ# K|1 [8a )a |#] [P/(a (| ]|}/L](} [+1-  
+ 
+ 2K :[ p5ac [X} P[ /XmKc   
+acC/Z[ca [5}a 2K a51   
+ck ZGZr(a ng1 a}n)Ka  
+[)ca K a5ar- L? K Ka}-)?  
+ 
+K [Lac ck 2Gc ZX a
+
+----- diversity: 1.2
+----- Generating with seed: "+|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?X"
++|oKa %P/ }g}(\    
+b+ }g1 Z#} a)}ac- ?Xp ])a ]Xcr 
+ck |5d K ^8[ Ga}] L? 2K /Xp   
+cg[ )p ]Xa n)2 ^C1 /Pc  
+2)a 25/ TZc51p 5m/-]?Kar    
+b)c |Cc /)\}j   
+X] ?[5aK- K :Gc ])a ]L} nL|  5a oGa 2K 1G|K Ta ^/#c 
+ X] 2K 5/0K{-  |+pp Z+ 
+ok 1/)?c L2r G?a K|1 a5[ 
+&+ }Lmr1 &5/K} %P/ K|1 +| (| K dXpKZjKa  
+}a5mK|c bGm 2K }n)} r 15|a 
+25| &+ ^:1 2Gc K ]:ac ng]K| a} | |#[1 6k1rK?k  
+K|1 bg/a [Tc (| [GZr (| 2K a}/5]Kaa 
+ :?d n)2 K }n)[pr 1X K K?aK\
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.4219
+
+----- diversity: 0.2
+----- Generating with seed: " 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 "
+ 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 %5ac  
+ 
+25/ nL|a nCp K ]G| |#]1 Z/+a  
+&k &G1 &+ a51   
+ 
+25/ nL|a nCp K ]G| |#]1 {C|  
+&k &G1 &+ &G1 &)p }C}  
+ 
+25/ nL|a nCp K ]G| %/L] }/+] 
+&k &G1 &+ a51   
+ 
+25/ nL|a nCp K ]G| %/L] ?/-K|C|1  
+&k a51     [X}     
+ 
+25/ nL|a nCp K ]G| %/L] }/k]  
+&k &G1 &+ }g1 ck &)p ZCc 
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&k &G1 &+ }g1 ck &8 &G1   
+ 
+25/ nL|a nCp K ]G| %/L] ]G| (| 
+ 
+&k &G1 &+ }C?c ck ac/#m 
+K|1
+
+----- diversity: 0.5
+----- Generating with seed: " 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 "
+ 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 ZXp  
+ 
+25/ nL|a nCp K ]G| %/L] }/+] 
+&k &G1 ck ac/+c &)p /k1  
+K|1 /(mX|1 n)2 K ?+}   
+ 
+25/ nL|a nCp K ]G| |#]1 {C1  
+&k &G1 &+ %T|1 &+ nCp ZL} 
+ 
+25/ nL|a nCp K ]G| %/L] }/-Ga  
+&k &G1 &)p }L] &G1 &8 }n+ 
+ 
+25/ nL|a nCp K ]G| %/L] ]%/L] a[+    
+ 
+25/ nL|a nCp K ]G| |#]1 {#1  
+&k a51 &+ &G1 K &C/]  
+&+ a51   
+ 
+25/ nL|a nCp K ]G| %/L] ]G|  
+&k &G1 &+ }Cc &)] ck a5}c 
+ 
+25/ nL|a nCp K ]G| %/L] n)
+
+----- diversity: 1.0
+----- Generating with seed: " 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 "
+ 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 }Cpc 
+ZLc [4|cCc}c  C| 2# c5|1 
+ 
+ 
+K }[5c (}K[Ka ZGc 
+b+ ang|1  ^Pc &8 a#m 
+ 
+ng1 mK| ck Z5c 
+)c X ZPc X 1/X]  
+ 
+25/ nL|a nCp K ?[#1- (|c /k[  
+ 
+25/ K|nL|c &G] ck &)c nCp /C1Kc   
+ 
+25/p K ng1K  K dXd 2K ark1 
+%5/ aXp K c5}Kc Lm &)p a+[ 
+ 
+25/ ]L|a nCp K [+| %P/ %/L] &+ G|  
+&k nCp aP/d 2K :Z+ 1Xr  
+{Lac C| &T cL\ ]La 
+2K }+? &)p /5[b  
+P[ &+ a: [X}  
+b)c &G1 |: nC+ 1  
+X n)K b+ ^:[  
+25/ nL|a 
+
+----- diversity: 1.2
+----- Generating with seed: " 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 "
+ 
+K oL\ &g}r %/L] }H[K]Kpk  
+%)[1 L? &8 }L]a ^/+ Z+ (]:|[ a#{  
+ 
+C| %/L] K|1 b+? d)\ acL}K+ 
+ 
+25/ nL|a nCp K %G\ }K|c%r c/LcZr 
+K|1 K c(?)c c/X1K|c }[km Z|b+1  
+ 
+&+ &kp ]Ga  o5}Kc [Lm 
+acCp CP %8Kp  
+C| b+ ^5c ck `|a05|1  
+ 
+K [Lm {5|c nLc Z81p 
+Xp &:] &)p )ca (| -K cX]`a 
+ b+ n5| b+ c+]'r  
+X1 K ZL^ Z/Kp55a &+ a?#] 
+ 
+X]1 2K }G| oL\ &5[   
+ZLc Z8mr1 &)] %P/ K Z#|  
+X [+1r &8 ]LmK1 2K /+1r   
+)c nCpK|1 }okc Z5|1r  
+a51 &+ a51  25| &(
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.3745
+
+----- diversity: 0.2
+----- Generating with seed: "K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &"
+K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &8 ckc K ]G| 
+&+ nCp K ?[X|1  
+K|1 2K }L|c nCpK|c K &Gm 
+&+ nCp K ?[X|1   
+K|1 |T 1T| 25| d)\} )c G| :[1 
+ 
+25/p nL|a nCp K ]G| %/L] ]G| 
+&k %/L] nCp K ?[X|1  
+25/p oL\ ]G| %/L] ]Ga 
+&k nCp K [Xc nCp %/L] 2K %/+ 
+&k [5c (| 2K %/L|1 &)p }/)}bK| 
+nL|a nCp P/ ck a51  
+ 
+25/p nL|a nCp K ]G| |#]1 Z/k  
+&k [Xc &G1 K ?[Xc nCpK|  
+25|p &+ %C} &)p ckc K %/+p  
+ 
+25/ nCp K oL\ ]G| %/L] ]Ga 
+&k nCp a51   
+K|1
+
+----- diversity: 0.5
+----- Generating with seed: "K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &"
+K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &)p ZG|c Lm &8 c/+ 
+&+ [)c- nCp K ?[Xc  
+&k nCp K &G? nCp K ?[X|1  
+&kp }L|c nCpK|c %P/ 2K ?G|KZK[  
+%P/ K %X|1  
+a51   25|a nCp K }G| (| 2K aG| 
+&k nCp K %5[' &5/1 ^)\p 
+25|p X |: ng1 ?+|(\   
+ 
+25/p ngFK ck ck &8 ZCc 
+&k nCp a?/k1 K|1 &)p ZX?K 
+ng1 &G1 K c/G?c   
+ 
+25/ nCp K oL\ ]G| %/L] ]Ga  
+&k nCp |Pck &Gp K [#1-  
+K|1 ok ]G|(a &Gp %/L] 2K /:1  
+25|p K &G1 &)p }Gc &Gp K ZC} 
+a51   nX |#]1 &+ [
+
+----- diversity: 1.0
+----- Generating with seed: "K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &"
+K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &8 )ca [Cc /)[- ZCc   
+K|1 |T K c/:? Z+ p)| P/ [X|p  
+&+ n)2 ck &8 ckp Lm Tr ?/>p 
+{Cc ck )r Tc [X} aL0   
+K|1 ]P/1 C| //# |kc {Cc 
+2G|a ^Cc C/ Lm }[#]  
+&5[\ ]Ga ^C1 K|1 2Gc }[Xa 
+K|1 )c |Cc &Gp 2G| 
+ 
+25/ nCp K oL\ ]G[ |#]1 {k1K[  
+&k a)]?[g1 K |Cc &)p P/ 
+ 
+25/p nL|a nCp K ]G| %/L] a#]  
+K|1 Z)c(1 Lm }[Gp1  
+&+ nCp %L0c &)p &:ca 
+ck }g1K|c 1#m  
+b+ [P\ %# Z+ &)p ZG1 
+%P/ 2K a)[ Tc &8 C| 
+&+ aGc 
+
+----- diversity: 1.2
+----- Generating with seed: "K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &"
+K oL\ a#[r %/L] Z/XcK|  
+&k /(]C/}c ck &)p }n#c(\ 
+Kmp|+(aaca5?c(\ (| {5}oK| 
+mK]X|(\  c)[ n# }CpK[ }nkp K Z5}c  
+2Gc]1 ck ng1Tc %5[ )c   
+ ]P\p 2Gc X|1 &8 dX|pK[1/8 P/   
+ck c)}c nC1 K ]k|{(\ [X}a [X} p)oa  ck 1/X] LM  
+b+1 b+ }g1K[- %T|1 (| : ?X[   
+ 
+ZLc oP/ }g1(|c Gp }/(c5|}(
+ 
+)p ]G} P[ n)2  
+{)%bK?/Z1 
+|#]1 K &Z#ZK[  
+b+ dPcK1K|1K|18K[(\}:[  
+b+] nCp aZ[k1 %5[ })ac  
+ 
+25/ nL|a nCp # ]K}#] c5c &8 &k 
+|T|1 &5c1 n5|1 K|1 ]: cGac /L}
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.3302
+
+----- diversity: 0.2
+----- Generating with seed: "Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/"
+Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/ nL|a nCp K ]G| |#]1 {#r  
+&k &G1 K ]G| nCp K ]G| %/L] }[k] Lm &)p }C]Kc 
+25| K ]G| (| 2K }L](\ &P/ ck ac/Xc  
+ 
+25/ nL|a nCp K ]G| %/L] }G] 
+&k a51   n)[ }C]K}  
+K|1 |T 1T| 25/ nL|a nCp K [)aK[ }G]? 
+K|1 a#} &)p }/+](\ a}Gc 
+K|1 |T 1T| nCp K ]G| (| 2K a+[ Lm &8 cnG|  
+25| acP/ nCp K }[#m nCp K [X1  
+&k nCp K }C} ck 2K }C]r  
+&k nCp K ]G| (| 2K }L]?c &Gm }/G}(\  
+25| b+ acC/K} 2K }C] 
+&k &G1 K ZC}
+
+----- diversity: 0.5
+----- Generating with seed: "Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/"
+Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/ nL|a nCp K }[#]1 %/L] a?'|Xc 
+&k nCp K bC/} nCp ZP[p (| Z/L/1  
+K|1 K ]GZK[ nCp ]P/ %P/ n)bK|  
+25/ nL|a nCp K ]G| |#]1 {#|  
+&k d)\}  Gp K ZC} }L] ?[Xc  
+n5| b+ a51 n)2 K }L|c %/L] a#]  
+ 
+25/ nCp K oL\ [#1- (| aK}C/cK1  
+&k nCp K }L|c nCp }nXc nCp K }[+m 
+K|1 |T 1+ ok[ (| 2K ]+| nCp K }Lc-  
+n)2 K ^X[ 2K %L}(\ K cCcK} 
+nL|a |T ZG| n5| &+ ckcr 2K 1k  
+25| b+ }P[1 n)2 K ^C/Kc  
+&k &G1 G| &8 }C] }
+
+----- diversity: 1.0
+----- Generating with seed: "Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/"
+Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/ nCp G| 5| )p /L]r |#]1 a?X| 
+&k &Ga X %C['1 Lm /Pc K %[g}Kp 
+Gp Z8ac Z)}(}acbKa  
+ok }g1 }G| 25/ &(?ka  
+K|1 |%)a c)[ nCp 2# {#} K|1 K &C[}a 
+K /-nW})](a |#] a5}c ac X 
+ZLc ck okp C/ ?[#a [)mr[- }G| 
+nL| 1+ }nXc K a5|%- nCp a#] {# ck a+  
+K &G} Tc %P/51 }C]}c &5/   
+ 
+K ]G|(a }L] P[c a: [-}ZKca   
+ 
+25/ nCp K oL\ n8[Ga-  
+&k &G1 K 1C}K|c&1 C|bK|  
+n)aK|  n:Cc P[ (| a]L}r  
+ [X} )p /G} Lm K acC/Kc
+
+----- diversity: 1.2
+----- Generating with seed: "Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/"
+Z5[ 
+&)/p 2K 5|1(\ Lm 2K [)]r(}   
+ 
+25/ nCp K oL\ }/L]({ (| %P/ 
+&
+ 25| )cK ]G|Kcr Lm K &Gm &+ack nCp  
+ZLc(p ]X nLc/-K{ [)}-[g} nCp K 1LZK[  
+K|1 |T %)a}o1 &8 #%5[  
+ 
+25/ nL|a nCp K }P/]r mr{)|-  
+&k1 25c (| a#}  K|1 1+Z]K]r 
+2: b+?a [X^c (| a5]}[- 1P/ 
+)c ak [g} K /5d 
++p )c nCp b+ [5c  ^+a }G0  
+K }
+&)] ck &G1 25] ZLmr1 1)c }n)% 25| Lm &)p K Z(}L|- 
+a| /(pG}a &)p [5^ac 2Gc }[P|  
+ 
+n)2 K a}oP/ 5mraL2(d %P/ n)2 {Lac n)2 Z)[- 
+K ?[|1
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.2894
+
+----- diversity: 0.2
+----- Generating with seed: "^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+"
+^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+b+ a51 n)2 K ^/G|  
+ 
+25/ nL|a nCp K ]G| %/L] Z/ka 
+&kp }L|c nCp |#]1 &Gm %/L|  
+ 
+K ]G| &)p ac/+?(\ &8 }L] 
+&+ a51 n)2 K Z/+}(\  
+ 
+25/ nL|a nCp K ]G| |#]1 Z/+p 
+&k nCp ZP/| &8 ZCcr Z/L]  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ %P[ &8 %P/ |#]1 |#] 
+&k &G1 K ]G| &)p }L]?[- ac/#| 
+ 
+25/ nL|a nCp K ]G| %/L] |F|cL}(c 
+&k &G1 K [)] (| K aL] 
+&+ [Gac &8 %5ac 2K a#] 
+25/ nL|a nCp K ]G| %/L] ]G| %/L] }[Ga 
+&+
+
+----- diversity: 0.5
+----- Generating with seed: "^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+"
+^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+K ZLc b+ a51   }n5c 
+ 
+X |: X {Lac Z/# ck ]X   
+ 
+25/ nCp K oL\ [#1- %/L] ]#1-  
+&k ng1 %G| &8 %L}ca Lm ]+|(\ Z/Cc 
+ 
+25/ nCp G| :[1 ]G| %/L] Z/G\^K  
+&k &G1 K ZX Z(}L}a 
+ 
+25/ nL|a nCp K ^8[ |#]1 Z/Xp 
+&kp ZCc- an5[  &kp ?CZK} /(c)| 
+&8 &G1 &)p [X} 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ &G1 &8 &G|ac }Cp1 
+K|1 2K ?C/1KZK[ n)2 ]+ (| Z/#a 
+K|1 2K %)[1 Lm 2K a?/|ZK[p  
+ 
+25/ nL|a nCp K ]G| %/L] }/G|a   
+&k
+
+----- diversity: 1.0
+----- Generating with seed: "^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+"
+^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+c#[1 &8 K aX  
+n]+/ %T|1 2K /+mr ?#|  
+2# 1P n8Z\p Z+ /GaK| 
+K %5|c &+ %#[c 25] Lm Z)|}c   
+ 
+ ^8 )p aL^Ka ]G|%/# Z5|c ZLc  
+a81 Z)c &+ dPcK1 +mp d/k   
+ 
+25/ nL|a nCp K |#]1 ?/k   
+&k &G1 &8 Z(^8a bT ^Cc 
+^5c &)] 1(ac/Pc &8 ZCc 
+K|1 n)2 K ]okp `[]8p Tc  
+ :[1 &+ [P\ X &G^ Lm P/(%aKca a5/  
+ 
+25/ nL|a nCp K oL\ ]G| |#]1 1Xr   
+&k dPc ]#1 )c Lm &8 1:m+ P/ 2K /+|r  
+2K ]+ cK|1 /(acr (| 2K a+%   
+ 
+2
+
+----- diversity: 1.2
+----- Generating with seed: "^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+"
+^)m ]+ ^/#c Z[)a 
+)% nX[ ?[#(\ n)2 2)a 
+ 
+25/ )p ]Ga} `|a%5}ac 1#  
+&5 |Gc ]L} 2K n8(% }|0)}a 
+|Cc nCp %P/ )p c)\^1 }G|1(\
+K ]G|c }G|c a:[{  
+Gp %g[ [# 2K aP[ C| &8 Z[k(\  
+25} P[ 25/-  2K %L] 
+(| 2K %5[ K|1 a]5[c %P/ ?#bK|  
+ 2Gca ])bK[ %P/ 0)[-(\ K [#] 
+b# Z[#c C| 2K [+aoK[ ZCpr 1 oL\ {k|p ^LcK[  
+ZLc |#]  nokZd &8 2K +? K|[ c5/ 
+ng1 &k] 1G&j|c [:a  
+n?C?-d &+ &G\ 5| &)p ]k|`] 
+bC? ^)| Tc &5] ?)|a %/L] /Xc LZZr }L2Kc ]k[-  
+ 
+ 
+25/ nC
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.2575
+
+----- diversity: 0.2
+----- Generating with seed: "c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 "
+c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1  
+n)2 K nL| &G1 }/G} 
+nL| K a}/+? K|1 Z+ %P/ K Z5} 
+n5| b+ a51   nL| ck Z+ ?G|c 
+2Gc &+ nCp K &G1 K a?+| 
+nL| ?g1 ck K ]G| (| K ]G| 
+&+ nCp acC/cK1 &)p }C|ac   
+ 
+25/ nL| P[ )| :[1 ]G| Lm &)p ZP/c 
+n5| 2Gc Lm 2K }/+a nCp K ]G| 
+&+ [Lm1 K [)%oK|1 [#]  
+ 
+25/ nL| 5| :[1 ]G| %/L] }/+a(\ 
+&k nCp a?C|1 (| 2K a?+| 
+nCp a?5|c ck ]X ?+ (| 2K a+  
+nCp K &G1 K ?[)c (| 2K a+  
+nCp K a}n5/- nCp }[Gm 
+nCp a?:|
+
+----- diversity: 0.5
+----- Generating with seed: "c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 "
+c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1  ?[# )c  
+n)2 /P\ K|1 ?[)c   
+2Gc ng1 }/)}  
+%P/ Gp 2K /G1K[ %/L] 2K ak|  
+ 
+K|1 &)p ng1 %G| a?+|c 
+ 
+25/ nL| K|1 nL|Kc ]G| 
+&+ a51   
+n8 nL| 1G] %P/ K a}G[ 
+K|1 ?+ a}Gc &)p ?/k^ nCp 1(p)p K ^/G|  
+ 
+25/ nL| K 1L]K|c ]G| 
+&G1 K Z[)ca nCp a}C/Kc 
+nL| K ng1K|c [5c (| K 1X 
+&+ a51 ck ]L^r &)p }/X1  
+nCp a51  )c [Lm ^/Ga  
+K|1 2K }/+a nCp K ?[)}  
+nL| Ga}c nCp 1(m5|c 
+ng1 ^C/1  
+25/ nCp K oL\ [#1K] |#
+
+----- diversity: 1.0
+----- Generating with seed: "c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 "
+c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 nCp |K}5|b[L] 
+c)[ P[c (| aL}a 1L2K1   n+  
+n)2 nP|(?(1 &+ 1]}5[1 
+n8 a5?bK| n)2 nCpK| Z+p 
+nL| G| (# %+p(1 &(]5b(}  
+Gc &+ /L1 ]Ga(| 2K 1/)}  
+?g1 |5]1 n)2 P% : ?+[1  
+&+ nCp }G| acP/K[ G| 5/n)p G? %P/ oL\ [)]-K|p Z+  
+%P/ &)p aXcK1 ?r^/)[p 
+ck ]P\|1 Tc n# ck ck 1P/ 
+Xm ]L0 ]G0 (| 2K a}G[- 
+25/ nL|a nCp K ^8[ |#]1 acGc 
+&k &G1 %P/ K cG^ G| ZP[ |+p  
+&+ %P/ 2K ?:|c n)[ }K{c)?K|  -?#c 
+C] &+ [5m Z[
+
+----- diversity: 1.2
+----- Generating with seed: "c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 "
+c (| K a}n+p  
+ 
+n)2 K }L|c a: Z)^  ok1 1+ ]X| (| &8 b#  
+2Gc %ga ^:1 K|T ^g1 )|cj a}k 
+K|1 oP/ K ]G| nCp /K])| (]Go\}bK#K    
+ 
+cC1(\ Z+d K ?X  
+oP/ K 
+ [Lm1 ]X |T %oa]rG|-  
+?%/(]5[c a|X1 )ca cn5|1 
+[P}Kc ?5[K| ck ]X |5c  
+ck 25/ )p 2K L?[Ka n)2 ]Gb- 
+d/L}c (/5|c /:[-  
+P[ Z% &)] K ;[5mK[- 
+%)/ )p n)2r  n5/ )c )c )cK[ ]#}  
+b+ a51 ]Pacnr^1 K|1 cLc 1k 
+ )c n8[ nL| n# 1/)?c oPc Ga} ZP[1    
+25/ nCp K oL| ?Gd |+|r  
+&k1 K Ga GZK[p1 ck [G
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.2346
+
+----- diversity: 0.2
+----- Generating with seed: " ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L|"
+ ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L| 
+ 
+25/ nL|a nCp K ]G| %/L] }/k]K[K  
+&k nCp a}/k1 (| K %G[ 
+&+ nCp a]5[  
+K|1 2K }L[r a51 &8 ZL|Kc Lm ]G|  
+ 
+25/ nL|a nCp K ]G| %/L] }/k]K|c 
+&k nCp a}/km(\ K 1X]  
+n5| b+ a51 2K }L|c &+/p n5|c &8 
+ 
+25/ nL|a nCp K ]G| %/L] }/k]K|c 
+&k nCp a}/)?(c n)2 K ?C/}  
+&k nCp a}/km C| &8 1(a}/5]1 
+K|1 2K }P[1 &5/ nCp |#]1 &5/ 
+a51 2K 1/5ac 2Gc &8 ZL|Kc Lm 2K }/X]  
+ 
+25/ nL|a nCp K ]G| |#]1 1K| 
+&k %5[ )
+
+----- diversity: 0.5
+----- Generating with seed: " ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L|"
+ ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L| 
+ 
+25/ nL|a nCp K ]G| %/L] 2K }/LZ  
+&k nCp K ]G| nCp K ^[#  
+&k nCp 2K ?/5ac Lm &8 1Xr  
+25/ nL|a nCp K ]G| %/L] }/)} 
+&k nCp 2K ?/5aK|K| K|1 [P\}c [X} 
+ 
+25/ nL|a nCp K ]G| |#]1 %/L| 
+&k nCp a[X1 K|1 &+p  
+%P/ b+ 1C1 |#]1 n5| |#]1 Z/Xc  
+n5| b+ a51 2K 1C} ck ac/X]p  
+K|1 2K })[ &8 1  
+a51 2K a)[ 25/ ]5/ 1(p %/L] 2K ?C/p  
+ 
+25/ nL|a nCp K ]G| %/L] }/k]K[Ka  
+&k &G1 &8 ck ck %5[  
+n8 ac/5a K|1 b
+
+----- diversity: 1.0
+----- Generating with seed: " ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L|"
+ ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L|cK[p )p ?/oP/  
+X |#] K|1 ^5c ck ZC} 
+ZLc ^8[ |5mr &c/?Kc }#  
+ZLc Z)bp nCp %)[(\p [G|1 
+K|1 Lm 2K ok]p  5bKZ(\p 
+nCp ?/)aKZ[- acXr 2Gc ]X  
+%P/ 2K /:|KaC[p1 oP/ Tc K ZC|K[  
+K|1 0T|1 &)p ?C?c nCp %P/ ?5[p 
+K|1 1(m)[ |kZp  
+K|1 &8 |: }[G\1K &Gm [
+1k 1Xp ]P/ a}Kpp Z+ n#}  
+n5| mX1 ck a}}[:c 
+cT c>|cKp ?[5a   
+ZLc a8]K1 K [G|-Zr 
+c+ c>|0 [X| &)p |5mr 
+K|1 C/c ]P/ 1T| &8 nX[ a?C| 
+2# ]g}c &8 1p ?/jca
+
+----- diversity: 1.2
+----- Generating with seed: " ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L|"
+ ?8a 
+ 
+2K &P/ %/L] |5}ac 1P/ n5|c K /L| 
+X1 2K acG[ 2# m8{j%+p  
+K|1 |6Gp &8 ?g/a Gc &5[ &)p Z/Lp |Cc (| a5} 
+2Gc n+ ga(a &8 c)ca /Cp1 ?8a  
+ 
+X [)[- nL|a nL|a }Cp1 ]Gc )p [X} (| 2K ]G|  
+ 
+K ]#1 nC/ ^)m +/okrc  
+1G|orc(ca &)p m5|Ka oC/ ?r1]pX   }n)aK]  
+{Lac ]:}a  )\ 0+p 
+K|1 %P/ &kp &C]ca n8 }/k}(\ d/+ 
+&51  K a[(ZPK[ &+ n5|} bCc 
+)ac ok 5[r1p   |kd [Xp 
+&k1 ?C/} {^|Cc [G|1 (| 2Xp  
+K|1 b+ Z+c (| 2K Z:bp 
+r [X}a &Gm(\ a?C|1[
+ b+ [X}1
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.2063
+
+----- diversity: 0.2
+----- Generating with seed: "1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K"
+1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K aL]r(\ ]G|  
+2K %)[1 nCp K &Gm a: 1T| 
+25/ nL|a nCp K ^8[ |#]1 1Cc 
+&k [P\1 K ZC[} }/L} )c  
+nCp 2K a#] Lm 2K a+[   
+ 
+25/ nCp K oL\ ^8[ |#]1 a?+| 
+&k nCp ?[#a nCp K ^Cc K [X1  
+K|1 |T &+p }C] &8 1  
+25/ nL|a nCp K ]G| %/L] ?[k1  
+&k nCp ac/#?(\ K ZCc nCp ]5/- ]X ac)}(} 
+nCp K nL|a nCp K ]G| %/L] K ZL| 
+K /L|1p K [#1  
+K|1 |T b+ gcK|c 1L] 
+K|1 |T &+p aL] Lm 2K a+|(\ 
+2K /(\}P/ n)2 2K a+[(\ &8 1/X
+
+----- diversity: 0.5
+----- Generating with seed: "1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K"
+1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K [)1K[ Lm 2K }ok  
+K|1 |T b+ )ca nCp K %L| Z+ 2K |: 
+ 
+25/ nCp K ^8[ }#]1 1#1 
+&k %5[' acC/1 |Ka?[#  
+K /G|0K[ 2K a8 a: 2K Lm }[G1  
+25/ nCp K oL\ [#1- (| %/5|a  
+&k nCp ac/#?c %P/ 
+2K aX1 nCp K a)| Lm 2K }C|  
+25/ nCp K [
+1-?r1 Lm &8 ck 
+2# }cLZKc Lm 2K }/X1  
+K|1 |T &+p }C|c 
+25/ nL|a nCp K ]G| |#]1 }G| 
+&k a51   K ^Cc  
+a51 2K |: %/L] |Cc n)2 K nL| 
+ 
+25/ nL|a nCp K ^8[ |#]1 }G| 
+&k a51   K ZX 
+
+----- diversity: 1.0
+----- Generating with seed: "1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K"
+1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K ]kZr 2K Z)|(acj[4} |cL1/-   
+ 
+25/ nCp K [)] |#]1 |1Z5|- 
+&k ^5m1 K 1P/ nCp K [5|a 
+c: )c )c /P[ ?5/ 
+8 ^5c 2Gc X {L}c K|1 aL} 
+2G| &8 }g1 G| Lm /51 
+ 
+25/ nL|a nCp K /:1 %5[ C| %/L| C/1r  
+&k }g1 ck `|ac 1La ^g1 [5} 
+ 
+n)2 m# %T|1 |#]  
+nL| |:ZD1 ^g1 ck ]Gm(\ a+|  
+K /G^ZKbK[1 nCpK|  }Gc )?c  
+nCp 2K [)1K[K1K[ [P\ K|1 }k[ 
+ok K|1K}n)[- nX c/ ]:aK[   
+[)[ Z+}a (| |#]1 1#[  
+25| n)2 2K aX| nCpK &8
+
+----- diversity: 1.2
+----- Generating with seed: "1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K"
+1 %#[ 
+2K }/k 1)1 ^: ?#[ 
+n5| c:[1 Lm 2K %5|c K G% a+  
+2# nF]Z#Z(] 2K Z8KZr} 
+&+[ }P/1m1 Z/C/{)}  
+K|1 25| )p K d)\}K[(\ ok aok  
+ZLc nL|p nCp ?Yra rX }/kd %P/ 
+25| &P% b+1 |5mr ck Gc K ZX   
+ 
+25/ ZL|a nC|c ?+?$c Z[C?ac 
+[Lm GZK[1 K ?#ZKc Lm ]K|(c`^8  
+:m 2K Z>%a 1(acP/-  Z#} 
+G1 :m(| ]LbK1 ]g}(} )p K Tc K  
+/+pK[- Z/+n$p }G|c }g1 |5/  
+m(^/)b(c(\ )c ?+|(\ n)2 ^5c  
+25| nG| +c 2# 5] {X|Ka'  
+b+ b5[ a51 nCp |#]  
+K [51-- ]P/ 2K [)Z-[- 
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.1845
+
+----- diversity: 0.2
+----- Generating with seed: "/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /"
+/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /(^/X1 &8 %/L] /+a(1 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [#1 C/] |#]1 acC/- Z+ a51  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [#1 nCp K [X1 (| 2K %5[  
+&k [X}c &8 %P/ |X| (| 2K ]+   
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [#1 nCp ck [X} K a}G[ 
+&+ a51   n)c   
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [#1 nCp K }/X1 ck Z5[ 
+2K /(a}[#1 2K 1#ZK[  
+K|1 2K /(1Xr1 &)p ac/#} 
+K|1 ok ?[)ac Lm &)p Z(}L}(c 
+nL| 1+ n)[- K|1 a}P/] 
+
+----- diversity: 0.5
+----- Generating with seed: "/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /"
+/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /X1r &+ [#1 C| &8 ckc  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [X}a nCp 2K ?)[-  
+C% 2K /(1Xr1 &)p /(}G[ 
+K|1 2K /(1)}a ^G\p 
+Z/P/ nCp }ng/K|c |#]1 |G|  
+K|1 2K %5[ C| &8 ZL}c  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&+ [5c Lm &)p C} 
+&k [)m1 C| 2K Z[X|1  
+%P/ 2K }Lac ^Cc /5| Lm &)p ac/#} 
+ 
+25/ nL|a nCp K ]G| |#]1 ac/L]r  
+&k nCp a[X1 &8 %5[' [Xa   
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+&k [X}a C/}K|c ?G|c ]G% n)2  
+
+
+----- diversity: 1.0
+----- Generating with seed: "/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /"
+/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /({C[KZ(}a /1(p5}cK| 
+2)p }>[1 X Lm &T  
+[k1 ck a[#c(\ )c  ook  5[)|a Z
+%P/ a?[k/ %P/ ?+|  
+`|a51 2)a a[n?>[ 
+&+ ]Cc (| 2K /+1r   
+n81 ck Z+ a8ac %/L] 2K %)\}  
+#] oP/ }G| 2K /L| 
+G| Z)c &8 |L] 
+Gp mK1/}K[r|>aKa ?CZK}c oC/  
+Gp &+ ?)ca P[ Gc &8 &Cc 
+2Gc /+a L?r &G1 nCp m5/  
+K ]G| &(]nCp |X|K1 2K [X  
+n5c )c )p Z+ bGc 
+cP/1 Lm &)p Z:1 &)p ac/X}a  
+25/ n)2 K [L1- |#]1 a#| 
+&k ?/Xc- ^/Ga Lm &)p ]:| &
+
+----- diversity: 1.2
+----- Generating with seed: "/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /"
+/#|{[- K])a  
+%P/ +m(| n)2 m+|Ka  
+&)p /P\p P%1r    
+%/L] ? r%5ac/-(\  
+ 
+n)a 2# 151K1K [X} K ?)McK|c P[ 
+2K %`[G?K[ ck /5a 5/ Gp ]G|  
+K [Z]r)p G0 }C'K|c &j|5m)c(}a ]+(a |#]1 KZ+ 
+nCp ac/Xc 
+K|1 2K %)?]c nCp K %X% Lm b+ /:|- 
+)p ng1 ok &8 ]%P/ +[K 
+|X|1 }#ac ^: 
+a51 d)\} c8| 2K ckcK[  /+[p )p 2K 5b)a 
+1k &X |5}%r 
+a: %L}c (a L| ?C/2r 2K }2)|c   
+ck n)2 K Z2Ga K|1 ?rc/}0}(mX|b }Cc%r   
+-Gc {#{- %)[(\ a?Xc [- a]cL} 
+ 
+nLc b+ [5&- P[ ^Cc 
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.1701
+
+----- diversity: 0.2
+----- Generating with seed: "K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] "
+K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$]  
+ck Z+ n)2 K }C}  
+&+ nCp nL|a nCp K [X1  
+n5| K ^/#c )c nCp |#  
+K|1 |T 1X Gp K a?/5mr  
+ 
+25/ nL|a nCp K ]G| %/L] }/)cC 
+&k nCp a[X1 K|1 a+  
+K|1 b+ %/L] K Z+ (| &)p Z+}  
+ 
+25/ nL|a nCp K ]G| %/L] }/)c  
+&k [5c Tc K a5[- ok [Xc  
+ 
+25/ nL|a nCp K ]G| %/L] ^/)|  
+&k nCp ac/K}(\ &8 %P/ K 1L} 
+ck 2K 1)} Lm 2K }/+%  
+2K 1+ ck ac/)\} Lm 2K }okZ(}  
+ 
+25/ nL|a nCp K ]G| |#]1 ?+/ 
+&k %P| &8 Z)} n)2 K
+
+----- diversity: 0.5
+----- Generating with seed: "K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] "
+K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] 
+2K ?/5ac Lm K 1/5ac Z+ acP/ 
+ 
+25/ nL|a nCp K ^8[ |#]1 {)ac 
+&kp nCp K|1 ?Gc %P/]p  
+)ca nCp K }5[ |#]1 K ?[)c  
+ 
+25/ nL|a nCp K ]G| %/L] |F|cL}(c  
+&k a51   
+KZ|L2r a}/)[K|K[p  
+ 
+25/ nL|a nCp K ]G| %/L] |%#r  
+&k nP|c ^: ck Z)c 
+P/ 2K a+[ 
+ 
+25/ nL|a nCp K ]G| %/L] ?[ka   
+&k a51   X |: n5| ok ZG?  
+ 
+25/ nL|a nCp K ^8[  
+&+ %P/ K Zg1 ZLc b+  
+1(mX|(a nL| %)}(\  
+G| 2K %)[oK\[\\[D88'[- [#
+1- Z
+
+----- diversity: 1.0
+----- Generating with seed: "K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] "
+K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] 
+K ?C} 0+ca }C0c 
+)p /([Xc- &8  
+ 
+}Cp P% &+ ?[#Z(}  
+K|1 |T ck a+p   
+a+p /(\}L}(\ P[ 2Gc aX}    
+n)[ :moL\ X ]G|  
+K|1 25] a[)[- 2K %5[' Z+ a})[1   
+ 
+25/ nL|a nCp K }[Pc (| Z5[' 
+&kp aP[p1 K|1 }P/} (| Z[k  
+1(m/GZpK[(\ Z+ 
+G| &)p ?og/K[# 1# 
+1 |Cc  {Lac |K0[)aK[  
+ZLc nCp |#]1 K &G] 
+K|1 1T| a)% [+  1ZTc  
+1#ac &)] ?C?c ^Cc |L]Yp  
+25/ nL|a nCp K ZL}r1 Lm ]G| 
+&kp |Cc [X}p  K|1 [+c 1(}a aG|p  
+
+
+----- diversity: 1.2
+----- Generating with seed: "K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] "
+K ?/+m-Ka |Xc   
+ 
+G| :[1 ]G| &kp a8|$] (| %/L]0 
+ZLc [X} 2K [8c (|  {Lac |#] 
+(| 2K nXr n8 ZP0 (| )p  
+&+ 25/ T n)aK|p K Zk a: 05/  
+ 
+ZLc 25/ (| 2: :[1 ck }K[)ca  
+a51 b+ P[0|c Lm }['Z)|c(mK1 
+ok %g1(\ K Z%L}  
+&+ ?[5c (| Ga}U%2/&2$p  
+K |#] aG| K|1 &)p d/k  
+d/+ [Lmc n)2 ^#m 2K 1P/ 
+)c ?([5mr Z/L| ]5ar c/k1r }k|c 
+&+ (\ [# : 0r)[-    
+{:a 1# K %P/ 
+&+ ckcr mK{LbK|  
+n5| 1T| C| aKZXc 1(?[5c 
+)%K|1 X n5|c K|1 Ga ck L?  
+)c ng1 |kc C/ [
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.1508
+
+----- diversity: 0.2
+----- Generating with seed: "/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8"
+/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 ck ak?  )p acGc  
+b+ a51   ?cK|1   
+ 
+25/ nCp K oL\ G| %/L] }[Ga  
+&k nCp an+c nCp K a?+| 
+nCp ck }[G|1 ck ]X Z/X1  
+ 
+25/ nCp G| :[1 %/L] a[+| 
+&k [5m1 C| &8 ZL}(c Lm +/ 
+ 
+25/ nCp G| :[1 %/L] }['Z5| 
+&k nCp a?:|(\ &8 }nXc nCp K a?+|  
+ 
+25/ nCp G| :[1 %/L] }[5/ 
+&k nCp a?/5/K| K|1 a51  
+ 
+25/ nL|a nCp K ]G| %/L] Z/ka  
+ 
+25/ nCp G| :[1 %/L] }/'Z+| 
+&k nCp a: }L] Gp Lm &)p }C} 
+&+ nCp aL] a5|c  
+
+----- diversity: 0.5
+----- Generating with seed: "/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8"
+/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 ac5/ (| Gp }[Gm1 
+ 
+25/ nL|a nCp K ]G| |#]1 1Cc 
+&k cg1 K|1 &)p ]Ga  
+b+ a51   ac/5/  
+ 
+nL| 1k 2K }L} Lm 2K 1C}  
+ 
+25/ nL|a nCp K ]G| %/L] Z/#a  
+ 
+25/ nCp K ]G| %/L] 2K %5['  
+&k /G1a P/ P% &)| ]L}cr &Gm ]G|  
+ 
+25/ nL|a nCp K ]G| %/L] Z/ka  
+a51   nCp 2K 1+ nCp   
+ 
+K ]G| &)p a#} nCp K aC[ }K|c ck Z5|c 
+ 
+25/ nL|a nCp K ]G| %/L] Z/ka  
+ 
+25/ nCp G| :[1 %/L] }C1 
+&k &G1 ?+ }K|c ?+c n)2 ]+   
+ 
+
+----- diversity: 1.0
+----- Generating with seed: "/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8"
+/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 n5|a Lm Gc acL}Kc r  
+ 
+25/ nCp K oL\ nPo[\ %)/c a51  
+ 
+25/ nCp K ZL} ]K}Cc |#]1 ^/+p 
+ 
+25/ nL|a nCp K 1L\ [X1 ]P/ (^ /5[a a
+ 
+&+ %5[c ?#]  
+ZP% \ }/L] ac#m Tc  
+ 
+2Gc )c P[ b+ a51   P[ 
+ X nL|a [5c Lm ]+|(a aL0 [X} d)\  
+ 
+ZLc nCp nLca nCp %X| G| ZC}  
+&k +| a: 1)} a8|K1 [X} ck 1k   
+ 
+25/ nCp G| :[1 n5/ |# %nLc })?c  
+&k }g1 ck }K[#mK| Lm &)p /C}acKp &)]  
+a51  2r )c Gp nLc |C}cr a[X[p  
+ 
+25
+
+----- diversity: 1.2
+----- Generating with seed: "/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8"
+/Xc Z[k Xp  
+&8 Z/5aca  a: n5[ }5?c  
+n8 )c X %okc 2K ?g[K|1 &8 acX[  
+a51 Tc #(  
+ 
+25/ nCp G| :[ /G|a /C? K  
+%/5}d ck ck ]k 1)c  X {r|#m cX    
+ 
+a51   [X} )p }a]%/6]Tc}(} 
+%/L] bg1 |5mr ck {k[    
+ ^nX[r ck 2K ?+c [5c (|  
+ 1(&k(p K a5\ )c   
+ 
+K \ 0C/} Gp 2K 1P  
+)| d+}K?K[p ^Cc (| 2K n8|a %/Lc acL}K] ZLc }nXc }nX  + 
+  nCp nL|a nCp 2K 1G\p 
+}K|a5mK| 2K :1 C/]G^1 ck 5/   
+ 
+ Xp 2K 5}a Lm &)p #/ 
+K|1 |: n#1 K %[+1(1  
+K /L^)bK|1 ]X 
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.1330
+
+----- diversity: 0.2
+----- Generating with seed: "- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/"
+- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/X1    
+ 
+25/ nL|a nCp K ]G| %/L] Z/kc 
+&k &G1 K ZCc }nXc K &G? 
+&k nCp ZP/1  ^5a  
+ZLc &8 Z)b(} Lm a}/#m1 
+K|1 2K /([Xc nCp K Z[+1  
+n5| b+ }g1 |Cc Lm }n)}  
+b+ %T|1 2K aL} Lm &)p ZC}Kc 
+ZLc nCp 2K [5a  K|1 1)}  
+ 
+25/ nCp K oL\ ]G| %/L] |# Zk  
+&k nCp ZP/(1  
+nLc nCp nL|a nCp K Z[k  
+nCp 2K a#Z[- ac)} Lm 2K }ok  
+ 
+25/ nL|a nCp K ]G| %/L] Z/kaK|1  
+&k [5m1 C| 2K [Lmr |#]1 &)p }n)2 
+nLca nCp K Z)c
+
+----- diversity: 0.5
+----- Generating with seed: "- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/"
+- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/X1  
+(| 2# %/L} a51 &8 1)[- 
+&kp ?/X]1 nCp K ZX K &:[ 
+ 
+25/ nL|a nCp K ]G| %/L] Z/k1  
+&k nCp K }C} &8 ZLc &)p nCp  
+nLc nCp nL|a nCp K Z[k  
+ 
+nL| 1G1p K Z[Ga}(}  
+b+ n5|c &8 1 &+ [5c (}a5mK| 
+n8 &+ }L]%K|c acC/1r  
+ 
+25/ nL|a nCp K ]G| %/L] c5/ a+  
+&k ^#m K ZCc &G1 }/G}  
+(| 2K %/L2r a[)]r-   
+ 
+25/ nCp K oL\ ]G| %/L] 51r- 
+&k n8[ n)2 Z(^G| K|1 &)p ^Ga 
+ 
+25/ nCp K oL\ ]G| %/L] 1P/a  
+&k &G1 K
+
+----- diversity: 1.0
+----- Generating with seed: "- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/"
+- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/X1 |#]1 X 
+ ]X }Z+}  
+Z([pkp Lm 2K aG[ |#]1 %C/ [X1  
+ZLc X }#] (| 2K ok 
+acC/1 |X Lm ^C1 
+K|1 cL^K1p K|1 &Gm 1G] 
+?gc 2K 15|cK1 &:a  
+a: ]Lb+1 (| ]KZX(a  
+ZLc %C}c Lm K Z> %8ac ?[:| 
+ 
+25/ nCp K oL\ ]G| %/L] 1Xr |5mrK 
+&k akZ[/(ac)[ &8 )c n5| nCp  
+25/ nL|a nCp K Z5[' (| |X% 
+&k ?P/nKp K &5[ n5|c nCp K [{)}  
+Xp ]$p ]: [K^/+a n5|c   
+ 2:paK]ZX a]P/ bCc(\ ]X a}0)%K| 
+ 
+X[ ^g1 K ]G| nCK  P[ )c nCp 
+
+----- diversity: 1.2
+----- Generating with seed: "- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/"
+- |#]1 /kd   
+&k &G1 K ^/#c ?GbK| %P/ c/P/]  
+ %[Lm b+cnC|c ck aXp XKbK| 
+ 
+25/p ng1K ck ^X C/ 25/   
+&k1 K %?o{Kc(\ Lm }/5]aK|Kc L|ac/|  
+%/L] `%kmp /)[- ): %P/ a]5/-   
+nLc )c /8ac 50 ZLc(1   
+ )% )p [#1 Lm /6|151  
+&>1 |: Lm 2K }#[ )% /)aKK|Zr1   
+
+&)p %ok1p K|1 ?+c([ Z|K0K|5bmK}  
+ 
+K %#[ d/k ?/K^X|K okp1 K }L]r}c  
+2# 1C1%K|c %5[ &)p GacCK[p Kn: :%m[
+ZG}b2?r   |5c ZGd 
+X {X[p oP/ }Cc  
+&G1 K {Cac  n+ ]G|c 
+&+ ck 2K bK? nLca K ]ka {
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+30346/30346 [==============================] - 11s 373us/step - loss: 1.1164
+
+----- diversity: 0.2
+----- Generating with seed: "}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  "
+}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  
+nCp 2K aLd (| 2K a+[ 1T|  
+ 
+25/ nL|a nCp K ]G| %/L] }/G}  
+&k nCp ZPca Lm 2K %)[ 
+&)p ]LZ(bc nCp |Cc %P/ K ZC} 
+&+ nCp aL](\ ]LZK[  
+nX[ /Xc nCp K &C/1  
+K|1 |T &+ nCp }nXc K &C/}  
+&k nCp aP/1 2K ?/Xa Lm 2K %/X1  
+&+ nCp a: nCp K &Gm %C/ 
+K|1 2K }L?c nCp %/G\p K|1 aG| 
+&+ nCp a: nCp K &C/1  
+K|1 |T &+ %P/]p K ]G| 
+&+ nCp ?[5|1 %P/ K ZC} 
+&G1 |Cc }C]Kc %P/ K ZC} 
+&G1 |Cc }C]Kc }nXc aG|c 
+K|1 |T 
+
+----- diversity: 0.5
+----- Generating with seed: "}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  "
+}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  
+)p aX1   )p a: 1/X]  
+&+ nCp aL](\ ]+ /G\^K| 
+&+ [k1 K ^Cc [X} K|1 &GZ 
+K|1 |T &+ %P/]p K ?:|  
+K|1 /T|1 %P/ K 1L} |#]1 a+1p  
+ 
+25/ nL|a nCp K ]G| %/L] nXr a]C[' 
+&k [X}c ck }K|c)}ac (| Z/G|- 
+%P/ Ga Z(^G|- 1k   
+ 
+25/ nL|a nCp K ]G| %/L] }/k 
+&k nCp ?C/1  K|1 a: [X} ck ^8[  
+&k nCp ac/)}a &8 a51  
+)c nCp /P/1 1)ac ^/k %/L] ?/:}  
+&+ nCp ?[#1 G| (| K ZC} c+c  
+ 
+G| ac/+1 K aC]  &G1 &8 ck   
+ 
+K 
+
+----- diversity: 1.0
+----- Generating with seed: "}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  "
+}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  
+n5| b+ a51  &+ ?L|c 
+a51  2K /(1C/G]KZ- 
+nCp ZLZK[ n)2 K an5/ 
+L2 &+ cg1 |Lca ZCc K|1 [P\}  
+
+Lc ]G1 &L\ [X}   
+K|1 n+ P[
+ K|1 1/Xm |Cc /:|  
+cg/a(da51  &G1 |k  
+&+ %P/ K Ga} Lm {Lac |#]1 G|- 
+25/ nL|a nCp K ]G| |#]1 ?+   
+&k &G1 }Cc bgca K|1 [X}   
+C| &8/ a51    
+{Lac ng1K| &+ nL|ac P% 
+ 
+K [#11 nL|a ck [X} K|1 ?)cKc ck %8}a [#
+1 }GmK1 |L]YZ6/-og[ 
+K|1 &)p 1km K /C}c 
+ 
+2G nCp K &)p GabK|c L?r- 
+
+----- diversity: 1.2
+----- Generating with seed: "}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  "
+}P[1 Z)p-  
+&k nC|ca ]+ n4|5mr X] Z)p-  
+a51 }Kcm+} K ^C1 K ZK[G|1p }n
+KcX](\ Lm &:% 
+K|1 [:2m)b : pC| %P/ G| L|1(%|K[p ZLc[- a)a o8a |#]1 n`|k] 
+&k %L}/K|acnX ck 0)% (| ]G| 
+K ]#{Kap aL]nMn &)]  5/- aX1 1T| 
+ 
+25/ nCp K ^8[ %P/ ZP[p 
+&8 ]T ck 2K ^g1|c|c ^5c |#]1 |C2p{KbK[ Z
+ K%/X1} &8 }#] b+? Z5% ck Gp  
+)p nCp a51 ck 2K /Xc bT|1 %/- Z/k %#]  
+nCp c nCp ]X| ck bT %#  
+K|1 |T b+ gG[ b# aL}c &5/1- +[(\ %/: [
+b+[?/(\  k>1 5|- Z#a  
+ 
+%/L]
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.1049
+
+----- diversity: 0.2
+----- Generating with seed: "c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+"
+c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+25/ nCp K oL\ ]G| %/L] }[+ 
+&k nCp ?[#Z(}a nCp %P/ K 1C}  
+&k a51 ck }a] ck ac/Pc 
+ZLc |Cc &)p |kc  
+K|1 |T 1)ac &8 |Gc  
+ 
+25/ nCp K oL\ ]G| |#]1 Z+  
+&k }5?c acC/Ka nCp |#]1 {)| 
+nCp ck ]Lac ]G| 
+K|1 |T &+ P% &)p 1(mX|K 
+ 
+25/ nCp K oL\ ^8[ %/L] [+ 
+&+ nCp a[+1 nCp |#]1 ]G| 
+&k nCp ac/#?(\ Lm &)p }n)} 
+nCp c nCp %/5] }#] &+ n5|c 
+nCp c nCp 2K ]#1 nCp |#]1 {)| 
+1 |Cc &)] %/L] }/)}(c 
+&+ nCp a?/51
+
+----- diversity: 0.5
+----- Generating with seed: "c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+"
+c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+25/ nL|a nCp K ]G| %/L] }[+ 
+&k %C/}K|c &Gm %5[ 
+&k /)[- nCp K [)]K}K[ }Gmr |#]1 Z+ 
+&+ nCp a[X1 K [Xc nCp |#]1 ]G| 
+K|1 |T &+p K ]G| nCp K ]X|- ZX]p  
+n5| a: ]L2c 2K [)]r  
+ZLc %P/ K a}P/ 
+&k ?[)|c nCp 2K acL}cK1 &8 ZL}(c Lm K c+[  
+ 
+25/ nCp K oL\ ^8[ %/L] ?[k  
+&k a51 ck K %5|c &+ ng1 Z/La  
+n5| b+ a51   
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a 
+ 
+&k }Gc  K|1 2K }L[ n)2 &)p ZXp  
+ 
+25/ nCp K oL\ 1G] |#]
+
+----- diversity: 1.0
+----- Generating with seed: "c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+"
+c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+25/ nCp K aL\ Tc- 2K [G| }/L] }G0 
+&k [5mK| ZP[1 Lm &)p /GZKKZK[ 
+T| m8/ka |Cc }#] ?+|(Zp  
+&+ 1G1K|c }K|)p K|1 &#? |Cc 
+ 
+&+ /(?/X](1 &+ ZCc(\ ^Cc )c n+ an+} %T}  
+K Z)ac )p %/k K &C/c m5/-  
+ 
+25/ nCp K ]}/#c 1L] |#}K} }#[ 
+&k %Cc (| K %okcr  
+&k ^Cc &+ }nX1 K ]Gc 
+&G1 K a}/KZL}- 
+&k an8[ n)2 n)Cac- `|ac ]Cc(a  /G%L(}  
+2Gc nCp 1k1 nCp |:? %)/(\} n)2 
+C| 2K %/L| 
+&k bGZa [X} K|1 Z+ 15mK| |Cc Lm 
+
+----- diversity: 1.2
+----- Generating with seed: "c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+"
+c Z)/ 
+|: |: a51 2K 1C} 2Gca cjcP|(} 
+ 
+ZLc &)p %/5a[bKa &+ #  
+K|1 |#]1 [L^a  ]- ?+|p  
+K|1 |Xc8- 1Pc &C/- 
+a51  n+ Y}n)c  ^k1 1)1  
+&G1 c)}cK{rK1 |#]1 G|- #c 
+an+c n)2 ZQ^|(\  
+Lm ]L2r &k/(\ {X|c ]#1  
+&8 ZL}c- ?/Kap+np +/ 
+Z)| P[=] ^5c )c aL1  
+K ]C]]p ]:ac Z)\  
+Lm K }K]G['1 &Lr K P/c ?/ok\ }ok   
+ 
+nCp c(]5}c &8 &C?cZ1  
+K|1 &)p a?:|Fp ]X K ^Cc K /5/(c  
+n5| b+ )ca nCp ]LZ(p ]+[L1 %/nLm ]5| 
+&+ n5| m5/- ng1 %#a ^#m 1G? 
+&+/ZK[p nCp
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 1.0937
+
+----- diversity: 0.2
+----- Generating with seed: " ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a5"
+ ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a51 &8 ZL}(c 
+nL|a a: ck }[)c %P/ K 1C|c 
+&k a51   nLca ])}a n)2 K a}/k  
+b+ /(c8|1 &8 &Gm 
+ 
+25/ nL|a nCp K ]G| %/L] }/'K|# 
+&k a51 n)2 K ^/+| a)] (| Z/#m 
+ 
+25/ nL|a nCp K ]G| %/L] }/TKZ[
+a
+K [)]r(}a ]G| %P/ K a}/+] Tc 
+ 
+25/ nL|a nCp K ]G| %/L] }/'K|# 
+&k ng1 %)[1 &8 %5|c 
+ 
+25/ nL|a nCp K ]G| |#]1 Z5a  
+&k a51 &+ }g1K|c }K|c ?[)c   
+ 
+25/ nL|a nCp K ]G| %/L] }/TKZ[L]   
+&k a51   n)[p K ?8[   
+ 
+
+
+----- diversity: 0.5
+----- Generating with seed: " ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a5"
+ ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a51 &8 okp  
+K |: a]#[ nCp K }/)?cK|a  
+K|1 2K %)[1 Lm 2K [51a  
+)c ng]K| b+ an+} K }n)?c }G| 
+ng1 /k1 25| Z)c  
+ 
+25/ nL|a nCp K ]G1 |#]1 Z/+c 
+&k &G1 K }/)}(\ &8 1GmK| 
+&k a51 n)2 K %[+m(\ 2Gc 
+X] K ?[)c (| K &P/a  
+a51  25| Lm &)p &C/c n5|c 
+ 
+25/ nL|a nCp K ]G| %/L] &5/ 
+&k nCp 2K aL| &)p ZP/c 
+)] Z)b(c Lm ]G| n+ ok  
+/)[(\ 1(m/)ac 2K n)[-^K| %/L] ?[+]   
+ 
+K /}n5|cK[ n)2 |#] C/]  
+K ZL|c 1T| &)
+
+----- diversity: 1.0
+----- Generating with seed: " ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a5"
+ ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a51 
+])a %ok ]8a (| K ]XcK1   
+K|1 ?)}a P/] ]La a]P/Kc- ?rc/(\+c 
+a: %P/ X dTcKa C| 2K /k|  
+1{LZ[Ka(]Ka)}a ^/G\}  
+ 
+25/ nL|a nCp K ZLmr1r?/-? |Cc ]#/ ]#r  
+n5| b+ n5|c &8 ?n)a}Kc ]G}  
+ZLc X 5acar16/6ac|o5d  
+ 
+K ])aKa ^5[1K|1 2K aL0 2K a#|  
+K|1 ?+ /(\}[+p (| K ]:|j)p 1C}   
+ 
+25/ 2# b+ a51   nL| nCcc 
+2K ok 5ar Z(ac#Z 
+ 
+L2r &)p }C?c n5| |: n5c a?X]   
+ 
+K %G[(a ]5}c )c oL\ aG| |:] 
+&k (| 2n5/ n
+
+----- diversity: 1.2
+----- Generating with seed: " ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a5"
+ ]#1 n)2 K ])[oK| P/ ck  
+ZLc 2K ?C?M a51 d)^KZ Z+  
+ZLc (| &D/(\ &+ &#1 n)a}K^[ |k) 1(mK^?+mr  
+&k 1/G?c oCp8r 2K &)\ 1()}a /Cc 
+n5| 2# K 1Xr ^5m[K|p ?+  
+2K /Y^51+Ka [8|1 
+K|1 Lm &)p }C}c G| K|1 25| a[G2r   
+ 
+ 
+%X] c %8a a+ n)[pbK| c: d)c   
+ 
+25/nM| K ^8[ |#]1 Ta (| &5/ oL\ &Gm |T &+  
+n5| X +|1 L? ]K^/)}(}  
+K|1 2K }L]p  n5[}-  
+%5| |#] n:}:[1 ]Ga }n&]K|ca ?[:a 
+b+1 a8|1 C| ZPcK|   
+K|1 $?/)aKp ]P/ C/ K %81 G| 2K a#]  n5| 
+ o]k %+[
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.0834
+
+----- diversity: 0.2
+----- Generating with seed: "1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ n"
+1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ nCp ac/#?c ck 1k ck 1k  
+ 
+25/ nCp K oL\ ]G| %/L] ?[g1 Lm K ]G| 
+&k nCp ac/#?c ck 1k ck 1k ck 1k  
+25/ nCp K oL\ ]G| |#]1 1Gc 
+&k [Xc Lm 2K }P/} (| Z/#[  
+ 
+25/ nL|a nCp K ]G| |#]1 a?'|&(a]#1 
+&k nCp ac/#1 K|1 ?+ (| Z/Ca  
+ 
+25/ nL|a nCp K ]G| |#]1 a?'|&K Z5c  
+&k nCp ac/#?c ck 1)} (| a?+c 
+K|1 25/ C| 2K a#| nCp 2K aL} (| 2K }#|c 
+25| K ]Ga Lm 2K 1)} Lm 2K a?/51  
+ 
+25/ nCp K oL\ ]G| %/L] Z/#a 
+&k 
+
+----- diversity: 0.5
+----- Generating with seed: "1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ n"
+1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ nCp ZP/1  2K /(pX[  
+ZLc 2K aL}a(m 2K }[#1 [X} r  
+ 
+25/ nL|a nCp K ]G| |#]1 {Ga  
+&k [5^c(1 2K acP/ n)2 K ^8[  
+&k [P\}c 2Gc &+ %C?c ck 1T| 
+X |T 1/X 15ac %/L] 2K aL} Lm 2K Z[G|  
+ 
+25/ nCp K ^8[ }#] ?[X|1 
+&k [)m1 C| 2K ?g[p  &5[  
+ 
+25/ nCp K oL\ ^8[ (| 2K Z+1 
+&+ [Xc nCp K Z[kZ(}  
+X1 |T Z+ Z+ d)\}r   
+ 
+25/ nL|a nCp K ^8[ |#]1 {5|-  
+&k nCp K &+ }g1 |Cc }/Lm Z/Ga 
+K|1 [)mr d)\} 2K ?)|c }K|ck  
+
+----- diversity: 1.0
+----- Generating with seed: "1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ n"
+1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ nCp 0)cr K|1 1(pXr  
+ 
+n)2 G| 2K ZP[p /G\(1 ]X 0+[ ]X  
+b+ /Gm(d 2K [)% (| ^:  
+C/ 2# ]Lac Lm &)p }G|1r ]G}  
+n)1 :|c ^5c ^: 
+b+ &G1 G| 1/)}a ck 1T| C| &8 ZLc mK^/#|p 
+a: &+ +c (| a: ck a?5c 
+ : ok n8 ?)| }/#]1 1k 
+ 
+25/ nL|a nCp K ]G| %/L] ]+1 [X
+ 
+&k [X}c acL1K1 K [Lm 
+&k ?[#ac &k }#] K|1 {)|  
+K|1 )c nCp P[ }/Pr ck ?[:c 
+X] Cb/ %P/ 25/p ZP/| 
+)| ?g[p ?[5]^ acL\}}K[ 
+K|1 )c [Lm n)2 K aL} 
+&+ n5|c
+
+----- diversity: 1.2
+----- Generating with seed: "1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ n"
+1 1#m 
+&k }5?c K 151 &g}r (| K }#m 
+b+ nL|a %[#] C/ 
+K|1 cr ?[:^ L? K [5a- ok a5}c ]mKc ck ck 
+25/ nCp G| L|1r |#]1 a?k| 
+&kp ?/^/)a(] Cc Lm &+ n)\}K| (| 
+2
+bP/^[1 )|cjp$K d)\p1 1/P/](\p  
+P[ 2K Larmr1[' ck a+ (|a 
+1:mr &+ &G1 2K ?r2G|p 
+b+ /)c- ): ]P/ ^5c )c   
+ 
+K ^8[ :|1 ]L}cr &8 ck 1X  
+ 
+2K [8|1 Z^)pK|K]
+1 Tc [X} 
+25| aP[(a  bg/}c %[5] ZL}(} ]G| (|1 &okp  
+km1 &+ &G1 a[])ac n# /G]Zr 2r |Xc 
+ &+ nCp }[)mr1 Z5ca (| 2K %[k 
+2: 2)a ck 
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.0719
+
+----- diversity: 0.2
+----- Generating with seed: "[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &"
+[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &)p }Kc+[ 
+ 
+25/ nCp K oL\ ]G| |#]1 1)} 
+&k a51 n)2 K }C} Lm 2K }okd  
+K|1 2K }P[ %L}c 2K a+[  
+nCp 2K a#} Lm 2K }ok  
+ 
+25/ nCp K oL\ ]G| %/L] }/)?c 
+&k nCp }/+](1 &8 |Cc 
+25| K ]G| nCp nL| n+ ]X ?[X| 
+%/L] ?[X1 &8  
+nCp ]#1 nCp 2K ]#1 ]G| 
+K|1 2K }P[ n)2 K Z[Xc  
+K ?[La Z+ +}nK[p c+ ?[#c 
+K|1 |T b+ nCp }L|c 1T| 2K |: n5[  
+25/ nCp K oL\ ]G| |#]1 {)| 
+&k a51 n)2 K Z[X1 
+25/ nCp K oL\ ]G| |#]1 {)| 
+
+----- diversity: 0.5
+----- Generating with seed: "[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &"
+[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &P/ ck P[ 
+ 
+25/ nCp K ]G| %/L] }/)?c 
+&k nCp }/Pp (| 2K a+m(\ 
+b+ a51 n)2 K %L} 
+ck 2K Z)] nCp Gc K|1 ?+c   
+ 
+25/ nCp G| :[1 %5[' %/L] }[+ 
+&k nCp ^/# K|1 Z(^p 
+K|1 2K 1L}bK ?/)}r  
+%P/ &8 Z)}  
+K|1 2K }/LZ([ &Gp K ZLc ^|k ]X|  
+ 
+25/ nCp K oL\ ^8[ ?G|a |#]1 %/k 
+&k &G1 (| 2K %)} Lm 2K a?+| 
+ 
+25/ nCp K oL\ [#1- %/L] ?[+1 
+&k %T|1 2K }L} Lm 2K ])a}[- }G| 
+nCp (| K ]XcKac nCp ck ck 1+ ck 1Xc 
+ck ?
+
+----- diversity: 1.0
+----- Generating with seed: "[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &"
+[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &G}  
+2K /)[KZc- C/]1 nC|Kca [#1 
+%>[ ^Gm ck a5}a 
+ZLc L? K {kZK[  
+K|1 2K P[ P[ Lm 2K a+[oK Gc c#}  
+n)2 &8[1 a8| )p a:   oP/  
+ 
+%P/ Ga}r|c L? 5/aK|pd 
+d# Z)[ (| 2K }T|  
+K ?[LZ(c ck 2K ]#? ck %X}r 
+25/ nCp K ]G] %&n? a8 
+&k }G]?%K|cLmr 
+K /)|K[rp K|1 :|[- ck ^8[  
+K|1 }T|1 2K nX% Z[G/1 
+K|1 )c %/L] }/Tca &8 n#c nCp  
+n)2 0[L] 
+?okd K%[#1Kc- ?5/ 
+b+ a51 %P/ a+  
+n5| b+ C| ?[1/+ Ga  
+n5| b+ aG1}[-
+
+----- diversity: 1.2
+----- Generating with seed: "[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &"
+[C/{ }Gc 
+n5| )c 0#ac K ]Ta 
+)c bg} 2K &)p }aX|c 
+nXc] P[`|Kb5] cX]p   
+ 
+)% ok |5^[5ZK| ]k K ?/XZK[  
+a+1 X }L]ZW}  
+2
+ K C| C| %5[ /+ca 2# |k]Yp  
+ ?+(p G| 
+25| K %+[(\ Z[ )p 2K ?/X{  
+ 
+]X ?[#a %C/cK| ck [X}   
+)% )% okp K Z[L^
+r ng1 acL}(\ 2G| 
+1(G]dc 2K a+ 
+%)/[-1 n)2 2K n?+?c %C}a? 
+P/ 22K a8a %+[o- 1#1K[p  
+%/L| p+% }X] P[ |X/  
+b+ n5|c %)[1 K )1c   
+%P/ KZo5[  l 
+25/ nL|a nCp K ]G| 
+&:[ &g1 n8 b+1 |#] C| &8 Z%L| 
+&+p ]X %k[1 %/L
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.0648
+
+----- diversity: 0.2
+----- Generating with seed: "Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[="
+Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[= Z+ Z)[p 
+nCp K Z)}(a ]P/ 
+&+ nCp ZPc(1 &8 |Cc 
+^C/ a]X/ nCp ac/#bK|  
+K|1 |: P[Lp ?[#a nCp K ZP[p 
+K|1 n)2 &)p nCp K a?5c  
+K|1 nX% 2K /(pX/(}a ]#}(\ nCp K Z)}(c 
+25/ nL|a nCp K ?[Xc acL}Kac 
+&k nCp ac/#ZKb (| Z51 K|1 1(mX|p  
+ 
+25/ nL|a nCp K [#1- %/L] Z/ka 
+ 
+&k nC| ac/#? 2K ?/Xa &8 %ok a51  
+K|1 n5| )c nCp P[n] 
+2K }okZr ck 1(mX|p ck 1k  
+%P/ 2K /Xc %P/ K ZC} 
+nL|a acC/Ka nCp K ZLc(\ &8 acC/Kp
+
+----- diversity: 0.5
+----- Generating with seed: "Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[="
+Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[= d)\p 
+25/ nCp K }[# 1 }L] }/L]   
+ 
+25/ nCp K ^8[ |#]1 acC/-  
+&k nCp a}/#?(\ &8 acC/K[ K|1 a#mr 1C|-  
+ 
+25/ nL|a nCp K ?['|k ]#| 
+Tc ck]p 
+&k nCp ac/)?(c(\ Lm &)p }X|bK[  
+&+ nCp }/#|1 
+^Cc &+ [X} K a5] 
+&+ acC?c P/ ]G| {Cc nCp %X|1 1T| (| :mr|ck[   
+ 
+25/ nL|a nCp K [#1- %/L] }nLc }/kZ51  
+&+ a51 n)2 K ^/+a nCp K a?k|+}(p 
+ZLc 2K a)}a |#]1 }L]?c }G|% 
+K|1 |T :[ 2G| %#a Lm &)p ZC} 
+nL| 2K aL}a 
+
+----- diversity: 1.0
+----- Generating with seed: "Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[="
+Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[= d)\p 
+2Gc ok} K ZL}(\ )a}ok  
+nCp ck 0X)a nCp }8mr c#] C/ K ZLc ^/k  
+d/X 2K |5|Kc %P/1 aX X aGc 
+&+ a51 n)2 c/5] :}} Lm [X| 
+ 
+25/ nL|a nCp K Z#bK| |#]1 ?C} 
+&k &G1 |Xcr Z)\^K 
+25| P[ 2# oX 5/- ZG2r   
+ZLc b+ ?)| oC/- [T a>p1r Lm }K0}[)c  
+%ok acP/Kp (| Z[k (| Z/X1 )p &8 ok  
+ 
+a51 &)p nCp ac#? 2K ?[L| + ?5|c &8 K }[5a   
+n5| b+ b+1 &)p ZKZ[X1  
+25/ nL|a nCp K a#}  
+&5/ nCp K oL\ Ga nCK }G| |#]1
+
+----- diversity: 1.2
+----- Generating with seed: "Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[="
+Ga 
+|Cc /T|1K1 K|1 ?)\}  
+Gp ok ?/CZKZ[=   
+/+p}(}n)cK| %T|1 &8 K a?)|c 
+ck n)^/(1 &L\^/(}a=[p 5mr`d/}K|  
+n)2 m){Gac b+ aL5a 
+b+ ^#m1 2K ^:bK| %)[ n)
+|}Ga}r &+ Z:|c 
+1X|c ]:ac )ca 2K ^#[ ?5ac
+mr1 ok ]%Lm (|CpK|1 '[+p ck bG|  
+b+ nCp ac/La0  X+1 G| &)p Z(nX
+ac Lm }/#a [X}     
+)| a#c nCp ZCc %/L} r okK[c ?Ga 
+b+ nCp Z5cr ck ckpp Lm &)p #c /CpK[- /P\^
+ Z51 K ng1|  
+25/ nL|a nCp K ck[# ]5/- a51 aLd 
+&k #? Z#{
+ kac Ga}- n5|c ck )c d)\ a5mK
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 1.0479
+
+----- diversity: 0.2
+----- Generating with seed: " 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp "
+ 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp aL}/(\ 2K acL}K[  
+ 
+25/ nL|a nCp K ]G| %/L] Z/#c 
+&k nCp a51 n)2 K Z[Xc  
+nLca K ]G| )p aP  
+b+ a51 n)2 K ^/:| 
+Gp &)p acL}(c : ^X 
+ 
+25/ nL|a nCp K ]G| %/L] Z/#c 
+&k nCp aLP/ K|1 a: a5}a 
+K|1 2K }P[1 1T|1 %P/ |5mK|1p 
+ 
+25/ nL|a nCp K ]G| %/L] Z/kc 
+nCp K &G1 K a}[#  
+n)2 &)p acL}(b &)p acL}(\ &8  
+ 
+25/ nCp K oL\ [#1- %/L] a[+1   
+&k nCp ac/#?(\ nCp ]X K &Gm a}/P/Ka Z/:} 
+nCp K Z)c nCp K Z[LZ 
+
+
+----- diversity: 0.5
+----- Generating with seed: " 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp "
+ 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp aL}a nCp K ^/#a &G1 ck %P/ ?[#a  
+nCp ck cka nCp /Pca Lm &)p ck 
+25/ nCp K oL\ ^8[ |#]1 {)a 
+&kp C/]K}a nCp K }[X|  
+K|1 25| &+ %P/ K ZC} 
+K|1 2# %T|1 &)p 1L^ acL}(\ K a51  
+n5| akp1 P% K Z5|c 
+ 
+25/ nCp K oL\ ^8[ |#]1 ?/5Kc 
+&k }5mK| K [L\ ^CcK[-  
+25/ nCp K oL\ nC/c %5/ &L\ a51   
+&k ?5|c &+p ck ck 1/)ac &8 ck  
+ 
+25/ nCp K oL\ ^8[ |#]1 ?/+a(a 
+&k nCp a5}ac K cL} )ca Lm Z/:c 
+ 
+25/ nL|a nCp K ]G
+
+----- diversity: 1.0
+----- Generating with seed: " 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp "
+ 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp a51 n)2 K ?)[/51 
+n5| (]5/c(a [5c nCp |Ccr 
+&G1 /([Xc nCp K Z)\}r 1(p a+  
+Gp Z+ nCp n#2 K ]5/- 1(p a+ 
+n)2 /([XcK} K|1 &Gm K Z[)c   
+ 
+25/ nL|a nCp K %5[' nCp ck %P/ K ?+  
+&)p ac/5a1K[  
+b+ n5|c Ga nC/ n)0  
++1 a)}ac- K 1C^ ck ]P/ 
+%/k ac)/1 K &)c nCp ])aK| nCp ck K %C/c  
+ 
+25/ n|- nC% n)d/ |#]- /)} (|  
+%/L] [Bpc(mK[  
+K|1 c5^ (| 2K (\)[- mK^X|K &+   
+X1 K %5[Kca /nXc n)2  
+&+ /([Xc ck K ZC} c
+
+----- diversity: 1.2
+----- Generating with seed: " 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp "
+ 
+25/ nL|a nCp K ]G| %/L] ]5['  
+&k nCp a#](\ &)p c/P/([ 
+ 
+25/ nCp G| #[1 %%/L}r  
+&k &G1 K [)]r(\ ZL}K| &8 Z)ca n)2 ^/Ga  
+ 
+25/ nL|a nCp K oL\ aX  )p |- a: [#1 Lm &)p ZL}Kc ]P[  
+ 
+25/ nL|a nCp K [)]- |#]1 Ga  
+n)& ?Gac K &G\ %/L] &8 1Gaoj^/(\  
+ 
+)% 5]?[Ka n)2 n)0 &)p P/aK1 dKac/#
+K1 K pC/ab1K|oYK? |c#]1 Tc ag} j#|c ^/[
+Z](a a}/k]r ac)/ [+(\ 51 Gc 
+n)2 /+acaP|c Lm 25/ n+ nX |#]1 
+K|1 b+ }g1K|c [1a Z)} cK1K[pP/{(\ a#]1 {)p  
+nCp 25/ 
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0444
+
+----- diversity: 0.2
+----- Generating with seed: "+ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1"
++ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1 &)p nL|p K ]G| 
+)p aL] 2K a?G|c 
+2K }L|c nCp n)2 K }C}  
+ 
+25/ nCp K oL\ [#1- %/L] Z/:a  
+&k nCp aL}/(1 &)p }C} 
+nCp K a}[#1 (| 2K a?/51  
+ 
+25/ nCp K oL\ n)]K| %/L] ?[+p 
+&k nCp a: (| 2K acP/K[  
+&)p ]5[K1 K [#1-  
+&)p ]Ga  K|1 ?)| &)p ZC}-  
+25/ nCp K oL\ n)]K| %/L] ?[+p 
+&k nCp a: (| 2K acP/K[  
+&+ nCp a: (| 2K acGa  
+K|1 |T b+ nCp ^/#  
+nL| nCp }G| Gp K ZG} 
+&+ nCp K ]G| %/L] }/5] 
+ck a+m &C/
+
+----- diversity: 0.5
+----- Generating with seed: "+ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1"
++ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1 Lm &)p nL|p K|1 a?G] 
+2K Z8-p 2Gc &)p }C|c 
+25/ G| nCp K a#mr %/L] Z/5a 
+n5| b+ nCp Z+ Gp K ZL| 
+ 
+25/ nL|a nCp K ]G| %/L] ]G| %/L] mog/(\ &8 1/+}(c 
+nCp K }[+p Lm &)p ZC}-  
+ 
+25/ nCp K oL\ nC[' |#]1 {#  
+&k nCp a: (| 2K acP/Ka &)p acC/}  
+ 
+25/ nL|a nCp K [#1- %/L] ?/X] 
+&kp ZL|ZP/[1 (| 2K a?G|  
+K|1 C| &+ nCp }nXc nCp K ?[+p  
+&+ nCp a[+1 Gp K }/+  
+ 
+25/ nL|a nCp K ]G| %/L] Z5| ZLc 
+ 
+25/ nCp
+
+----- diversity: 1.0
+----- Generating with seed: "+ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1"
++ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1 Lm K +}nK[p /Lm &)p }5}bK| 
+nCp ])0 %/Gac ck a}ka  
+C/ ]X c)[ &Gp |kc Z+ 1(?+[ ck ac/#  
+Gp }K|aca-5/c &)p }5|bKc  
+n)2 /:{(\ 2K 1)} K ]:Z:  
+nL| X n#c ck akp [P/K[  
+ 
+25/ nCp K ng]K| %/L] Z+ c5|  
+}#p 25/ )p /:[ |ck  n)1p ck ak   
+X] %/L] b+?p  a)} n5| P% |:|  
+ 
+nK|1 bgc C| 2K Zmr  
+ 
+25/ nCp K oL\ n)H]K| %5/ Lm ck ]#} )p  
+%/Lc [Lm oP/ &)p nL|C/-  
+X] G|a ck 2K [X} |L]  
+n+ ]Lac   oL\ a}#]  
+
+
+----- diversity: 1.2
+----- Generating with seed: "+ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1"
++ a5[p a+ b5[p ZX 2K a+bQ/  
+ 
+2K ?/5p(1 [Lm %8]p  a+   :  
+ X1 Xrp C| a: 1/G[  
+(| 2# c#] ck nLc %?/r &Gm a}k 
+ac/:?cr &Gp {LacKpK|  }Cp}(c  
+ 
+2K [#1- Gc [Gm %5/ ^C1 
+ZLc 2)a ]X ]C^'   )p ?+ Z5[ 
+2K c+[ ^/T C/] 
+ZLc %P/ K 1L| {Lac Lm &)p 8{ZKcr 
+ 
+25/ nL|a nCp K Z> |#]1 [+1  
+nL% ?+a aLZK[ Z+0  
+Z([1/(p a: aT Tc    
+ZLc nX(r &Gm K aZX K|#c 
+n)2 &)p ^8[  
+%+ b+ /Xc nK|-  n+ 1k  
+X1 }P/a  |Cc %P/ X 1L}nK a5ca n)]K|   
+ 
+25/ nCp G| :[1 ]
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0324
+
+----- diversity: 0.2
+----- Generating with seed: " |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p"
+ |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p }L|ca nCp 2K ?+? nCp  
+nLca 2K }L|c nCp 2K acC/1r  
+ 
+25/ nCp K oL\ ?8K |#]1 mK{/k1  
+&k /Gm1 (| 2K }L[ (| 2K a+ 
+2K /(1L}bK|K[ }Ga  
+K|1 2# }L[1 &G1 }/Gmr1 &8 %5/ 
+ 
+25/ nL|a nCp K ]G| 
+&5 ck }/+}(\ nCp K &Gm &+ nCp Z#bK| 
+ 
+25/ nCp K oL\ [#1- %/L] ?[k(\}p  
+&k /(a}#m &8 %C/] n)2 K a}k 
+ 
+25/ nL|a nCp K ?[+|(\ ]k 1:? 
+&+ /(\+1 2K }L] %P/ 2K %5/  
+ 
+25/ nL|a nCp K ?[+|(\ ]X 1/5mr  
+&k /(?[X1 K a8
+
+----- diversity: 0.5
+----- Generating with seed: " |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p"
+ |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p }/+a(\ 5| 2K %+[  
+ 
+25/ nCp K oL\ [#1- %/L] K %/Cc 
+&k /(?[X1 K }L] G| 5/ Z)cr  
+%/L] 2K %5[' |5^/ &:] 
+K|1 2# ]5c b+ a51   |Cc 
+ 
+25/ nL|a nCp K ]G| %/L] }[k  
+&k ^Cc [P\ &)p }C} 
+nCp K [)c (| 2K }L| %+ /+[  
+K|1 ck K ]C/} nCp |#]1 {C|c |c %/L] ?+|(\  
+ 
+25/ nL|a nCp K ]G| %/L] }/CZr  
+&k nCp ^Cc K a?C/c  
+(| a]5[Ka K ZX K }T|1Kc 5mK|  
+ 
+%/5|1 ck 2K n5|c ck &8 ZC}-  
+ 
+25/ nCp K oL\ ^8[ (| |F|
+
+----- diversity: 1.0
+----- Generating with seed: " |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p"
+ |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p ^: K|1 2K 1C? ^:p 
+ 
+&kp /k1 |P/] Gp }GZK[ Z>p 
+ 
+c)[ C/ (| aL0 |#]1 ^/#c 
+ZLc  )% ]X [X} X pXc  
+b+ [:1 &)p }X? 
+K|1 &)p ZP/ ZPbp ZCKn]P/^r Z+ %P/Zp 
+ 
+[)]Kc (| %P[oKa ck ok [X}   
+ 
+}K?(}(}(] /Pc 2K &GmK| Z+(\ ]p ]L} 
+2K }:? nCp /X1 a: ]+   
+ 
+%P/ 2K aLd n5|c ck [X} 5|a ck /T| 
+ 
+nLca ^Cc }[L]%/- ]X %P/] c)[ ck ^8[  
+X }[)mrc Lm }K{|C} 
+Lc nL| 1kc &)p ]: [X|1K[  
+b+ /k(\ (| |#]1 1#? %/L] }/(}?+
+
+----- diversity: 1.2
+----- Generating with seed: " |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p"
+ |K0 
+&k [X}c +c(\ /CcK| :[1 a?)|K0 
+&)p ]{5ar  
+%)]1 2)a ck 25/ P[ [Lm n/Gad 
+&k }g1 L| &8 Zac#|  
+ 
+a51   [)] C/ %)/a  
+K|1 /T|1m1 &8 %+[ga K|1 }L| %+}a(c : )\}   
+ }G?pK[(\ ]d/+(\ ZX 
+ck c#%c LM }+c 
+|#]1 2K }C} a+ `|a5]1G|- 
+ 
+ck /)\} K ]okc`ZK[1 ZX a?[/p 
+ 
+ |kp 2)a L? cPa| 5^K aG1  P[  
+)ca cT|1 Ga}[p (| ]X|cZ(}aLk] n8[p &C/1K[- /k1r  
+ 
+2K b#?cK[ }Cp1 &:ad &8 &)] 
+ 
+K /X]rK| %P/ }K&(}a}P[ 
+ 
+25/ nL|a nCp K ^8[ |#]1 aG1 {k 
+&k n5|
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0264
+
+----- diversity: 0.2
+----- Generating with seed: "]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L"
+]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L1- K Z[G|  
+ck K cC/K[K[ |#]  
+ZLc nCp 2K acL}-(\ ]G|a 
+&+ a5c ck 2K 1/)? &Gp ck   
+ 
+25/ nL|a nCp K ]G| |#]1 aGc 
+&k nCp ac/G?(c(1 &8 }n5ac 
+ 
+25/ nCp K oL\ ^8[ |#]1 aGc 
+&kp |Cc nCp %P/]p ZLcKp  
+nCp K ]G| %/L] ?[+a  
+n)2 &8 }L]%- &8 1  
+n)2 &)p acP/Kp  &Lr  
+K|1 |T &+ `|]p ]P/ 1T| C| &+ nCp |#]  
+n5| b+ /(c8|1 &8 mK|X|-  
+ 
+25/ nL|a nCp K ]G| |#]1 aGc 
+&k nCp }/#|1 &8 mK{X|K  
+K|1 &+ }g1 |#] |C
+
+----- diversity: 0.5
+----- Generating with seed: "]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L"
+]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L1- Gc &)p acC/}-  
+ 
+25/ nL|a nCp K ]G| |#]1 }[5|a 
+&k &G1 K ]Ga Lm 2K a+[ ]X Z/G\ 
+)p aG1 nCp ]#1 [#1  
+a51 &+1 &)p Z8}(c &8 n)2 &)p }Gc   
+ 
+25/ nCp K oL\ ^8[ |#]1 Z/:| 
+&k &G1 K %[+|- nCp /P\ 
+?/KXc n)2 &)p ac/P/K[  
+K|1 &)p ZPca nCp K /Xc nCp K ?[+}(\ a}[)c 1G|a 
+K|1 b+ nCp /:ac ^5c ^8[ |k    
+ 
+25/ nL|a nCp K ]G| |#]1 ?[+a  
+&k &G1 K Z[Ga K ^Cc K ZCc &Gp ]G|  
+ 
+25/ nL|a nCp K ]G| |#]1 aGacr 
+
+----- diversity: 1.0
+----- Generating with seed: "]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L"
+]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[LZK[- [P/  
+&kp |5mr &+/ [Pca 2K 1X] `|a?X1   
+ 
+25/ nCp K oL\ ogr 5mr%)| b+1 a8p 
+&kp  n)b-(\  
+K|1 ]T|1 n)2 })[ Lm 2K ^/G| G\ 
+ 
+25/ nL| P[ :[ |#]1 1P/ n5|- a8|  
+K|1 &)p 1+^(p 
+2Gc ac5}a n)2 })[(a  
+X |%dkc a50 ck nX% 1(a}Cc 
+K|1 2K n5| &P/1 a]P/ c51a  
+a51 &+ a51   L?c K ['|#  
+a51   \ [Ga %P/ K [Cc Lm }n)2 K a?G|0  
+og}a n)2 K /n)} ?#} 
+G| &+ a51   + 
+K d/+ cgacL^K[ /Gm(| (| 2K %[+|(\ 2Gc ]+|(
+
+----- diversity: 1.2
+----- Generating with seed: "]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L"
+]Kb+|  
+C| 2K a)}ac- |X|d ac/:}  
+2K Z[L1- K Z: }GZ &GZa 
+nX[ P% k| Z/P/K|  
+ 25/ cG^(} G(1p Lm 2K [5c n8 }(})|a C]  
+2Gc n)% K %[)a} n5| 
+2#  2Gc }L?(\ nCp })[-Kp %nCp K ?)|   
+Gp )c P[ nCp K C| K|1 ]X |#]  
+b+ a8moj1 Lm mK{?C/)cr {+a 1(?)|a (| 5] 
+nCp ?/K^(a(a n8 ]K{G|  
+K|1 nX% [^Ga &8 b+ a[+1 Z+0r   
+ 
+Zb5] Tc k] /Xc ]?ok c5]  
+ck ^[k &G1 &Lra 
+P[ 2K nX[ nL| n)a}bC?c  
+n)2 X(a}[Qac (| ^:ca 
+X |: cX](a nCp ac#[ Lm 0Xmr 
+ng1 &+ %T|1 (
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0188
+
+----- diversity: 0.2
+----- Generating with seed: "2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1"
+2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1 &8 %P/ K a}/P 
+&k nCp a}/+p1 K|1 &Gm }K|})bKp 
+b+ a51 n)2 K ^/)| 
+ck ?+? &8 %)/a ?[#a  
+ 
+25/ nL|a nCp K ]G| %/L] }/+a 
+&k nCp a}/#?(\ K &G|a %P/ K ZCc 
+&+ a51 n)2 K ^/#a 
+c)[ &+ [#1 [X} K a}/5m 
+ 
+25/ nL|a nCp K ]G| %/L] }[+ ? 
+&k nCp a}/#?(\ K &G|a 
+b+ %/L] n8 ck &k1 a+  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a 
+&k nCp a: nCp K ?[#| }n&)] 1T| 
+2# ]: X %P/ K a}/+p 
+K|1 2K /(pX/(} (a a8    
+ 
+K ]G| &)p ac
+
+----- diversity: 0.5
+----- Generating with seed: "2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1"
+2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1 )c 1: &+ }L|c  
+ 
+25/ nL|a nCp K ]G| %/L] }[)|1r  
+&k %T|1 2K [#1-  
+n8 ?/5ac ck (}a)a(\ a}/k1  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a 
+&k [X}c &8 acC?c 2K acC/cK[  
+n5| mokp K ]G| nCp K a}P/K  
+&k nCp a}/#?(\ nL| n)2 K ?+|  
+2K /(pLabK[ K|1 ?Gc %X  
+n)2 K ^/+a n5/ 2K aL} (| 2K }#] 
+ 
+25/ nL|a nCp K oL\ [#1- %/L] ?[+a 
+ 
+&k [5ma  oL\ acC/} ]P/ ^8[  
+&k a5[1 ^: K|1 2K %/L] &G1 {CZ{  
+n+ acL}(c Gp }G|c }n
+
+----- diversity: 1.0
+----- Generating with seed: "2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1"
+2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1 C| ab/)| [Lm 
+K|1 ok[ [#ac K ZLc ^|c ak| 
+C/ 50 c/X1 K ?:| ZGbK[ 1|1(a}[P/1p 
+K|1 ok ]: ?[#1(\ Lm }C}a |Cc Kn)| mX|Ka   
+ 
+ck a5}a(bK[ 2K a}P/c [# acK}a P[ 
+|X}m(}c aj)0 }C|1K[p 
+0#[ ZP/|:[- Z/:}  
+ 
+2K a: +[ L? K a)d(\ &)p ]:|c 
+25/ nCp K oL\ %/L] |# K 
+a+ acg}a ^5c b+ an+c  
+2Gc nL|a ok a]C[K 
+ck p+ %5|c %k[ /Pc 
+2K 1#Z(\ nCp a: [X}  
+nX[ #c oP/a Lm a}|)p 
+ZLc &+ %5['K|c [X} Lm bg/1  
+Z6|p5aK}a
+
+----- diversity: 1.2
+----- Generating with seed: "2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1"
+2r #c acG|1(\ (| [X|  
+ 
+K|1 X[ ?)/ K])1%(bK[ ??;}c (a{K|Kp 
+%/L] 5/- o5/ Xr1 [  %P/d n)2 K [)%  ok ]X %)a  ?: 
+ 
+2)]?c51 Lm })baK1(ZK[p 
+K|1 &)p }g1K|c ck  
+n+ `^b(|1(}a]#[ 2K ?C/}Kp ?CpK[-  
+ 
+)ca Z2r /(acg1 L|  
+ 
+25/ nL|a nCp K ]G| |#]1 ?5/- 
+&k anC[ }[8 &8 %:a 
+K|1 |T &+  n5|c: Hk 1ka  
+25| C/]Kp }#] K &GZr- Z+   
+ 
+K ]Fd|)](\ 2K }2)c &C%1 ZLp 1L1  
+K|1 mok Z/LZK[- ck  
+&+ [Pac Lm X %/ok ]k 1)}  
+2K %:a C| &]]Tc[ acC[(\ 
+K|1 2K ^T1
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0071
+
+----- diversity: 0.2
+----- Generating with seed: "   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C"
+   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C1 K ]G| |#]1 aGa 
+&+ cg} P% &)p 1k  
+Xm 2K [)[- Lm K ZC} 
+&k a51 n)2 K ^8[ |#]1 {X|K 
+&k nCp ZP/(a  
+okp |Cc ]L}(c ]X ]G|  
+K|1 2K }L[1 &5/ nL| 
+&k nCp ac/#?c P[ ac/k[ (| K cXr  
+ 
+25/ nL|a nCp K ]G| |#]1 {#a 
+&kp ng] nCp ac/#[ (| 2K |5mr ck a51  
+nCp ck |k nCp K a?X[  
+n5| b+ a51 n)2 K ^/)|  
+K|1 |T b+ okp C| &8 Z(?+c 
+K|1 |T 1# ok a51  
+)c nCp P% ?+ n)2 n)0  X K ?[)|  
+ 
+25/ nL| P[[1r |#]1 {#a 
+
+
+----- diversity: 0.5
+----- Generating with seed: "   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C"
+   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C1 K|1 &G% ^Cc 
+ 
+25/ nL|a nCp K oL\ ^8[ |#]1 aG| 
+&k ng1 |:|1 [X} K %C}a 
+ 
+25/ nL|a nCp K ]G| |#]1 1)| 
+&k }g1 ck &)p %)ac %P/ 2K %5[' |#]1 }[5[`|+ 
+2Gc Lm &)p }L]rp (| a5}a %/L] &)p }n5} 
+ 
+25/ nL|a nCp K ]G| |#]1 1k  
+&k /G|1 1T &+ a51 n)2 K ^/)|  
+nL| 1Lac K Zg[K}K|c n5| %/L] }n):}  
+&k }g1 ?+ nCp K [Xc  
+K|1 2K }L[1 &)] acC/cK1 ck 2K ^/G|  
+K|1 |T Z+ Z25| 
+25/ nL|a nCp K ?[+1(\ &8 %/L] }[)|aL
+
+----- diversity: 1.0
+----- Generating with seed: "   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C"
+   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C1 K ?)|n8] 
+2K 81 [Lm /Xca ?G{K|  
+ZLc &5[ Gca C| 2K ]#1   
+ 
+K ]ok0 nCp nC[1 K c: C| &8 ZL|c 
+25/ nL|a nCp K ]G| |#]1 a#[  
+aGc ]G1 (| K m5/- nX% 
+ZLc &8 m){K| ck bg/(c ]X /5a   
+Xm 2K ?[)^ &Lm1- &)p 5/ 
+25| K ]G} (| K %Ta &8 &CZ1 
+nLc nCp /)[- K ]G| K Z:  
+ 
+25/ nCp K oL\ [|1-[Ka |#]1 a?+c  
+&k }g1 G| aLo5[- 
+&kp nCp oL\ ]G| &)p ?g[ }#] %/L] ?[+1  
+/(}/+]p C} K ]:|c aT :m /Xc Lm Tc nLc &+p &P/ ]
+
+----- diversity: 1.2
+----- Generating with seed: "   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C"
+   
+&k nCp a: (}a+1(\[- |+c   
+n5| b+ ^C1 K|1 &P[a  
+)p ac/51 25| p-)a ?6/p)1  
+K|1 25| ZP[1 1#   
+ 25/ nCp ]P/ %P/ K Z/CaKn&}c-   
+ZX K ng1 &k1 ]L0 %/C/d )c  
+5| 2P/ ZTca n8 acC?a 
+%/L] d){\ )p 2K ])1p 
+K|1 X %5|ca &)p nL| a: X a+  
+ 
+&8 P[| K|1 n8 2K a?:| (|c/])|  
+K|1 [)]rp ]L0 ZK[+[  
+n8 &+p }C%c K|1 Z8} K|1 Gac K P/|+ 
+ 
+25/ nL|a nCp K ]G| |#]1 1/)[ 
+&+ &(d/+ca nCp acP/} })[p 
+K|1 )| Tc &Gm ?+  
+&8 o5a n8 aK]:}nK|  
+ZX ck #}K1 ck |
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0106
+
+----- diversity: 0.2
+----- Generating with seed: " 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+c"
+ 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+ca ac/P/Kca  
+a51   n8 a)|a nCp K ^/:| |#]1 }K|a?5a  
+ 
+25/ nL|a nCp K ^8[ |#]1 ac/)? 
+&k [5mr  )p aX1 nCp K [Xc 
+&k 1/k? ck K %[+p Lm &)p ZC}KZp  
+ 
+25/ nL|a nCp K ]G| %/L] mog/(\  
+&k /G\} &8 ck }G] %P/ K ZC} 
+ 
+25/ nL|a nCp K ]G| %/L] |# 
+&k %5|1 |: X Z(c)| K a}/+] 
+K|1 C| &8 Z(&X|1  
+%P/ 2K a?C|c %/L] |5c |#]  
+ZLc nCp K [X(\ &8 acC/ 
+ 
+25/ nL|a nCp K ^8[ |#]1 1)} 
+&k a51   K a: )p /X] %P/ K a+
+
+----- diversity: 0.5
+----- Generating with seed: " 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+c"
+ 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+ca a?5|c 
+ 
+25/ nL|a nCp K [#1- %/L] ?rk  
+&k [X1 K a}C/ %/L] 2K a}ok  
+&k [Pac )c a51 nCp K &Gm 
+ 
+25/ nL|a nCp K [#1- |#]1 ack 
+&k }g1 ok ]LZK[ |#]1 {#|  
+nCp ck ck a: }G] %P/ K 1L| K   
+ 
+n5| ]Xc aL} 
+1(mX|a nCp K ^/:|  
+25/ nL|a nCp K ^8[ |#]1 ac/)[p  
+&k /51  )p aL] }[#1 2K c+  
+ZLc nCpK| &)p Z+ %P/ K &: 
+ 
+25/ nL|a nCp K }[#  n5| %/L] 5/-   
+&k [)m1 C| &8 Z/Pa  
+a51   n8 a)|a ]X }/Xc %/L] 2K 
+
+----- diversity: 1.0
+----- Generating with seed: " 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+c"
+ 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+ca Z+ }/5]}- ?+c   
+ 
+:  2)a kd &+ }C^ K|1 }T|1 
+&k c)\} K |: K Z%)[Kc  
+)c nCp %/C] Z/H] }nXc nCp K cG|  
+K|1 |T Z+ %X|a %T|1 ]P/ }[k )p Z/#c  
+1:|c n)2 K }/+  
+ 
+n)2 ]a^)p(} P[ /)[- {p |#]1 Lm )ca Z^:  
+ 
+: 1k ^)c C} /:a K ac#[ [5\ 
+2K ?[Lac %T|1 1)} Gp K c#Z5[-  
+ 
+25/ nL|a nCp K [#1- %P/ a)|ac aokc  
+&k %5|c)1 K ]GK %G|cK|1p K|1 bTcK &5/ 
+ )p &kp &+ a51 K 1C} 
+&k }G]?c &: n5|c ck K %[+] K|1 ?[#
+
+----- diversity: 1.2
+----- Generating with seed: " 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+c"
+ 
+}L] {>| ]+ ]X an+c  
+[5c Tr |k}[-Y ]+c  ck 1+ /Xc bC
+1 ^: 
+k]1 acP K [5]oCK}Cc 
+^mCp }L]  %P/ ^g1 ?Ga  
+K ]#ZK[ [5mrK aK|n5/ 
+ 2Gc P[ n)[K[1 &+ \5c [X} K| L2  5[  
+ 
+25/ nL|a nCp K [#m(\ ]X/(\ aL1 
+&k [8} )c Z+ 5/Ga   
+ 
+ZLc X 2K /:[ %/L] 2K ^g1|1 (| &)p K a?: 
+[5mr  a)%cr 5| 0:c   
+ 
+25/ nCp K 5]r(aK| %P/ a|Cc K &# 
+&k %5|ca Cc %/Gap KZ8Ka K|1 }G|0 (| K %/- 
+ 
+25/ nL|a nCp K [#1- %/L] [+1d  
+&k /G\}(}  |G| ?r^)|a c:[- [5c &+ [:  
+)c 
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 0.9983
+
+----- diversity: 0.2
+----- Generating with seed: " K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 ("
+ K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 (|c/X]  
+K|1 2K }P/ n)2 &)p Gac Lm 2K %/C} 
+25/ nL|a nCp K ]G| %/L] a#|c }/Tc 
+&k a51   nX[p 1T| ck ]X| ck ]X   
+ 
+25/ nL|a nCp K ]G| %/L] &)p acP/(1  
+&k nCp K ZC[K[- Z+ c/Xc  
+ 
+25/ nL|a nCp K ]G| %/L] &)p K a?#] 
+&+ nCp K ]G| nCp K %/L| 
+&k nCp }nXc nCp K %/L| 
+&k nCp }nXc nCp K ?[+p n)2 K [5/ 
+K|1 2K }P/ &)p Gac Lm 2K }P[ %P/ K a?/)}b 
+ 
+25/ nL|a nCp K ]G| %/L] &5/ 
+ 
+25/ nL|a nCp K ]G| %/L] a#
+
+----- diversity: 0.5
+----- Generating with seed: " K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 ("
+ K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 (|cC/1 &+ nCp K [X}  
+&k nCp }nXc nL|a ^/#c 
+ck m)aK[ K [#1  
+&k nCp K &G|cK1 K [#1-  
+&k nCp P% (| K a}/+p Tc K|1 aG| 
+K|1 a)%a #a [5^a   
+ 
+25/ nL|a nCp K ng]K| |#]1 %/+a(| 
+&kp K %5[K &+ }g1 |L] }/LZr- '[5}a 
+ 
+25/ nL|a nCp K ]G| |#]1 %/L] &5/ 
+ 
+25/ nL|a nCp K ]G| |#]1 {#a  
+&k nCp ac/#? (| 2K %/C?cK| ck 0)c  
+%P/ )c acP/K[ }/LZr- Z+ n+   
+ 
+25/ nL|a nCp K ]G| %/L] |c&)2  
+&k ?P/ P[ &+ nCp K ZC
+
+----- diversity: 1.0
+----- Generating with seed: " K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 ("
+ K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 (|  
+an+p 2K 1 2K ck ck Z([1  
+}K|a51 Tc K|1 &+ %#[ 
+%/L] 5mrZ^/&)a ck %T|1 Lm Tc }nXc />\ &T  
+ 
+}Kca5m8c- ^Xc ck ZX 2K [#} [+c  
+(| [k1 K aL](\ aT ]G%  
+2Gc K cXc nCp 25c ck K ]Xc an+ |#]  
+ 
+25/ nL|a nCp K ^8[ k]]G| c/L] d/)c 
+&k nCp Gp Gc }#] %P/ K [5/1 Lm Z)c-  
+:m K %)[1K| (| 2K a+[   
+ 
+25/ nL|a nCp K [#1- %/L] |{k  
+&k aG]?[+ nCp ck K 1Xr  
+2+ b+ [X} ck K [#]
+K[ }/Q ck a51  
+X[ a#m nCp %P/ 
+
+----- diversity: 1.2
+----- Generating with seed: " K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 ("
+ K ^8[ %/L] KpP/p  
+&kp ?ga- nCp }Lmr1 (|c/X] nL|p K|1 K 
+&)p }n5a   [)?r  )p GZKc ZX   
+ 
+K b)c Lm 2ra+1 n+ 2K 1(mX|Kc [X} c 
+25| K a?5^ nCK c# 1T| ck 2K ck :[1 Kd/T 
+25| b+ a51  &+ nCp ^#m %L}cK|c &8 Z#ar 
+ 
+%Pc b+ a51  oP/  
+/T]K1p /+n}(\ akd  
+Lm })[1 }Gm- %P/ K kc?? ]P/ d)c   
+ ]X a+1 5|1 X a5}a |Xc 
+ 
+25/ nL]p G| #|c ]K|X|p 
+
+ 
+25/ nL|a nCp K ]G| %/L] &5/ %+[Ka 
+&kp |:Z:[1 &Ta &: C| &)p ?g[-  
+(| }B|ac}g}K|c bCc/:p 
+K|1 K|1 25/ (|
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 1.0036
+
+----- diversity: 0.2
+----- Generating with seed: "]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L"
+]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L}c &Ga 
+ 
+n5| b+ a51 2Gc &)p }L] Gp K a?/})|Kp 
+1 ok ?[La n)0 K|}Cc Lm &)p }G|bK[  
+ 
+25/ nCp K oL\ [#1- %/L] 5/ 
+&+ nCp a: (| 2K }P[ %P/ K ZC}   
+ 
+25/ nCp K oL\ n)]- })[1 
+&k a51 ck &)p ZPac nCp }G|c K|1 a?#]    
+ 
+25/ nCp K oL\ ^8[ (| 2K }/L]r  
+&k nCp acL}c(1 &8 %Gac 
+25| &+ anC['1 K|1 aL0 a#  
+b+ a51 ck &)p Z/:K1 
+K|1 |T &+ P% K|1 1(}/)?c 
+acC/ K|1 a#mr1 a)|a nCp K [Xc (| K %5/    
+ 
+25/ nCp 
+
+----- diversity: 0.5
+----- Generating with seed: "]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L"
+]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [Lmr  
+&k a51 ck &)p |: Gp }L| 
+ 
+25/ nCp K oL\ ]G| &)p }G|c K ]G| 
+nL| K &G|c nCp 2K a?+|(\  
+?5| &+ }g1 |Cc &8 1k  
+ 
+25/ nCp K oL\ n)a}K[  
+&k aL]&)^ %)ac (| 2K acL0   
+ 
+25/ nL|a nCp K ^8[ |#]1 {#a 
+&k nCp a: (| 2K }P[p  
+)p aX1 Lm 2K }/kZk  
+ 
+25/ nCp G| :[1 a)|a 
+%/L] oP/] Gp &)p 1/K1+m &8   
+ 
+25/ nCp K oL\ [#1- %/L] }/k   
+&k [P\ K d/+ &Gm b+ a51   
+ 
+25/ nCp K ^8[ %/L] ?/ka   
+ 
+25/ nCp K o
+
+----- diversity: 1.0
+----- Generating with seed: "]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L"
+]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L^K  
+&k nCp ac/G?({(\ &8 |#]1 1G\](] 
+&)p ZP[p n8 K ?8[K}K|  
+)% nCp a: Z(}L}(c  ^/#c    
+ 
+2Gc G(}a P[ :| )p {C[o {#cKa |Kp)[X}(a  
+ 
+C/ 2K aL] %k[ 
+&+ nCp KK[X1(1 
+&k nCp ac/G?(\a Lm 2K %)[  
+K|1 }K|Gac n)2 K   ok a:   )c ]#[  
+ 
+]X )acr `|%X]p Lm ZC]{K| }#] C| }#r 
+ b+ acC[Ka ^/L] 
+ogc /k[- ?[K c)| d)} + }/G\p  
+ 
+25/ nL|a nCp K ng]K| |#]1 1/5|p  
+&k ng1 2K [)}r &)p }L] %#]1  
+Gp K 1/)ar &8 ZC}
+
+----- diversity: 1.2
+----- Generating with seed: "]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L"
+]X G[-   
+ 
+25/ nL|a nCp K ?X/Kc |#]1 [L|a 
+&k ng1 )ca &Gp ]L^] }/La nL| %/nk1 ]+  
+ Z:d1  ]X /Xa d)\}  
+ 
+25/ nCp K oL\ ?8d |#]1 1P/  n#ac  
+Z(}dn+(\ |#] C/1 K &Gac 
+2Gc [)% 5[Ka |Cc a]P/  
+X }Gc a5|aK[ nCpK| %/L] 2K a+|(\ {Lac rc)} (| G|%or ac)0  
+%P/ 2K &)\} &)p }/Pp  
+1:|c 2Gc [)}- C| oP/ a51 n)[K} 
+Xm 2K ac[Ga Lm &5/ nCp 2K Gc 2)a ?:} K aL^ oP/ a+0   
+ 
+ 
+&G% K d/+ n)[ Gp oL\ a)]8c (| K %P/  
+1Kp+?K[p /PKc K nCp |cL2   
+ 
+ck m)} {L
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.9857
+
+----- diversity: 0.2
+----- Generating with seed: "| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm "
+| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm 2K }P[ %P/ &8 1a  
+ 
+25/ nL|a nCp K ]G| %/L] }/)|  
+&k nCp ac/K}acC/1 1(ac/P/  
+K|1 25/ &+ %T|1 2K ^/+|  
+&+ cg1 2K 1#] %P/ K aG| Gp }G| 
+K|1 |T 1# X acC/1 ck %P/ K a}ok   
+&+ a51  nLc ^8[ a: 1)1 
+ 
+25/ nL|a nCp K ]G| %/L] }/)|  
+&k nCp ac/5?c C| &8 Z(}Lc(] 
+nCp ac/5? &8 ZC} 
+ck ]L0 |Cc &)p nL| 
+25/ nL|a nCp K ]G| |#]1 aG1 Gc &Ga 
+K|1 |T 1# X acC/1  
+K|1 |T 1T &+p }L] 
+ck m5/- [5c [Lm |: ]T ]+  
+n
+
+----- diversity: 0.5
+----- Generating with seed: "| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm "
+| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm K c+   
+nCp 2K nL|p Lm K ]5|c ^/#c [C/1  
+nCp K ok ]G| %P/ c)|a  
+ 
+nLc aL]Gp &g/ nCp K ?[+p X a#|  
+K|1 |T 1T &+p 2K a}n5] 
+nLc &+ }L|c 1T ]+ d/+ 
+nCp ac/5}a n)2 &)p }L] ck ]X 1/X    
+ 
+25/ nL|a nCp K ng]K| |#]1 a}okZ[ 
+&k a51  nLc }n)} G| Lm &)p ac/5a  
+ 
+25/ nL|a nCp K ]G| %/L] a[)|- 
+&k aL1 Lm }/)|cL} Tc K 1L} 
+&k nCp 2K acL}r 2K 1C] &L\ a}k 
+[Lmp d/+ [X}a 25| ak    
+ 
+25/ nL|a nCp K ]G| %/L] 
+
+----- diversity: 1.0
+----- Generating with seed: "| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm "
+| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm 2K nL| ZLd nkd 2: Z[X1  
+&G1 G| :[1 ck 2K [k|  
+%P/ &8 Z: ?#  &G1 )c %+[-c  
+ 
+25/ nL|a nCp K ]G| |#]1 ack1  
+&k [X1 a: cL\ C| &Lr c(a}L]r  
+%/L] aL] }[
+2G| &8 P% 
+K|1 n'[1 ^Cc &C/c 
+n)2 K %5[' &+ &G1 acC/- Zk1 
+ 
+n)2 K oL\ ng1K[ |#]1 %/k 1La  
+2Gc &)p 2Gc &+ [X1 1T| aX1 b+ acg1 1T| ck ]G|  
+ 
+ K ZLc a: }[] %ok(\ Z)c(1 &8   
+ZLc &G1 acG]CK|  [Gar  ]+ /)[K| Gp 
+K|1 b+ /)c(1 K |Cc (| 2K a?#  
+ 
+25/ 
+
+----- diversity: 1.2
+----- Generating with seed: "| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm "
+| K }#m  
+&+ a51  X K1])c  
+X] K Z)c Lm 2K }k[ [4}n5/Kc(]5|c |#m1 P/ c)?c   
+  :  aXp d/+ %P/ a)|a /L} }C](dK[ K|1 ]#[- 
+Gp %8{(\&]X|a Gp 2K }k| 
+K|1 Tc 2K ]G| ck n5c &+ nCp Z(cL}(] 
+2Gc Lm &)p G|c-nCp ^/: +mK  
+nCp aL](\ n5% &+ n5|c 
+-
+Zk] Z/kd nCp m:}Ga(] Lm &}Kc-?#|  
+ 
+K ?:[KbK| nCp )c Lm }[G|  
+K|1 )c bg/K1 ZX  anCp }nXc ck {P[p 
+b+ a51 ^Cc ck [P\ &)p 1)1K[  
+K|1 ]og/ b+ cg1 Gp X &G1 aGbK[ ]+ a]P/ n)2 oP/ 1)}  
+ 2# ]LZK[ ]P/1 )ca P
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+30346/30346 [==============================] - 11s 358us/step - loss: 0.9712
+
+----- diversity: 0.2
+----- Generating with seed: "a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc"
+a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc K %5['  
+&k nCp aL} (| 2K a+m 
+K|1 |T b+ )ca nCp K [Xc  
+n5| b+ [Xc nCp K ZP[p 
+c: )c Lm &)p ]:|c 
+ 
+25/ nL|a nCp K ]G| |#]1 1X  
+&k nCp ZPca nL| n5| g[)|  
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+&k a51  n)c Lm 2K /k1   
+ 
+25/ nL|a nCp K ]G| |#]1 ]G|- 
+&k [X}c b+ %[G\  
+K|1 2K /(pX/(\ (} a?:Z 
+K|1 |T b+ `|c5aK[  
+ 
+25/ nL|a nCp K ]G| |#]1 {#|  
+&k nCp ZPca nLc 2K /G\}  
+X |L] a5c &)p ZC}  
+K|1 |T b+ nCp 
+
+----- diversity: 0.5
+----- Generating with seed: "a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc"
+a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc K %&+p Gc a}Gc  
+K|1 nL| nL| P[ n)2 K &P/  
+  )ca Z(}n5/ 
+25/ nL|a nCp K ]G| %/L] }/g}bK| 
+&k [)m1 &8 }L] %P/ K /C}  
+K|1 a)} ck /Xc nCp K a}[#  
+ 
+25/ nL|a nCp K ]G| %/L] |F\}[)|- 
+&k [5m1 K ZCcK[1 &)p Z/:K1 |Cc ]G|  
+ 
+K }L|c 1/K[ n5/-  X n5/ P[ nL| ]+   
+ 
+25/ nCp G| :[1 a: ]G| 
+&k ac)} P[ &8 |k 
+ZLc |Cc %P/ K ZCc n5|c 
+&+ akp1 K %#[  
+(| 2K a)[1 nCp 2K acC/c 
+&51 acC/c %P/ K ZC}  
+K|1 Z)c Lm 
+
+----- diversity: 1.0
+----- Generating with seed: "a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc"
+a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc }T|1 1|a?#|  
+2# &)p Z)[K[- [kp /5/-  
+n5| b)c 1T| ck ]#} )| G|a ])1 {Lac Lm Z([# 
+ 
+n)2 m8{K|p Lm 2K ?C|KZr Z+[(\   
+ 
+]L| }#ZK| nC/ |:p 
+&k Z5m Tc Lm &8 #c 
+ 
+25/ nL|a nCp K [#1- %/L] K d/)c   
+ 
+25/ nCp G| : [: ]kc ck {#a  
+&k [X}c %[5/ 
+ng1 %+{(\ }#a Z#} 
+%/L] #c K [X|K    
+ :[- n)\} Lm &)p nX% 
+n5| b+ /L}(c ]X 1)bK| Gp ZLc ^Gc  
+n+ %T|1 Z+ ZP[ 
+ 
+25/ nCp K oL\ Ga nCp K [X|K 
+&L/ a)] ck # n5|
+
+----- diversity: 1.2
+----- Generating with seed: "a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tc"
+a 2K }G| 
+2K [X| nCp ck [P\ ]G| 
+n5|c Tca ZT}(bn5] Xm |Cc Z[Lc n5/ n+ Z]0r   
+Xm nX| )c nCp K ^/G|1 
+K|1 n5| &+ %P/ K 1:| ck ]X Z/+} 
+cnnK| [# %L}ca ZTa Z# Z/Cc 
+ 
+25/ nL|a nCp K ZC[ K [X|K| |#]1 &C|PK 
+&)] a5}ac }L] P% K [)% n)2 P[  
+ZLc 2K acP/ Z(}+aZ$c c- 1k   
+ 
+25/ nCp K oL\ ^8[ Gc ]G| (| }/T|1  
+&kp Z)bKL? n5[ n)2 )c n5/ n+[p #c 
+ 
+&kp }G] &)p ZTcKa nCp }nXc K [Lm 
+ ]#[ nL| cL\ 
+P/ 2Ga ck [5\ |T 1C1Kc   
+25/ nL|a nCp K ]G| |#]1 ^8
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 0.9742
+
+----- diversity: 0.2
+----- Generating with seed: "a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c "
+a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c Z/Pc K ZC}  
+&+ nCp aL](\ n)| &+ a51    
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&kp ?/X{(\ n8[p Z+ ck Z5|c 
+25/ n8 a: 1(mX|c %/L] Z/5ac  
+&k nCp ZP/} nCp ?/5ac &8 acC/c  
+&+ nCp /:? nCp ?[#a nCp  n+ n+1 1 Gc K a}/P  
+&kp |Cc nCp ^/# ]Ga %/L] |: }[#] 
+2K /(pL[)ac(1 &8 K &G\}(}  
+ 
+25/ nCp K oL\ ^8[ (| 2K }/+] 
+&k nCp K Z8}K[- ?GbK| 
+nL|a acL|c ^/Ga (| 2K a+[   
+ 
+25/ nCp K oL\ ^8[ (| 2K }[+p 
+&k %T|1 2K 
+
+----- diversity: 0.5
+----- Generating with seed: "a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c "
+a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c ZP[ ck 2K /k]  
+nCp 2K a#] nCp K ZLc }CaKc (| K %+[(\  
+ 
+25/ nCp K oL\ [#1- (| %/L|cK1L  
+&k /GZKK1 KZTc &8 &G\ }k 
+ 
+25/ nCp G| :[1 &)p |#] C| &)p ZXp 
+K|1 |T 1C^^K[  
+&k nCp ?[#a nCp K ^8[ |#]1 1X  
+&k &G1 ck 5acKa %P/ &8 ?+|a   
+ 
+25/ nL|a nCp K ]G| |#]1 aG1  
+&k /Xc nCp K [5^1(1 ck a5}a n5|c [X}  
+25/ nCp K oL\ n)[ )a |#]1 ^/G| 
+K|1 &+ [#1 }G|1 Gp &8 %:} Lm Z(ac/+p  
+ 
+25/ nCp K oL\ ^8[ ?#c &
+
+----- diversity: 1.0
+----- Generating with seed: "a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c "
+a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c 1/)[  
+ 
+K ]G| &T ck 2K /(18[Ka+ c+c   
+(| ^X c#| (}a?[5}a  
+ 
+n)2 &P/| (| 2K /+1(\ Gp K &&)p }n5}a 
+ 
+25/ nCp G| :[1 &# &k1 /Xc 1#   
+K|1paK[)ac ZX 2K ]cL}- 
+2)c K ^/)c ng1 ^8[ 
+&k a5}ac Lm &)p ?/5acr1 &)] Z8}c K a}n5} 
+&k %g[ 8%K^/La bg[ b+ %5/ K 1Xr }K[)?c 
+ 
+25/ nCp K oL\ ^8[ %/L] ]G| 
+&k cPc K ^8[ }C%c ck   
+&+ cL^1 2K /(1k] 
+K|1 |T ogbK| n52 |X| (| a+1 
+ZLc &)p acC/} KZ:?>1 (| K ZC}- Z/)p 
+G
+
+----- diversity: 1.2
+----- Generating with seed: "a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c "
+a51  
+|5mr ^:p ck ]X &51   
+K|1 X |: )c  )p }[Gm?  
+ 
+25/ nL|a ]Gp K }[Ga Lm [+1(\ ]p a}#] 
+C/ 2# 2K a: G| Lm K &G1 
+b+ aC?{p1 ck &)p }C} 
+K|1 :mr og/1 Z# 
+C] Ga}c n8ca nCp b+1 1k K Zn)[p 
+2K %L}c ^okc K|1 |#] ^8[ 
+&kp ZX K cC}' K [)} (|c/5}bK|  
+ZLc ^#m K /C}Kc [P\ ck 1/5a   
+ 
+25/ nL|a nCp G| :[1p |#]1 a#| 
+Gp &+ acC[' n)[p  
+%5^p ?#|p ck [T|1 d)} : }5mr  
+ 
+25/ nCp K oL\ 1(}]P/K| |#]1 ?[+| 
+5&45m o+ Z)ca (| 
+a: :[1 ck K?^8[  
+ 
+(] 2#
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.9668
+
+----- diversity: 0.2
+----- Generating with seed: "P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p "
+P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p  
+ 
+25/ nL|a nCp K ]G| |#]1 1#m  
+&k nCp a: (| K ZLc &+ nCp Z)cr  
+C| 2# %P/ &8 %+c  
+nCp 2K a#| nCp K &G| (| 2K a+[   
+ 
+25/ nL|a nCp K ]G| |#]1 ?+/ 
+&k nCp aL](\ &8 }n)] %P/ 
+25/p 2)a a: )c nCp }nXc K /Gm(\ a#m 
+(| K ]: Tc Lm K Z[G\}(} 
+2K /(pL[1(\ 2Gc /Xc )ca ]P/  
+nX[ 25/ nCp K ZCc &P/  
+C| 2K /(pkZKbK[ ZCc +  
+n5| b+ nCp Z#ZK[ 
+nCp K a}/+p (| 2K }ok  
+(| 2K /(pk]]K1 Lm &)p ZC}(c  
+K|1 ok ]L}c
+
+----- diversity: 0.5
+----- Generating with seed: "P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p "
+P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p  
+ 
+25/ nL|a nCp K ]G| |#]1 })|c 
+&k aLP[- nL| ck a5}a 
+%/L] 2K a?C|c %/L] 2K a?/51(| 
+nL| 1# oP/ &5[ nCp K aL| n5| +[ 
+ 
+25/ nL|a nCp K ]G| |#]1 ?)| 
+&k aL]&Tc C| &)p ZXp 
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a 
+ 
+25/ nL|a nCp K ]G| |#]1 })[  
+&k ^Cc 2K /(pXr }[G^ 
+2G| K ]G| &)p ZX b)c n5/ |Cc  
+nL| )c G| +/Kac ]G|  
+ 
+25/ nL|a nCp K ]G| |#]1 ?)| 
+&k a51 c)[ K Z#cK| %P/ n5[ )c  
+a: b+ a51   X }G| 
+ 
+25/ 
+
+----- diversity: 1.0
+----- Generating with seed: "P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p "
+P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p  
+X} a: (| K ]:^K1 &Gp 
+ 
+25/ nL|a nCp K [#1- %/L] /k1  
+&k 5acok Tc 5bK| 
+&k a51 ck &)p acC/d [: /T|1  
+25/ nL|a nCp K ]G| |#]1 {ka  
+&51 |Cc (| [K/:}K[: `?K|G\}  
+(| }[#1 C| &)p Z)bK?K[p 
+K|1 %)ac &)p ]Tcr 5[a 
+)p a: bg1 K %)a(| L? (| 2Kp oP/(}  
+k |Cc (| 2K &Gp }/P 5|ar   
+K|1 %T|1 &8 [g} Lm }a5m |Gc ?G| 
+G| 25| &+ nCp Z)bK? &8 /Xa  
+nCp 2K %ok[(\ n]P% |Cc/(\TK}  
+ 
+K /(]L}bK[ 25/  n)| {L|c |:|
+
+----- diversity: 1.2
+----- Generating with seed: "P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p "
+P/]6|c(1 
+ZX (]Z5/Ka(\ aT|1p (| &8 {+|p  
+ 
+25/ nL|a nCp K ]#1 [#1 Lm |c&)?  
+&k c/LZ(}c [#}r n)2 /+ap 
+K|1 n)| ^g1 )c Lm #c 2K 18ZK|- 
+nL|a 0#|1 n5|   
+n)2 2K )c nCp 2K |k0Q(1 
+2mKb%P[ (?#1c :g1 /Cc 
+&+ a^)| 2)p ?-?d/k )\ nCp  
+n)2 &)p ZPca Z(c nCp}n)bK|  
+ok1 &8 Z+}' C| &)p Zk?[ 
+ 
+a51 &+ %P/ nC1 %)a(\ 
+25/ nCp G| nCp a^)p- %/L] : }C0c  
+&k ^5m1 Lm d)}c K %:[p  
+nX c+[Pc (| K|#  
+2Gc a: oP/ b+ nCp 25] c#[  
+nL| n)2 K ]G| &)p Z>p 
+K|1 
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 0.9513
+
+----- diversity: 0.2
+----- Generating with seed: "c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?"
+c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?/XaK|  
+K|1 2K /(pX/Ka %/L] K Z0 5}a 
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+K ]G| nCp aL]ZK[- Z+ 
+%/L] n8 a51 n)2 K aL| L| &+ %C/1  
+ 
+25/ nL|a nCp K [#1- |#]1 ]C|- &k? 
+&k a51 n)2 K ^/#a 2K a?+|  
+nCp 2K a#] Lm 2K a#] Lm }n&)] ck %8-  
+ 
+25/ nL|a nCp K [#1- |#]1 ]C|- &k? 
+&k nC| m51 Lm 2K a?C|K]  
+&+ nCp aL]ZK[- [P\ )| 
+K|1 2K }P/ n5/ 2K ]G|  
+&k nCp ac/G\}(} &8 |ckc [Lm G|a K ]X %/5|  
+ 
+25/ nL|a nCp K
+
+----- diversity: 0.5
+----- Generating with seed: "c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?"
+c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?/XaK|  
+K|1 b+ [51 n)2 K ^C/1K| 
+&k aL0 2K }K|cL}- aL0   
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+K cg}ck &)p ]8| a5c &)p ]#1 ]G|  
+Lm &)p Z(?+} K|1 ?Gc %P/ K [Cc   
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+K ]G| %/L] }G| 
+&k nCp acP/K}a n8 ]L2r n5| &+1 }C]%P|c 
+ 
+25/ nL|a nCp K %5[' |#]1 ]#mK  
+&k nCp ac/G\}  ^gcaLP/] }#] Lm 2K /+1   
+ 
+n5| 2# K ]G% |#]1 }K|X% 
+&k ^Cc nL| nCp /Xc C| &8 ZL|p  
+ 
+25/ nL|a nCp K [#1- 
+
+----- diversity: 1.0
+----- Generating with seed: "c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?"
+c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?Xc d/P (| 2K /Xp   
+ 
+25/ nL|a nCp K aX|- ]#? K ]L}(\   
+&k nCp 2K ac/G?araK|1[- cX] +/ |: 
+b+ a51  n+ +  5^ar   
+ 
+25/ nL|a nCp K &P/ 
+%/L] n)b(\  &LZ a51   
+}Gca |Cc ]X ?0   oL\ ]#}  
+b+ %^/(\ nCp }L] &Gm ck K nL| {k  
+ ok &Gm [P\ aL%r Lm a)|  
+2Gc G\} :[1 nCp }g1 |5mK|  
+X[ |Cc |Cc (| r ?5ac 
+ 
+25/ nL|a nCp K cGd |#]1 ]G| 
+K ?G| &GL?[- a# 1T| ck /X]  
+ 
+25/ nL|a nCp K ]G| %/L] Z/ka |Cc   
+&k /(
+
+----- diversity: 1.2
+----- Generating with seed: "c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?"
+c K|1 ?[XKZK[ Z/#|  
+n5| b+ n5|c ck 2K ?/X]- %P/ b+ 1T| ck ]X %)| Lm ^/+| {)|    
+ 
+(| m#/1(\&Lp \ [8 b)K ZX a8| Z5[- 
+ 
+2)p okp 2+ }g1 Tc &)] b+[ %^/#c L?   
+ 
+K /)[K[p C/ 81d }P/| 25/ |#]1 X 
+ 
+nX|=cg1 &)] %[G\ (| K dack K [Cc  
+ : Xp }L%cr  
+ 
+25/ nL|a nCp K ]G| |#]1 ?)|a 
+&k &G1 }K|m5|1K|1 ck %/k {5}  
+K|1 [LmKc Lm 2K [k|  
+%P/ &8 nL| &+p Ga r  
+2)a b+ aG1 n)2 Z/k1 Z)| nC|cK| %+[=c &5/ |Cc ]G|  
+c/X11 ck C/} ng1 %k)] ^: Z:^ 
+oP/ 1(?
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+30346/30346 [==============================] - 11s 375us/step - loss: 0.9526
+
+----- diversity: 0.2
+----- Generating with seed: "
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n"
+
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n)2 ]+[p    
+ 
+25/ nL|a nCp K ]G| %/L] }/g} 
+&k ^5[1 a: K ZL}(\ 2K a?+|(\ [X} K ZC}   
+ 
+25/ nL|a nCp K ]G| %/L] }/g} 
+&k ^5[1 a: K ZL}(\  
+n5| b+ }/X1 K ^/:  
+G| K ]: ck 2K }L|c 
+&k nCp ac/G?(1 &8 }nXc 2K acL|1  
+K|1 2K }L|c- &k nCp }#m #| 
+b+1 ^: ck 2K ?:|  
+og/ K [)c- nCp }nXc K ]:  
+ 
+25/ nCp K oL\ ?8c |#]1 {#| 
+&k [X}c &Gm |: 1T|  
+ 
+25/ nCp K oL\ ?[+| Lm }a]5/ 
+&k ^5[1 &G1 ck a: 1(mX|K  
+ 
+25
+
+----- diversity: 0.5
+----- Generating with seed: "
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n"
+
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n)2 ]#[-  
+a51 2K aL} n5| &+ ?[X1 1T| ck ]X|1 `|%)|1 
+25| &+ %T|1 2K a}n)}c K ZL}(c   
+n)2 K a}/+p Gp 2K }L| 
+2K :|c/51 Lm 2K }ok|  
+25| b+ }g1 |Cc 2K %L}  
+a: &+ ^8[1 K|1 2K }L|c 
+nL|a b+ nCp ^/# |#]1 Z5/  
+K|1 ok ^5ca  
+K|1 b+ ZGZKZK[p 1#|c 
+ 
+25/ nCp K oL\ ?8c %/L] K Z#  
+&k nCp ZP/(1 25|a /Xc  
+ 
+25/ nCp K oL\ ?/)| |#]1 C| &k1   
+25/ nL|a nCp K ?[+|=|1 ]G| 
+&k anC['1 &L|1[- nCp }nXc K 1L|a  
+ 
+
+
+----- diversity: 1.0
+----- Generating with seed: "
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n"
+
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n5|c 
+)% ok |: :[1 &C/1 ]P/ 1L^  
+b+ [8|1 C| &)p Z%)}a ?$c(}a bGca 
+K|1 [X|1 G| (P  ?X 1k 
+ 
+ck aX1 K %L| Z([+| T|an+p  
+ZLc nCp a]P/ cG}aK[p  1(a+[   
+ZX 2K ^8[ |: %g[)c (| ^: 
+&+ }8|1 1(a}/2r  
+ : [#1 ck p+? ]X /:a 
+(| }P/1K1 &])p |#1 [PaKca ?r?[)[-  }n5/|P/Ka 
+ 
+c)[ ok^r &5m ZLca ^/T ZL0 Z+   
+ 
+Z)ca 25| (}a?5/ Lm a: Z/X1  
+&+ 1(1k?c 2K ?[+p  
+n5| ?g}c$1 |Cc n)2 K ^C|c 
+ 
+25/ nCp K oL\ ?8c |#]1 
+
+----- diversity: 1.2
+----- Generating with seed: "
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 n"
+
+o5c |X| 2T C| 2K ^#{ 
+[5%c &)] ]G1K|1 nCp ^Gac 
+K|1 X ' 25| Lm }[X|  
+ 
+2K ?+| (C n)[- nCp ])a- K|1 5|bK|- d)c    
+ 
+?/kr |#] 1T| ?[L] d2r|1 )p Z:d P[ 
+1(ac/(\ ]L\ C/
+1 C/
+K] |:[ ]X aX1  
+n5| K %G|(\ &8 }nWc(c  
+ 
+25/ nCp K oL\ ng](\ ]#}K?[)| 
+ac/:1 ck }Cc %>[ 
+2K [P\[- &L\ ack[-p  
+Xm nL| {CZ}K[1 ?[#ap  
+ +1(1   b)c ?+| (| 2K &P/ 1(a+[   
+ 
+25/ n8 /)[ %G[(\ ac/L1 Z)c 
+G| }[Lm %C/d} 
+0P/ Z:d P[ &kp  |:p 
+ 
+25/ nL|a nCp K ]G| %/L] 1GK )
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+30346/30346 [==============================] - 11s 361us/step - loss: 0.9482
+
+----- diversity: 0.2
+----- Generating with seed: "K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] "
+K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] ck a51  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&k a51   nX[Ka ZX a51  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&k nCp ZP/ nCp 2K aL}a Lm &)p ac/k K[ 
+K|1 |T &+ `|%5ack K [X}  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&k nCp ZP/(1 &8 ZCc 
+%P/ a: }[#a Lm 2K }okZ 
+&k a51   nL| aX1K1 ck ?[#a 
+ 
+nL|a [X} (| 2K }L[ 
+&k nCp ZP/ &)p Z+}c Tc Lm &+ 
+a51   nX[ /Xc )c nCp |#]  
+&+ nCp ^/#c 2K a+ `|%)]1 P[ &8 ZCc-  
+ 
+25/ nL|a nC
+
+----- diversity: 0.5
+----- Generating with seed: "K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] "
+K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] &)p ]L2r &)p }C/aKc Gp }G|c 
+K|1 ?+c (| K &P\  
+b+ }g1 |Cc Gc }[Ga  
+ 
+n5| b+ acL}a (| 2K aX1  
+nL| nCp P[n}K| 
+&k cXca 25| 2# K ZL}(c ?Gd 
+L| &)p ^/Ga 
+ck [X} K a?k|(\ ]X aXp  
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&k a51   nL|a nCp ]Xr ZX  
+ 
+25/ nL|a nCp K ]G| %/L] Z/5a  
+&k a51   X nL| +}nK[p  
+Xp 51 )c nCp ?+|(\ nCp ?5/-  
+ 
+25/ nL|a nCp K ]G| |#]1 1K}  
+&k a51   X nL| +}nK[p  
+b+ a51 n)2 K ^/)|  
+ 
+
+----- diversity: 1.0
+----- Generating with seed: "K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] "
+K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25]  
+25/ nL|a nCp K ?C/Ka |#]1 1K? 
+&k  n5| +mr1 K %5/-  a)}a a5}a  
+ 
+K ?X[ b+ 5[1(1 &8 C| K a+|   
+ ^G1a |L] X [8 |: ^amr| 
+a: b+ )c d)\ K %X+ (| Z/+^(a  
+ 
+/Xac[- nCp |L](\ /T| (| a?Xc  
+ 
+K ])aKp ]X}r X }Gc )|cj Zrk1  
+ 
+K ]G| 2K )p 2Gc &8 dP\ &8 }nGZ   
+ 
+25/ nL|a nCp K ]G| ck ]L?[- &5/ aKn5pK|KZ Zk[ 
+ 
+X 1CpK|1(1 %P[ )ca |Kca51- 5+  
+ 
+25/ nL|a nCp K Z> |#]1 ]K}g/-  &k n5|c (| a5}a G| K ]Xcr 
+c
+
+----- diversity: 1.2
+----- Generating with seed: "K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] "
+K %P[ 
+|)?K[p K|1 P[ 
+K|1 &+ ng1 0k 25] ck K  
+%)|1 ok ?)\}0  
+ 
+K }[)mr n)2 /-nkp1K ]#1  
+&8 ?[5|1r Z)| }/P/ 
+K|1 a#m G| X[1 [X} +c 
+b+ ZCc Z+ d)\} Lm a)|a Gp 
+cL0 n#1 Ga}- {Lac P[0  
+ ^/[G?pK|a  8{ d)\}  
+K|1 :mr 0+p[-p (a /Xp &L\ ?Ga  
+ 
+2K }T|1a Lm ^Lc- a#|c 1k 2Gc ?[:|(}a d/L\ {Xr    
+ 
+/GZa|?pP/- nk1 }C/1p  &Cc &k  |5][-   
+ 
+ck 1([)|c(\ Lm 2K 0X|p ck 1X]  
+ 
+&kp |Cc (}n5aKc r(a}a?/c  
+ 
+2K %k}n$c nCp }Lm(\ aL0 5|]#mKc  
+ng1 d)\ a
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+30346/30346 [==============================] - 11s 357us/step - loss: 0.9369
+
+----- diversity: 0.2
+----- Generating with seed: "}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/G"
+}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga  
+ 
+25/ nCp G| :[1 a#|  
+&+ nCp a[+? nCp ]5/-  
+X[ Z)c nCp ])a-  
+ok  ?/K}/:?p nCp K [X1  
+&+ nCp a[+? nCp K [X1  
+&k nCp a[X1 K [Xc nCp 2K ]#] ]G| 
+K|1 n5| &8 ZC}- 
+ 
+25/ nCp K oL\ n)]-K| |#]1 :[  
+&k ^Cc }nXc nCp ]5| ck (}a}[L]p  
+ 
+25/ nCp K oL\ n)]-Ka |#]1 ac/)|p 
+K|1 nCp 2K acg: nCp K ?[+|(\ 
+ 
+25/ nCp G| :[1 %/L] ]G| 
+&k }g1 ck 2K [5|1 n)2 ]+[(a  
+ 
+25/ nCp K oL\ ?8} |#]1 ac/)[K 
+&k nCp a[
+
+----- diversity: 0.5
+----- Generating with seed: "}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/G"
+}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga  
+ 
+25/ nCp K oL\ [#1- n)2 K &:? 
+&k /G\}d L^ [P\ )c Gc &8 
+ 
+25/ nCp G| :[1 K|1 ]G| K ]G| 
+&k nCp ac/#bK| K|1 P% 
+K|1 &)p G|a  
+K /GZK}KZK[ Z/Pa Z5}ac 
+&+ a51 ck &)p ?G|c 1L} 
+K|1 2K a5[ Z/)c nCp K [P/ 
+&kp Ga?c ^/#c K|1 2K }P[p 
+K|1 ok ]L}(\ 2Gc &+ nCp K &G?  
+&+ cL}a 25/ )c nCp }nXc nCp K ?C/ 
+ 
+25/ nCp K [#1- %/L] n)+ n)2 &)p a: 1 
+X  cnX[ }nXc nCp 2K ?+|(   
+ 
+25/ nCp G| :[1 ?)|a(| 
+&k anC[
+
+----- diversity: 1.0
+----- Generating with seed: "}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/G"
+}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga  
+&+ nCp %#[ K [X1r  
+):lstmTextGenerator.py:57: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+ )p &+ ^Cc /P/| 
+K|1 n8|1 C| 2K Z[L1 ]+  
+n5| b+ ?[LZ(\ 2G| 2K [51  
+C% ok &Gm |k  X %P/ n)2 K a5|a    
+ 
+ b+ 1/)?c C^ 2Gc `|mX|Zr| 
+n)2 ?g/5ac  
+?/5}ac &+ 1G1 ac/#c nCp  
+n)2 2K ^/G|1X  
+&8 ck }[5mr P% ok a51   
+1(a}/21p +mr 2G| 2K [51   
+Gp Z/Pac C| 22/?C/=p K &k[
+}K|c bGc r(a  
+X 1#ac 2K 1k }[G} 
+)p 2K Z[Pc Lm 2K }X ?/+a(\  
+2:p b+ n5|c ck 2K X1r a?/)c [#] 
+2K ?[Gac(bc
+
+----- diversity: 1.2
+----- Generating with seed: "}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/G"
+}  
+ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga 
+ n# Z)?c Lm &+ {|1  
+K ?C^r {Lac Xm ]G| {51 Lm d/+a  
+nL| X1 ^: &+ nCp a}n5/bK|  
+X1 /Xc K /)\}(} K  
+Xp c)[ nCp ck &8 bg/ )c   
+ }n)} ok   
+ZX 2K ?)?ac51 Lm oL\ n5]  
+Z)[ &L(\ 5mK0 /([:|  
+K|1 25| P[ /+a nCp 2K [Lm
+K{p %/k [)aK|a [X}0   
+)| ^8[ %/5|  
+&51 25| Lm mP/(p aL] b+ a[#1 }C?c 
+n5| Xp %Gca ok ?/C}(} [T a[+] C| 2)a r1|Ta  
+n5| b+ Z+(1 Tc K|1 ^)mK| ck K c:   1:c  
+n+ K m5/- 2K 05a  
+b+ n
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.9382
+
+----- diversity: 0.2
+----- Generating with seed: "[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a"
+[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a?//X1  
+ 
+25/ nL|a nCp K ]G| %/L] }/)?c 
+&k &G1 }n)]K| 2K %5[' 
+&G1 G| :[1 &)p }Lc a|G[- 
+2K [)p- &8 }L] ck ]X ?:|  
+25/ nL|a nCp K ]G| %/L] }/)?c 
+&k }g1 ck }L](\ K &5] 
+ck &G1 &+ }g1 |L] n)2 K a?C| 
+&k nCp ac)[(\ nCp }nXc an+c  
+X] ^Cc K ZP[p &8 ZC}-  
+nCp 2K acC/1 &G1 K Z8ac (| 2K }P/  
+ 
+25/ nL|a nCp K ]G| %/L] }/)?c 
+&k &G1 }K|a?[L]r Z/#c 
+a51 &+ acg1 nCp K Z[Gac  
+ 
+25/ nL|a nCp K ]G| %/L] }
+
+----- diversity: 0.5
+----- Generating with seed: "[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a"
+[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a?//X1  
+ 
+25/ nL|a nCp K }P/a |#]1 {5a  
+&k [X}c &8 %)ac %P/ 2K [#1- 
+&k &G1 |: ck 2K [#1-  
+&+ nCp b#?c |#]1 |jC?- 
+ 
+b+ [G1  2K [#1-  
+&)p ?/X1 K nCp }P[1 &5[  
+nLc nCp 2K acL| nCp |#] acC/c ck ^5c Tc (|  
+K ?:|(b )| /K^/T| }#] ck ]k ]ok (| %/}n5|c 
+&k &G1 a: ]5c &#  n)2 K aC/ 
+2K /(pL\}  
+X] K|1 2K }P[p  
+ck &GZ &8 acC/1 (| Z/#[  
+X 1LpK| a}/#?1 %P/ &8 Z)|   
+ 
+25/ nL|a nCp K ]G| %/L] }/)?c 
+&k
+
+----- diversity: 1.0
+----- Generating with seed: "[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a"
+[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm aK|5]Z-(p ]G|-   
+ 
+K %5|1 Lm K }n)/K? }L] ^g1 a: /P/ &8 ?+|(c  
+ 
+25/ nL|a nCp K [#1- %/L] [5c 
+&k d)\} }Gor[r &G1 ac: &8 d)\}   
+ 
+25/ nCp G| :[1 ]G| 
+ZLc &)p ZX acC/}  
+%/L] ^[#a Lm ck Z+ (| K Z[C}-  
+25/ nL|a nCp K ^8[  
+&8 ]Lac %P/ ck a51 K nCp |# 1Xm(p  
+Lm |C^}c )c Z5cr 1/#  
+K|1 d)\ }C1 (| 2K Z)0  
+&)p okp1 ck K [)%  
+&)p ?5|(}(\ Z+ }/G}(\  
+X] K|1 %X| ck &C/a 1T| (| &8 `|a?51p  
+ 
+25/ nCp 
+
+----- diversity: 1.2
+----- Generating with seed: "[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a"
+[ %/L] ]:ZK[ 
+&k nCp ?C/bK[- ]#1 Tc Lm a+| 
+2# G| P[n$p }P[1p  2K &C/{-  
+nCp /+1(1 ck %/#] &X ZGc 
+25/ &C/1 n)2 m8{-  
+%8]#a {Lac ]:a>1 Z/#ca$c (| %/5] a: a5} ZP[1 /G\} 
+^Lp cg} K Z)} 
+ZLc &+ %5[' Z+ ]P/ 
+/kd  (}a5]r(\ ]p aL] 
+K ]#{K?K[ |#] }Gc 
+n5| b+ ]Cc &8 m5/- Z/Xca   
+ZLc X |T a8 p)} ^0 cg1 05| 
+&+ nCp ck |k  K Z5}c oP/ &P/  
+%P/ &+ &G} &G1 rT|1 1(a}P/  
+C| b+ [P11 G| (| /X] %g[1?K[  nCp }G?? }[)c ]#c 
+nCp cnX] a0L}(\ &8 cn51  
+b+
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.9391
+
+----- diversity: 0.2
+----- Generating with seed: " {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &"
+ {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &G1 (| 2K a+| +   
+ 
+25/ nL|a nCp K ]G| %/L] }[51  
+&k [LmK[ Lm &8 }#Zp 
+nCp 2K n8[ %5|c a[)?c n)2 ?C|K[p  
+ 
+25/ nL|a nCp K ]G| |#]1 ]K}/k  
+&k nCp ?[La n8[p /kc ?+ a}/k 
+b+ a51 n)2 K ^/Ga 
+ 
+25/ nL|a nCp K ]G| |#]1 ]K}/k  
+&k nCp ?[La &8 }C]K|c Z+ ck 1L|a  
+ 
+25/ nL|a nCp K ]G| |#]1 1C| 
+&k }#c &+ }5mK| Z/#| 
+25/ nCp K oL\ ng]K| |#]1 {#|  
+&k [5m 8- nCp }nXc &5/a  
+n5| aL]Pa &8 }nXc 
+n5| b+ )ca P
+
+----- diversity: 0.5
+----- Generating with seed: " {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &"
+ {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &GZ (| 2K a+m6/p 
+ 
+25/ nL|a nCp K ]G| |#]1 ]G| 
+&k &G1 ck 2K %/Cc Lm &)p }C} 
+nCp /)[- nCp ?//X] %P/ [X}  
+K|1 a)%c +[p /(\pX K /k]  
+25| 2# %/L] &8 }K|c/L](\  
+25/ nL|a nCp K ]G| |#]1 1K|X]  
+&k nCp aL} (| 2K ^8[ &G1 K ]G| 
+&+ nCp ^/#c G|a n8 }/Xp  
+n5| + &+ }g1 |Cc 25] 
+ck 25] nL|a nL|a ^/Ga 
+2K /(pL[1a Lm &8 }n)]r  
+ 
+25/ nL|a nCp K ]G| |#]1 1K|Xc   
+&k nCp a}/k?(\ 2K ])} nCp ]#{K[  
+2K ?okZ(} 
+
+----- diversity: 1.0
+----- Generating with seed: " {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &"
+ {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &+/(1 nL| /(1k1 
+25| Gp 2K %)| }Kp[Gc 1P/d  
+(| |C/(\ [Lm &)p }Kbp1(mKp 
+%/L] 25/ [kZp(}a /X] 
+(| 2# %ok n5c &8 1Gac 
+25| &+ }Lmr1K[- ?[#a 
+%ok 2K /kd(\ n8 }/Pc 
+nL| nLbK} (| 25/ ZL|KZc   
+ 
+25/ nL|a nCp K ^8[ |#]1 ?L/-p  &k [5c (| 5] |#]   
+ 
+25/p ?:| )p aL] nC[ |#] )c 
+a51 &+ }g1 |Cc Z)}Kc 
+nCp ck %L}cK[Kao[
+25|c 0)|c #|c /k]  
+ 
+25/ nCp K oL\ ^8[ %/L] }/k   
+aG] ^/5ac P% L? &)p aG%rr  
+ 
+25/ nCp
+
+----- diversity: 1.2
+----- Generating with seed: " {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &"
+ {5|KcK[ })a  
+ZLc : &8 1(a]#  
+n5| b+ &Gp )#   )[ X]   
+nX[ ): %/5[ )>  1(ZKc   
+ 
+ Ga &)p ?+|(\ ]k /K{C|C(c 
+cg/(a P/^: :[1 &X  
+a?/51 2K /nX |k ck n#c a}G]r 
+K|1 (| K %k[' c8|#}D Gc ]P/ 
+2Gc 50 ck? K ^/:| Gp ^8[  
+&k ^g1 C| 2K a+[  
+ 
+25/ nL|a nCp K ]5| 
+|#]1 [): G| Lm ak  
+a: &+ /LmK[- &Gm &Lm1=K|1 &+/c aL] 
+2K ?/Xa Lm 2K }/Ga (| a)\}?{1  
+%/Lc X Z)[p %[L] 
+Gc X C/c (| 2K Z%)Z- (}a51p 
+ 2K )/c(\ oP/ [#]  |Ga  
+Gp 2K /6Z2K| (| /5?K[ 
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.9284
+
+----- diversity: 0.2
+----- Generating with seed: "Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a "
+Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+&k aL]]ra &8 acC/1  
+K|1 |T b+ ok a51   
+ 
+25/ nCp K oL\ n)2 K a?51  
+&k a51   n)[ b+ nCp }P/1 2K ^/Ga 
+K|1 |T &+p }C}  
+K|1 2K }P[ Lm 2K }G|  
+K|1 2K }P[ b+ nCp %P/ acP/ 
+K|1 |T b+1 C/} ]X |Xc Tc K|1 G| 
+K|1 |T b+ ok n5|c   
+ 
+25/ nL|a nCp K ]G| %/L] |F|cL}(c 
+&k nCp a}/kd  
+b+ a51   nL| nCp 2K ?+|(\  
+X] K [)]r(}a nCpK| &)p }L] 
+K|1 25/ nCp K ]G|(\ &Gp }nXc K [X%  
+ 
+25/ nL|
+
+----- diversity: 0.5
+----- Generating with seed: "Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a "
+Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a nCp K ]G| %/L] 1#c 
+&k nCp an+?c ^/#m 2K a+[  
+2Gc {Lac ]G0 %P/ )c Z+ Z)[ 
+nCp c/L0 %/K|+c Lm &)p }nXc 
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+&k }g1 |Cc )ca Z+}a 
+Gp &+ }g1 C| &+ }L|c  
+ 
+25/ nL|a nCp K oL\ n)]r  
+&k nCp an+(\ &)p }L] &)p ]5|bK|  
+Gp K ]G| nCp K ^/:| K [#mKa  
+K|1 ^#m1 K|1 [Lm K Zg1 {Lac Lm &)p ]G|bK| 
+%/L] 2K a?C/c %/L] 2K %/L| 
+K ]LdrK[ [X}r &)] K Za}P/Kca Z5/ 
+ZLc |Cc (| 2K ]#1K[ 
+nC
+
+----- diversity: 1.0
+----- Generating with seed: "Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a "
+Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a nCp K 1L} |#]1 c)}Kc &Cc &ka?g/-  
+2# X%1 1)p }Lbr  
+25/ nL|a nCp K ng]K| |#]1 Z%k 
+&k &G1 K ]Ga n)p %#[ }[)} Lm Z/+aK?K0 Z:aKp %#[  
+b+1|1 P[ 2Gc n5| |Xc b+ 1P/(a  
+1G1 a: C/1 %P/ 
+K|1 2K aX[1 %/L] ck ^:   
+ 
+ :[ [Xc   X] %L}c )c ZLc ac:|  
+K|1 n5| b+ )c Lm &)p }Gbp L?r  
+ 
+25/ nL|a nCp K &:?  %/L] 1#c K cGa?G|- 
+b+ }/Pp Lm a)| a51   
+ 
+25/ nL|a nCp K ]G| &)p |#]1 1K[|P/ 
+&+ c)}K| C/} nL| d)] #c 
+
+----- diversity: 1.2
+----- Generating with seed: "Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a "
+Z)ca Lm &8 c)ca (| Z/Kp)[   
+ 
+25/ nL|a nCp K ]K}/k]({ |1 %)}r }C/1 
+&k a51 &+/ %P/ K Z#} nCp  
+&+ nCp %#[ nCp K %ok[r 1L}c ck &k] ok (}a a+  
+ 
+ck d5c aL} +c %GZc 1(c)}  
+&+ ?[)|c- n)2 m8{K|a   
+)c ]PK|c n)/aK|p C| 2K /C|1 &)]10d)acrp Z+ ^Xc  
+/T|1 ck C| 2K 1T| %P/ 
+K ])a- )p |: ]Xc 1k   
+ 
+25/ nL|a nCp K oL\ Zg}(| |# 6ac5]  
+&k 1+1KK[- /k] %P/ }[X|(\ nC|c 
+&X}c P/ P[ 0#|Kc K|1 ]Xc Lm |G2r `|X%//KZ%[51 
+?/(a}cLab+(\ 5}ac [P\} c/L}c   
+
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.9170
+
+----- diversity: 0.2
+----- Generating with seed: "}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a n"
+}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a nCp K ]G| |#]1 1K|X|K 
+&k nCp ac/G?(\ &8 |cL}cK1 Lm K ZC1Kn 
+2K /(1L}c(1 &+ [5c 
+K|1 |T 1k ok  
+ 
+25/ nCp K oL\ ^8[ %P/ )|a(|a 
+&k nCp ac/G?(\ &8 |ck1 [X} K ?C|Kc  
+b+ a51   X {Lac ]P/ a)| :[1 ]G| 
+K|1 2K }P/ 
+25/ nCp K ^8[ |#]1 1K|X|K 
+&k nCp ac/G?(\ &8 ck K [5a [Xc  
+nL| nCp ?/5ac 2K a+1(\ 
+2K c+[ }C](\  
+n)2 K /P\ K|1 }#] %P/ a?/)|p  
+ 
+25/ nCp G| :[1 ]G| %/L] Z/ka 
+ 
+25/ nCp K oL\ ^8[ %/L] }/kc
+
+----- diversity: 0.5
+----- Generating with seed: "}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a n"
+}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a nCp K ]G| |#]1 1K|X|K 
+&k [)m1 (| 2K acP[&:|1 
+2K /(pC/`|Xc [Lm 
+&kp 5ac(bK|a n8 ac/+? (| 2K 1P/ 
+2K /+1p K [5p 
+b+ nCp a}/#?[- ac/L} K Z:ZKa  
+ 
+n)2 K oL\ n8[' |#]1 {C|K] 
+&kp 1X(ac n)2 K a?k|(\ [X} K|1 1k  
+ 
+25/ nCp K oL\ n)[-r |#]1 1Xr  
+&k nCp a]5}c(1 Gp }[Gm
+|Ka[- }/k}(\  
+ 
+n)2 &)p nCp }g1 T% K|1 ]+m  
+nCp /)[- }nXc K %/k 
+&k [X1 K %L|c K|1 bg/(\ Lm &)p 1C1  
+n5| b+ %P[ }g1 1P|c ck ckmr ck a
+
+----- diversity: 1.0
+----- Generating with seed: "}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a n"
+}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a nCp K ]G| |#]1 1/X|K  
+&k d)\} K &Gc %P/ &8 ?5/-  K an#}  
+&k1 ?/X1 &8 b+1 %)/a ck aXp  
+K|1 C/ |Cc Z%)}a P/ ^/L] Tc /)}  
+?/)?aK]]K]]P/ ^: mK{K|X| (}c/#[ 
+Cp &+ a51   %)[(\ n)2 ]+|-  
+ 
+25/ nCp G| :[1 ?+|(a %/L] ?[ka)|a 
+&kp 1# c/X?[ %/Lc aXp  n+1p 1(a+m>\ /k| 
+2K |#]1 [5/ n5/ &+ a5]] 
+ 
+25/ nCp G| :[1 }L]r |#]1 1P/ 
+&kp Z(^X|Ka a+m Z+ n)?d aog/ 
+%)/ Tca ?[L(a  oL\ 1L|     
+ 
+25/ nCp K oL\ [#1- %/
+
+----- diversity: 1.2
+----- Generating with seed: "}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a n"
+}c (| 2K %#a ZX 0L} |P/(a  
+ 
+25/ nL|a nCp K %Ga}r](| %/L] 2K  
+&k &G1 K|1 |: %[Gac P/ ?:[ /Xc  
+ 
+%ok[ |:|c &5/1 
+)p 2G| X1 2K aLar 2Gc {5ac  
+ZLc 2K a)ac(\ ac)} j5c Z)cK|  
+1(mT| ?/5/K| %P/ \ C| b)c C| 
+2K dPc n5| (| K 1G|K|- d/+ 
+ 
+25/ nL|a nCp K ]G| |#]1 1#1- 
+&k }: K|1 |L] 
+K|1 )c K ]#ZK[ %)/a 
+G|a (]5/2Kc ]+ a}L[: 2K  
+Z%^/K?p nCp b+1 |Xa  &G1 K|1 Tc 
+ 
+25/ nL|  nCp G| C// |#]1 }n5/ 
+&k #ac }G| |#]1 agd }K|ck (| /5|c 0+|a  
+K|1 0#
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.9197
+
+----- diversity: 0.2
+----- Generating with seed: "ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc"
+ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc- ?[#a n)2 &8  
+ 
+25/ nL|a nCp K ^8[ |#]1 1C| 
+&k aL]?/(a  K|1 )c ^C1 K|1 a#mK[  
+K|1 2K &P/|K|K[j %/L] 2K %)}a  
+nCp K }L|c(a &P/ ?+n$c  
+Gp &+ [X1 2K [#1K[K[p 
+K|1 &)p nC[1 K [X1r  
+ 
+25/ nL|a nCp K ^8[ |#]1 {Ca  
+&k a51   X ^/: 1Lac K ZC}  
+K|1 2K }P[p K [Cc  
+K|1 ^# 1/Kac 2K }X|r  
+25/ nCp K oL\ ^8[ ?[La 
+&k }g1 |T &+ P% (| K ZC} 
+ 
+25/ nL|a nCp K ^8[ |#]1 {)| 
+ 
+25/ nCp K oL\ ]G| %/L] }/+ (| 
+
+----- diversity: 0.5
+----- Generating with seed: "ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc"
+ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc- [X} (| 2K }T|1 a}Gc 
+ 
+25/ nCp K oL\ ^8[ a]5/ ?5/(a 
+&k }g1 1+ &8 &Gm /X1 
+ 
+25/ nCp K oL\ 1L|c [#1K[ ?/Xa &5mr 
+&k }g1 ck 2K [)} (| K %G[ 
+&k KpC/ &G1 K ]G| nCp ?[5|1r  
+C% &+ }g1 |Cc K &G? 
+ 
+K ]G| &)p [Gac ck (}a5ar 
+akp1 &+ }g1K|c &5] C/ 
+25/ nL|a nCp K ^8[ |#]1 1C| 
+&k }g1 +c Lm K ZC} 
+K|1 )c L? &)p ]5[ 
+K [Ld |X %k[ a5} 
+25/ nL|a nCp K ]G| %/L] }C1K|c &5/a  
+&kp |5^p K|1 2K }L[r  2K Z)bK? 
+
+----- diversity: 1.0
+----- Generating with seed: "ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc"
+ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc/(}a a)a }#[ %#] 
+25| 2# &+ }g1 G| Gp K Z> |Cc 
+^/k 2K ?+|(\ [Lmr a?5|-K 
+K|1 K b/LZK[1 (| &)p ^Cc   
+ 
+K ]5|a  ok K|1 K ]F^})[Ka n5|c 
+&k [Xc 1k K|1 |5mp 1(p+c  
+25/ nL|a nCp K &)}K]Kc [#1 (\X1 15m 
+&k 5|1r 25/ ^: nCp K|1 P[ [X}  
+ 
+2K ?#a P/n$p K %L|&)-  
+]X} K &G? K ?X[Kp }:]K|- 
+b+ /Gm(m c/X &k %5|c acL}K[ 
+&k }L|c(1 &5[ 2Gc ]Ga 
+ 
+25/ nCp K oL\ n#[r &K ^/k 
+&k p 5[ }/P/(\ K [G% 
+b+ a51 nCp K 
+
+----- diversity: 1.2
+----- Generating with seed: "ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc"
+ZLc 2K n8[1 nCp ?r?[5}ac  
+a: d/+ 5}a?rc- &C/a a51   
+ 
+25/ nL|a nCp K }g](\ )\p 
+&kp ]Cc' K [+1- [5/ 
+K|1 aL%ZK[p `] |#] 
+25| nCp K ]G| %G| &5/|n-[p &8 ?[:|0 
+ZLc oC^/(a C/] K|1 Z#bK| (| G[ 1PK[-  
+[5p K|1 ok /k1r 1(1Lp %P/ ^5ca   
+ 
+)] &P/ a: ?gacK| &8 ?#|1 ck ck |Cc c/LZK[ c: }Lc ck 05|-    
+ 
+25/ nL|a nCp K oL\ oL\ ^8[  |T ]+a 
+&+ [8|Pc n)2 ^C[1 acC/  
+25/ nCp K ]:|  )c (| a51 ck &n)] ck  
+Lm ogc )c K 05acK[ (| ZX K ]G| 
+ ^X 2# 25/ 
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.9124
+
+----- diversity: 0.2
+----- Generating with seed: "5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|"
+5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|1 2K }L|c 
+&)p acC/K}(bK|c ?[Xa nCp   
+)p a: }G[ &)p ZP/ac n)2 Z)bK[   
+ 
+25/ nL|a nCp K ]G| %/L] }/)|cr    
+ 
+25/ nL|a nCp K ]G| %/L] }/)\}L  
+ &k }G|c ac/G\ 1k  
+ 
+25/ nL|a nCp K ]G| %/L] 5/- &5/a    
+&k }5mrK| 25| ZP[p  K [5^a n5| &+1   
+ 
+25/ nL|a nCp K ]G| %/L] 5/- &5/a 
+ &kp |LZK[1 K|1 ?G|  
+K|1 2K }P[ b+ nCp }#?  
+nL| nCp 2K |: `|ac5/-  
+ 
+25/ nL|a nCp K ]G| %/L] }/)} 
+&k nCp ac/G\}(m 2K nX
+
+----- diversity: 0.5
+----- Generating with seed: "5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|"
+5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|1 2K }L|c 
+&)p ?/#a  K|1 25] |#]1 {)|   
+25/ nL|a nCp K ]G| %/L] 51/ 
+&k nCp ac/G\}0 1Lp [X} K Z8a  
+K [#1Kca nCp K ?[+^(1 
+25| Lm nL| P[n$c (| K %Gd  
+K|1 ?+ &)p G| Gc K a?:|cK1 
+ 
+25/ nL|a nCp K ]G| %/L] }/+  
+&k &G1 K }C|cKa C| &)p ZP/a nCp }nXc K ]G|  
+ ]#1 K ]}/(m8cK1 n)2 K [k1   
+ 
+25/ nL|a nCp K ]G| %/L] 5/- ?P/c       
+ 
+25/ nL|a nCp G| :[1 ]G| &k1 n5| &k ]#m 
+ZLc  )(a ]X /:ZKa   
+ 
+25/ nL
+
+----- diversity: 1.0
+----- Generating with seed: "5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|"
+5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|1 2K [k}   oL|a     
+ 
+25/ nL|a nCp K %5}r &Gm a?'/+|(\   
+/G^(|(m
+K:|: &+ ng1 +} )c  
+Z:m ck /Xc ?:^c  
+P[ 2# n8 ^Lm K|1Lajb}n$a(b Z5}c 
+%/L] |>+ nL| 2K a?5|c- ng1K[  
+&+ |51 2K [k|1( (| a?C}  
+ 
+K|1 ?og/K|p Lm K ZC}K|  
+&)p P/d |T %T|1 ck 2K Z:| 
+2K Z#bK|c Lm ck1 Lm Z/5abp  
+ 
+25/ nL|a nCp K +|1 %/L] ?P/c 
+&k a51   }n)} K %/+p 
+K|1 ok[ ?:ZKa  K|1 nX[p   
+ 
+25/ nL|a nCp K [#1- |#]1 :[-   
+&k 1/ka
+
+----- diversity: 1.2
+----- Generating with seed: "5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|"
+5[% KZoka  
+(| a80 Lm K &C/1 C|  
+b+ /G|1r1 (| ]GKa ]#}(\ 
+K|1 25| Z+ )c nCp /:} Z5/d  
+(| c+[ ^/+ ZXp K|1 acC/' (}a ]L} }#] K ]Cc   
+ZLc {Lac |#]1 &Gm Tc K }X)|  
+&+ nCp 25/ )p 2K &G[ aC/} aL0   
+ZLc nCp ^Cc &P/ %P/ nCp 1G\  
+[kp b+ m5/- }[G2(1 n)2 K ?k|Kc   
+ 
+)| d/k &)p 5|5?- cCaK[1(r ]P/ 1(m#| 
+ng1 &+1 )p bg1 Gc &8 K|1 1|Z[- 5}a  
+ |c)[(\ GZK[ 
+nWCc 2# &+ %[k X ^5c )c  
+n)2 X(\ cL} Tc Lm ]Ga  
+)ca ]P/1 c)[ /)?[K[ /L|- 2Ga 
+G\}[- :mr
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.9063
+
+----- diversity: 0.2
+----- Generating with seed: "-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5["
+-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5[1 
+25| b+ a51 n)2 K ^8[  
+ 
+25/ nL|a nCp K ^8[ |#]1 ?[X|Kc 
+&k nCp a5}bK| K [5c &5/ Gp &)p }5}c ck  
+ 
+25/ nL|a nCp K ?[+| (| 2K a?#| 
+ :[1 ok aX1 n)2 &)p }L|c 
+ 
+25/ nL|a nCp K ?[+| (| 2K a?5| 
+&k : 25/ &8 Z)bK? &8 ck (| K ZL| 
+ 
+25/ nL|a nCp K ^8[ |#]1 1K[ 
+&k }g1 |Cc Lm }[kZK[  
+a51 2K 1# ]G| ck ]X Z:a 
+ 
+25/ nL|a nCp K ]G| %/L] }/5c 
+&k nCp ?[L]r Z2r n)] n)2 K }L| 
+ 
+2K %[+]p K [LmK| %/L] }nkc
+
+----- diversity: 0.5
+----- Generating with seed: "-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5["
+-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5[1 n5/ &+ ng1K|  
+X] ^5c ac)[ Lm K ZL| Z)c  
+25/ nCp K oL\ ^8[ |#]1 ?+|- 
+&k &G1 K Z[Gc K ZCc }K|a5/p ]P/  
+a51 2K 1#] %P/ K 1L|   
+ 
+2K )acK0 |Cc )c C/ }P[1  K|1 ?+c   
+ 
+25/ nL|a nCp K ?[+| Lm &)p K }n)[p 
+25| a[5?c )p 2K |5c 
+K|1 C| 2K [51 nCp K ?[+]p 
+ck Z+ ?C/}  
+&+ [LmK[ Lm 2K }0   
+ 
+25/ nL|a nCp K ^8[ |#]1 ?[X|Kc 
+&k nCp a?k?(\ aL] a5}c }n5c +0  
+ 
+25/ nL|a nCp K ?[+| Lm &)pa &5/  n5|c 
+ 
+2
+
+----- diversity: 1.0
+----- Generating with seed: "-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5["
+-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5[1 &+  
+a51 &+ a51 ck p+  ?[La %)[ L: ck ]# 1/51Kc 
+nCp ck &:m1 &k]d ^|k )c G|  
+K|1 |T /)[- C| ck 5| :m  
+ 
+2K [8^r )c 1L} 
+ 
+1 p+[ nCp ?[L] K ZC]}Qc  
+K|1 &Gm1 &C/d &Lb ?Ga(c  
+Gp ck %L}(\ 2K 1k [5c  
+ck m5/- 15c 
+)} )c G| Lm &)p G| :[
+ b+ [5ac )c oL\ C/ P[ :   )c      
+ 
+d/k %/2r 2K ^8ac &)] C/ }[G}  
+ K ]G| &)p aGd n5| &+1 }C] K|1 |Xc ^: 
+ 
+K /8]Kp ]P/ n+ d)[ )p }/Gm 
+ck C| an5/d %/L] &T ck n5|
+
+----- diversity: 1.2
+----- Generating with seed: "-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5["
+-1 K &Cc 5| cCc ]G|   
+2K ]#1 b+ nCp o5[1 ck Z5|c 
+K }[#] a)] Lm 2K ]5|cK1 Z)ca a?#c 
+ZLc +0(\ &Gm oL\ }L](\ a|#?:[ }okZ1(Z1X  
+a+p : Lm &)p G|a 
+{Lac [# ck ?[2p n5/ )c G|a Lm 0+p  
+b+ [:|1 ^5c (}aP/ 
+Lc K ]G| nC|c [)]r(\}0 a[+1 +[' 
+&+ %P[ 2Ga 25/ n)cabK| ?oka |#]  
+(| &)p a#] n)2 K &P/  g1 ZX  a?5}c n5|c  
+C/ )%c#}oK[ ck 0)c n)2 Z+(\ ]p c/#? ck   
+ 
++ }g1 &%/:K1 K &G??[pp }K|a5/] (| a[}Gp  
+ZLc ]:[[ %k[p ac)}c Lm 2K /=p  
+ &+ a51 ))  
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.9044
+
+----- diversity: 0.2
+----- Generating with seed: " 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga "
+ 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga   
+ 
+25/ nL|a nCp K ?[+| }#] ck [5c  
+&k nCp ac)}/K|c [P\ ^/C/ 
+ 
+25/ nL|a nCp K ?[+| (| 2K %/L] 
+&kp ]L0 [X} (| 2K }ok  
+ 
+25/ nL|a nCp K ?[+|  
+&k nCp ac)}/K|c [P\ ^5c &8  
+ng1 a}[# 
+&+ nCp ac)}/K|c K &G?  
+K|1 25| a: a5[ a5|c nL|K|c Lm &)p &C/] 
+ 
+25/ nL|a nCp K ^8[ |#]1 aKZX  
+&k a51 c)[ }/]G\ 2K }/5%r  
+K|1 &)p ?8aK|p n5| &+ n5|c ck K &+   
+ 
+25/ nL|a nCp K [#1- %/L] ?[+a?   
+&k &G1 K Z/)ca n
+
+----- diversity: 0.5
+----- Generating with seed: " 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga "
+ 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga   
+ 
+25/ nL|a nCp K ]G| %/L] &5/a  
+&k nCp ac)}a &8 &G1 K ZLc &+ a51   
+ 
+25/ nL|a nCp K ?[+| }#] ck  
+&k ng1 %G%c Lm K ZC] &+/K(\ nX|p  
+nX[ )c %P[ }g1 %P/ &8 |cC/(bK|  
+ 
+25/ nL|a nCp K ^8[ |#]1 ]K|C/}Kc  
+&k nCp a[+? &)p nX% [ka n)2 K a}k 
+aL}c Lm &)p ackZ
+1 Ga}/K[- ac/P/Kc K|1 }g1 a}L|- 
+25/ nL|a nCp K [#1- %/L] [+1-  
+&k nCp ac)}/c &8 |caL}c Lm &)p ac/5}(c 
+25| ac51 K [5/- }C](1 &8 acC/&+  
+Z
+
+----- diversity: 1.0
+----- Generating with seed: " 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga "
+ 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga  
+2| 25/ nCp 2K ?+|- ?G\ [)}ac [P/  oL\ {L1r  
+/(cg1 K Zg1 Zar cCc K %/L|  
+%P/ K a?)}c a: )% )c   okp a?G|dK[  
+K|1 )c )c ^C1 [+ )c   
+K|1 2Gca /T|1 2K nX?K|  
+&k  n8[p )ca n)2 K ak]   
+ 
+K |: C/KaK|K0K[ }#ZK[  
+K|1 )c a)%cr %P/ K ^5/-   
+ 
+25/ nL|a nCp K ?8d %/L] [+ (| }5/1  
+&k }G|cK1 K ]G| n^bK|  
+&k ]5a %P/ &8 }nGc &+ nCp Z+cr  
+C| K ]:| C/ Z)[Ka n)2 %5/ 
+?4|pk }#] %L} |52r 
+2)/^p /(a?C|1 %P/
+
+----- diversity: 1.2
+----- Generating with seed: " 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga "
+ 
+oP/ cn)ac (| 8 ck[ 
+K|1 Z5|1 (| ]X Ga %#[  
+ZLc nb(c/a]5[Ka ]5c %P/ c51  
+ 2+p L? 2K C/]rp G%/=|p 
+g/[^|n$p K a?G[K[ (| aT |#] cnX]  
+c([#1 aL}a L? K %G[ [X} 
+]X ]8(\ /Xc %[k C}a ?k c/K?5c   
+}[G?c ok a5c (| c/pK} 
+ZLc |Cc n5| &8 1Cc (| 2K +a+K|c %/- 51  
+(| &)p bGc (| 25] (| /51 Gp &8 1L| 
+ 
+X nC| P[ Gack ck 2G| 25] ZLc n)2 jC/}K|
+ 
+n)2 K # cK|1 [8^r T/({|Fpa(\  
+n8 ]X a]P/} %g/ZPc(1 
+K|1 5m cnXp K?G|a K(c/(\X|bK |#]1 Z#?-  
+ 
+25|?/K
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.8994
+
+----- diversity: 0.2
+----- Generating with seed: "1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]C"
+1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]Cc  
+K|1 2K }/+? nCp K %/GZ(}  
+&kp ?/XaKc nCp /Xc C| K|1 ?[)c  
+%P/ K acG} Lm 2K 1/5|p 
+K|1 |T 25/ n)2 K aG| &+ }Gca ]#}  
+b+ a51 n)2 K [)]r(}a aL]K[  
+ng1 /k1 (| 2K acP/c ck Z5[%  
+%/L] m8[j1 Z/Lac nCp a?:| ZG| (| 
+K|1 2K /(1k1 nCp K ?:| %P/ 
+K|1 2K }/+p Gp &8 Z)}(c 
+nL|a ]G| nCp K Z[Ga K Z5}c 
+ck a8m C| K /k1  
+X |L]?c bg/ Z5}ac   
+ZLc nCp P% ?[:a Z)c 
+P[ 2# )c Lm 2K %/L| 
+&k [X}c ck ]L0 |Cc &)p
+
+----- diversity: 0.5
+----- Generating with seed: "1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]C"
+1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]Cc  
+K|1 2K }/+1 (| 2K a51 Gc &+ 
+a51 n)2 K ^/)|  
+K|1 2K n8[p )% acP/-   
+ZLc nCp P% Z/Pcr &Gm /X1  
+nCp K b+ }g1 |L]ZK[ ?/Xa aXc  
+ZLc nCp P% ?C/1 &8 &C/1Kc-   
+ZLc nCp %P/]#m ck a: 1L2Ka  
+K|1 2K |:|1 n)2 Z/P[(}  
+C/ 2K a#] [:1 aL}c Lm &)p ZL]  
+K|1 )c L? K [X}  
+X acg1 2K [)]r(} ]Ga ]G% )|a ]X ac)}  
+ck 2K ]#1 %P/ a51 
+K|1 ok ]L}(\ nL| P/ &)] Z/P[  
+K|1 n)2 K a}C? (| K %Gac 
+25/ nL|a nCp K ?)| 
+
+----- diversity: 1.0
+----- Generating with seed: "1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]C"
+1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]Cc   
+ 
+25/ nCp K ^8[ }#] %/L] ^g1 aG|  
+&k ^5| K|1 Z+ K ZC}Kc  
+&+ nCp K /L}(\ )c Z/P[(c 
+ng1 a}k?r 
+&kp /)}K| P[ Lm 0)[ ]+ acP/ ck a5}c [P/K|1 ^: a]+   
+ 
+)ca nCp +/K|1 K|1 a+} (| ]K &)] ac/P/c 
+C| &8 2K ])a(\ [L\}a oCp K|1 5}a?G|c &8 a+}   
+25/ nL|a nCp K [#1r ]G|1 |#]1 aKa 
+&k a51  n)a} Gp K ]: }#] 
+K|1 (| ?)|c %/L] }/)?c ?[:?c  
+n8 ]X| ^)m )c L| C/ )c Lm }G[ 
+b+ [X1 nP[ }K&[#m 
+K|1 nL| ck }g1 
+
+----- diversity: 1.2
+----- Generating with seed: "1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]C"
+1p /#{  
+}n:d 2K nP[/Ka   ok }G|c &Gp ]CcK[  
+)c ]L}Kca(1}n5| 
+&k %T|1 2)a b+ a51 /-Gp 
+|: )b]+1(\ 2K 1K|C} ck }g1 8}a nG2 c/X1 ZT b)r &+ a51 
+1Xc ck n)}K| }#] Tc }g1 a?:| 
+)p aL]?d/K[- ac/)} K|1 2K a?+|(\  
+)ca 2# }/5?ac Lm a:| %P/ ]5mr 
+%P/ ZGm 2K /T|0  
+nCp c:]1 &Gm &8 %[5/ oL\ ]#1K[  n|)a acGc %P/ a)| ^/T| 
+&kp G| C/K|1K1p+} Lm &)p 0+| n)]r^K[+15a b+ aX1   
+%/L] ?oka |X /kc Lm ^/+a acg}K|- C/]  
+%/L] 8- )> 
+b+ }nXc (| &)p ^X|#  
+b+ 
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8933
+
+----- diversity: 0.2
+----- Generating with seed: "25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)"
+25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)p ?+|(a   a51   nX% oL\ ]#1Kp ]P/  
+ 
+25/ nL|a nCp K ]G| %/L] }/5a 
+&k a51   X }G|c K  Z+ c)} 
+ 
+25/ nL|a nCp K ]G| %/L] 1#? (| ?5/-  
+ &+ /G|1K[ K|1 aG|a  
+ 
+25/ nL|a nCp K ]G| %/L] }/51 
+ 
+25/ nL|a nCp K ]G| %/L] }/51 
+&k aL]&TK| &)p }C} 
+nCp 2K a#] %P/ K ZC/}   
+ 
+25/ nL|a nCp K ]G| %/L] ]+1(\  
+&k a51   acC/}K| &Gm &+ n5|c 
+ 
+25/ nCp G| :[1 %5c (| 2K ac/+] 
+&k %5|1r &8 }C]({   
+ 
+25/ nL|a nCp 
+
+----- diversity: 0.5
+----- Generating with seed: "25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)"
+25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)p ?+|(a  |Cc (| 2K 1Gm  
+ 
+25/ nL|a nCp K ]G| %/L] }/51 
+&k aL]ZK|p Lm &)p }L|c 
+25/ nCp K oL\ ^8[ %/L] K 1/+a  
+&k &G1 K Z/+ nCp 2K [#1 
+K|1 2K 1C?cK[  &+ [5c (| K a}/#  
+ 
+25/ nCp G| :[1 ]G| %/L] }n]G| 
+&k &G1 K ?/Xp (| K %GZK|  
+K ZL| ck &8 1#  
+ 
+25/ nL|a nCp K ]G| %/L] ]G1 ac5a?K[  
+&k 1/G?(mK|1 &8 }K&8|Kc5/-  
+ 
+25/ nL|a nCp K ^8[ |#]1 {K|Cc(1 
+&k [)m1 C| 2K %5[ C| &+ nC|c 
+ 
+25/ nL|a nCp K 
+
+----- diversity: 1.0
+----- Generating with seed: "25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)"
+25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)(1K| Z+ cK1L1(\ K [Xc 
+&kp ng%bc &8 ng1K|c ^#m 
+&
+1 2K n8[ %P/ &8 1C1 2K 1/X   ?)p }[G {|m(} 
+oP/ }K|a5[K| K|1 a5}a a50p a+   
+ 
+25/ nL|a nCp K ^8[ C| 2K %/L] K {+[   
+ 
+25/ nL|a nCp K oL\ p#|  |#]1 1K|+51 
+&k nCp ?[Lacr%5[1 ^5c Z8 ck K ?G[   
+ 
+25/ nL|a nCp K )[rm)|c %/L] ZC1Kc 
+&k nCp K &)\^[1 (| %/5| a+   
+ 
+ |Cc (| &X 1:|=%X| %L}c(}a a?:c 
+K|1 Z)[- `|a51  
+K ^/K]G|X a51 (| 2K Z#}   
+ 2Gca ^Cc 
+
+----- diversity: 1.2
+----- Generating with seed: "25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)"
+25/ nL|a nCp K ]G| |#]1 ]K^/k1r  
+nX[ &)] K d[+|1K| ck [X} ck }P[p   
+ 
+25/ nCp G| :[1 &5|a(| |#]1 1C| 
+&k a51   X Z)c G| 2K 1T|  
+{Lac 2K %P[ L2r `|%Q/Z(} 0C?  
+n5| b+ [+(\ (| 8% ac)[ Ga K ?:[ 
+1(mX1' ck &8 cX]  K|1 [#]- )c c/L]Kc ^)m Gp + ck   
+ 
+K )Z(}K[K1 n5| oL\ a+ 5/-   
+ 
+K ]G| &)p ?8(\ K ?X?  
+b+ [X1 a)[|c )p aL] rTc(1  
+cP/K|a )c &+ |51 K 1k}  
+K|1 &# ^X?(} X[a 
+ 
+25/ nL|a nCp K ]G| |#]1 ?[G|o(a 
+&k [P|1 &8 |k} 
+n)| Lm &C/1Ka a
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.8872
+
+----- diversity: 0.2
+----- Generating with seed: "n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &"
+n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &8 Z)|  
+25/ nL|a nCp K ]G| %/L] }G| 
+&k nCp ac)}/K|c bTcK| 
+ 
+25/ nL|a nCp K ]G| %/L] }[51 
+&k nCp ac)}K|c [X} K ]X|K     
+ 
+25/ nL|a nCp K ]G| %/L] }G| 
+&k nCp ac)}K|c [P/1 Lm 2K |5|KZ  
+n5| 2K ]#1K[1 &)p ?/K{5|Kcn(\ ?+?  
+ 
+25/ nL|a nCp K ]G| %/L] }G| 
+&k nCp ac)}/K[1 2K %5[1 %P/ 2K 1La  
+ 
+25/ nL|a nCp K ]G| %/L] }G| 
+&k nCp ac)}/K[1 2K %5[1 %5a  
+n5| b+ %T|1 2K %/L| 
+G| &)p acC/}K| (| a5}c aL|
+
+----- diversity: 0.5
+----- Generating with seed: "n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &"
+n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &8 Z)| 
+K|1 &+ %P[ C| &)p ?/X]  
+ 
+25/ nL|a nCp K ]G| %/L] }/k  
+&k nCp a}/k?(\ 2K /:1r &Gm K %G?c (| &8 ZLcKc 
+%/:[c 1k ck }/Xp  
+ 
+25/ nCp K oL\ ]G| %/L] }/)?+ 
+&k %T|1 2K n)2 K ^/G|1  
+?[La &+ a}L|c 1T| C| 2K 1)|c- %/L] ^/#  
+a51 2K c+ C/ %P/ n5[ Gc Lm &)p |{k|p  
+nCp 2K a#] (| %P/ K 15[+  
+nL| nCp %+c(mr &G1 ]P/ 1T| 
+ 
+25/ nL|a nCp K ^8[ |#]1 1G\ &)p &Gp ]G|  
+ 
+25/ nL|a nCp K ]G| %/L] }/5a 
+&k
+
+----- diversity: 1.0
+----- Generating with seed: "n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &"
+n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &(]5/ ZX  
+b+ %#[ K ?[+} ]P/ aL0 
+C/1 a]+} (| K %G|}   
+ 
+2Gc  ]P/  )|a51 2K a8|#c %)[(\ nCp Kn# 
+ 
+X P[ {Lac ]G| L? 2K a5[ %P/ 2K |C2r &Gm /Gm(| 
+ 
+25/ nCp K oL\ ]G| %/L] &5/-   
+nL| :| )acK|K[ |C|1K[K1p 
+&+  n5| P[ P[ ck  
+n5| }K|a?T|(a &(]5/}(bK| 
+ac/X1 Ga ]X /)%c- %/L] 2K a+[ 1G|Kc- [:    
+ 
+25/ nL|a nCp K ]G| %/L] /Ta Lm {5a  
+&kp a/}G|1(\ Lm a}G|c 2Gc 2K n+1-   
+n5| 2# ?gc P[ [Lmr(a   
+ 
+C/ 2
+
+----- diversity: 1.2
+----- Generating with seed: "n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &"
+n)a}- K|1 a:1K   
+ 
+G| `[5}c/B| )p bg/ &Gp ]X|1  
+X 1/X K &: `|acL1K[  
+2K Z)bK[(\ \ n5[ k1  
+25/ nCp K [C[K[- &+   
+aGa &)p aG| &C/1 1T| ?P/ )c 1|+p 1X]p   
+ 
+K ?)b(}a Lm &)] }L] &)p [X1  
+nCp Ga}r &)p [Lmrp ?[#a  
+5]K|1 (| ]P/1 &8 &G%K1 ck p+  
+nL| nCpKKb- KZ:p 
+2K ]#1 n8 ]L0 (| K cTa  
+)c (| &8 Z[8ca Lm &)p G| P[ 
+25/ nCp G| :[1 %G| %/L] }G| 
+&k cXca Gdc K Z[)}K[ K ?C/K} n)2 })[1  
+ 
+|Gca Lm oK^Ga%Ka C/1K| %/L] 5|1p   
+)c ]G|1r 2K [5
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+30346/30346 [==============================] - 11s 356us/step - loss: 0.8822
+
+----- diversity: 0.2
+----- Generating with seed: "  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+"
+  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+ 
+K /:| ^G1 ck a: (| K }G|  
+K|1 25| b+ }g1 |#]1 {|?-  
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+25/ nL|a nCp K ]G| %/L] }/5c 
+&k nCp ac)}c Lm 2K }La (| Z)}Kc  
+nL|a [)p1 nCp K ?8{K|p  
+K|1 oP/ [X}  
+&k nCp a[+?c n)2 n)[-1 )p aXp   
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+2K ]G| nCp K ]G| nCp K ZLc(\ &8 %+[ 
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+2K [#1-
+
+----- diversity: 0.5
+----- Generating with seed: "  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+"
+  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+&k a51  n)0 ck ?8{K|p Z+ (| K %L} (| a?+c(\ }n5] 
+ 
+25/ nL|a nCp K ]G| %/L] }/)c 
+ 
+2K ]GZ(} [P\/-  
+X acL}KcK1 K|1 nL| &kp 1/+m8-p  
+K|1 nX[ cg} 2K }L|c 
+:m &+ cL\ nLc nCp K|1 &+ nCp }nXc  
+[5p  ck Z+ })}c (| 2K a?+|(\  
+X 1L1 ]Ga Lm &)p ZC} 
+nL| nCp %P/ nCp K|1 2K ^C|c 
+ 
+2K 5|cK| Z)bc(1 2K /5|c K [)p1   
+ 
+25/ nL|a nCp K ]G| %/L] }/)| 
+ 
+Gp ]Lc ]Xc a51    
+ZLc Z+
+
+----- diversity: 1.0
+----- Generating with seed: "  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+"
+  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+ 
+nX[ /)[- nCp K &Gm {Lac n+ nX X[  
+ZLc )c 1/)[r 2Gc b+ nCp [)c- 
+ck Z+ 2K ]ka }8{r|5% 1L|K] ]K}ZG}  
+ 
+K ]P/ K ]G| nCp ?[L]Zr &+ }L|ac L? K Z5c ZXc  
+ 
+25/ nL|a nCp K }P/c X 
+25/ nL|aK ]P/ ?C/1K|1 &C/- a:a  
+&k [LmK[ Lm })[1 {Lac G% ])a1r ]P/ |Cc %P/ Z[G} 
+Tp %/5|1 ck 1+ '[G| 
+K|1 n+ }:[- [Xa  
+ X b+ [8|1 C| &)p ZCc-  
+C% K%5/ )p 2K %k1 Lm 2K c+[   
+ZLc n+ oL\ {Lac |T [8 %8a 
+ &+ a51 n)2 K ^ok| 
+
+----- diversity: 1.2
+----- Generating with seed: "  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+"
+  
+ZLc ok[ |8 oka oP/ ck[ Gp 2K ^#{    
+ZLc n8[p [X| aL} r)|a K|1 k1  
+ 
+{5a- ok ]#c nC|c 1Lp b+c 
+K|1 G\ ]GZ(} )p aGac }}P/]  
+ 
+K }P[1 ck %[Pac51 8[ }#m 2K n+1p  
+ZLc 5a &)]d/(1 [P\ (| %P/|1 &8 {Ca 
+ 
+ 
+X nCp n8 n8 nCp (| %P/ (}a)[1 k1 {X|1  
+ 
+ck &+  ok 1(m8K(\ n)[- n)2 K /X}nK|   
+)p &+ a51  nX?c }k&:  
+ 
+]X|  ok ZP%KaK|a  K|1 ?[#ac   
+ 
+1 2K n+ C/1 1k /Xc P[ k  
+ 
+}K{5|1Kc ?ra?/(}a^5| %/LZ &+    
+ZLc X 25/ nL|a nCp K ^)| |#]1 {ok- 
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8794
+
+----- diversity: 0.2
+----- Generating with seed: "C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L]"
+C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L] }/5a 
+&+ anC['1 K|1 K ]G| nCp ZP[p 
+&+ nCp ng1 &+1 |Cc ]P/  
+C/ 2Gca ]P/ nCp K [X1  
+/X] &)p }C} (| 2K }P/1  
+K|1 C| &)p ZC}  
+K|1 oP/ }L] %P/ 2K |5] 
+ck 5[Z(\ nCp |#]1 }K|a81 (|  
+K ]G| )p aX ]X ZP[p /PK[ 
+8p 2K }/+p 
+Gp }C}(\ 2K 1#1 }C](\ &8 }n5ar  
+ 
+25/ nL|a nCp K ^8[ |#]1 {#a  
+&k nCp an+? n)2 +[  
+Lm &8 c)}K[ }#] %P/ }[#1  
+ 
+25/ nL|a nCp K ^8[ |#]1 1K}Xr ck ]X |#]  
+ 
+25/ nL|a nCp K ^8[ |#
+
+----- diversity: 0.5
+----- Generating with seed: "C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L]"
+C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L] }/51  
+&k nCp ?[LaK1 n)2 ]:p  
+b+ nCp aL]ZKZr 2K %#a  
+ 
+25/ nL|a nCp K ^8[ |#]1 {C|{  
+&k nCp ?[L](\ n)2 ]#[ n)2 K a?k|  
+b+ nCp a}/#? &8 ck a: (| %/}n5| &+   
+ 
+ 
+25/ nL|a nCp K ^8[ |#]1 {#a %P/ }/Pc 
+Gp &+ }C}c 2K [Xc (| K %[k 
+ 
+25/ nL|a nCp K ^8[ |#]1 1K}C/1K| 
+&k ^5[ac C| &8 %/L] Z2r  
+)ca ]L0 cL} )c    
+X |: a5}a nL|a ng1K|c }nXc |Cc  
+c#[ n)2 K ^#m P/] 1)1  
+ng1 /(?[Gc Lm 2K /X1  
+nCp 2K 
+
+----- diversity: 1.0
+----- Generating with seed: "C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L]"
+C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L] }/)?c &5/  
+&k &G1 )ca Lm 1G]oKaa  K|1 ?[gc &8 5/-   
+)ca ]C^{  : C/ nCp n#bK 1 }C}a  
+&+ dPc }G| Gp }#] }nXr ck a#m   
+ 
+ZX(1 ck /5?r ck &+ nCp }#] ng1 %k1  
+Gp &+ nCp 1L2K }5|c 
+ck |5}acr1 2K [#1-  
+&51 2K }K|m5/(\  X[ ?G[ 
+2K [)]r(} ]G| a)]?c |X|1r  
+K|1 C| &+ a51 c)[ K }okZ(} 
+&k nCp }[+]Y1 ck ]X| d)\}  
+Gp 2K ^/G?(1 K|1 aL0 )pp   
+[#]1 ^/Ga K|1 b+ /4}cL}(c  
+G% Tc /(%5|1(1 2K acLc  
+ ^Xmp ZL
+
+----- diversity: 1.2
+----- Generating with seed: "C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L]"
+C?c &8 &GZKc  
+ 
+25/ nL|a nCp K ]G| %/L] }/)?c K c5/ 
+K|[1a n)2 K /C[  
+)c |Cc %#[  
+2K 1P[ Gc a51 cXc }nG}  
+K|1 |Xa G%c }Gc &T %C]^Ka ^[Ga 
+ 
+)p |k n)c nCp %/L] +m(|  
+ 
+25/ nL|a nCp K ^8[ |#]1 1K0 a)\}  
+&k anC['1  n)^ k1 |Xc [5}a    
+ZLc -P/| Lm nCp %P/ K &:[ 
+K pX(\ ^C/ a]ZPc }K|c5mr  
+cg| &8 ?+/(a |Cc [X}r  
+%5[ ^Xc K ^#{[  
+ 
+K c#} K /:1 ^C1/  
+25/ nL|a nCp K ]G| /)[- )% G| Z/k1K[  
+&+ nCp ^Xm ck a+ 5|a 
+c/5^r aL1 {)|c |Cc Tc K|1
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8711
+
+----- diversity: 0.2
+----- Generating with seed: "k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+"
+k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+&kp ?/X1 nCp cg] }K|c2Kp /Xc n)2 +}nK[p  
+X |Lca [X} K|1 a}k|+ 
+ 
+25/ nL|a nCp K ?[')% }#| 
+&k nCp ^:|c &5] ck K %[#| 
+ 
+25/ nCp G| :[1 %Gc %P/ K ]G| 
+&k nCp ac)}a ^5c [X} K ZL| 
+1 |: ]X ?+ a: (| K c+   
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+K|1 ?Gc &8 ZC} Z:[ 
+ZLc &)p ZP[p Lm &)p acC/}  
+K ZLc }/Xp %g1 ?+|  
+&+ cL\ ]P/ K &Gm %L} Lm 2K a?+| (| 2K /k1   
+ 
+25/ nL|a nCp K ?[')% }g1 (| K &5a  
+&kp |L2r a5} 
+
+----- diversity: 0.5
+----- Generating with seed: "k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+"
+k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+&kp ?/5]bK|1 &Gp K ZC} 
+K|1 a)% og[ |#] a5/c nCp %C/bK| 
+ 
+25/ nCp G| :[1 ]G| |#]1 {+a  
+&kp acC/1 K|1 aXp  &+ 1/X acC/ |Xc  
+ 
+25/ nL|a nCp K ]G| %/L] ]G| 
+&k nCp m5}ac Lm K Z+ &)p ng1K| 
+&+ nCp K a}C?c &)] a5}a  
+K|1 ok ?[La ^)1K[  a:   
+ 
+25/ nL|a nCp K ]G| %/L] ]G| %/L] }[+1 
+&k a51   nX[K ZXcK1 &8 %5/ 
+25/ n8 2# ]L\ ^8[ %/L] Z/ka 
+ 
+25/ nL|a nCp K ^8[ |#]1 [#1 [5a 
+&kp Z/+^p1 nCp %#] &kp ?/Xa
+
+----- diversity: 1.0
+----- Generating with seed: "k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+"
+k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+&k &G1 ?C/Kc- an5c  X] 1 }P[  a+   
+ 
+b+ nCp a}/k1 &8 b+1 2K &GZK[ K|1 1T|  
+%P/ 2K ?C/c n+ b+ ]5|c 
+ 
+/)[ ^: 1T| 25/ }nX[ a51 1)|  
+}#]1 }k[r Lm 2K Z[+}(\ K ck a)| Zk  
+&+ &+ aL}/- |Cc /)\}  
+(| 2K ng1K|c ^/: 1La 
+ 
+25/ nL|a nCp K ?[')% Lm Z)}r  
+&kp ])a %P/ K ^8[ 
+&k &G1 |Cc ]P/ nCp b+ n/CaK[ (| a[)c Gc  
+C/ 2# }K?)c (| 2K ^8[ 
+&kp ]L2K a51   G}  
+(| K m5/- ?[5|c 
+ZLc ck Z[ka nL|anK[ }L^ (| a5}a
+
+----- diversity: 1.2
+----- Generating with seed: "k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+"
+k1  
+ 
+25/ nL|a nCp G| :[1 ]G| Lm 5ar  
+&k &:?[- (| o5acr %/#  
+K|1 `|ac)?a (| Z/#[  
+K d n5| )c Lm b+ a[+1 X /G\} 
+%/L] K o2r  G%?rc/=p K an5}Kc 
+[kp a8|ok (| Z/X1 ]#1 |#]1 [+a   
+b+1 Z[#[ ck [8|Cca ]P/ K %81 
+ng/ acC/} KZ[X1  
+X] }#] c)[ &+/ %L| (| 2K dHk  
+/T|1 d/k %8a ck %#[ p+c  
+\^p |Cp1r Lm 2K }L| n)a}}- K%)/p+K[+  
+?:|c /&+ [Pa %P/ K|1 1C? K %[#| 
+ 
+25/ nCp G| :[1 ]K]||- [Gc Lm }%)r %/L] }n)} ^T  
+(| }n): `|cL](|c 
+nCp Z^)pp1 K 
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8692
+
+----- diversity: 0.2
+----- Generating with seed: "kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac "
+kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac ]X a# C/     
+ 
+25/ nL|a nCp K ]G| |#]1 {#a 
+&k &G1 K ]G| nCp }G] %P/]P/  
+n)2 &)p acL}KK[- [X} K|# a[)2   
+ 
+25/ nL|a nCp K ]G| |#]1 {#a 
+&k a51 ck &8 }nXc nCp K ?G[ 
+ 
+K|1 ok ]LZK (| %P/ |5mr|C|c 
+nL|a a)ca (| 2K 1T| |#]  
+&+ nCp ac)} 2K |: nL| &+1 }L]rp  
+25/ nL|a nCp K ]G| |#]1 %/L] 
+&k anC['1 K|1 nCp }P/1 }K0|5]ojp  
+n5| 2K ?g[ nCp K /k]  
+n)2 &)p /:| (| 2K a}P/ 
+ZLc |Cc &+ }G|c 1LZ ^K]+c 
+nC
+
+----- diversity: 0.5
+----- Generating with seed: "kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac "
+kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac ]X aXc  
+nL| nL| P% 2K |5| 
+ck 25] cL\ %L}(\ 2K &+ 
+nL| nCp P[n$p Gc }G] 
+K|1 |T b+[ )c nCp }nXc ]#] 
+&+ }L]rp  nL| &)] %/# 
+K &G1 K 1P/ oL\ ]G| &)p }L] Gc  
+nCp 2K aL]r(\ &)p }C} 
+nCp 2K /(1L}bK|1 n)2 &)p nL|  
+b+ n5|c ck 2K [5| 
+&k nCp +c &8 }/Pc 1T| 
+mC^/
+|1 |8a  ck %8ac ok ]F\}&G|bK? }G|-   
+ 
+25/ nL|a nCp K ]G| |#]1 {#a 
+&k %5|1 P[ 2K ?+|K [X| ck ]Ld ]+  
+ 
+ )% 2)a}Lac Lm &)p }C]r   
+ 
+25/ nL
+
+----- diversity: 1.0
+----- Generating with seed: "kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac "
+kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac ]X aXc  
+nL| X1 25| &+ a51   
+K|1 25| P[ ok 5m/- ]+p  
+Z)% &+ &G1 }Gc &)] ck aT 1(mX|p  
+ 
+25/ nL|a nCp K ]Ga |#]1 ?rk 
+&k %5[c m5/- &:| 
+ 
+25/ nL|a nCp K ?8m(| |#]1 %/k 
+&k ]5a d)\ |k nP/ 2K a)| Lm }/Ga 
+ZLc ]Ta |T )pc- okp %P/ K ?G[ 
+oP/ K }k} &+ |cn5] Tc aG\} L| 
+2K aL[r nCp c/+?(\ cX] a[P/   
+ZLc Z)Zp &)p %/CZKc 
+&k [g}c )c }[G} 
+2K /(]5[K[ )p K ?)[ 
+K|1 ?)c &8 }nXc nCp }#m ck ]X Z:   
+ 
+/G0p 
+
+----- diversity: 1.2
+----- Generating with seed: "kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac "
+kp |C[K{ ^/k [5ar K|1 [5ar  
+)c Gc [Gac ck %C^ Pc/= ZG}  
+&+ /X1 nCp }Gd(\ K [L] 
+&G1 r ck )c L? ck ]G|  
+%5[ g[% nCp  n)2 ]C/' T| ck K d/+ 
+km1 &+ bC/c aj)c (}c/5]bKZ ck ^8[ a8   
+ 
+n5| b+ n5|c ck ]L0 &)p ^8[ 
+&k %C/1 |Kp /)} :[5/ {5ac |Cc ]K}G[ 
+25| n)[ X}n$c Lm &)p 05|c oL\ 1(mX|b(1 Gc  
+n:} %/L| %/L|KZr   
+}Kp 2K /4}[#b ck {C}  
+2K %L|c 2Gc &+ %T| 2K okd  
+ZX # )c ?/T|KZ/P/(}CpKp  
+&+ ^Cc &P/|  2Gca |Cc n8 ]X nL| Kd/+ nCp   
+[)pa K 
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8718
+
+----- diversity: 0.2
+----- Generating with seed: "ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp"
+ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp K ]G| |#]1 ?+|- 
+&k nCp ac/:{(\ &8 }/)} (| 5] ZLc   
+ 
+25/ nL|a nCp K ^8[ |#]1 ?[X| 
+&k }g1 ck }n)} ck ]P/ d)\ ZX  
+Gp &)p &C? a5|cK[ Lm &)p }C]r  
+K|1 |T ck )c   )c ]P/     
+ 
+25/ nL|a nCp K ^8[ |#]1 ?[+a  
+&k ^Cc }[GZr &Gp K &: 
+ 
+25/ nCp K oL\ [#1- %/L] }/k   
+&k ^5c ck 2K [#1 ck }K|a5mr  
+2K }K|cL}K] [#1 Lm &)p ^/#a 
+ 
+25/ nL|a nCp K ]G| |#]1 ?+|- 
+&k nCp ac/:{(\ &8 }/)} (| 5] 
+2Gc ck ^: )c K
+
+----- diversity: 0.5
+----- Generating with seed: "ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp"
+ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp K ]G| |#]1 {+  
+&k nCp a: &P/ca [P/ K ]G| nCp Z)c  
+n)2 K /L|c [5/-  
+&+ cg} Tc K|1 &)p }C|a 
+nL| 1X 25/ ^#m :|1 ok [#1- 
+ 
+25/ nL|a nCp K ]G| |#]1 {)|- 
+&k nCp ac/:{(\ &8 }n)} }/Pr 
+cg} Tc K|1 &)p ]G| nCp Z]P/ |Cc 
+nCp ck %/L] &)p &:]  
+&k nCp ac/:?cK1 ck )c )c n5| &+ nCp an+| 
+nCp 2K ]:| Tc aL\}  
+2Gc b+ [Xc 2K ?/)}a (| ]P/ 1L1  
+nCp 2K ng1K[ }#] ck 1X 
+25/ nL|a nCp K ]G| |#]1 ?[k| 
+&k ng1 %G% 
+
+----- diversity: 1.0
+----- Generating with seed: "ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp"
+ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp K bC/}a |#]1 [Ga 
+&k &G1 b+ }G| (| 2K Z)bc 
+K|1 [)]GpKp }#] ng1K| 
+ 
+2K b+1 C| 2K ?/+^/1  }okZ1  
+?6/5acr1 &)p ^8[ }C](\}c }G|  
+}G0 &+ 1/L|c 5/-  
+ 
+25/ nL|a nCp K ^: 
+&k }n)2K- (| K &G%/K|K1 }C](| 
+&+ a: ck }[)} (| Gc &+ nC|c K /5[- +p 
+b+ aL0c b+ }5^K|  
+ K c/Lm Z(^(a}P/ 
+b+1 ^)m ]P )c Z[Ga K ZLc  
+n)] ?+|(a C| &)p ]P/{K|K| ck ^5c 
+|X|1 &)p ]Ga &)p Z+}c Lm K 1P/ a+| 
+1PK|- oL\ [#1 ]P/ Gc &8 
+%
+
+----- diversity: 1.2
+----- Generating with seed: "ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp"
+ac51 b+ n)[ ZX &)] K Z:c 
+ 
+25/ nL|a nCp K Z+ %/L] ?+(\ }GacKa 
+&k aX1 }:a(&(}a?5?[-  
+nCp c/LaK[1 d/L] }G0 &k &G1 K [)ca  
+a: &+ %5[ C/ &)] (| &8 {#|  
+K|1 )ca )p 2K }P/p |#mp 1PKa 
+ 
+2K %#2 X &+ }g1 |#] a%#[ [#1 
+[: +/Kac ok ck ckmr %+[(a   
+ 
+K oL\ ]G| Lm &)p ac)[ }#?   
+ 
+K ?/kp nCp aG1 &)p }C/a |Kk]M  
+ 
+2K okp Gp &CK| n8}K| 
+2K n8}a Lm &)p Z:^Kp 
+^Cc 1T| cL|1 5m1 X  
+ 
+25/ nL|a nCp K [#1- %/L] ?+|0 [5c rT|   
+25/  8p n)2 )c G? {ka
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+30346/30346 [==============================] - 11s 355us/step - loss: 0.8676
+
+----- diversity: 0.2
+----- Generating with seed: "5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K Z"
+5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K Z[Gac Lm &)p }C}  
+ 
+25/ nL|a nCp K ]G| %/L] }/L] &5/a    
+ 
+25/ nL|a nCp K ]G| %/L] }/L] &5/a &jP^ 
+a51   : 1}  ok aX1K[   
+ 
+25/ nL|a nCp K ]G| %/L] |F|cL}(c 
+ 
+nL| ]G| nCp K &G?  
+b+ a51 n)2 K ^/#| 2K |5c 
+ck |: nX[1 ]P/ aX|   
+ 
+25/ nL|a nCp K ]G| %/L] }/Ta 
+&+ nCp ZP/(c nCp +/Ka  
+2K }/Gac Lm &)p ]5|bK|  
+%P/ K a?/)} |#]1 ?G|c 
+n5| b+ )c Lm &)p ^C^  
+b+ a51 n)2 K ^/G|1  
+K|1 |T b+ ok1  
+n5| b+
+
+----- diversity: 0.5
+----- Generating with seed: "5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K Z"
+5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K ZL^(a /k[ [)m )c [5c Lm |Cc 
+b+ acg1 G| C/ ]X aX1K|  
+%/k &8 &5/ n)2 K ]5|c ]ok [# Ga  
+K ])aK[ X |5}c a: 1 d/+ 15|  
+ 
+25/ nL|a nCp K ]G| %/L] |F|cL}(c 
+ 
+nC[ac 1T|1 |Pc [Ga 
+K|1 2K }/+p Lm Z5[ 
+K|1 2K %#ZK^[ Z+ c/P[ 
+ 
+25/ nL|a nCp K ?L| %/L] |F|cL}(c 
+ 
+nL| aG| : [#1 C| &)p Z/GaKp 
+1(mX|Ka &+ [5c Tc Lm }[G21  
+K|1 |T ak|  X %8   :  
+a51  2K a#] ng]K| &+ }[#] 
+ZLc &8 }X|1 )p 2K 1/G\} 
+)p aX1 K /)
+
+----- diversity: 1.0
+----- Generating with seed: "5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K Z"
+5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K ZP[ c#[1 nL| ^/#|  1)ac 
+C% Ga}C/- 1/G\}K[- [)|1 +p 
+b+ a51 n)2 K ^/#| 2K ^/Ga 
+ 
+G| ?[#1 Z)ca %P/ |58ca 
+cg1 (| K &G? nL|a K|1 ]K}Gm ]#1  
+}Kp 2K a8[ 1+ 2K |Cc %P/ 
+K]1 %L}c(\  
+n)2 K ZP[ 1)} }K|X &8 &C}bK|   
+ 
+ZLc X X m5/- ?CpK|c &P/ 
+K|1 [X|1 %P[ aL%/Ka+  &)p ZC} cGc   
+Z: +?  )ca Z)ca ]C/} ]P/  
+Xm 2K }5[ 2# ck [5ma   
+ZXcbK[p Lm aP% b)c 
+&)p aP% ok ]5c an+ %k[p  
+%/L\ a#|c [5c &T nCp Z)c 
+G| 
+
+----- diversity: 1.2
+----- Generating with seed: "5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K Z"
+5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[ 
+ 
+2K ZL]p- K ?[+|a  Gc ]ok [Lm )c ng1 }C} 
+K|1 a51 (| 2K 5|ca(/k |:p  
+ 
+25/ nL|a nCp K ?C/aK| |#]1 ?[X| 
+&k [5mK| aL%/K[p ZG|1= Lm &+ n#[ 
+c: Gc ^okc Lm a5}a n)[- 
+(| 2K %/L|1K[ /G?{Kc ]mK{K|Kca [#1 [Ga&X(p ]#1  
+1:|c }[#] Lm &:] ZLc }/G}(c  
+%P/ K aX1K1 {)|c bg/ Z)|  
+1(mXZr aXc   
+ %X[nK|p ck ckcr /)]K[ }[L]p   
+ 1/)cK[ K|1 a2rd5[
+Kc(a nCp  nk1 ak|  W/kp  
+ 
+2}Kp /[GZ{K[p nP/ }/X1  
+b+ [:1 G| P[ bG| 

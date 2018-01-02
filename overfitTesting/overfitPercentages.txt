@@ -1,0 +1,40 @@
+overfitting statistics for output 3
+overfitPercentage: 0.05470401691331924
+numOfOriginalLines/numLines: 0.9452959830866807
+numOfConsecutiveOGLines/numOfOriginalLines: 0.4867207156835337
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.06835152211372775
+overfitting statistics for output 4
+overfitPercentage: 0.28069180606747945
+numOfOriginalLines/numLines: 0.7193081939325205
+numOfConsecutiveOGLines/numOfOriginalLines: 0.42018131651556956
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.0647279549718574
+overfitting statistics for output 5
+overfitPercentage: 0.24753623188405796
+numOfOriginalLines/numLines: 0.7524637681159421
+numOfConsecutiveOGLines/numOfOriginalLines: 0.4310477657935285
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.0580875781948168
+overfitting statistics for output 6
+overfitPercentage: 0.26141913243320886
+numOfOriginalLines/numLines: 0.7385808675667912
+numOfConsecutiveOGLines/numOfOriginalLines: 0.41851419681057955
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.07342007434944238
+overfitting statistics for output 7
+overfitPercentage: 0.1859583216455458
+numOfOriginalLines/numLines: 0.8140416783544542
+numOfConsecutiveOGLines/numOfOriginalLines: 0.44892938615813416
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.07206428168904608
+overfitting statistics for output 8
+overfitPercentage: 0.19087782831337158
+numOfOriginalLines/numLines: 0.8091221716866285
+numOfConsecutiveOGLines/numOfOriginalLines: 0.44682234310733715
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.06958260335936495
+overfitting statistics for output 9
+overfitPercentage: 0.2257955884829096
+numOfOriginalLines/numLines: 0.7742044115170904
+numOfConsecutiveOGLines/numOfOriginalLines: 0.4354066985645933
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.07692307692307693
+overfitting statistics for output 10
+overfitPercentage: 0.23312573640801212
+numOfOriginalLines/numLines: 0.7668742635919878
+numOfConsecutiveOGLines/numOfOriginalLines: 0.43437225636523263
+numOfOriginalRhymes/numOfConsecutiveOGLines: 0.0606366851945427
