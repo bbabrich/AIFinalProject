@@ -61,7 +61,11 @@ latent_dim = 256  # Latent dimensionality of the encoding space.
 num_samples = 120000  # Number of samples to train on.
 # Path to the data txt file on disk.
 #data_path = 'fra-eng/fra.txt'
+<<<<<<< HEAD
 data_path = "cmu_po.train.tsv" 
+=======
+data_path = "cmuDict_seq2seq.txt" # change this to "cmuDict.txt"
+>>>>>>> chaseBranch
 
 # Vectorize the data.
 input_texts = []

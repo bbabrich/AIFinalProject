@@ -1,0 +1,6705 @@
+match found
+lineX: 2: )c nCp %L| Z/+1(\
+lineY: 2: )c nCp %L| Z/+1(\
+matchingWords: 
+2:, )c, nCp
+match found
+lineX: 2K c/"
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: c K|1 cGc
+lineY: |#]1 |Gc K|1 ?Gc K|1 cGc
+matchingWords: 
+K|1, cGc
+match found
+lineX: (| a51 &+ %/L] 2K ]Tac [5c
+lineY: a51 &+ %/L] 2K %[P/
+matchingWords: 
+a51, &+, %/L], 2K
+match found
+lineX: X] b+p n5c
+lineY: |T 5mr- cX] b+p n5c
+matchingWords: 
+b+p, n5c
+match found
+lineX: b+ %P|1K[p &8 ?5c
+lineY: b+ %P|1K[p &8 ?5c
+matchingWords: 
+b+, %P|1K[p
+match found
+lineX: K|1 |T b+ )c K 1)}
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: K|1 |T b+ )p [Lmr}K|
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZCacK|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp ?//L|0
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: 25/ nL|a nCpPa
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: nCp 2K
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: K|1 |T b+ )ac
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: 25/ nL|a nCp K ng]K| |#|1 K ZC/}(m
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: %5ac P[ &8 c/(}[#1
+lineY: b+ ^Cc P[ &8 d/)[p
+matchingWords: 
+P[, &8
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/CZp
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ %5['C' %/L] Z/g0
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: 25/ nL|a nCp K %5[' |#|1 &G\^]r[ b/L|
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZCac
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K ]#1 %/L] ]G1 [k
+lineY: 25/ nL|a nCp K ]#1 %/L] ]G1/Ka
+matchingWords: 
+nCp, K, ]#1, %/L]
+match found
+lineX: n5| b+ nP[ aL
+lineY: b+ %C/ca n5| b+ a|+p(p
+matchingWords: 
+n5|, b+
+match found
+lineX: n)2 Gp ck 52r5[
+lineY: Gp ck nLc 2K Zkc a5}cr bg1 a#
+matchingWords: 
+Gp, ck
+match found
+lineX: 25/ nL|a nCp K [#1-
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 K &Pc acL}
+lineY: K|1 K Z81 K|1 K ZLac K|1 K 1P/
+matchingWords: 
+K|1, K
+match found
+lineX: 25/ nCp K oL\ ^8[ C| %/L] ZCac
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &)p }L]?cK
+lineY: c)[ &)p :|r ]5c %:[-
+matchingWords: 
+&)p
+match found
+lineX: K|1 |T b+ )c K 1#]
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nL|a nCp K ^8[  ]X|K G| /5ac
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc &)p }:p
+lineY: &+ c/X1 ck 1k Z5cr  ZLc &)p nX% }g1K|c ^5c n5cr
+matchingWords: 
+ZLc, &)p
+match found
+lineX: &+ [)m1 C|
+lineY: &+ [)m1 (| |5mr[F|1 K|1 &+ P[n$p n#m1 &)p &G|1
+matchingWords: 
+&+, [)m1
+match found
+lineX: ]+ ?+
+lineY: K|1 a#  ^)m ]+ ]P/  ^)m ]+ ]P/  ^)m ]+ ]P/
+matchingWords: 
+]+
+match found
+lineX: nL| |Xc b+ ^Cc [)c
+lineY: nL| |Xc b+ ^Cc [)c
+matchingWords: 
+nL|, |Xc, b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1 aK|:Z(\
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc &)p }[)?r^/? (|
+lineY: &+ c/X1 ck 1k Z5cr  ZLc &)p nX% }g1K|c ^5c n5cr
+matchingWords: 
+ZLc, &)p
+match found
+lineX: %5[ )c nCp 2K }5|1
+lineY: )c nCp 2K m)}r 2K 18c- :[1 aC1
+matchingWords: 
+)c, nCp, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 1rP/ ?/G|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp G| :[1 a#} |#]1 %/L] |#1
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: nCp ac8\
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: K|1 C| %C/c Lc
+lineY: K|1 C| &8 Z(&X|1  %P/ 2K a#} Lm 2K Z[X|1
+matchingWords: 
+K|1, C|
+match found
+lineX: ^:
+lineY: {Lac [Lm1 ck ^: 1G|a(\ C| a}#ca
+matchingWords: 
+^:
+match found
+lineX: K ]:
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: &k /(]C/}c ck &)p ^8[  okm K }K|a5a
+lineY: &k /(]C/}c ck &)p ^8[  okm K cXc nL|
+matchingWords: 
+&k, /(]C/}c, ck, &)p
+match found
+lineX: 25/ nCp K oL\ ?8?rm[5}bK|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: ck 2K }G}
+lineY: %/L] nL| ck 2K }okZ /kc Lm d/+
+matchingWords: 
+ck, 2K
+match found
+lineX: 25/ nL|a nCp K ]G
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: a51 2K 1LpK|c ?5/(a
+lineY: a51 2K ^8[ &k nCp |:| Gp c+ 5}a
+matchingWords: 
+a51, 2K
+match found
+lineX: 2Gc &)p ]Pa a5|1
+lineY: K|1 %T|1 2Gc &)p }C|c4|ca n8 Z[G\}
+matchingWords: 
+2Gc, &)p
+match found
+lineX: 2# n8 c)[ &C/}KZK[-
+lineY: 2# n8 %/5|1p /Xc 1T| ck 2K %)| |K0
+matchingWords: 
+2#, n8
+match found
+lineX: &k /(]C/}c ck &)p ^8[  okm K a[g/' ck ^k
+lineY: &k /(]C/}c ck &)p ^8[  okm K cXc nL|
+matchingWords: 
+&k, /(]C/}c, ck, &)p, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }5|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &+ a51
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+&+
+match found
+lineX: C| 2K ?nX[
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: C|
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|
+match found
+lineX: &k /(]C/}c ck &)p ^8[  okm K a[g/' 1Lp &8
+lineY: &k /(]C/}c ck &)p ^8[  okm K cXc nL|
+matchingWords: 
+&k, /(]C/}c, ck, &)p, ^8[
+match found
+lineX: &kp n
+lineY: &kp :|r nCp K ZXZK[ Z([+mr
+matchingWords: 
+&kp
+match found
+lineX: &k /(]C/}c ck &)p ^8[  okm ?:|
+lineY: &k /(]C/}c ck &)p ^8[  okm K cXc nL|
+matchingWords: 
+&k, /(]C/}c, ck, &)p
+match found
+lineX: 2Gc b+ ]#1 K ?)}c
+lineY: b+ ]#1 K [)cK[ aC[aK 5mr- cX] b+ %C/c C
+matchingWords: 
+b+, ]#1, K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 ]Ka[5c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K [#1- (| ^/CcKa
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: 25/ nCp K oL\ [#1- Lm |#]1 c5}ac
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: K|1 2K }nX[
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 5m/L|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)p 5dG}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K [#1- (| ^/CcK|
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: &k ^Cc K ^:
+lineY: K|1 |T &+p ^Cc K ]G|{X|K
+matchingWords: 
+^Cc, K
+match found
+lineX: ng1 /)\?[
+lineY: n5| (m5|c ng1 K}8
+matchingWords: 
+ng1
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 &Cc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 d)}r K|1 2K 1/X
+lineY: K|1 d)}r K|1 a[)}r
+matchingWords: 
+K|1, d)}r, K|1
+match found
+lineX: &+ ^Cc }Cc ^
+lineY: &+ ^Cc )c %P/] ZGpK[1(| pk
+matchingWords: 
+&+, ^Cc
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/CZ1r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ [#1- Lm }/}/kd
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: [X}a ^5c ck 52'1
+lineY: 1)1K|c ^5c ck %C/
+matchingWords: 
+^5c, ck
+match found
+lineX: cnLp K 15d &+  |: 1Tc &8 n8 &5[
+lineY: cnLp K 15d &+  |: 1Tc  ng1 0kp
+matchingWords: 
+cnLp, K, 15d, &+, |:
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 ?[#1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L] n)\c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: cnLp K 15d &+  |: 1Tc &8 ^/:|1 Z/X1r
+lineY: cnLp K 15d &+  |: 1Tc  ng1 0kp
+matchingWords: 
+cnLp, K, 15d, &+, |:
+match found
+lineX: 25/ nL|a nCp K ]G| G| %/L] ]G1/Ka
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K Z[L1- nCp Z/#m
+lineY: n)2 K Z[L1- /)?
+matchingWords: 
+K, Z[L1-
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 G\}(+
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: cnLp K 15d &+  |: 1Tc &8 n8 ]C/p
+lineY: cnLp K 15d &+  |: 1Tc  ng1 0kp
+matchingWords: 
+cnLp, K, 15d, &+, |:
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/ka
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] K ZL}(c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: cnLp K 15d &+  |: 1Tc ?#?
+lineY: cnLp K 15d &+  |: 1Tc  ng1 0kp
+matchingWords: 
+cnLp, K, 15d, &+
+match found
+lineX: n8 Gp &)p a}Cc
+lineY: Gp &)p %P/dQc K|1 }5/
+matchingWords: 
+Gp, &)p
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 K ZCac
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp nL|a K ]G| n)2 n)2 nXc ')c (|
+lineY: 25/ nCp nL|a K ]G| %/L] |F|cL}(c
+matchingWords: 
+25/, nCp, nL|a, K, ]G|
+match found
+lineX: ZLc &8 }C}
+lineY: n5| b+ ?g[1 Tc &8 }C}
+matchingWords: 
+&8, }C}
+match found
+lineX: ck ?
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: cnLp K 15d &+  |: 1Tc
+lineY: cnLp K 15d &+  |: 1Tc  ng1 0kp
+matchingWords: 
+cnLp, K, 15d
+match found
+lineX: 25/ nL|a nCp K ok?
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1 a#
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 2Gc &+ ]Lac 1=}K]?:p
+lineY: ck |: 2Gc &+ ]Lac 1=}K]?:p
+matchingWords: 
+2Gc, &+
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {+(}
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K ]L2r a: [5^K[
+lineY: K|1 ]#1 &8 K ]L2r aj?)/-r
+matchingWords: 
+K, ]L2r
+match found
+lineX: 25/ nCp G| :[1 ]G| 1
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: C| 25/ nCp G| :[1 ]G|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: 25/ nCp K oL\ nL| r#ZK[
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 C| &8 Z/)acK| [P\
+lineY: K|1 C| &8 Z(&X|1  %P/ 2K a#} Lm 2K Z[X|1
+matchingWords: 
+K|1, C|, &8
+match found
+lineX: b+ %T|1 2K
+lineY: 1(}[5/1  n5| &+ %T|1 2K }[WcP/(a
+matchingWords: 
+%T|1, 2K
+match found
+lineX: K|1 d)}r |Cc bg1
+lineY: K|1 d)}r K|1 a[)}r
+matchingWords: 
+K|1, d)}r
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ^8[
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: d/Lac ]#1 K ]C/p
+lineY: n8 +0 )|0 ]#1 K Z+c
+matchingWords: 
+]#1, K
+match found
+lineX: 25/ nL|a nCp K ^8[  |#]1 {#|1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: %/L] K }K[L1
+lineY: }Kp 2# }#] %/L] K /5[Kc(mp ])1K[
+matchingWords: 
+%/L], K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] c)c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ Ga
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: 2# bg/[- ng1 ^Ga?
+lineY: 2# bg/[- ng1 ^Ga?
+matchingWords: 
+2#, bg/[-
+match found
+lineX: &+ %T|1 &)p }C]K|
+lineY: ck &)p &P/r &+ %T|1
+matchingWords: 
+&+, %T|1
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 &G| &G^
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| &)p %C/2K[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &+ ^Cc }C/c c]X|(bp
+lineY: &+ ^Cc )c %P/] ZGpK[1(| pk
+matchingWords: 
+&+, ^Cc
+match found
+lineX: 25/ nL|a nCp K ]G| &)p %C/2r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] }5|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25| b+ b+1
+lineY: 25| b+ }#] ZG} Gp K %[+
+matchingWords: 
+25|, b+
+match found
+lineX: %: d
+lineY: a51 25/ %:   Z(}Pp X]
+matchingWords: 
+%:
+match found
+lineX: b+ a51   )c )c /k
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: %P/ K aC}cr
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+%P/, K
+match found
+lineX: }>[
+lineY: nCp ?[#(\ n)2 Z)ca Lm :[1 }>[
+matchingWords: 
+}>[
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] }/Gac- [P]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: |T ok |: nX[1K|
+lineY: %P/ &)p nX% b+ nCp ?C[(b  ok |:
+matchingWords: 
+ok, |:
+match found
+lineX: 25/ nL|a nCp K ZqKn/X1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: b+
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: 25/ nL|a nCp K ]G| ]G| %/L] Z/C}(c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] }/Ga
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k ?[#1 n(G^|g/X| ZG}
+lineY: &k ?[#1 C| K %[kc [X} ac/Km)|a}-
+matchingWords: 
+&k, ?[#1
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] 5| a#[
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: : ^g1|Ka  : ^/#bKa
+lineY: : ^g1|Ka  : ^/#bKa
+matchingWords: 
+:, ^g1|Ka
+match found
+lineX: }/X1 %C2r `^]8ac a?p5c
+lineY: }/X1 %C2r `^|#bKa
+matchingWords: 
+}/X1, %C2r
+match found
+lineX: K|1 Lm 2K &C/cKa
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: }/X1 %C2r `^]8ac a?X]
+lineY: }/X1 %C2r `^|#bKa
+matchingWords: 
+}/X1, %C2r
+match found
+lineX: 25/ nCp nL|a K ]G| n)2 Z>
+lineY: 25/ nCp nL|a K [Por |#]1 /5}a
+matchingWords: 
+25/, nCp, nL|a, K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)%r L| /Xc
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: acG?= &G1 K /k?
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&G1, K
+match found
+lineX: &Gp K Z/Ga
+lineY: a}Cc ?Ccr &Gp K ?5c Ccr
+matchingWords: 
+&Gp, K
+match found
+lineX: 25/ nL|a nCp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: }/X1 %C2r `^|#|1
+lineY: }/X1 %C2r `^|#bKa
+matchingWords: 
+}/X1, %C2r
+match found
+lineX: 25/ nCp G| :[1 a#[1nD[Gm
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: b+ a51   [)] n)]Kp
+lineY: b+ a51 b+ ng1 1X
+matchingWords: 
+b+, a51
+match found
+lineX: b+1 ?:}
+lineY: K|1 (}a?[#|1 2Gc b+1 |5mr Z)| [#1
+matchingWords: 
+b+1
+match found
+lineX: )c nCpK|c K
+lineY: &k nCpK|c K m5/- ^g1 }[X]r
+matchingWords: 
+nCpK|c, K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)}
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: ok "
+lineY: ok #|c nX?(| Gp }[+| Gp ok okp1 c8
+matchingWords: 
+ok
+match found
+lineX: ZLc P[ 2Gc b+ nC|ca )p ]X 1)}
+lineY: ZLc P[ 2Gc b+ nC|ca )p ]X 1)}
+matchingWords: 
+ZLc, P[, 2Gc, b+
+match found
+lineX: %P/ Lm &8 %+[-
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+Lm, &8
+match found
+lineX: &+ ^Cc }Cc (| K }:]
+lineY: &kp ZP[p ^Cc }Cc (| K aC}Kc
+matchingWords: 
+^Cc, }Cc, (|
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] ^/Gd
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25| Z(d)cK|
+lineY: 25| %[)}c aL] ZG1 %[Xp
+matchingWords: 
+25|
+match found
+lineX: &+ Gp K cP/K[  |C/}K|
+lineY: %P/   a5p &+   Gp K /k[
+matchingWords: 
+&+, Gp, K
+match found
+lineX: &k }g1 +cK[- a?X]
+lineY: 25/ nCp K &k }g1 :|[- 1k 1/G^
+matchingWords: 
+&k, }g1
+match found
+lineX: &+ nCp aL}(\P[p |#]
+lineY: &+ nCp 5^p(c :|[-
+matchingWords: 
+&+, nCp
+match found
+lineX: b+ %T|1 oP/ bC/1
+lineY: c)[ b+ %T|1 2Gc )ca 1P\
+matchingWords: 
+b+, %T|1
+match found
+lineX: K|1 |: 2K /k]
+lineY: |T X |: 2K ?r%5}bK|
+matchingWords: 
+|:, 2K
+match found
+lineX: ^CacK|1 P% K ]Xr
+lineY: &+1 c#} Tc &)p ?5}r K|1 {G} P% K bCc (| 5]
+matchingWords: 
+P%, K
+match found
+lineX: 25/ nL|a nCp K ^8[ }#|1 K|1 &8ac
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: n)2
+lineY: &k nCp ZP/| n)2 ck [C/{ 1)}a
+matchingWords: 
+n)2
+match found
+lineX: &+ ^Cc 1T| ck b+ 1G]
+lineY: ^Cc 1T| ck 2K @]5|
+matchingWords: 
+^Cc, 1T|, ck
+match found
+lineX: 25/ nL|a nCp K ZL^
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/p 2)a &o]
+lineY: 25/p 2)a a5}a- oL\ ^8[ |#]1 5a 5[
+matchingWords: 
+25/p, 2)a
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] a?#|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc nCp ^)m |5mrp
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: K|1 )c %O/r C/]Kac
+lineY: K|1 )c Z8|p [X} &5[ %Xr n5| X ?+1K[
+matchingWords: 
+K|1, )c
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1 %/L] |#1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k nCp ?[L](\ &)p |: ]G|
+lineY: &k nCp ?[L](\ &)p ^8[ ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#|1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ n8 c/X]r %T|1
+lineY: 25/ n8 :|[- ck ZP[p K|1 &+ &G1 25]
+matchingWords: 
+25/, n8
+match found
+lineX: 25/ nL|a nCp K ?)/K0 ]K|G|p
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: Z+[ nL| nCp ?[L](\
+lineY: 2Gc |: nL| nCp ?/5pK|c ZLc a]C/c-
+matchingWords: 
+nL|, nCp
+match found
+lineX: 2Gc &G1 K ]Fc n)] /C?
+lineY: 2Gc &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+2Gc, &G1, K
+match found
+lineX: K|1 2K &C/c}K[(\ a5}a
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 1)1a [#
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k %T|1 &8 %L}(\ 2K ?G\} oL\
+lineY: &k ak| %T|1 &8 %L}(\ 2K ?:|=
+matchingWords: 
+%T|1, &8, %L}(\, 2K
+match found
+lineX: &k ^#m )\cr C|
+lineY: &k ^#m &)p :| &P/| K ckc )|p
+matchingWords: 
+&k, ^#m
+match found
+lineX: n5| b+ %T|1 2K }L|c
+lineY: n5| b+ %T|1 b+ &G1 |: c)c %P/ cGc
+matchingWords: 
+n5|, b+, %T|1
+match found
+lineX: X d)\} Lm 2K [+p ?)[-(}
+lineY: ZLc d)\} Lm 2K ]L|- X a#m
+matchingWords: 
+d)\}, Lm, 2K
+match found
+lineX: nCp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: 25| Z5cr
+lineY: 25| %[)}c aL] ZG1 %[Xp
+matchingWords: 
+25|
+match found
+lineX: P[ 2K acC/c}K[1 a5}a}K|p
+lineY: &+ ]#1 P[ 2K n8[p /)[- a[C?-
+matchingWords: 
+P[, 2K
+match found
+lineX: K|1 |T &+p K Zr]kp
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T, &+p
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]Ka}/k
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: }Kc Lm a+1p
+lineY: &k anC['1 K ?G}Kc Lm a+1p
+matchingWords: 
+Lm, a+1p
+match found
+lineX: K ^/#c cL%c Lm ^/Ga
+lineY: K ^/#c cL%c Lm ^/Ga
+matchingWords: 
+K, ^/#c, cL%c
+match found
+lineX: ^/k Tc K Z)\^K[
+lineY: ^/k Tc &)p Ga
+matchingWords: 
+^/k, Tc
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/CZK[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ [#1- (| %/L] ]Cc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] 5/ &Ga
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/g/
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {)%r L|
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] n)cPra
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &+ a51 )c %P/ a51
+lineY: %P/ &+ a51   )c )p ?[#|
+matchingWords: 
+&+, a51, )c
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1 [)}aK]p
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K %5[' %/L] 5/ &T n5| &G%
+lineY: 25/ nL|a nCp K %5[' %/L] ac:}
+matchingWords: 
+nL|a, nCp, K, %5[', %/L]
+match found
+lineX: 25/ nL|a nCp K ng]K| %/L] /G1
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: ^/k Tc K |C}
+lineY: ^/k Tc &)p Ga
+matchingWords: 
+^/k, Tc
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 Ka)}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 2K 1k a#
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: 25/ nL|a nCp K ng]K| %/L] /G? (| K
+lineY: 25/ nL|a nCp K ng]K| %/L] [K ^P/{
+matchingWords: 
+nL|a, nCp, K, ng]K|, %/L]
+match found
+lineX: K }G
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: K ?ra5?c(m oL\ ZL} (| 2K }[Tc }Cac
+lineY: K ?ra5?c(m oL\ ZL} (| 2K }[Tc }Cac 8p
+matchingWords: 
+K, ?ra5?c(m, oL\, ZL}
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm %)/p
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: &kp Gp ]:ac }[G]
+lineY: }#c  Gp ]:ac 5m/-nM| |:p
+matchingWords: 
+Gp, ]:ac
+match found
+lineX: 25/ nCp K ng]K| |#]1 G\p(}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 5?r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L] |#1 K ?[:|
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L] |#|1 1)}a
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: 25/ nCp K oL\ [Ga |#
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: b+ a51   )c |`| +/r ]KaaX
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 a#/%K|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k Z
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]Ka/+
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k ng1 %T|1 Z+p
+lineY: &k ng1 Z[Lb n5| &8 |)?K[p ng1 an5[
+matchingWords: 
+&k, ng1
+match found
+lineX: n+ ^8[ (| 2K ]G|
+lineY: nX[ &)p ^8[ (| 2K |k1  &+ nk1 &8
+matchingWords: 
+^8[, (|, 2K
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] ?rk
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 a#} |G| %/# +
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ac/k
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k Z#
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: c)[ b+ [5c Tc K c)}K[
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc
+match found
+lineX: nCp |Cc (| 2KG1
+lineY: k |Cc (| 2K &:[ n5/ ok ?)a
+matchingWords: 
+|Cc, (|
+match found
+lineX: b+ n5|c ck 2K c/#bK|cK} [X} K|1 r
+lineY: n5| b+ n5|c ck 2K ?k[
+matchingWords: 
+b+, n5|c, ck, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 C ck d)}a
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] 0k
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] cG|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc 2K ]ZL^ n)%c
+lineY: ZLc 2K Ga&'[ nCp b)c=
+matchingWords: 
+ZLc, 2K
+match found
+lineX: &k n5|c ck K &P/ [5m
+lineY: b+ n5|c ck K c+
+matchingWords: 
+n5|c, ck, K
+match found
+lineX: 25/ nL|a nC
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: {Lac [X} 2K &C/bK[
+lineY: {Lac [X} 2Gc /Xc Tc [T1 %L}(\ /k1
+matchingWords: 
+{Lac, [X}
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] 5/ &Gc
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)p 5a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 d)}r |C}
+lineY: K|1 d)}r K|1 a[)}r
+matchingWords: 
+K|1, d)}r
+match found
+lineX: 25/ nCp G| :[1 a#12r %P/
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: &k &G1
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {)/
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nL|a nCp K ng]' |Fc
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G0
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ng1 %C[cK1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: c    &k )p 151
+lineY: n5| Ga}c    &k )p 151
+matchingWords: 
+&k, )p
+match found
+lineX: &+ ^)^K[1 K|1 a51
+lineY: &+ ^)^K[1 K|1 a51
+matchingWords: 
+&+, ^)^K[1
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %[+
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 2K %5[
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &P/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: nCp aXp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 G]K[p K|1 1#\}
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 aG1?
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ [#1- %/L
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nCp K oL\ 1G|k] %/L] 5m/(\}(}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ [#1- (| %/L|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 2K }
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: 25/ nCp K [#1- %/L] 5/ &8
+lineY: 25/ nCp K [#1- %/L] }5|c
+matchingWords: 
+25/, nCp, K, [#1-
+match found
+lineX: nCp 2K %8-}D[1
+lineY: K|1 ]P/ nCp 2K ?)c-
+matchingWords: 
+nCp, 2K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 aGa(|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: nCp c/
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: 25/ nCp K ]G| |#]1 %%LZ {K|}/L|
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nCp, K, ]G|, |#]1
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1Cc
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: Gp &+ ?P1 d/k 2K ?X[
+lineY: Gp &+ ?P1 d/k 2K ?X[
+matchingWords: 
+Gp, &+, ?P1
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1K|c#?
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 a51 n)2 K ac/+]
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: &k nCp ?/L]
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k, nCp
+match found
+lineX: K|1 |T b+ [Xc
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: &+ a51   )c ng1 ^Cc  c)p
+lineY: %P/ &+ a51   )c )p ?[#|
+matchingWords: 
+&+, a51, )c
+match found
+lineX: &k ng1 %#ac &)]
+lineY: &k ng1 Z[Lb n5| &8 |)?K[p ng1 an5[
+matchingWords: 
+&k, ng1
+match found
+lineX: 2K %X|1
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 1LZ
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: [X}a C| &)p ZP[p
+lineY: &k aL]&U a?)[1 {)| C| &)p n+|-
+matchingWords: 
+C|, &)p
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 G\}b1/K|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZCa
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K ]G| l8rgb
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+K, ]G|
+match found
+lineX: &)p a51 ck /5/KZK
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+a51, ck
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/kd [L]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: b+1 ^: 1T| C| 2K |5bK
+lineY: b+1 ^: 1T| nL| |+
+matchingWords: 
+b+1, ^:, 1T|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] cG| %P/
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: p m5/- K?+[(\
+lineY: &kp ZC1- nCp m5/- K?+[(\
+matchingWords: 
+m5/-, K?+[(\
+match found
+lineX: b+ [#1 C| &8 ZG}
+lineY: b+ [#1 C| &8 ZG}
+matchingWords: 
+b+, [#1, C|
+match found
+lineX: 25/ nL|a nCp K ZL1 |:|-
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &+ &G1 K &P/ }K|a5?r1
+lineY: &+ &G1 K m5/- [P\ 1)}
+matchingWords: 
+&+, &G1, K
+match found
+lineX: 25/ nL|a nCp K 5}a#]1 C/
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| ]G| %/L] 11+
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k ^Cc K ]C]K| %)/p
+lineY: &k ^Cc K %L|- %+[ (|
+matchingWords: 
+&k, ^Cc, K
+match found
+lineX: ZLc 2)a nL| X }:|
+lineY: ZLc 2)a nL| X d)\}
+matchingWords: 
+ZLc, 2)a, nL|
+match found
+lineX: n)[ b+ a51
+lineY: b+ a51 b+ ng1 1X
+matchingWords: 
+b+, a51
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {5a
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ZL
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 b+ %`[G[K|1
+lineY: K|1 b+ nCp Z/51 `|ac51
+matchingWords: 
+K|1, b+
+match found
+lineX: Lm K [5^K[ Z[#|Ka
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm, K
+match found
+lineX: 25/ nL|a nCp K ?)/Kc
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: ck 1k nLc  K|1 n)2 n)0  K|1 ?)|(b
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+ck, 1k, nLc, K|1
+match found
+lineX: ?/K#c 2Gc ck a[5T(bKp>/
+lineY: ?/kmp 2Gc ck +}nK[p nL| }ok + 1+
+matchingWords: 
+2Gc, ck
+match found
+lineX: K%Lm (| K }G?
+lineY: (| K %ok|rK[ ?/Ka5bK| nCp a?X1
+matchingWords: 
+(|, K
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| %/L] ZCac
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1
+match found
+lineX: ^Cac C| 2K a?/51
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: 25/ nCp G| :[1 ]G| ]#1 %/L] c5/
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: K|1 a: }C/cK1
+lineY: K|1 a: `|c8 %[5}a 25]
+matchingWords: 
+K|1, a:
+match found
+lineX: &k &G1 K Z)\^p21 a[5%1
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&k, &G1, K
+match found
+lineX: 25/ nCp K oL\ [#1 n)2 |C/}(1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: b+1 1
+lineY: K|1 (}a?[#|1 2Gc b+1 |5mr Z)| [#1
+matchingWords: 
+b+1
+match found
+lineX: 25/ nCp K oL\ 1G|bK| %/L] 0(|([(c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ck 1k nLc  K|1 n)2 n)0  K|1 ?)acK1p nL|a
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+ck, 1k, nLc, K|1, n)2
+match found
+lineX: &+ ng1 |#]
+lineY: &+ ng1 %:[1 )c (| 1LZK[
+matchingWords: 
+&+, ng1
+match found
+lineX: 2K %/kc Lm Tr a)|a [X} K a}P[
+lineY: 2K %/kc Lm Tr a)|p
+matchingWords: 
+2K, %/kc, Lm, Tr
+match found
+lineX: a: &+ nCp aXp Lm }K?[)p
+lineY: a: &+ nCp }K|a)1r1 K %G^
+matchingWords: 
+a:, &+, nCp
+match found
+lineX: K|1 |T b+ )p [Xc
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] c:[1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp G| :[1 %/L] }/G?
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: &Gp K Z
+lineY: a}Cc ?Ccr &Gp K ?5c Ccr
+matchingWords: 
+&Gp, K
+match found
+lineX: K|1 &+ [Xr 5r
+lineY: K|1 &+ bCc &)p [:1 (| &8 |#mK[
+matchingWords: 
+K|1, &+
+match found
+lineX: 2K %/kc Lm Tr a)|a [X} K a}P/c
+lineY: 2K %/kc Lm Tr a)|p
+matchingWords: 
+2K, %/kc, Lm, Tr
+match found
+lineX: 25| &+ 8Z1
+lineY: 25| &+ ?L|0c K c(/F|KaP/Ka
+matchingWords: 
+25|, &+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k %5[ K d)\1
+lineY: &k %5[ Ka[+? (| &)p }K|k
+matchingWords: 
+&k, %5[
+match found
+lineX: &k &G1 K ?)?r(\ a#
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&k, &G1, K
+match found
+lineX: Lm 2K ?[LXKZKZ[
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: 2Gc P[ 2K 5b(b
+lineY: &+ ]#1 P[ 2K n8[p /)[- a[C?-
+matchingWords: 
+P[, 2K
+match found
+lineX: 2K %/kc Lm Tr a)|a [X} K a}Cc
+lineY: 2K %/kc Lm Tr a)|p
+matchingWords: 
+2K, %/kc, Lm, Tr
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] c)1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K oL\ %P[ |#]1
+lineY: 25/ nL|a nCp K oL\ ]G| |#]1 }X[
+matchingWords: 
+nL|a, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }P/
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ?Cc(|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: bjK[ %gcZQ[ acX[ [+
+lineY: &k &G1 a5}bjK[ %gcZQ[ acX[ [+
+matchingWords: 
+%gcZQ[, acX[
+match found
+lineX: )c nL|a nCp a51
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp
+match found
+lineX: b+ a51
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]rk ZX
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k nCp 2K 5]bK|
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k, nCp
+match found
+lineX: &+ nCp aL}(ac/([a}(a
+lineY: &+ nCp 5^p(c :|[-
+matchingWords: 
+&+, nCp
+match found
+lineX: 25/ nCp K oL\ %/5/Kc/(\ %P[ ]#|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: c+ a51 n)2 K ac/+]
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: c)[ b+ a51 n)2 K ac/+]
+lineY: b+ a51 n)2 K ^/)|
+matchingWords: 
+b+, a51, n)2
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 1#1  &])p
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8 C| &8 &5/-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25/ nCp K oL\ ^#[ }|#]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ^8[ }#|1 K|1p+
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: cGm C| &8 &51 n5| a51
+lineY: b+ acg1 C| &8 &51
+matchingWords: 
+C|, &8, &51
+match found
+lineX: &+ [5c 2K 0C/?r>p
+lineY: &+ [5c Tc K ^/#c bTc
+matchingWords: 
+&+, [5c
+match found
+lineX: 25/ nL|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: %P/ K /([XKZK[ &:ac
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+%P/, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] }/Gp
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ZLc nCp P% Z/#
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: K|1 b+ a51
+lineY: K|1 b+ nCp Z/51 `|ac51
+matchingWords: 
+K|1, b+
+match found
+lineX: X d)\} X  1(ac/5a
+lineY: a51   X d)\} X a]5[ }L|c
+matchingWords: 
+X, d)\}
+match found
+lineX: (| aP
+lineY: (| K %ok|rK[ ?/Ka5bK| nCp a?X1
+matchingWords: 
+(|
+match found
+lineX: 25/ nCp G| :[1 a#mr %/L] }Cc
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ n
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: 25/ nCp K oL\ ^8[ P[%ULp K|#1 C
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k [)m1 +}K[1 ?/+}(\
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1
+match found
+lineX: 25/ nCp K oL\ [#1- (| %/L] ?+ &8 {#
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\, [#1-
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {#
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: K|1 )c ^:
+lineY: K|1 )c Z8|p [X} &5[ %Xr n5| X ?+1K[
+matchingWords: 
+K|1, )c
+match found
+lineX: n)b K
+lineY: X n)b 2Gc ]X /k] &G1 K %[P/
+matchingWords: 
+n)b
+match found
+lineX: &kp c/F|pG}bK|p cg}K[
+lineY: &kp c/F|pG}bK|p cg} [5a 2G| K n+}
+matchingWords: 
+&kp, c/F|pG}bK|p
+match found
+lineX: b+ [5c Tc K b5a )c nCp a}/+]
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc, K
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 &X] }K|cG|a
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nL|a nCp K ^8[ (| /k] {Lac
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] [+
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: bK| (| Z/#[
+lineY: nCp 2K a#] `|%Q/]#bK| (| Z/#[
+matchingWords: 
+(|, Z/#[
+match found
+lineX: C| 2K 05ac Lm K ZC/ ]#1 %/L] c)c
+lineY: C| 2K 05ac Lm K ZC/ ]#1 (| o#[
+matchingWords: 
+C|, 2K, 05ac, Lm, K
+match found
+lineX: C| 2K ?/5mK|p :1
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: &+ ^Cc }Cc ^5a
+lineY: &+ ^Cc )c %P/] ZGpK[1(| pk
+matchingWords: 
+&+, ^Cc
+match found
+lineX: nLc b+ a51
+lineY: b+ a51 b+ ng1 1X
+matchingWords: 
+b+, a51
+match found
+lineX: Lm 2K 1G[K|
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: C| 2K 05ac Lm K ZC/ ]#1 %/L] }&G1
+lineY: C| 2K 05ac Lm K ZC/ ]#1 (| o#[
+matchingWords: 
+C|, 2K, 05ac, Lm, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] cXKac
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc 2K a]P[
+lineY: ZLc 2K Ga&'[ nCp b)c=
+matchingWords: 
+ZLc, 2K
+match found
+lineX: C| 2K 05ac Lm K ZC/ ]#1 %/L] Z/C}(c
+lineY: C| 2K 05ac Lm K ZC/ ]#1 (| o#[
+matchingWords: 
+C|, 2K, 05ac, Lm, K
+match found
+lineX: 25/ nL|a nCp K ]#1 %/L] ]G0
+lineY: 25/ nL|a nCp K ]#1 %/L] ]G1/Ka
+matchingWords: 
+nL|a, nCp, K, ]#1
+match found
+lineX: ^5/ nCp }nXc K a)|(cK[ ]P/
+lineY: &k dPc &+ nCp }nXc K Z)c }[+c r
+matchingWords: 
+nCp, }nXc, K
+match found
+lineX: 25/ nCp G| :[1 a#[r %/L] }5|c
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K mX]r |F%o1o1aKa
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k nC|
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: Gp c+ Z+ ^)m
+lineY: a51 2K ^8[ &k nCp |:| Gp c+ 5}a
+matchingWords: 
+Gp, c+
+match found
+lineX: ZLc 2)a d)\
+lineY: ZLc 2)a nL| X d)\}
+matchingWords: 
+ZLc, 2)a
+match found
+lineX: C| 2K 05ac Lm K ZC/ ]#1 %/L] cCc
+lineY: C| 2K 05ac Lm K ZC/ ]#1 (| o#[
+matchingWords: 
+C|, 2K, 05ac, Lm, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ?rk
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 1G1 Gp &)p ?[:|K[
+lineY: Gp &)p %P/dQc K|1 }5/
+matchingWords: 
+Gp, &)p
+match found
+lineX: /XaKp Lm #[
+lineY: n8 cHck1 2K ?/XaKp Lm #[
+matchingWords: 
+Lm, #[
+match found
+lineX: K|1 C| &8 Z(&X|1
+lineY: b+ [#1 C| &8 ZG}
+matchingWords: 
+C|, &8
+match found
+lineX: %P/ 2K a#} Lm 2K 0+c L? &)p G| 5/
+lineY: K|1 C| &8 Z(&X|1  %P/ 2K a#} Lm 2K Z[X|1
+matchingWords: 
+%P/, 2K, a#}, Lm, 2K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 G\}a
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#1K }'
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k nCp ?[L](\ &)p |#] |#] 1K|5}
+lineY: &k nCp ?[L](\ &)p ^8[ ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\, &)p
+match found
+lineX: 25/ nL|a nCp K oL\ ^8[ |#]1 G\}a
+lineY: 25/ nL|a nCp K oL\ ]G| |#]1 }X[
+matchingWords: 
+nL|a, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1/K|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k &G1 K }Lc n)]K|c }C}
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&k, &G1, K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)c
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: K|1 %L}c )c }n)\cr
+lineY: K|1 %L}c P[ 2K ?+?K[
+matchingWords: 
+K|1, %L}c
+match found
+lineX: &+ ^#m K1 ?5|1
+lineY: &+ ^#m )c K %[)?
+matchingWords: 
+&+, ^#m
+match found
+lineX: 25/ nL|a nCp K ]G| %/L]
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: Gp &)p 5}a Z+p
+lineY: Gp &)p %P/dQc K|1 }5/
+matchingWords: 
+Gp, &)p
+match found
+lineX: K|1 %)|p
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 cXc
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nCp K oL\ [#11 %/L] }5|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: %P/ 2K [L|c }5/
+lineY: X 1:|c |:   X {Lac }#] %P/ 2K /X1
+matchingWords: 
+%P/, 2K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 aG|bj0K|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G0 K|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: %P/ 2K a#} L?C]P/? {Lac [P\
+lineY: K|1 C| &8 Z(&X|1  %P/ 2K a#} Lm 2K Z[X|1
+matchingWords: 
+%P/, 2K, a#}
+match found
+lineX: n8 c)[
+lineY: )% ]X +/ n8 K }L|c  X }g1 %L} )c
+matchingWords: 
+n8
+match found
+lineX: 1 Tc Lm ac+[
+lineY: &+ /G| Tc Lm nL|p %P/ }K|cL}-
+matchingWords: 
+Tc, Lm
+match found
+lineX: b+ }g1 :|[- ^5c d/)[p
+lineY: b+ }g1 :|[- ^5c d/)[p
+matchingWords: 
+b+, }g1, :|[-
+match found
+lineX: K|1 a: ]L2r a51
+lineY: K|1 a: `|c8 %[5}a 25]
+matchingWords: 
+K|1, a:
+match found
+lineX: G%cr 2K /C{X|
+lineY: G%cr 2K /X1
+matchingWords: 
+G%cr, 2K
+match found
+lineX: K|1 nCp 25|1
+lineY: ZLc /6pr5}c(1 K|1 nCp K [)cK[ }G|-
+matchingWords: 
+K|1, nCp
+match found
+lineX: )c nCp /L]%- Z/k
+lineY: 2K }L|c nCpK|c %/5|0 )c nCp {8]K|
+matchingWords: 
+)c, nCp
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |F|cC[Ka
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] [ga
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: )% ok }G|cK1 )al
+lineY: )% ok }Lc nL| (| &G%
+matchingWords: 
+)%, ok
+match found
+lineX: n)2 nX 2K %)cK[
+lineY: n5| Ga}c   nX 2K d81
+matchingWords: 
+nX, 2K
+match found
+lineX: K|1 |T &+p  }#]  ck 25/
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T, &+p
+match found
+lineX: n)2 ]a5d
+lineY: &k nCp ZP/| n)2 ck [C/{ 1)}a
+matchingWords: 
+n)2
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %X| [X
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^8[ C/ }/((}[)|a}(}a   aL}r
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ^8[ %/L] 5[ ?Ga'
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: &k okp1 ck 1k ck ckc
+lineY: &k okp1 ck 1k c/)}a n)2 &8 [Ga'
+matchingWords: 
+&k, okp1, ck
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 cKZG[ |#] 1(ac)c
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: n)2 oP/ &)p %+[(\p
+lineY: c5[ ]+ nLca n)2 oP/ a#mor
+matchingWords: 
+n)2, oP/
+match found
+lineX: 25/ nL|a nCp K ?)/K0 |G|-
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k &G1 K ?)\+|1 |#]1 5]r
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&k, &G1, K
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| %/L] Z/C}(c
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ ^C/ 2K p5Pc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: C| 2K 05ac Lm &)p Z+ a}GZp
+lineY: C| 2K 05ac Lm K ZC/ ]#1 (| o#[
+matchingWords: 
+C|, 2K, 05ac, Lm
+match found
+lineX: K|1 |Cc (| 2K ?G|Kc
+lineY: k |Cc (| 2K &:[ n5/ ok ?)a
+matchingWords: 
+|Cc, (|, 2K
+match found
+lineX: b+ [
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#1  KGc-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: Lm K1pK8Kd[:|
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm
+match found
+lineX: [X} K ^/#m
+lineY: okp1 ck ](a?/K|T|a n81p [X} K %k[
+matchingWords: 
+[X}, K
+match found
+lineX: 25/ nCp G| :[1 %/L] ]Ka)1K[
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: &k okp1 ck 1k ck ckcr ck ak
+lineY: &k okp1 ck 1k c/)}a n)2 &8 [Ga'
+matchingWords: 
+&k, okp1, ck, 1k
+match found
+lineX: 25/ nCp K oL\ G} G/p
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &k okp1 ck 1#
+lineY: 2)a okp1 ck Z+ ^/G|1
+matchingWords: 
+okp1, ck
+match found
+lineX: K|1 2K }:[1 n)2
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: 25/ nCp K oL\ %/Lc n)2
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: ZLc "
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: L|
+lineY: &+ }g1 |Cc L| |Cc
+matchingWords: 
+L|
+match found
+lineX: 2K Z/X1 aPc K {5|KcK[ })a
+lineY: 2K Z/X1 aPc K {5|KcK[ })a
+matchingWords: 
+2K, Z/X1, aPc
+match found
+lineX: 25/ nL|a nCp K a)/(} ]C/pKa
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 &)p acC}a
+lineY: Lm c# pC|1$ K|1 &)p 0P}[Kc /#|
+matchingWords: 
+K|1, &)p
+match found
+lineX: ZLc 2)a nL| aX1   1)p a5}a
+lineY: ZLc 2)a nL| X d)\}
+matchingWords: 
+ZLc, 2)a, nL|
+match found
+lineX: ck &kp ?5|c
+lineY: &kp [)]r(}a acC?c C| [X| ck
+matchingWords: 
+ck, &kp
+match found
+lineX: ck 2K /k]
+lineY: %/L] nL| ck 2K }okZ /kc Lm d/+
+matchingWords: 
+ck, 2K
+match found
+lineX: 25/ nCp K a8]%%/(} ]P/ a51
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/k
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] n)]?
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 C| &8 ?Cb6+
+lineY: b+ [#1 C| &8 ZG}
+matchingWords: 
+C|, &8
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1 aGcbK|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ [#1- K|1 &G]Ka
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: kac &)p /:p
+lineY: a: &+ /(1kac &)p /:p
+matchingWords: 
+&)p, /:p
+match found
+lineX: cG[-1 2K :p
+lineY: cG[-1 2K :p
+matchingWords: 
+cG[-1, 2K
+match found
+lineX: ZLc %[k ck ak?r:[-
+lineY: &k %[k ck 2K ]k| (| K /C}Kc
+matchingWords: 
+%[k, ck
+match found
+lineX: acC/ &#]bK|
+lineY: %P/ Zokc- X G] |Cc K acC/
+matchingWords: 
+acC/
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1 %)/-Kp {#
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 a#[r |#]1 %/L]
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: n5| b+ }g1 Lm KZr[+
+lineY: n5| b+ }g1 |Cc ?# 2K /5|c
+matchingWords: 
+n5|, b+, }g1
+match found
+lineX: K aO[crr
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] 5/ &Gm
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: K ^/#c (}a
+lineY: K ^/#c cL%c Lm ^/Ga
+matchingWords: 
+K, ^/#c
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc 2K ]|n)[- n#m
+lineY: ZLc 2K Ga&'[ nCp b)c=
+matchingWords: 
+ZLc, 2K
+match found
+lineX: n5| b+
+lineY: n5| Ga}c    &k )p 151
+matchingWords: 
+n5|
+match found
+lineX: K|1 %T|1 2Gc ^)mp 25/ Z/#m
+lineY: K|1 %T|1 2Gc &)p }C|c4|ca n8 Z[G\}
+matchingWords: 
+K|1, %T|1, 2Gc
+match found
+lineX: K ]G| 1(c:|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+K, ]G|
+match found
+lineX: 25/ nL|a nCp K
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: K|1 %T|1 2Gc ^)mp 25/ c/k1
+lineY: K|1 %T|1 2Gc &)p }C|c4|ca n8 Z[G\}
+matchingWords: 
+K|1, %T|1, 2Gc
+match found
+lineX: 25/ nL|a
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: (/Cc(} (%5}ca
+lineY: K|1 anP/]p n)2 (/Cc(} (%5}ca
+matchingWords: 
+(/Cc(}
+match found
+lineX: 25/ nL|a nCp K ZokcK[- #ZKc
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: ZLc nCp %[5^p a51
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#m
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ZokcK[- #X
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {#
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: &+ a51 n)2 K )[cr ]K}a#m
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51, n)2
+match found
+lineX: a:
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+a:
+match found
+lineX: &k a51
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nL|a nCp K ^8[ C| : mX(1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: X nL|a
+lineY: X 1:|c |:   X {Lac }#] %P/ 2K /X1
+matchingWords: 
+X
+match found
+lineX: 25/ nL|a nCp K ^8[ |#m1 C ]C/}(1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: &k n5|c ck K %Gc(a Z5a
+lineY: b+ n5|c ck K c+
+matchingWords: 
+n5|c, ck, K
+match found
+lineX: &+ nCp
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+&+
+match found
+lineX: #1
+lineY: n)2 2K #1 Lm &)p }C|acKZK[p c/L|0(|
+matchingWords: 
+#1
+match found
+lineX: 2K ac/)\p 2Gc &+ ?[#1
+lineY: 2K ac/)\p 2Gc &+ ?[#1
+matchingWords: 
+2K, ac/)\p, 2Gc
+match found
+lineX: }Kp 2# }#] %/L] K d)\[(\ %P[ &:]
+lineY: }Kp 2# }#] %/L] K /5[Kc(mp ])1K[
+matchingWords: 
+}Kp, 2#, }#], %/L]
+match found
+lineX: K ]G| nCp &L\ d/La
+lineY: K ]G| nCp nL|a &L\ [X} K 1C\}-
+matchingWords: 
+K, ]G|, nCp
+match found
+lineX: &+ a51   2K a?/+
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51
+match found
+lineX: }Kp 2# }#] %/L] K d)\[(\ %P[ &:p }Ga
+lineY: }Kp 2# }#] %/L] K /5[Kc(mp ])1K[
+matchingWords: 
+}Kp, 2#, }#], %/L], K
+match found
+lineX: &k nCp acP\ m5|bK|c
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k, nCp
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/CZKa
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K oL\ ]G| %/L] a
+lineY: 25/ nL|a nCp K oL\ ]G| |#]1 }X[
+matchingWords: 
+nL|a, nCp, K, oL\
+match found
+lineX: }Kp 2# }#] %/L] K d)\[(\ nCp
+lineY: }Kp 2# }#] %/L] K /5[Kc(mp ])1K[
+matchingWords: 
+}Kp, 2#, }#], %/L]
+match found
+lineX: d/Lac Z5a
+lineY: Gp &+ d/Lac %P/d/Xc
+matchingWords: 
+d/Lac
+match found
+lineX: %5[ nCp K %C/c   %L}a(\ )ca
+lineY: : ZLc &+ nCp K %C/c r
+matchingWords: 
+nCp, K, %C/c
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] |F|cL}(c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 5?rp
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1 a#[1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ]X a51  X |ok
+lineY: a51   X d)\} X a]5[ }L|c
+matchingWords: 
+a51, X
+match found
+lineX: 25/ nL|a nCp K [#1- |#]1 /)}
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: [k1
+lineY: )ca ]P/K[p 1(ac/5a(\[- [k1
+matchingWords: 
+[k1
+match found
+lineX: )ca |Cc n8d 2K /+1(\
+lineY: )ca |Cc n8d 2K /+1(\
+matchingWords: 
+)ca, |Cc, n8d
+match found
+lineX: ZX ?8aK|p Lm Z/Gmr[Fa5#a
+lineY: ZX ?8aK|p Lm Z/+1(\
+matchingWords: 
+ZX, ?8aK|p
+match found
+lineX: 25/ nL|a nCp K Z> |G| %/L] ^/Gm
+lineY: 25/ nL|a nCp K Z> |#]1 Z8c
+matchingWords: 
+nL|a, nCp, K, Z>
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |F|cCP {#a
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: &k }5?c K 151 &P/ ]G| |#]1 %)|
+lineY: &k }5?c K 151 &g}r (| K }#m
+matchingWords: 
+&k, }5?c, K, 151
+match found
+lineX: 25/ nL|a nCp K ?)/K8
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ?)/
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: Lm Kn#
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm
+match found
+lineX: ZX ?8aK|p Lm Z/Gmr[F1: ]X a#}
+lineY: ZX ?8aK|p Lm Z/+1(\
+matchingWords: 
+ZX, ?8aK|p, Lm
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ]K?8c
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ ^8[ C0
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ^8[ C| 2K %/L|c
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: &k a51 cnX[- Z51
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+&k, a51
+match found
+lineX: &k ^Cc }Cc ^5| c]Xc
+lineY: &k ^Cc }Cc nX[ac {8} (| &)p ^8} (|
+matchingWords: 
+&k, ^Cc, }Cc
+match found
+lineX: Gp &+ ^Cc G| Gc(a
+lineY: n5| &+ ^Cc G| (/5}bK|
+matchingWords: 
+&+, ^Cc, G|
+match found
+lineX: 25/ nL|a nCp K ^8[ C| 2K |%]L1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 2Gc nCp K %5[' %/L] 1Lg/(1
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nCp, K, %5['
+match found
+lineX: n)2 G| K|
+lineY: n)2 G| K[g/(\ a5c Lm Z/Xc Z[k Xp
+matchingWords: 
+n)2, G|
+match found
+lineX: 25/ nCp K oL\ nL| r %/L] Z/CZKa(\
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 2Gc ok[ |X|c Z5|c
+lineY: 2Gc ok[ }P[ &8 Z#Z-
+matchingWords: 
+2Gc, ok[
+match found
+lineX: ck 5}c8|
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: :|p K ac)[ Lm 5}a}nKpKc }K|ac/L}bK|
+lineY: :|p K ac)[ Lm 5}a}nKpKc }K|ac/L}bK|
+matchingWords: 
+:|p, K, ac)[
+match found
+lineX: K|1 |T b+ )ac }Cc
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: nL|a nCp K ng]K| %/L] 5?r
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25|
+lineY: 25| %[)}c aL] ZG1 %[Xp
+matchingWords: 
+25|
+match found
+lineX: &k &G1 a]5#cK1 )\}\}
+lineY: &k &G1 ?okZrc- ac/X} Gc #{ ck
+matchingWords: 
+&k, &G1
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] }5|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 a?)}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 |T b+ )c %[G
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nCp K oL\ ]G|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/CZ[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ |#]1 {)}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k [)m1 (| 2K ])|ojK| %/L] a+p
+lineY: &k [)m1 (| 2K 1+? Z[k a+
+matchingWords: 
+&k, [)m1, (|, 2K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)%r L| a[5|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: b+ [5c Tc K bLm &+ }g1 ?Gmp
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc, K
+match found
+lineX: 25/ nL|a nCp K ng]K| %/L] c:?[-
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: &k nCp 2K a#] b`[X}
+lineY: nCp 2K a#] `|%Q/]#bK| (| Z/#[
+matchingWords: 
+nCp, 2K, a#]
+match found
+lineX: 25/ nCp K oL\ na51 G[a= K m5^
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: n+ a51 n)2 K ]G| %+|(a
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: b+ [5c Tc K|1 ?[L^
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1/K]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n5| Z[P^ ?:aca n5|c 1T|
+lineY: n5| Z[P^ ?:aca n5|c 1T|
+matchingWords: 
+n5|, Z[P^, ?:aca
+match found
+lineX: 25/ nCp G| :[1 ]G| %/L] |k ok
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: K|1 d)}r K|g/]p
+lineY: K|1 d)}r K|1 a[)}r
+matchingWords: 
+K|1, d)}r
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 1K|)[
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ]r?8c
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: &+1 n5c
+lineY: K|1 25| /)cK| 1T|  &+1 &Gm &X}j
+matchingWords: 
+&+1
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ nL| n)2 n8 aL0
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K }:|1 |#]1 }Xa
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 b+ %/LQc:|X]#8
+lineY: K|1 b+ nCp Z/51 `|ac51
+matchingWords: 
+K|1, b+
+match found
+lineX: 25/ nCp K oL\ ^8[c %/L] nL|a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: )c ZG}
+lineY: X }G| /Xc )c (| a5}K|1p
+matchingWords: 
+)c
+match found
+lineX: 25/ nL|a nCp K ]G| ]5/ }#mr1 {)c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K %5|c %P/
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k ^Cc C| K ZLa  ZT|1 %P/ +[(\
+lineY: &k ^Cc C| K ZLa  ZT|1 %P/ +[(\
+matchingWords: 
+&k, ^Cc, C|, K
+match found
+lineX: 25/ nCp K oL\ [#1- (| %/L]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 a#mr C| %/L|c
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 2Gc b+ ?[:|K^r |#r
+lineY: K|1 n+ &:? 2Gc b+ [8|p
+matchingWords: 
+2Gc, b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }K|cL|-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n+ a51 n)2 K ^/k
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: K|1 |T b+ )ac }C}
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nCp K oL\ [G| %/L] }/ka
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 ]G|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: 2K ]?/)[1
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: &k [)m1 +/]Kp X]p
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1
+match found
+lineX: K|1 %)|(bc &8 #{ Ma Z[X|1
+lineY: K|1 %)|(bc &8 P% (| ])1 5/
+matchingWords: 
+K|1, %)|(bc, &8
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] }5|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp G| #[K}r c)}a
+lineY: 25/ nL|a nCp G| #|Ka |#]1 {+mr
+matchingWords: 
+nL|a, nCp, G|
+match found
+lineX: n5| b+ a51 n)2 K ac/+|
+lineY: b+ a51 n)2 K ^/)|
+matchingWords: 
+b+, a51, n)2
+match found
+lineX: 25/ nCp K cP/]K[ |#]1 aGcbK|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 b+ %T|1 5|1651
+lineY: K|1 b+ nCp Z/51 `|ac51
+matchingWords: 
+K|1, b+
+match found
+lineX: |p 2Gc Z+]
+lineY: ]X %/5|1 bX|p 2Gc Z+]
+matchingWords: 
+2Gc, Z+]
+match found
+lineX: b+p [)m(\ &8 1/+]
+lineY: b+p [)m(\ &8 1/+]
+matchingWords: 
+b+p, [)m(\
+match found
+lineX: K|1 |T :[1 [5a
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZCacK]K[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: b+ a5c +c
+lineY: b+ a5c Tc nL| 1#
+matchingWords: 
+b+, a5c
+match found
+lineX: X[ 1(ac[51
+lineY: a: X[ a# &+/ X ^:
+matchingWords: 
+X[
+match found
+lineX: b+ a51   )c ng1K1 ck
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: b+ a5c +cr
+lineY: b+ a5c Tc nL| 1#
+matchingWords: 
+b+, a5c
+match found
+lineX: 25/ nCp K 1:] |#]1 a?Xc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] }6kc ]Ta
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: 25/ nCp K 1C} |C| K
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 |T &+p Z+ &G1 ?G|c(a
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T, &+p
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/C}
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZC  &)p }Cc
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25/ nCp K [#1- %/L] }/k
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: c51 Lm }L](\  &+ n5|c
+lineY: K|1 `|ac51 Lm }L](\  &+ n5|c
+matchingWords: 
+Lm, }L](\, &+
+match found
+lineX: nCp aL}(\ 2Gc %)|p
+lineY: &kp &CZ- nCp aL}(\ P% }GcK[
+matchingWords: 
+nCp, aL}(\
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] 5/ &Gm
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 2K &P\} }C/c
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: K|1 b+ /k1 ?#
+lineY: K|1 b+ nCp Z/51 `|ac51
+matchingWords: 
+K|1, b+
+match found
+lineX: K|1 &+ nCp }P[%r
+lineY: &+ nCp 5^p(c :|[-
+matchingWords: 
+&+, nCp
+match found
+lineX: K|1 ?+?K[ %
+lineY: K|1 ?+?K[ &Gm ck ?# ck a+ 5]
+matchingWords: 
+K|1, ?+?K[
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 |#|1 &G\ P\}
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 &Gc ]G%
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 a5[
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: K|1 2K &P\} }C}
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: b+ a51 n)2 K [+p
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: n+ ]L2{1/K[1
+lineY: Z:d aX1p n+ n)[ %G}cr-p  a+
+matchingWords: 
+n+
+match found
+lineX: &k anC['1 K [g}c &P/
+lineY: &k anC['1 K ?G}Kc Lm a+1p
+matchingWords: 
+&k, anC['1, K
+match found
+lineX: cnLp  &#[ ck 2K 0+%
+lineY: cnLp  &#[ ck 2K 0+%
+matchingWords: 
+cnLp, &#[, ck
+match found
+lineX: C| 2)a %[kc ]X /(|8KZK[
+lineY: C| 2)a %[kc ]#1 Lm Z+%
+matchingWords: 
+C|, 2)a, %[kc
+match found
+lineX: nCp a: 2K &C/1K|
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+nCp, a:
+match found
+lineX: Lm &)p /CbK|
+lineY: )c )p a51 Lm &)p ]+c
+matchingWords: 
+Lm, &)p
+match found
+lineX: K|1 (| 2K ]G|  K %C}}(^]G
+lineY: TcaX1 K|1 (| 2K &Ta
+matchingWords: 
+K|1, (|, 2K
+match found
+lineX: C| 2)a %[kc ]X /(|+ [)armr
+lineY: C| 2)a %[kc ]#1 Lm Z+%
+matchingWords: 
+C|, 2)a, %[kc
+match found
+lineX: K|1 K [)]r(}a /k]
+lineY: K|1 K Z81 K|1 K ZLac K|1 K 1P/
+matchingWords: 
+K|1, K
+match found
+lineX: K|1 Z)
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: C| 2)a %[kc ]X /L{K|1
+lineY: C| 2)a %[kc ]#1 Lm Z+%
+matchingWords: 
+C|, 2)a, %[kc
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G0 Kdg}c }[Ga
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 ZC/cr
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 d)\} X |5}
+lineY: a51   X d)\} X a]5[ }L|c
+matchingWords: 
+d)\}, X
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {+1 1L|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: &k }G|c ^5c &8l8rgbP[2r
+lineY: a+]p &+ }G|c ^5c )c Tc
+matchingWords: 
+}G|c, ^5c
+match found
+lineX: a[+?
+lineY: ck a[+? (| )c ng1 ]#} ]+ a]X[-
+matchingWords: 
+a[+?
+match found
+lineX: nCp 2K a#] `|%Q/]#bKc %/L] ^/Gm
+lineY: nCp 2K a#] `|%Q/]#bK| (| Z/#[
+matchingWords: 
+nCp, 2K, a#]
+match found
+lineX: &k cg} &8 oL\}dp
+lineY: &k cg} K ^8[ Tc %P/ K ?:}
+matchingWords: 
+&k, cg}
+match found
+lineX: K|1 |T &)p ]#1 (}a5a (|
+lineY: K|1 |T &)p %ok0r )p ?Gac
+matchingWords: 
+K|1, |T, &)p
+match found
+lineX: 25/ n"
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: >
+lineY: Gp b+ %L}c K Z>  &+ a51  >
+matchingWords: 
+>
+match found
+lineX: K|1 |T :|[- ]5| ^5c &)] P%
+lineY: K|1 |T :|[- ]5| ^5c &)] P%
+matchingWords: 
+K|1, |T, :|[-, ]5|
+match found
+lineX: &k [)m1 (| a5}C]
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1
+match found
+lineX: K|1 a: nCp 2K ?G|c C| 25/ Gc
+lineY: K|1 a: nCp 2K [X% Lm n+ n)[-
+matchingWords: 
+K|1, a:, nCp, 2K
+match found
+lineX: 25/ nCp G| :[1 ]G| |#]1 1K|a5+
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] ?+1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ?/k
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 1DF}d)}c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K cP/?
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: b+ %T|1 &)p }C]K|
+lineY: &+ %T|1 &)p c/k [Lm
+matchingWords: 
+%T|1, &)p
+match found
+lineX: nCp (}(^|5m
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: nCp K ZG}+
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ?[k
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 ?+
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+c0
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K ^/#c ?`rg/ b:
+lineY: K ^/#c cL%c Lm ^/Ga
+matchingWords: 
+K, ^/#c
+match found
+lineX: 25/ nL|a nCp K ]G| |#] |Fc\
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: X[ ^: 1LZK[
+lineY: X d)\} X[ ^: TcaX1 %P/ K nX[
+matchingWords: 
+X[, ^:
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ?[k
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n5| b+ ?g[1 &8 ZX} a}C/Gd
+lineY: n5| b+ ?g[1 Tc &8 }C}
+matchingWords: 
+n5|, b+, ?g[1
+match found
+lineX: : oL]
+lineY: K ?[La Z+ +}nK[p Z+  : nk?+
+matchingWords: 
+:
+match found
+lineX: &+ Z5[0c K|1 &+ anC['1
+lineY: &+ Z5[0c K|1 &+ anC['1
+matchingWords: 
+&+, Z5[0c, K|1
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {5a
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L] |#|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 (| 2K ]ZL^]rp
+lineY: &k Kc5|1K1 K b: (| 2K |k1
+matchingWords: 
+(|, 2K
+match found
+lineX: ZLc b+ acg1 C| &)p Z:[-
+lineY: b+ acg1 C| &8 &51
+matchingWords: 
+b+, acg1, C|
+match found
+lineX: nCp a: (| a5}a
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+nCp, a:
+match found
+lineX: ck ^5c (| 2K }n)[Ka 0)|c  ^/k
+lineY: ck ^5c (| 2K &C[K1$ %/#
+matchingWords: 
+ck, ^5c, (|, 2K
+match found
+lineX: K 1P/ &8 ^/+
+lineY: K|1 K Z81 K|1 K ZLac K|1 K 1P/
+matchingWords: 
+K, 1P/
+match found
+lineX: P[ 2K
+lineY: K|1 ?)ac P[ :mr 2K a+[(\
+matchingWords: 
+P[
+match found
+lineX: K|1 (| %)/- &:[
+lineY: n5| X nCp oL\  K|1 (| ]X ?/X]
+matchingWords: 
+K|1, (|
+match found
+lineX: 25/ nCp G| :[1 ]G| 1X] (| |: mXm
+lineY: 25/ nCp G| :[1 ]G| %/L] Z/+]
+matchingWords: 
+25/, nCp, G|, :[1, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 1K|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ng]K| |#] cn/)acK1
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nCp K [#1- %/L] [+ [k1
+lineY: 25/ nCp K [#1- %/L] }5|c
+matchingWords: 
+25/, nCp, K, [#1-
+match found
+lineX: 2Gc ok [
+lineY: 2Gc ok  %/5|1  &Gm {Lac [Pac 2K ^#]
+matchingWords: 
+2Gc, ok
+match found
+lineX: 25[ ?# ck ^5c Tc Lm )c
+lineY: 25[ ?# ck ^5c Tc Lm )c ck
+matchingWords: 
+25[, ?#, ck, ^5c
+match found
+lineX: 2Gc &8 1/g/K1
+lineY: 2Gc &8 }L] ?g[1 &)] (|
+matchingWords: 
+2Gc, &8
+match found
+lineX: 25/ nCp nL|a K ]G| %/L] |5|1
+lineY: 25/ nCp nL|a K [Por |#]1 /5}a
+matchingWords: 
+25/, nCp, nL|a, K
+match found
+lineX: 25/ nCp K oL\ 1G[?
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &+ nCp c/LZK[
+lineY: &+ nCp 5^p(c :|[-
+matchingWords: 
+&+, nCp
+match found
+lineX: 25/ nL|a nCp K ?)/|- ZX]'
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp G| :[1 a#mr %/L] cGZ1r
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 1k (| 2K ?)[-
+lineY: &k Kc5|1K1 K b: (| 2K |k1
+matchingWords: 
+(|, 2K
+match found
+lineX: {Lac ]#1 mr]k| P/
+lineY: 2Gc ok &Gm {Lac ]#1
+matchingWords: 
+{Lac, ]#1
+match found
+lineX: 25/ nCp K oL\ 1G[? (| 2K }/+
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp G| #[K|1 G[p
+lineY: 25/ nL|a nCp G| #|Ka |#]1 {+mr
+matchingWords: 
+nL|a, nCp, G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+c= K `|G|{T|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25/ nCp K oL\ 1G[(a nCp r1/5a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+m[r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ oP/ /L] |Cc Z:|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25[ ?# ck ^5c Tc Lm )[
+lineY: 25[ ?# ck ^5c Tc Lm )c ck
+matchingWords: 
+25[, ?#, ck, ^5c
+match found
+lineX: X] Lm 2K ]Ga
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 G\^]#1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ?+a n5| 1(mX1(1
+lineY: %P/ )c ac#p (| nL| ?+a n5| 1(mX1(1
+matchingWords: 
+?+a, n5|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+]ZKa(|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: %/L] K Z)\
+lineY: }Kp 2# }#] %/L] K /5[Kc(mp ])1K[
+matchingWords: 
+%/L], K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]Ka/)}
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] [C/'
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| &G]K|c K|1 cX]K]p Z/X
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| |#] n'cTa
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] K c5P
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ n)2 |C|  |#]  K|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^C1 K ?G^
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 |T b+ )p [P^c ZLc ?G|
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+, )p
+match found
+lineX: 25/ nL|a nCp K ng]K| |#|1 K cX]
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: )c n
+lineY: X }G| /Xc )c (| a5}K|1p
+matchingWords: 
+)c
+match found
+lineX: 25/ nL|a nCp G| X]F] (| }CZf[
+lineY: 25/ nL|a nCp G| X]F] (| }CZf[
+matchingWords: 
+nL|a, nCp, G|, X]F]
+match found
+lineX: nCp (| aB>|d
+lineY: nL|a n5| X nCp (| 1:mr
+matchingWords: 
+nCp, (|
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1]K %5['
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: n+ %+m(b
+lineY: Z:d aX1p n+ n)[ %G}cr-p  a+
+matchingWords: 
+n+
+match found
+lineX: b+ a51   [X} 5m/#)a n)} 0P/
+lineY: b+ a51   [X} K ]G| :|[- [P\^r
+matchingWords: 
+b+, a51, [X}
+match found
+lineX: 1# K &)p a5|c
+lineY: K ]G1K] (| &5|/- %P/1p 1#
+matchingWords: 
+1#, K
+match found
+lineX: ck a51
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: &k &G1 K ^/#c ?`r ck a?5|c
+lineY: &k &G1 K ^/#c ?GbK| %P/ c/kd
+matchingWords: 
+&k, &G1, K, ^/#c
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1]K %)/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {5/
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: /+ ^5c ck acCc
+lineY: 1)1K|c ^5c ck %C/
+matchingWords: 
+^5c, ck
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z/C}(\
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n5| b+ a51 n)2 K ac/
+lineY: b+ a51 n)2 K ^/)|
+matchingWords: 
+b+, a51, n)2
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 G\}a %/k {#|1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: ZLc 2Gc )c /G|a
+lineY: n)2 K ?+|(a a: [P\ 2Gc )c Z5|c
+matchingWords: 
+2Gc, )c
+match found
+lineX: Z+ ?[L]
+lineY: 2K )|cr|6c[ |5mr Z+ c#]1
+matchingWords: 
+Z+
+match found
+lineX: 1#m 2Gc
+lineY: 25/ nL|a nCp K ]G| |#]1 1#m
+matchingWords: 
+1#m
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#|1 1#
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: a#
+lineY: K|1 a#  ^)m ]+ ]P/  ^)m ]+ ]P/  ^)m ]+ ]P/
+matchingWords: 
+a#
+match found
+lineX: 25/ nCp K oL\ n)[ %[5} Gp K|1Lp
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ?5|1 K c5}ac }L] cnb)[
+lineY: ?5|1 K c5}ac }P[1  2K ]+|(\ Lm ]+|(\
+matchingWords: 
+?5|1, K, c5}ac
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#mr |#1a [)} [+
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: &+ a51 n)2 K ^/)|
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51, n)2
+match found
+lineX: 25/ nCp G| :[1 %/L] nL|a
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: 25/ nL|a nCp G| C/
+lineY: 25/ nL|a nCp G| #|Ka |#]1 {+mr
+matchingWords: 
+nL|a, nCp, G|
+match found
+lineX: (| aP/p ?#|c 1(ac/#m
+lineY: &kp }L|c nCp P[ }Lmr1 (| aP/p
+matchingWords: 
+(|, aP/p
+match found
+lineX: 25/ nCp K a5ar |#]1 c)}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] }/kd [Xc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#mr %/L| &# }^)c
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }K|c)b(\
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 1K|)c
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: n)2 Gp &)p 5/#bK|
+lineY: Gp &)p %P/dQc K|1 }5/
+matchingWords: 
+Gp, &)p
+match found
+lineX: 25/ nL|a nCp K ]G| |#|1 ]K})[-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ C| 25/ Lm ^/X
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: [Pp 2Gc &+ ]#1
+lineY: ck |: 2Gc &+ ]Lac 1=}K]?:p
+matchingWords: 
+2Gc, &+
+match found
+lineX: &+ &(]a5[% 1`a'Z#1
+lineY: &+ &(]a5[% 1`a'Z#1
+matchingWords: 
+&+, &(]a5[%
+match found
+lineX: 25/ nL|a nCp K ]C]Kp [#1-
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k %P/ &8 m5/p
+lineY: nCp %#]1 %P/ &8 5/-K ?okZ(}
+matchingWords: 
+%P/, &8
+match found
+lineX: ZLc &8 }L|c ^5/
+lineY: ZLc &8 Z)^Kac %/Kac/#bK|
+matchingWords: 
+ZLc, &8
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#|1 &G\ ]Gac
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: &k [)m1 C| 1+ nL|p
+lineY: &k [)m1 C| 1(ac)[1 }5/Ka=|
+matchingWords: 
+&k, [)m1, C|
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1 %/L]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: b+ a5ca n+ }[G%g/(a
+lineY: b+ a5ca 2K ]5|p &P/];|p K n8[
+matchingWords: 
+b+, a5ca
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 a#[6#m K? &)p ^8[
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: ZLc nCp ^/# a]L2K }/G]
+lineY: ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga
+matchingWords: 
+ZLc, nCp, ^/#
+match found
+lineX: 25/ nL|a nCp K ZLTp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K ^8[ %/L] K ZL}
+lineY: 25/ nL|a nCp K ^8[ %/L] 1jZX
+matchingWords: 
+nCp, K, ^8[, %/L]
+match found
+lineX: 25/ n8 %/P/K[
+lineY: 25/ n8 :|[- ck ZP[p K|1 &+ &G1 25]
+matchingWords: 
+25/, n8
+match found
+lineX: 25/ nCp K oL\ 1)[p }P[c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 2Gc
+lineY: {Lac [X} 2Gc /Xc Tc [T1 %L}(\ /k1
+matchingWords: 
+2Gc
+match found
+lineX: b+ ^#m K %g[ ?Cc ck K ]G|
+lineY: b+ ^#m K %g[ ?Cc ck K ]G| |#]1 [P/
+matchingWords: 
+b+, ^#m, K, %g[
+match found
+lineX: 25/ nCp K oL\ ]G| |# %/C?
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ^L|1 ck Z+ a)|c
+lineY: {Lac ck Z+ }kd
+matchingWords: 
+ck, Z+
+match found
+lineX: ck ck 2K %5a %P/ a51
+lineY: a51 2K ck ck 2K ckcr
+matchingWords: 
+ck, ck, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 }X|1r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 [+
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ZLc nCp X] ?>
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] ?+ &+/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/Ga Z/C-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K %5
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K oL\ [#1-
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 |T b+ )p aP
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nL|a nCp K 5}a0)|a
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k ]#1 }nXc n)] Z[Ga
+lineY: &k ]#1 }nXc G| 5/r  ok a+
+matchingWords: 
+&k, ]#1, }nXc
+match found
+lineX: b+ a5"
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: b+ ]#1 K |>p
+lineY: n8 +0 )|0 ]#1 K Z+c
+matchingWords: 
+]#1, K
+match found
+lineX: &+ ^/GZ1 aL] c>p
+lineY: &+ ^/GZ1 aL] c>p
+matchingWords: 
+&+, ^/GZ1
+match found
+lineX: K|1 |T b+ )ac }#m
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: b+ a51   )c n5|c P[
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: 25/ nL
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/
+match found
+lineX: K|1 )% n)]oK[(\ ag[1
+lineY: K|1 )% X &G1 ck mK{X|Kp )cK1 Z+ ^[P/-Ka
+matchingWords: 
+K|1, )%
+match found
+lineX: K|1 G| Z:
+lineY: K|1 G| P% a5|cr1 5]r- n+[
+matchingWords: 
+K|1, G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]X ZL|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: cnL|1 %/L] 2K %r}+
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+%/L], 2K
+match found
+lineX: 2Gc ck ckcK[ %P/
+lineY: ?/kmp 2Gc ck +}nK[p nL| }ok + 1+
+matchingWords: 
+2Gc, ck
+match found
+lineX: a5[
+lineY: 25| }K[G?ac (| K a5[
+matchingWords: 
+a5[
+match found
+lineX: Lm K +[K[-
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm, K
+match found
+lineX: &k %P/ &)p }C^^pK|p
+lineY: %P/ &)p nX% b+ nCp ?C[(b  ok |:
+matchingWords: 
+%P/, &)p
+match found
+lineX: 25/ nCp K [#1- %/L] [+
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]X ZL| oL\ ?k{
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: }G|1- (| |: 1Lp
+lineY: )c %)c (| |: nL|
+matchingWords: 
+(|, |:
+match found
+lineX: a51
+lineY: &+ ^)^K[1 K|1 a51
+matchingWords: 
+a51
+match found
+lineX: &k a51   KZTc
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+&k, a51
+match found
+lineX: &k anC['1 K [g} &)p ng1|
+lineY: &k anC['1 K ?G}Kc Lm a+1p
+matchingWords: 
+&k, anC['1, K
+match found
+lineX: ZLc  ?[Lkl
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]X nL|p
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n)2 &)p /G|^KmG[p /L|
+lineY: K ^X n)2 &)p ^8[ (| K %XFc
+matchingWords: 
+n)2, &)p
+match found
+lineX: 25/ nL|a nCp K ?)/|-(0 &G#
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| &G] &G] K ZC/cr
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 K ZC|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k &G1 G| 5/- %Xm P/?'
+lineY: &k &G1 G| (|P/]Ka mK{X|K
+matchingWords: 
+&k, &G1, G|
+match found
+lineX: &k dPc &+ nCp acg[ C/ ]C/p
+lineY: &k dPc &+ nCp P%K[- an5[
+matchingWords: 
+&k, dPc, &+, nCp
+match found
+lineX: 25/ nCp K oL\ [#1- Lm ]pKa
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: G|]acr 2K ^8[ anL|c
+lineY: a51 2K ^8[ &k nCp |:| Gp c+ 5}a
+matchingWords: 
+2K, ^8[
+match found
+lineX: &k a51   KZTc  Z5[c n'|p
+lineY: &k a51   KZTc %L}(\  X 1k |:
+matchingWords: 
+&k, a51, KZTc
+match found
+lineX: &k a51   KZTc }C}
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+&k, a51
+match found
+lineX: ck 5a : nCp nX[1K|
+lineY: nCp /)[- #0 ck 5a : %P/
+matchingWords: 
+ck, 5a, :
+match found
+lineX: 25/ nL|a nCp K a8]%/6/p K|#1K|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 n)2 oC/c}r
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+K|1, n)2
+match found
+lineX: nX[ Z([+m(\ P[ a)| bg1 Z+ a:
+lineY: nX[ Z([+m(\ P[ a)| bg1 Z+ acG]?c C|
+matchingWords: 
+nX[, Z([+m(\, P[, a)|
+match found
+lineX: 25/ nL|a nCp K ^8[ C| /k]
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: b+ n5|c ck K %Gc
+lineY: b+ n5|c ck K c+
+matchingWords: 
+b+, n5|c, ck
+match found
+lineX: (| 2K %[LZK[
+lineY: &k Kc5|1K1 K b: (| 2K |k1
+matchingWords: 
+(|, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| &G] &G1 [C/{
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 2# a51   [5a
+lineY: n5| 2# a51   :  &T bC}(\
+matchingWords: 
+2#, a51
+match found
+lineX: K|1 |T b+ )acjKZKcK| Z+
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: K|1 &)p cL}a(
+lineY: Lm c# pC|1$ K|1 &)p 0P}[Kc /#|
+matchingWords: 
+K|1, &)p
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#a
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: %8  2Gc
+lineY: oP/ {8}(| 5a %P/ %8 })| |Cc {8} (|
+matchingWords: 
+%8
+match found
+lineX: 25/ nL|a nCp K ])|0 }[)}(|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 C| 2K /k]
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: a51 &+ %C[cr b+
+lineY: &+ ^)^K[1 K|1 a51
+matchingWords: 
+a51, &+
+match found
+lineX: [Xc n)2 K }K[51
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+n)2, K
+match found
+lineX: (| 2K c/(}a+]Kac o
+lineY: &k Kc5|1K1 K b: (| 2K |k1
+matchingWords: 
+(|, 2K
+match found
+lineX: nX[ Z([+m(\ P[ a)| bg1 Z+ a: }[#1
+lineY: nX[ Z([+m(\ P[ a)| bg1 Z+ acG]?c C|
+matchingWords: 
+nX[, Z([+m(\, P[, a)|
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 cXc ]81
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: a#[ 1(ac/+]
+lineY: &kp b)? a5c a#[ (| K &8-
+matchingWords: 
+a#[
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }K|c/(r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &)p &:] ?#{ ck 1)} ^8[ &5|cYr )| ar
+lineY: &)p &:] ?#{ ck 1)} ^8[ &5|cY
+matchingWords: 
+&)p, &:], ?#{, ck, 1)}
+match found
+lineX: K|1 |T b+ )ac }T|
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 2Gc 2)a n:p1 %/
+lineY: X d)\} 2Gc 2)a 080 )p K /kp
+matchingWords: 
+2Gc, 2)a
+match found
+lineX: &)p &:] ?#{ ck 1)} ^8[ &5|cYr n)2 }[Ga
+lineY: &)p &:] ?#{ ck 1)} ^8[ &5|cY
+matchingWords: 
+&)p, &:], ?#{, ck, 1)}
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k dPc &+ nCp /%L[
+lineY: &k dPc &+ nCp P%K[- an5[
+matchingWords: 
+&k, dPc, &+
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1CcK| [#]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &8 a?5[
+lineY: 2# %T|1 &8 mK{X|K
+matchingWords: 
+&8
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] K|1 [#1
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: &+ a51   2)al8rgb- Z+
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51
+match found
+lineX: ZLc &8 }L]? nL|p
+lineY: ZLc &8 Z)^Kac %/Kac/#bK|
+matchingWords: 
+ZLc, &8
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 cK}G|a
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: &k ^Cc }Cc ^5c Z[:|K [5^
+lineY: &k ^Cc }Cc nX[ac {8} (| &)p ^8} (|
+matchingWords: 
+&k, ^Cc, }Cc
+match found
+lineX: &)p &:] ?#{ ck 1)} ^8[ &5|cYr b+ aL]?([
+lineY: &)p &:] ?#{ ck 1)} ^8[ &5|cY
+matchingWords: 
+&)p, &:], ?#{, ck, 1)}
+match found
+lineX: K|1 2K X |5c
+lineY: %P/ n5[ &L\ }G]K[p b+ &G1 2K X
+matchingWords: 
+2K, X
+match found
+lineX: nCp K ?L^ nokp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: aX 2Gc &+ nCp ck
+lineY: 2Gc &+ nCp ]P/ n5[
+matchingWords: 
+2Gc, &+, nCp
+match found
+lineX: K|1 |T b+ )acjK1 Z5|c
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: ck }Gac
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: &k `|m5|cK1 K a}/k(\ ]Kb+|
+lineY: &k `|m5|cK1 K nC\}(\ ]Kb+|
+matchingWords: 
+&k, `|m5|cK1, K
+match found
+lineX: }B|}#m )|KcK|
+lineY: }B|}#m P/ }K|m5}a
+matchingWords: 
+}B|}#m
+match found
+lineX: K|1 ok[ ^5c [P\ ck ak?
+lineY: K|1 ok[ ^5c }nXc K [G%
+matchingWords: 
+K|1, ok[, ^5c
+match found
+lineX: n)2 2K a#} Lm 2K Z[X|1
+lineY: K|1 C| &8 Z(&X|1  %P/ 2K a#} Lm 2K Z[X|1
+matchingWords: 
+2K, a#}, Lm
+match found
+lineX: 25/ nL|a nCp K ]G| }/#|1 K ZC/}
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: }B|}#m (| K a5|-
+lineY: (| K %ok|rK[ ?/Ka5bK| nCp a?X1
+matchingWords: 
+(|, K
+match found
+lineX: 25/ nCp K oL\ ng]K| |#]1 bL] &Gd &Gb }[)?-}(?
+lineY: 25/ nCp K oL\ ng]K| |#]1 Z/Xc
+matchingWords: 
+25/, nCp, K, oL\, ng]K|
+match found
+lineX: cg} a+
+lineY: 1/C?c aXK|a  K|1 cg} L? 1(m)|Kc-
+matchingWords: 
+cg}
+match found
+lineX: &+ ^Cc 1T| ck a+ 1)}
+lineY: ^Cc 1T| ck 2K @]5|
+matchingWords: 
+^Cc, 1T|, ck
+match found
+lineX: 2: )c ^: ac:}
+lineY: 2: )c nCp %L| Z/+1(\
+matchingWords: 
+2:, )c
+match found
+lineX: 2K c?X/Kc:|
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: &)p ^
+lineY: c)[ &)p :|r ]5c %:[-
+matchingWords: 
+&)p
+match found
+lineX: }B|}#m )a
+lineY: }B|}#m P/ }K|m5}a
+matchingWords: 
+}B|}#m
+match found
+lineX: 25/ nCp G| :[1 %/L] n)1c/K^}
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: }B|}#m
+lineY: }B|}#m P/ }K|m5}a
+matchingWords: 
+}B|}#m
+match found
+lineX: 25/ nL|a nCp K ]G| ]G| |#]1 }X|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 a: ]L\ {LZK[
+lineY: K|1 a: `|c8 %[5}a 25]
+matchingWords: 
+K|1, a:
+match found
+lineX: K %/g}(\nMC
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: )c nCp ]L[p %
+lineY: 2K }L|c nCpK|c %/5|0 )c nCp {8]K|
+matchingWords: 
+)c, nCp
+match found
+lineX: 1 ^: ?#[
+lineY: 2K }/k 1)1 ^: ?#[
+matchingWords: 
+^:, ?#[
+match found
+lineX: n5| c:[1 Lm 2K b)?a /HbK|G[
+lineY: n5| c:[1 Lm 2K b)?a /HbK|G[
+matchingWords: 
+n5|, c:[1, Lm
+match found
+lineX: 1# K %g[ ?G|a
+lineY: K ]G1K] (| &5|/- %P/1p 1#
+matchingWords: 
+1#, K
+match found
+lineX: 25/ nL|a nCp K ^8[ }#|1 [Xmp
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: [X} ck %/L] [ga
+lineY: &k [X} ck 1k d)\p 2Gc n8 (}ac/+][- %T[
+matchingWords: 
+[X}, ck
+match found
+lineX: )c nCp ZP[
+lineY: 2K }L|c nCpK|c %/5|0 )c nCp {8]K|
+matchingWords: 
+)c, nCp
+match found
+lineX: K|1 |T &+ [+1 2K Z)|
+lineY: K|1 |T &+ &Gp K mK{X|K
+matchingWords: 
+K|1, |T, &+
+match found
+lineX: 25/ nL|a nCp K oL\ nC[r1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: ZLc ck Z/L0 )\}L1K|
+lineY: ZLc ck /Xc nL| 2Gc &Gp Z)| }K|m8c(1
+matchingWords: 
+ZLc, ck
+match found
+lineX: 2)a nCp K nL|p
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: ZLc &8 }L]? nL|
+lineY: ZLc &8 Z)^Kac %/Kac/#bK|
+matchingWords: 
+ZLc, &8
+match found
+lineX: 25/ nCp K oL\ %[G| Lm ])|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: ck 2K aXp Lm &8 #c %cC[(} &G1
+lineY: 2K aXp Lm &8 Z/5aca nCp `]5|a
+matchingWords: 
+2K, aXp, Lm, &8
+match found
+lineX: 25/ nCp K oL\ %[G| Lm ]r
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: Lm &8 ^5ac(] ]G|
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+Lm, &8
+match found
+lineX: 25/ nL|a nCp K ?)/p (m[C]K|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: %P/ K }C]crr5mr  ac/Ga
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+%P/, K
+match found
+lineX: ZLc %/L]
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: 25/ nL|a nCp K ]G|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 2K ]LbK[
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: ZLc nCp /CZ] cn/Xa
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: K|1 Lm &)p ZC}
+lineY: )c )p a51 Lm &)p ]+c
+matchingWords: 
+Lm, &)p
+match found
+lineX: ZLc
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: 25/ nCp K oL\ %[G| Lm ]r?5['
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K ]G| l8K]Z|K[rT|6ac
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+K, ]G|
+match found
+lineX: %L}r (| K }C|a
+lineY: (| K %ok|rK[ ?/Ka5bK| nCp a?X1
+matchingWords: 
+(|, K
+match found
+lineX: 25/ nL|a nCp K ]G| &G] ]G| ]#1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: %/P/ 25/ nCp nL|a ck }K|pC}
+lineY: 25/ nCp nL|a K [Por |#]1 /5}a
+matchingWords: 
+25/, nCp, nL|a
+match found
+lineX: K|1 2K aXp Lm &+
+lineY: 2K aXp Lm &8 Z/5aca nCp `]5|a
+matchingWords: 
+2K, aXp, Lm
+match found
+lineX: &k [X}c #|K[ %P/ a5}bjK[ /-[+a
+lineY: &k [X}c #|K[ %P/ a5}bjK[ /-[+a
+matchingWords: 
+&k, [X}c, #|K[
+match found
+lineX: 2Gc )c nCp 2K a?C/L1 n8
+lineY: )c nCp 2K m)}r 2K 18c- :[1 aC1
+matchingWords: 
+)c, nCp, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 ]Ka}'
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {#|1
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ZL1 |:
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: lC|[P/2r (| &8 ^G^
+lineY: K|1 &+ bCc &)p [:1 (| &8 |#mK[
+matchingWords: 
+(|, &8
+match found
+lineX: K|1 d)car
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ac/#
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 P[ Lm a?X? &)]cK|
+lineY: K|1 P[ Lm ]X c>p
+matchingWords: 
+K|1, P[, Lm
+match found
+lineX: 2K Z(d[
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: &8 |:p }G|c Z)}
+lineY: b+ %C['1 &8 |:p
+matchingWords: 
+&8, |:p
+match found
+lineX: &k [X}c ck %L} &ra5[% n)2 }G|1
+lineY: &k [X}c ck %L} &ra5[% n)2 }G|1-
+matchingWords: 
+&k, [X}c, ck, %L}
+match found
+lineX: ZLc X }G|cr|1 )c
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc, X
+match found
+lineX: }5|c &+ ^Cc
+lineY: &+ ^Cc )c %P/] ZGpK[1(| pk
+matchingWords: 
+&+, ^Cc
+match found
+lineX: 25/ nL|a nCp K ng]K| |#bK| %/L] 5?
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] n)]?
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: K|1 C
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: 25/ nL|a nCp K ]G| &)p %Ga (|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: (| a: 1#m a5}a
+lineY: a: 1:|c ZC2r [)} (|
+matchingWords: 
+(|, a:
+match found
+lineX: n5| 5/
+lineY: n5| Ga}c    &k )p 151
+matchingWords: 
+n5|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 aG%{X|(|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)%r L| 25/ ZL|-
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: K|1 Lm 2K &:a
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)%r L| 2K /X[
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/kd C ]+
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {+m
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nL|a nCp K ?[L]r#| |Gmr1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: }G1 Gp ck [5^
+lineY: Gp ck nLc 2K Zkc a5}cr bg1 a#
+matchingWords: 
+Gp, ck
+match found
+lineX: c/LZK[ nCp  &+ n#1 &G% K cL|
+lineY: c/LZK[ nCp  &+ n#1 &G% K cL|
+matchingWords: 
+c/LZK[, nCp, &+, n#1
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ^]X|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K ]G| &)p }L]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)p 5dG|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ?[LX Z/T|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ^8[ }#1 %/L] c+c
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nCp K oL\ [#1a K|5]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 2
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: b+ [5c Tc K ?)\p
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ZC }[:|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ?mXa
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: b+ b+ ^Cc (}a5acK[1
+lineY: n5| b+ ^Cc Tc Lm Z51
+matchingWords: 
+b+, ^Cc
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] 5/ {#
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] n)cP/
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: K|1 %P/ )|0Kp [P\^r 2G| ok[ nCp ?)[1K}
+lineY: K|1 %P/ )|0Kp [P\^r 2G| ok
+matchingWords: 
+K|1, %P/, )|0Kp, [P\^r
+match found
+lineX: n5| b+ ?g[1 &8 Gc
+lineY: n5| b+ ?g[1 Tc &8 }C}
+matchingWords: 
+n5|, b+, ?g[1
+match found
+lineX: n5| b+ a51 n)2 K ^/k ja:-/4}0
+lineY: b+ a51 n)2 K ^/)|
+matchingWords: 
+b+, a51, n)2, K
+match found
+lineX: 25/ nCp K oL\ n)[KB Z()b(?0cK1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 Z)ca Lm &8 c)ca (| c5/-
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+K|1, Z)ca, Lm, &8
+match found
+lineX: 1k
+lineY: 25/ nCp K &k }g1 :|[- 1k 1/G^
+matchingWords: 
+1k
+match found
+lineX: K|1 %P/ )|0Kp [P\^r 2G| ok[ a5}a
+lineY: K|1 %P/ )|0Kp [P\^r 2G| ok
+matchingWords: 
+K|1, %P/, )|0Kp, [P\^r
+match found
+lineX: K|1 %P/ )|0Kp [P\^r 2G| ok[ nCp a5ca
+lineY: K|1 %P/ )|0Kp [P\^r 2G| ok
+matchingWords: 
+K|1, %P/, )|0Kp, [P\^r
+match found
+lineX: nCp 2K 5/C]G%cr oP/
+lineY: K|1 ]P/ nCp 2K ?)c-
+matchingWords: 
+nCp, 2K
+match found
+lineX: 25/ nL|a nCp K &P/ |#]1 ]Kp1 [)]r  K oP/?Kca
+lineY: 25/ nL|a nCp K &P/ |#]1 {5a
+matchingWords: 
+nL|a, nCp, K, &P/, |#]1
+match found
+lineX: K|1 Lm &8
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+Lm, &8
+match found
+lineX: K|1 %P/ )|0Kp [P\^r 2G| okc
+lineY: K|1 %P/ )|0Kp [P\^r 2G| ok
+matchingWords: 
+K|1, %P/, )|0Kp
+match found
+lineX: K|1 a#  n(dC/p
+lineY: K|1 a#  ^)m ]+ ]P/  ^)m ]+ ]P/  ^)m ]+ ]P/
+matchingWords: 
+K|1, a#
+match found
+lineX: K|1 X[ 1(ac5|1%
+lineY: K|1 X[ ?)/ K])1 2:p %P/ KnX[
+matchingWords: 
+K|1, X[
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1G|-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ac51 nCp a: }051
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+nCp, a:
+match found
+lineX: %P/ K|1 ?+
+lineY: K|1 ?+  X [Lm ok  (| 2K a|:
+matchingWords: 
+K|1, ?+
+match found
+lineX: &)p }P/a d/k 2K nPcr %r^)ac n)2 2K /k]
+lineY: &)p }P/a d/k 2K nPcr %r^Cc
+matchingWords: 
+&)p, }P/a, d/k, 2K, nPcr
+match found
+lineX: C| %/L] }5|c
+lineY: 25/ nL|a nCp K ]G| %/L] }5|c
+matchingWords: 
+%/L], }5|c
+match found
+lineX: 25/ nCp G| :[1 ]G| &G]acr %/L] ]Cc
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ [#1- Lm |#]1 ?8cr C| &&H]B Z)c
+lineY: 25/ nCp K oL\ [#1- Lm }/+c
+matchingWords: 
+25/, nCp, K, oL\, [#1-, Lm
+match found
+lineX: &)p }P/a d/k 2K nPcr %r^)ac nCp K ?:}
+lineY: &)p }P/a d/k 2K nPcr %r^Cc
+matchingWords: 
+&)p, }P/a, d/k, 2K, nPcr
+match found
+lineX: 25/ nCp G| :[1 G}ac %G[pL]Kca[-
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {#|
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: &)p }P/a d/k 2K nPcr %r^C/? ZX}a
+lineY: &)p }P/a d/k 2K nPcr %r^Cc
+matchingWords: 
+&)p, }P/a, d/k, 2K
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 G\}(m(|-
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nCp K oL\ ng]K| |#]1 {5a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &kp
+lineY: &kp :|r nCp K ZXZK[ Z([+mr
+matchingWords: 
+&kp
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 1#1
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nCp G| :[1 ]#[- `|ac51
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: &)p }P/a d/k 2K nPcr %r^T|1
+lineY: &)p }P/a d/k 2K nPcr %r^Cc
+matchingWords: 
+&)p, }P/a, d/k
+match found
+lineX: 25/ nCp K oL\ nacL|1%$c %P/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: a: &+ %)|(bc &8 P% (| ])1
+lineY: a: &+ %)|(bc &8 P% (| ])1 5/
+matchingWords: 
+a:, &+, %)|(bc, &8
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {)}
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: n)2 K cXcKZK[- }5]
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+n)2, K
+match found
+lineX: &k %C2rj\%)}p
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 aGc-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: )c nCp
+lineY: X }G| /Xc )c (| a5}K|1p
+matchingWords: 
+)c
+match found
+lineX: C| 2K a]P[r%Yr bGc0
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: &+ /G| boLc
+lineY: &+ /G| Tc Lm nL|p %P/ }K|cL}-
+matchingWords: 
+&+, /G|
+match found
+lineX: )c ng1 }
+lineY: )c ng1 }Cp &)] P/ &8
+matchingWords: 
+)c, ng1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 5d |#|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc nCp P% ZX K }C|acK|c Lm a+mp Z)| n)2 }G|
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp, P%, ZX, K, }C|acK|c
+match found
+lineX: 25/ nCp K %5[' |#]1 c5}(c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &k [)m1 (| 2K 1+ `|ac51
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1, (|
+match found
+lineX: 25/ nL|a nCp G| #[-
+lineY: 25/ nL|a nCp G| #|Ka |#]1 {+mr
+matchingWords: 
+nL|a, nCp, G|
+match found
+lineX: ZLc nCp P% ZX K }C|acK|c Lm a+mp Z)| n5| &8 &G? ZC} &8
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp, P%, ZX, K, }C|acK|c, Lm
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] |#|1 &G| ]8ac
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: b)cT| K|1 aL0 d)\p
+lineY: K [XaK|a ck 1/Xm }C/p K|1 aL0
+matchingWords: 
+K|1, aL0
+match found
+lineX: 25/ nCp K ng]K| |#]1 {)}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &k ^Cc }Cc &)] ck
+lineY: &k ^Cc }Cc nX[ac {8} (| &)p ^8} (|
+matchingWords: 
+&k, ^Cc, }Cc
+match found
+lineX: ZLc nCp P% ZX K }C|acK|c Lm a+mp c/X
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp, P%, ZX, K
+match found
+lineX: 25/ nL|a nCp K ]#1 %/L] ]G1 &Gm |# }&Gp
+lineY: 25/ nL|a nCp K ]#1 %/L] ]G1/Ka
+matchingWords: 
+nL|a, nCp, K, ]#1, %/L]
+match found
+lineX: ZLc ]P/
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: ZLc nCp P% ZX K }C|acK|c Lm a+mp Z)p
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp, P%, ZX, K
+match found
+lineX: 25/ nCp G| :[1 ]G| nCp ])%
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: &kp ?C/(}
+lineY: &kp :|r nCp K ZXZK[ Z([+mr
+matchingWords: 
+&kp
+match found
+lineX: &k ^Cc K b5?K|c- [)]r(}
+lineY: &k ^Cc K %L|- %+[ (|
+matchingWords: 
+&k, ^Cc, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] K Z/5d
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: /(Lm 2Gc [P\ ak
+lineY: )% ok [5c ]+ [)} 2Gc [P\ 1)} %P/ K d/)[
+matchingWords: 
+2Gc, [P\
+match found
+lineX: b+ n5|c 2K &5/|6/-/p
+lineY: b+ n5|c ck K c+
+matchingWords: 
+b+, n5|c
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 a#[%M[1rp+a
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZLc b+ [5c Tc K %C/c r
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc, K
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] |F|cL}(c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 {)%r
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nCp K oL\ "
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: {C| nCp a)c(\ 1T|
+lineY: {C| nCp a)c(\ 1T|
+matchingWords: 
+{C|, nCp
+match found
+lineX: 25/ nCp K oL\ [#1- n)2 %/L] ckc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 1#1K|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ [#1- nCp rC }5%
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k ^Cc K ^/#c ZX
+lineY: &k ^Cc K %L|- %+[ (|
+matchingWords: 
+&k, ^Cc, K
+match found
+lineX: 25/ nL|a nCp K }G|P/]K| |#
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K oL\ [#1- nCp a:
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: n5| b+ a51
+lineY: b+ %C/ca n5| b+ a|+p(p
+matchingWords: 
+n5|, b+
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] K cP/K[ }Ga
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ C| 2K %/L] Z8 &X|
+lineY: 25/ nL|a nCp K ^8[ C| 2K |5c
+matchingWords: 
+nL|a, nCp, K, ^8[, C|
+match found
+lineX: 25/ nCp K oL\ [#1- C/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ck [8|r]1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &k nCp ZP/| n)2 K [C?aX1(1 cnG|ca
+lineY: &k nCp ZP/| n)2 ck [C/{ 1)}a
+matchingWords: 
+&k, nCp, ZP/|, n)2
+match found
+lineX: K|1 |: K %G}
+lineY: P[ Ga K|1 |: %P/&41
+matchingWords: 
+K|1, |:
+match found
+lineX: 25/ nCp K oL\ ^8[ C0XK
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K|1 Z)ca ]P/ /)\|-
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+K|1, Z)ca
+match found
+lineX: K|1 dPc a: ^kc
+lineY: X acg1 25/ K|1 dPc [P\ K|1 &C/1
+matchingWords: 
+K|1, dPc
+match found
+lineX: K|1 d)}r K [Xc
+lineY: K|1 d)}r K|1 a[)}r
+matchingWords: 
+K|1, d)}r
+match found
+lineX: b+ [5c Tc 2K &P/ a51
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc
+match found
+lineX: K|1 d)\} X [5c
+lineY: a51   X d)\} X a]5[ }L|c
+matchingWords: 
+d)\}, X
+match found
+lineX: %P/ 2K }5|1
+lineY: X 1:|c |:   X {Lac }#] %P/ 2K /X1
+matchingWords: 
+%P/, 2K
+match found
+lineX: a: d)\}
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+a:
+match found
+lineX: 2: )c nCp ^/k a
+lineY: 2: )c nCp %L| Z/+1(\
+matchingWords: 
+2:, )c, nCp
+match found
+lineX: &k nCp ZP/| n)2 K [C?aX1(1 cnG}
+lineY: &k nCp ZP/| n)2 ck [C/{ 1)}a
+matchingWords: 
+&k, nCp, ZP/|, n)2
+match found
+lineX: K|1 2K |:
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: b+ aGc
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: )ca K]#p(\   X a?:}
+lineY: )ca K]#p(\   X a?:}
+matchingWords: 
+)ca, K]#p(\
+match found
+lineX: Gp &+ a51 n)2 K ^/Ga
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51, n)2
+match found
+lineX: 25/ nL|a nCp K ]G| |#|1 K ZC/cr
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {)%r L| 25/ Z:|
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|, |#]1
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 cK}nXr
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: Gp &+ a51 n)2 K ^/G|-
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51, n)2
+match found
+lineX: K|1 Lm 2K &:[
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] 5/ &G1 &8 &5/
+lineY: 25/ nL|a nCp K [#1- %/L] c/5|c
+matchingWords: 
+nL|a, nCp, K, [#1-, %/L]
+match found
+lineX: nCp #
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: b+ n5|c ck K [5^
+lineY: b+ n5|c ck K c+
+matchingWords: 
+b+, n5|c, ck
+match found
+lineX: b+ n5|c ck K [5^|- 1T#
+lineY: b+ n5|c ck K c+
+matchingWords: 
+b+, n5|c, ck
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| (|
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1
+match found
+lineX: K|1 a51 n)2 K [)] /C}(ZK[
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+a51, n)2, K
+match found
+lineX: 25/ nCp K oL\ ^8[ |#]1 {)%(c nCp  %Cc
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: )c b+ [5m[4|1(^K[ &5/
+lineY: b+ a51   X FZ&P/ )c
+matchingWords: 
+)c, b+
+match found
+lineX: 25/ nCp K oL\ 15
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: Gp &+ a51 n)2 K ]L2r a#
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+&+, a51, n)2, K
+match found
+lineX: b+ a51   )c )c [Cc
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: &k a51   2)al8rgb
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+&k, a51
+match found
+lineX: &k }G|c
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nCp K ]G| |#] }/kp
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nCp, K, ]G|
+match found
+lineX: ZLc nCp %L} )c
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+m[]rp
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: &+ a51  X K1LB|c ?#| 5/
+lineY: &+ a51  X K1])c
+matchingWords: 
+&+, a51, X
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+]ZKa(}
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 ^5c &8 Z({X|p
+lineY: X 1:|c ^5c &8 ?[G|p
+matchingWords: 
+^5c, &8
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 C cT| 1Cc
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]?
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: K|1 |T &+ [Xc L?
+lineY: K|1 |T &+ &Gp K mK{X|K
+matchingWords: 
+K|1, |T, &+
+match found
+lineX: 25/ nCp K oL\ a#|1 }/X1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &k [)m1 C|
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1
+match found
+lineX: ck Z+ nk1 (| 2K |k1
+lineY: ck Z+ nk1 (| 2K |k1
+matchingWords: 
+ck, Z+, nk1
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 G| &G0 &+ 1X|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: 2# %T|1 &8 mK{X|K
+lineY: 2# %T|1 &8 mK{X|K
+matchingWords: 
+2#, %T|1
+match found
+lineX: K|1 |: Z/X1
+lineY: P[ Ga K|1 |: %P/&41
+matchingWords: 
+K|1, |:
+match found
+lineX: 25/ nL|a nCp K ng/ K
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K [#1- %/L] 52rg}c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: n+ Kc5|1
+lineY: Z:d aX1p n+ n)[ %G}cr-p  a+
+matchingWords: 
+n+
+match found
+lineX: K|1 |T b+ /+p }okp
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }c+](\
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K|1 2K aXp Lm &)p ZP[p  %L}(}
+lineY: n)2 2K aXp Lm &)p ]5]Zr
+matchingWords: 
+2K, aXp, Lm, &)p
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 %/L] |#|1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 &)p cn+|- ?[:|K%1
+lineY: Lm c# pC|1$ K|1 &)p 0P}[Kc /#|
+matchingWords: 
+K|1, &)p
+match found
+lineX: 25/ nL|a nCp K ^8[ (| Z/C]K[
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 2K
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: C| 2K }n+| Lm 2K ?[:^-
+lineY: {5/- a])d )p 2K }n+| Lm 2K |5c
+matchingWords: 
+2K, }n+|, Lm
+match found
+lineX: 25/ nCp G| :[1 a#} |-1(1
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: &k %T|1 &
+lineY: &k %T|1 2Gc b+ }g1K|c ?# /5|c
+matchingWords: 
+&k, %T|1
+match found
+lineX: ?gc G| G"
+lineY: ?gc G| G1 C| 2K n5Z %P/ K %/5|1
+matchingWords: 
+?gc, G|
+match found
+lineX: K [#1- %/L] (| 2K n5ac 5|1
+lineY: K [#1- %/L] (| 2K n5ac 5|1
+matchingWords: 
+K, [#1-, %/L], (|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 c51/
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 c51
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ^8[ |#]1 {)%r L| 1Ga
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[, |#]1
+match found
+lineX: &k okp1 K &P cK1
+lineY: &k okp1 K 1X|K]Yc ac)} Gp K %G[Ka
+matchingWords: 
+&k, okp1, K
+match found
+lineX: b+ [Xcr
+lineY: b+ 1+ P%r ck a}/k
+matchingWords: 
+b+
+match found
+lineX: &+ /G|(a}(}mrp
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+&+
+match found
+lineX: &k dPc &+ nCp }nXc 2K ng1 &8 %5[
+lineY: &k dPc &+ nCp }nXc K Z)c }[+c r
+matchingWords: 
+&k, dPc, &+, nCp, }nXc
+match found
+lineX: ^Gd  K %5['
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+K, %5['
+match found
+lineX: &k c8|
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]Cc
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K [#1- %/L] }5|c
+lineY: 25/ nL|a nCp K [#1- (| ^/CcK|
+matchingWords: 
+nL|a, nCp, K, [#1-
+match found
+lineX: ZLc &)p acg[
+lineY: &+ c/X1 ck 1k Z5cr  ZLc &)p nX% }g1K|c ^5c n5cr
+matchingWords: 
+ZLc, &)p
+match found
+lineX: &8 c)ca  Q[2: a]P[
+lineY: K|1 Z)ca Lm &8 c)ca (| Z/Kp)[
+matchingWords: 
+&8, c)ca
+match found
+lineX: ZLc 2K a5|a
+lineY: ZLc 2K Ga&'[ nCp b)c=
+matchingWords: 
+ZLc, 2K
+match found
+lineX: b+ a5c Tc nLc bgc-(]?
+lineY: b+ a5c Tc nL| 1#
+matchingWords: 
+b+, a5c, Tc
+match found
+lineX: a?/5aca (| 2K ac/+}([
+lineY: &k Kc5|1K1 K b: (| 2K |k1
+matchingWords: 
+(|, 2K
+match found
+lineX: 25/ nCp K oL\ %/Lc/K%/(\/5/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: c)[ &+ &G1 K ZC/1
+lineY: &+ &G1 K m5/- [P\ 1)}
+matchingWords: 
+&+, &G1, K
+match found
+lineX: C| 2K /k]
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+C|, 2K
+match found
+lineX: K|1 Z5|c
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: ck ck ck ckc
+lineY: a51 2K ck ck 2K ckcr
+matchingWords: 
+ck, ck
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %)/p
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 2K [Lm1 ck /(mnk]a
+lineY: 2# [Lm1 ck /)/ 5|1 8
+matchingWords: 
+[Lm1, ck
+match found
+lineX: (| %P/ &)] )cK1
+lineY: ZLc %X|1(\ )c %P/ &)] nCpK|c +p-
+matchingWords: 
+%P/, &)]
+match found
+lineX: Z+ K Z/Ga
+lineY: K ack1K|c Gp a]C/c Gp }g1 Z+
+matchingWords: 
+Z+, K
+match found
+lineX: K|1 |: ]G
+lineY: P[ Ga K|1 |: %P/&41
+matchingWords: 
+K|1, |:
+match found
+lineX: b+ [5c Tc K|1 1)| a51
+lineY: b+ [5c Tc K b/+}
+matchingWords: 
+b+, [5c, Tc
+match found
+lineX: Gp ck ck 2K %Cc c+
+lineY: a51 2K ck ck 2K ckcr
+matchingWords: 
+ck, ck, 2K
+match found
+lineX: ac/P\ 1(}a}P[
+lineY: K :[1 ]G| ac/P\ K|1 #ZK[
+matchingWords: 
+ac/P\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8d
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K [#1- %/L] 0XKa
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: k
+lineY: K|1 a51  k  og/ /Xc L? ]X G[-
+matchingWords: 
+k
+match found
+lineX: ZLc 2K ?C?M a51   |#
+lineY: ZLc 2K ?C?M a51   |#
+matchingWords: 
+ZLc, 2K, ?C?M
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }/kd ck
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 aGXZp
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#1 l8r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: K ]L2]?r}
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8]  &+ [8|1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: &+ ^5c }nXc K ZL}
+lineY: K|1 ok[ ^5c }nXc K [G%
+matchingWords: 
+^5c, }nXc, K
+match found
+lineX: 25/ nL|a nCp K ng]K| |#]1 {)%r L| c:[1
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nL|a, nCp, K, ng]K|, |#]1
+match found
+lineX: b+ a[)?c d/k 2K ac/P K|1 %5[ (| a?5|1
+lineY: b+ a[)?c d/k 2K ac/P K|1 %5[ (|
+matchingWords: 
+b+, a[)?c, d/k, 2K, ac/P
+match found
+lineX: K ]G|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G\/(\ [C/{
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 %L}c ck 5}c#|
+lineY: K|1 %L}c P[ 2K ?+?K[
+matchingWords: 
+K|1, %L}c
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %/L] c+c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ?rk
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 %X] &G1 ]G1
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: &k /G|(a(}[
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: ZLc 2)a 5m/-
+lineY: ZLc 2)a nL| X d)\}
+matchingWords: 
+ZLc, 2)a
+match found
+lineX: 25/ nL| 1k ]#
+lineY: 25/ nL| nCp K ?/+ac  1C}cr |>p
+matchingWords: 
+25/, nL|
+match found
+lineX: nCp (| 2K %)/ &+ }K
+lineY: 2Gc [5ca (| 2K %)/
+matchingWords: 
+(|, 2K, %)/
+match found
+lineX: 25/ nL|a nCp K %)[p (|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: nCp c/Lgd[a
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }6kc
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: ZCc ck
+lineY: &k &#cK1 2K ?:|= &+1 ZCc &8
+matchingWords: 
+ZCc
+match found
+lineX: Gp &+ nX?c P% &)p 0)|a
+lineY: Gp &+ nX?c P% &)p 0)|
+matchingWords: 
+Gp, &+, nX?c
+match found
+lineX: K|1 &+ %/L] mG?c
+lineY: K|1 &+ bCc &)p [:1 (| &8 |#mK[
+matchingWords: 
+K|1, &+
+match found
+lineX: n5| K Z/:}c ?5|1
+lineY: n5| K b/)[ m>a nCp &81 1T| 2K X[p
+matchingWords: 
+n5|, K
+match found
+lineX: K|1 |T b+ n)2 K ^/)|
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: &+ %T|1 &)p }L|c [C/}KZ
+lineY: &+ %T|1 &)p c/k [Lm
+matchingWords: 
+&+, %T|1, &)p
+match found
+lineX: K|1 &+ %/L] ^8[
+lineY: K|1 &+ bCc &)p [:1 (| &8 |#mK[
+matchingWords: 
+K|1, &+
+match found
+lineX: 25/ nCp G| :[1 %/L] ]G| |#|1 ]K}ak
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: K|1 ?+p ?#
+lineY: 2K }P/| }G/Kca K|1 ?+p
+matchingWords: 
+K|1, ?+p
+match found
+lineX: K|1 |T b+ [Xcr
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: n)2 G
+lineY: &k nCp ZP/| n)2 ck [C/{ 1)}a
+matchingWords: 
+n)2
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#1  &L\}?
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] }/kd bCc &gd n)0 &# }C}
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[, %/L]
+match found
+lineX: rT|1 a}k[ a?/51 K /k]r
+lineY: rT|1 a}k[ a?/51 K /k]r
+matchingWords: 
+rT|1, a}k[, a?/51
+match found
+lineX: 25/ nL|a nCp K ?)/p ]G|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: C/ &(]ZGd
+lineY: 2K 1P/}p C/ Tc (| %P/a
+matchingWords: 
+C/
+match found
+lineX: 25/ nL|a nCp K }G|c K|5^
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] 5|1-
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k c8p(
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: 2Gc nCp K %5[' ]81
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nCp, K, %5['
+match found
+lineX: b+ K ZP[
+lineY: &k nP/ K |kp?$?r 1/5a ck K ZP[
+matchingWords: 
+K, ZP[
+match found
+lineX: ZLc nCp ^/#  %/L] n)]?
+lineY: ZLc nCp ^/#  &G1 [P\ )/p  K|1 #c ^/Ga
+matchingWords: 
+ZLc, nCp, ^/#
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)]cLZ Z)1 n)2 K Z/p+
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[, %/L]
+match found
+lineX: 25/ nL|a nCp K ZLgc
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ac/(}K[p nCp
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] /X1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K &k|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8 C| X[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: &)p [Lmr }#] %/L] ?n5/c; mWG^/K
+lineY: &)p [Lmr }#] %/L] ?n5/c; mWG^/K
+matchingWords: 
+&)p, [Lmr, }#]
+match found
+lineX: 25/ nCp G| :[1 a#[r %/L] Z/C0K|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: &k ankc
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+&k
+match found
+lineX: K ]G| nCp ^: )
+lineY: K ]G| nCp nL|a &L\ [X} K 1C\}-
+matchingWords: 
+K, ]G|, nCp
+match found
+lineX: 25/ nL|a nCp K })[p
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: nCp 2K %5a
+lineY: K|1 ]P/ nCp 2K ?)c-
+matchingWords: 
+nCp, 2K
+match found
+lineX: K|1 K /)\+p
+lineY: K|1 K Z81 K|1 K ZLac K|1 K 1P/
+matchingWords: 
+K|1, K
+match found
+lineX: K Z[L1- nCp d)}
+lineY: n)2 K Z[L1- /)?
+matchingWords: 
+K, Z[L1-
+match found
+lineX: 25/ nL|a nCp K ])|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 2K %L} C/]Ka(\ &8
+lineY: a: ?Ga ]+ K ZCcK[ K|1 bLc 2K %L} L?
+matchingWords: 
+2K, %L}
+match found
+lineX: K|1 |T b+ )c K Z/Gc
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: 25/ nCp K oL\ ^8[ C| /k]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] nL|a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 {+m
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp G| :[1 a#} |#]1 Kac/5a
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ 1C} %/L] &)p 5dPb(c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ^8[ %
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| }P[1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: ck ck 2K 1k a+ Z/P
+lineY: a51 2K ck ck 2K ckcr
+matchingWords: 
+ck, ck, 2K
+match found
+lineX: &+ %T|1 &)p }L|c [#|
+lineY: &+ %T|1 &)p c/k [Lm
+matchingWords: 
+&+, %T|1, &)p
+match found
+lineX: 25/ nCp K  [#1- %/L] }5|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ K|1 dPc [P\ K|1 &C/1
+lineY: X acg1 25/ K|1 dPc [P\ K|1 &C/1
+matchingWords: 
+25/, K|1, dPc
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] }K|c/(1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: X[ 1(ac/51
+lineY: a: X[ a# &+/ X ^:
+matchingWords: 
+X[
+match found
+lineX: 25/ nCp K oL\ 1G[? n8
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nCp K oL\ %5[' |#]1 %)/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 %/L] &)p #c a]Lp
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: ck akr
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: oL\ |Cc (| 2K 1G[:|
+lineY: k |Cc (| 2K &:[ n5/ ok ?)a
+matchingWords: 
+|Cc, (|, 2K
+match found
+lineX: &+
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+&+
+match found
+lineX: K|1 Lm 2K &P/1
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] 5d }[G1
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ G|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: ]X %/5|1  2K ?GbK|
+lineY: X] ^[G1 b+p ]X %/5|1  o5a )ca ]G|1-
+matchingWords: 
+]X, %/5|1
+match found
+lineX: 1#m a51
+lineY: 25/ nL|a nCp K ]G| |#]1 1#m
+matchingWords: 
+1#m
+match found
+lineX: 25/ nCp K /5ac nC/- ZG}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: b+ }g1 1+1
+lineY: n5| b+ }g1 |Cc ?# 2K /5|c
+matchingWords: 
+b+, }g1
+match found
+lineX: ZLc )c nCp %/L
+lineY: 2K }L|c nCpK|c %/5|0 )c nCp {8]K|
+matchingWords: 
+)c, nCp
+match found
+lineX: 25/ nCp G| :[1 |#]1 |8- }/)}a
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: K a"
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: 2)a ng]K| )p /)[- ?r?[5}a
+lineY: 2)a ng]K| )p /)[- ?r?[5}a
+matchingWords: 
+2)a, ng]K|, )p
+match found
+lineX: (| a51   ?[L^ ^:
+lineY: a51   ]X aG[K1 )p |+1(\ K cPa (|
+matchingWords: 
+(|, a51
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 %}Lc Z/g}r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 2Gc nCp ac8?ULZr8p1
+lineY: n)2 K }C} 2Gc nCp b#?c [X} K /GZKc
+matchingWords: 
+2Gc, nCp
+match found
+lineX: ZLc ^5c K ZLa
+lineY: ok[ ^5c K n)/1 ZCcK[ [X} ]X|
+matchingWords: 
+^5c, K
+match found
+lineX: 25/ nCp K oL\ [#1- %/L] ?k ]C/
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ G} [P\c |#]1 }[X|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: %8 Z)H0XK51
+lineY: oP/ {8}(| 5a %P/ %8 })| |Cc {8} (|
+matchingWords: 
+%8
+match found
+lineX: &k /)[- n#?c(\ )p
+lineY: &k /)[- nP|c(1 ck })[
+matchingWords: 
+&k, /)[-
+match found
+lineX: 25c nCp K ng]K| |#]1 ?8ac &L0
+lineY: 25/ nL|a nCp K ng]K| |#]1 {)[
+matchingWords: 
+nCp, K, ng]K|, |#]1
+match found
+lineX: 25/ nCp K %5[' %/L] ]Ga
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nCp K oL\ ]G| |#]1 /5/Ka
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k nCp ?[L](\ K [Ga ZX 2K a+ X {Lac |05]
+lineY: &k nCp ?[L](\ K [Ga ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\, K, [Ga, ZX
+match found
+lineX: ]X |}k
+lineY: ]X %O/bG1'(\ X /Xc 1(ac)\}c[-
+matchingWords: 
+]X
+match found
+lineX: 25/ nCp G| :[1 ]G| (| %/L|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 2Gc nCp K %5[' |#]1 ZC|-
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nCp, K, %5['
+match found
+lineX: &k nCp ?[L](\ K [Ga ZX 2K a+ X ok nk
+lineY: &k nCp ?[L](\ K [Ga ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\, K, [Ga, ZX
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 &Ga
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 2Gc )c nCp 2K %)} o8c
+lineY: )c nCp 2K m)}r 2K 18c- :[1 aC1
+matchingWords: 
+)c, nCp, 2K
+match found
+lineX: 25/ nL|a nCp K ?)[
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: b+ nCp K %5[' )c
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nCp, K, %5['
+match found
+lineX: b+ a51   )c [g}c &8 |Cc
+lineY: ZLc b+ a51 )c )p 1(mX|
+matchingWords: 
+b+, a51, )c
+match found
+lineX: 25/ nL|a nCp K 5}a[K|
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &G1 &G1 K %okc
+lineY: &k &G1 K ]F^|)%KaK|c Ga
+matchingWords: 
+&G1, K
+match found
+lineX: &k nCp ?[L](\ K [Ga ZX 2K a+ Gc
+lineY: &k nCp ?[L](\ K [Ga ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\, K, [Ga
+match found
+lineX: 25/ nL|a nCp K ]G| }/)}
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: Lm K +/?Q/(a?C? &G1
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm, K
+match found
+lineX: &k nCp ?[L](\ K [Ga ZX 2K a+ Gc K }K|a5[m
+lineY: &k nCp ?[L](\ K [Ga ZX 2K a+
+matchingWords: 
+&k, nCp, ?[L](\, K, [Ga, ZX
+match found
+lineX: 25/ nCp K }C]K| |#] }[#cc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: d/k Z#
+lineY: n+[ 1(mX1 d/k ZX K
+matchingWords: 
+d/k
+match found
+lineX: 25/ nCp K }G|cK|1 |#]1 {#|1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1CcKa
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ]G| K?56/- K|1 &)]
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]G1 &G| &# )r
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25/ nCp K oL\ |#|-{1/(}
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: &k [)m1 n)2 /)}K|
+lineY: K ?G|p- &k [)m1 (| }D/ck]
+matchingWords: 
+&k, [)m1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] }6kc ]Ta (|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: 25| %[k ck 0+p
+lineY: &k %[k ck 2K ]k| (| K /C}Kc
+matchingWords: 
+%[k, ck
+match found
+lineX: [Xp P/ Z+
+lineY: )p ^5c 2K [5\}da /Xc P/ Z+ })}c
+matchingWords: 
+P/, Z+
+match found
+lineX: 1K1 K|1 ?)\}
+lineY: |Cc /T|1K1 K|1 ?)\}
+matchingWords: 
+K|1, ?)\}
+match found
+lineX: Gp ok1 ?CaKZ[- d)\}
+lineY: Gp ok1 ?CaKZ[- d)\}
+matchingWords: 
+Gp, ok1
+match found
+lineX: K|1 ok }g1 Z#m
+lineY: ok }g1 ?[# K aK[5}bK|
+matchingWords: 
+ok, }g1
+match found
+lineX: 1k d)\P\
+lineY: 25/ nCp K &k }g1 :|[- 1k 1/G^
+matchingWords: 
+1k
+match found
+lineX: 25/ nL|a nCp K }[X]
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &+ }g1 +c(\ [Lm
+lineY: &kp 1)} nCp a: [P\ &+ }g1 aL} )c
+matchingWords: 
+&+, }g1
+match found
+lineX: K|1 2K ]+|(\ Lm a5}d
+lineY: ?5|1 K c5}ac }P[1  2K ]+|(\ Lm ]+|(\
+matchingWords: 
+2K, ]+|(\, Lm
+match found
+lineX: K|1 2K }P[%
+lineY: K|1 2K Z81 P[n$p a5p  |5mr]Q/
+matchingWords: 
+K|1, 2K
+match found
+lineX: 25/ nL|a nCp K ]G| &)p }C]c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: X[
+lineY: a: X[ a# &+/ X ^:
+matchingWords: 
+X[
+match found
+lineX: 25/ nL|a nCp K oL\ n)[ %/+](\ [P\
+lineY: 25/ nL|a nCp K oL\ ]G| |#]1 }X[
+matchingWords: 
+nL|a, nCp, K, oL\
+match found
+lineX: 25/ nCp G| :[1 a#1r %P/
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p |5mr Z5|c
+lineY: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p P/ }#}a
+matchingWords: 
+b+, }5/1, |Cc, %P/, ac#}a
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ]X |#|1
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] Z8  &G| [P/
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|, %/L]
+match found
+lineX: K|1 C| &8 &k
+lineY: b+ [#1 C| &8 ZG}
+matchingWords: 
+C|, &8
+match found
+lineX: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p K 1)ac
+lineY: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p P/ }#}a
+matchingWords: 
+b+, }5/1, |Cc, %P/, ac#}a
+match found
+lineX: 25/ nCp G| :[1 l &8 ZXc (}5]?KcG|c-
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K %5[' |#]1 {#|1
+lineY: 25/ nL|a nCp K %5[' |#]1 /)}
+matchingWords: 
+nL|a, nCp, K, %5['
+match found
+lineX: 25/ nL|a nCp K oL\ ^8[ |#]1 {)}
+lineY: 25/ nL|a nCp K oL\ ]G| |#]1 }X[
+matchingWords: 
+nL|a, nCp, K, oL\
+match found
+lineX: K|1 &)p
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p |F^|)[-
+lineY: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p P/ }#}a
+matchingWords: 
+b+, }5/1, |Cc, %P/
+match found
+lineX: [5a   %5[' |#]1 :|
+lineY: K a)[- oL\ %5[' |#]1 &X1
+matchingWords: 
+%5[', |#]1
+match found
+lineX: K|1 |T b+ /X]
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: ck ak| cnX[- ?51
+lineY: &k nCp ZP/| |X| ]L|da ck ak|
+matchingWords: 
+ck, ak|
+match found
+lineX: Lm
+lineY: a)|a &)p [5^  2K /(]#|p Lm K }5^
+matchingWords: 
+Lm
+match found
+lineX: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p K 1C? ?+}((a}
+lineY: b+ }5/1 |Cc %P/ ac#}a P/ ?#ac/-p P/ }#}a
+matchingWords: 
+b+, }5/1, |Cc, %P/, ac#}a
+match found
+lineX: 25/ nL|a nCp K [#8
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: b+ nL| mG\^K[Tc C\}
+lineY: b+ nL| ]X &C/c
+matchingWords: 
+b+, nL|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] ]X|K[
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: :mr &k &G1 2K /Xc
+lineY: :mr &k &G1 2K /Xc
+matchingWords: 
+:mr, &k, &G1
+match found
+lineX: ck 1k nLc  K|1 [)}a (| a5}a
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+ck, 1k, nLc, K|1
+match found
+lineX: 25/ nCp K ]G| %/L] }5|c
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nCp, K, ]G|
+match found
+lineX: &k }5?c K 151 &P\}c [X} K Z/Gc
+lineY: &k }5?c K 151 &g}r (| K }#m
+matchingWords: 
+&k, }5?c, K, 151
+match found
+lineX: 25/ nCp K [#1- %/L] 5/ &Ga
+lineY: 25/ nCp K [#1- %/L] }5|c
+matchingWords: 
+25/, nCp, K, [#1-
+match found
+lineX: b+ n5|c ck K %)/p Xm 25/
+lineY: b+ n5|c ck K c+
+matchingWords: 
+b+, n5|c, ck, K
+match found
+lineX: 25/ nCp K oL\ G}ar  %/5|c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| [C/}Kp  K C/X
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n)[ bCc
+lineY: Z:d aX1p n+ n)[ %G}cr-p  a+
+matchingWords: 
+n)[
+match found
+lineX: ck 1k nLc  K|1 K ZL}(c Lm Z/G}(c
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+ck, 1k, nLc, K|1
+match found
+lineX: 25/ nCp K oL\ ^8[ C05/- [#b[-
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ^8[ (}ZK[1
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: n)2 K n)2 d)c
+lineY: nX[ %L}(\  &+ a51 n)2 K ^/L|c
+matchingWords: 
+n)2, K
+match found
+lineX: ck 1k nLc  K|1 ]#1 0C/{/
+lineY: ck 1k nLc  K|1 n)2 n)0  K|1 ck &k]
+matchingWords: 
+ck, 1k, nLc
+match found
+lineX: 25/ nL|a nCp K ^8[ -= &5/
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: 25/ nL|a nCp K ZL] |#]-
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 1k 1/G^
+lineY: 25/ nCp K &k }g1 :|[- 1k 1/G^
+matchingWords: 
+1k
+match found
+lineX: &)p 1/+] nCp ck &Gm K bG^
+lineY: &)p 1/+] nCp ck &Gm K bG^
+matchingWords: 
+&)p, 1/+], nCp, ck
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] 1DF}a %P/ ?+|(b
+lineY: 25/ nCp K oL\ ]G| %/L] c/)|Kc-
+matchingWords: 
+25/, nCp, K, oL\, ]G|
+match found
+lineX: ZLc (| &T &Gm
+lineY: ZLc (| &)p 1(?/GmKc-
+matchingWords: 
+ZLc, (|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)p 5}cr
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: &k &G1 a]5#cKP% aXcK[
+lineY: &k &G1 ?okZrc- ac/X} Gc #{ ck
+matchingWords: 
+&k, &G1
+match found
+lineX: ZLc ^5c &8 Z(%
+lineY: X 1:|c ^5c &8 ?[G|p
+matchingWords: 
+^5c, &8
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)p 5}a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: ZLc nCp &+ ]:|1
+lineY: ZLc nCp P% ZX K }C|acK|c Lm a+
+matchingWords: 
+ZLc, nCp
+match found
+lineX: 25/ nCp K oL\ ]G| %/L] K c5Pc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ?)
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1#
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: L|a nCp 2)a ^X |#]1 %/51
+lineY: 25/ nL|a nCp 2)a ^X &kp 1)}
+matchingWords: 
+nCp, 2)a, ^X
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] cG1 r8
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] &)]cK?
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K oL\ ?CZp K|1 1#a
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1CcKa |#]1 }[5a
+lineY: 25/ nL|a nCp K ]G| |#]1 an+|-
+matchingWords: 
+nL|a, nCp, K, ]G|, |#]1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] K cC]K|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: n)2 K c)} (| a#| 1(1
+lineY: a: b+ a[5?c n)2 K c)}
+matchingWords: 
+n)2, K, c)}
+match found
+lineX: a: d/+ [5c
+lineY: a: d/+ 5}a?rca ?5|1 |5}ac
+matchingWords: 
+a:, d/+
+match found
+lineX: nCp   nCp K ZCcK[
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: K|1 ok ?gc(a ?C/Gd
+lineY: K|1 ok ]# 5|1 L? ^5c(\ }Cc
+matchingWords: 
+K|1, ok
+match found
+lineX: K %L|- a: Z/X1
+lineY: K %L|- :[1 ^X )p Tr ZP/(a
+matchingWords: 
+K, %L|-
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1C-
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] K c#(a
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| G| %/L] cb:|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp G| :[1 a#} (bP/bK|
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|
+match found
+lineX: K|1 a
+lineY: &k nCp &P/|-  &L\^/- K|1 ?k/
+matchingWords: 
+K|1
+match found
+lineX: 25/ nCp K oL\ 1)[p %P/ 2K ^/+
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp K ^8[ C| G|
+lineY: 25/ nL|a nCp K ^8[ |#]1 1(|+a
+matchingWords: 
+nL|a, nCp, K, ^8[
+match found
+lineX: K|1 |T b+ )c ?Ga
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+
+match found
+lineX: n)] &+ &G1
+lineY: ZLc &+ &G1 |: 1)}
+matchingWords: 
+&+, &G1
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 1CcK|
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] cG1 /X]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: L](\   )ca ]+
+lineY: a51 &+   o5a X |: [Lm  )ca ]+
+matchingWords: 
+)ca, ]+
+match found
+lineX: 25/ nCp G| :[1 [#1- Lm %Gac
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1
+match found
+lineX: 25/ nCp K oL\ ng}(| 8 |#]1 cXc
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: X nL|a ^/k ?51
+lineY: X nL|a ]5c K [Ga- |#]1 /kd
+matchingWords: 
+X, nL|a
+match found
+lineX: 25/ nCp K oL\ ^8[ %#/(m %/L] n)c
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nCp K [#1- %Gac
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: K ?:[
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+K
+match found
+lineX: ck &+ %C/cK1
+lineY: &+ [X}c )c ck
+matchingWords: 
+ck, &+
+match found
+lineX: K|1 2# %T Z+p
+lineY: ZLc 2K %L}(\ d)\p /X] K|1 2# a}G|
+matchingWords: 
+K|1, 2#
+match found
+lineX: &kp ck 2K 1/+c
+lineY: %/L] nL| ck 2K }okZ /kc Lm d/+
+matchingWords: 
+ck, 2K
+match found
+lineX: Lm 2K }G?c c/L]c
+lineY: )p 2K [P^ Lm 2K }okZ /kc Lm +
+matchingWords: 
+Lm, 2K
+match found
+lineX: ck ak
+lineY: %P/ K 1C[r P/ ck
+matchingWords: 
+ck
+match found
+lineX: ZLc X
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: amGa %/L] 2K ac/+]
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+%/L], 2K
+match found
+lineX: 2Gc b+ a51 n)2 K ac/+]X|K[
+lineY: b+ a51 n)2 K ^/)|
+matchingWords: 
+b+, a51, n)2
+match found
+lineX: 25/ nCp K oL\ ^8[ %#[X|1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K
+match found
+lineX: C/ &C/}
+lineY: 2K 1P/}p C/ Tc (| %P/a
+matchingWords: 
+C/
+match found
+lineX: 25/ nCp K oL\ ^8[ %#/(m %/L|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a nCp G| :[1 ]G| (| m8]1
+lineY: 25/ nL|a nCp G| :[1 ]G| %/L] Z/kacr
+matchingWords: 
+nL|a, nCp, G|, :[1
+match found
+lineX: 25/ nL|a nCp K ]G| %/L] oCcGc(a
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: aX
+lineY: a?/51 &8 dXp  Gp b+ a51 n)2 K aX
+matchingWords: 
+aX
+match found
+lineX: Xm b#m1 ]Ya5[% Z5/
+lineY: Xm b#m1 ]Ya5[% Z5/
+matchingWords: 
+Xm, b#m1
+match found
+lineX: K|1 |T &)p }Cc(1
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: 25/ nL|a nCp K ]G| |#]1 K ]K|okc
+lineY: 25/ nL|a nCp K ]G| %/L] 2K ac)}a
+matchingWords: 
+nL|a, nCp, K, ]G|
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G1 a#/ ^/k
+lineY: 25/ nCp K oL\ ^8[ %/L] ]rC}'
+matchingWords: 
+25/, nCp, K, oL\, ^8[
+match found
+lineX: 25/ nCp K oL\ ^8[ %/L] ]G0 K|1La
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: a51 2K cGZKc
+lineY: a51 2K ^8[ &k nCp |:| Gp c+ 5}a
+matchingWords: 
+a51, 2K
+match found
+lineX: 2K ]#rc
+lineY: &+ [G|1K1 C| 2K ^/T|1 Z(%P/ La
+matchingWords: 
+2K
+match found
+lineX: ZLc ]C]Kn$=+(}
+lineY: ZLc X }G|c %)|(b [)]r(}a aK}a)\}c[-
+matchingWords: 
+ZLc
+match found
+lineX: 25/ nCp K oL\ ^8[ C| 25/ Gc'
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: 25/ nL|a d[5mr]K| [P\
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+25/, nL|a
+match found
+lineX: 25/ nCp K oL
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nCp, K
+match found
+lineX: ck ^5c ]P/ %[5\ 5m/+ a]P/
+lineY: ck ^5c ]P/ %[: Lm 5/
+matchingWords: 
+ck, ^5c, ]P/
+match found
+lineX: 25/ nCp K oL\ 1G[? n)2 %/C]K|
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: X[ /)[- nCp /k
+lineY: ZLc )c /)[- nCp Z/:}K| %/L] ?:} (|
+matchingWords: 
+/)[-, nCp
+match found
+lineX: ck ^5c ]P/ %[5\[- 1/G}
+lineY: ck ^5c ]P/ %[: Lm 5/
+matchingWords: 
+ck, ^5c, ]P/
+match found
+lineX: K|1 |Cc K ]G| %/L] ak1
+lineY: )p |X| a}n5/1  K|1 |Cc K Z)c ]P/
+matchingWords: 
+K|1, |Cc, K
+match found
+lineX: K|1 |T &+ nX[1K1
+lineY: K|1 |T &+p Z(}L] K /Ka+mr
+matchingWords: 
+K|1, |T
+match found
+lineX: 25/ nCp K oL\ &P/ %/L] ]K1/)1
+lineY: 25/ nCp K oL\ [#1- nL| %P[
+matchingWords: 
+25/, nCp, K, oL\
+match found
+lineX: K|1 |Cc /L|
+lineY: )p |X| a}n5/1  K|1 |Cc K Z)c ]P/
+matchingWords: 
+K|1, |Cc
+match found
+lineX: K|1 |T b+ )p aG1r K|1 1Lac
+lineY: K|1 |T b+ )p [k[l oC&l
+matchingWords: 
+K|1, |T, b+, )p
+match found
+lineX: 25/ nL|a nCp K ?)/p ([5mK[
+lineY: 25/ nL|a nCp K ^X |#]1 0L} |P/(a
+matchingWords: 
+nL|a, nCp, K
+match found
+lineX: &k a51 cnX[-
+lineY: &k a51 ck &)p nX%  Gp &+ ^kac &8
+matchingWords: 
+&k, a51
+match found
+lineX: &k ^/k ZC? ?GZ-[C1
+lineY: &k ^/k K ^C/1K| Lm c)ca
+matchingWords: 
+&k, ^/k
+match found
+lineX: 25/ nCp G| :[1 ]G| Lm ^
+lineY: 25/ nCp G| :[1 1#] %/L] [B&P/
+matchingWords: 
+25/, nCp, G|, :[1

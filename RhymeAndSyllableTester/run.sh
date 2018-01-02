@@ -1,0 +1,2 @@
+rm rhymeAndSyllableStats.txt
+python3 rhymeAndSyllableTester.py
