@@ -1,0 +1,27 @@
+stats for lstmIn.txt
+numAABBAs/numLims: 0.7593167701863354
+aabbasSatisfyingCond2/numAABBAs: 0.9079754601226994
+stats for lstm_output_3.txt
+numAABBAs/numLims: 0.19556451612903225
+aabbasSatisfyingCond2/numAABBAs: 0.2268041237113402
+stats for lstm_output_4.txt
+numAABBAs/numLims: 0.1736040609137056
+aabbasSatisfyingCond2/numAABBAs: 0.23391812865497075
+stats for lstm_output_5.txt
+numAABBAs/numLims: 0.17507723995880536
+aabbasSatisfyingCond2/numAABBAs: 0.18235294117647058
+stats for lstm_output_6.txt
+numAABBAs/numLims: 0.18597560975609756
+aabbasSatisfyingCond2/numAABBAs: 0.26229508196721313
+stats for lstm_output_7.txt
+numAABBAs/numLims: 0.17281622500155924
+aabbasSatisfyingCond2/numAABBAs: 0.19843325407608695
+stats for lstm_output_8.txt
+numAABBAs/numLims: 0.17131699711713833
+aabbasSatisfyingCond2/numAABBAs: 0.19884095299420476
+stats for lstm_output_9.txt
+numAABBAs/numLims: 0.16873092802010412
+aabbasSatisfyingCond2/numAABBAs: 0.2276595744680851
+stats for lstm_output_10.txt
+numAABBAs/numLims: 0.1602610587382161
+aabbasSatisfyingCond2/numAABBAs: 0.16968325791855204
