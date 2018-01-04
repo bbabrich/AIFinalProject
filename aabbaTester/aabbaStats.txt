@@ -1,0 +1,45 @@
+AABBA stats for lstmIn.txt
+numAABBAs/numLims: 0.5729813664596274
+aabbasSatisfyingCond2/numLims: 0.5729813664596274
+aabbasSatisfyingCond3/numLims: 0.5543478260869565
+cleanRhymes/totRhymes: 0.9744435284418796
+AABBA stats for lstm_output_3.txt
+numAABBAs/numLims: 0.0
+aabbasSatisfyingCond2/numLims: 0.0
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.9498327759197325
+AABBA stats for lstm_output_4.txt
+numAABBAs/numLims: 0.0
+aabbasSatisfyingCond2/numLims: 0.0
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.95
+AABBA stats for lstm_output_5.txt
+numAABBAs/numLims: 0.0
+aabbasSatisfyingCond2/numLims: 0.0
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.980544747081712
+AABBA stats for lstm_output_6.txt
+numAABBAs/numLims: 0.0
+aabbasSatisfyingCond2/numLims: 0.0
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.9279279279279279
+AABBA stats for lstm_output_7.txt
+numAABBAs/numLims: 8.735786147955098e-05
+aabbasSatisfyingCond2/numLims: 8.735786147955098e-05
+aabbasSatisfyingCond3/numLims: 7.279821789962582e-05
+cleanRhymes/totRhymes: 0.9782135076252724
+AABBA stats for lstm_output_8.txt
+numAABBAs/numLims: 8.818471758844192e-05
+aabbasSatisfyingCond2/numLims: 8.818471758844192e-05
+aabbasSatisfyingCond3/numLims: 5.8789811725627946e-05
+cleanRhymes/totRhymes: 0.9743840438013297
+AABBA stats for lstm_output_9.txt
+numAABBAs/numLims: 0.0
+aabbasSatisfyingCond2/numLims: 0.0
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.9761029411764706
+AABBA stats for lstm_output_10.txt
+numAABBAs/numLims: 0.0007262164124909223
+aabbasSatisfyingCond2/numLims: 0.0007262164124909223
+aabbasSatisfyingCond3/numLims: 0.0
+cleanRhymes/totRhymes: 0.9795081967213115
