@@ -43,6 +43,9 @@ def overfitTest(outputNum) :
 	lstmFileName = "lstm_output_"+str(outputNum)+".txt"
 	lstmFile = open(lstmFileName, "r")
 	
+	allLinesCleanFileName = "allLinesClean_"+str(outputNum)+".txt"
+	allLinesClean = open(allLinesCleanFileName, "w")
+	
 	overfittedLinesFileName = "overfittedLines_"+str(outputNum)+".txt"
 	overfittedLines = open(overfittedLinesFileName,"w")
 	
@@ -79,15 +82,13 @@ def overfitTest(outputNum) :
 			if elem in ch2wrdsDict :
 				convertedLine = convertedLine + ch2wrdsDict[elem]+" "
 			else :
-				convertedLine = convertedLine + "DNF " #seq2seq output would go here
+				convertedLine = convertedLine + "DNF" #seq2seq output would go here
 		return convertedLine
 
 	def linesRhyme(lineX, lineY) :
 		if lineX[-2:] == lineY[-2:] : #check for last two phonemes matching
-			#print("HEEEEEEEEEEEERE")
 			return 1
 		elif lineX[-1:] == lineY[-1:] : #check for last phonememe matching
-			#print("HEEEEEEEEEEEERE")
 			return 0
 
 	#check each line from output for overfitting
@@ -109,6 +110,8 @@ def overfitTest(outputNum) :
 				lineX[0:7] != "----- d" and
 				lineX != ""
 			   ): # we hit a line we want to check for overfitting on
+				allLinesClean.write(lineX)
+				allLinesClean.write("\n")
 				numLines += 1
 				foundBool = False
 
@@ -213,6 +216,7 @@ def overfitTest(outputNum) :
 	overfittedLines.close()
 	lstmFile.close()
 	rhymingLines.close()
+	allLinesClean.close()
 
 	#write actual statistic to separate file
 	overfitPercentage = numMatches/numLines
@@ -244,6 +248,9 @@ def overfitTest(outputNum) :
 	#print("numOfOriginalRhymes/numOfConsecutiveOGLines: "+str(numOfOriginalRhymes/numOfConsecutiveOGLines))
 
 #main loop which runs over all seven files
-for i in range(3,11) :
+#overfitTest(6)
+#print("yes")
+
+for i in range(3,6) :
 	print(i)
 	overfitTest(i)
